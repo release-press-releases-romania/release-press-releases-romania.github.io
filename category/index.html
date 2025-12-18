@@ -765,16 +765,18 @@
         const title = escapeHtml(post.title || 'Untitled');
         const link = escapeHtml(post.link || '#');
         const date = fmtDate(post.published || post.pubDate);
-        const summary = escapeHtml((post.summary || post.description || '').slice(0, 120));
+        const fullSummary = post.summary || post.description || '';
+        const summaryText = escapeHtml(fullSummary.slice(0, 70));
+        const hasMore = fullSummary.length > 70;
         const publisherLink = `/publisher/${encodeURIComponent(post.siteSlug)}/`;
         const publisherName = escapeHtml(post.siteName);
         
         return `
           <div style="padding: 12px; border: 1px solid var(--border); border-radius: 8px; background: var(--bg-alt);">
-            <a href="${link}" target="_blank" rel="noopener" style="font-weight: 600; color: var(--text); text-decoration: none; display: block; margin-bottom: 6px; font-size: 15px; line-height: 1.4;">
+            <h4 style="margin: 0 0 8px 0; font-weight: 600; color: var(--text); font-size: 15px; line-height: 1.4;">
               ${title}
-            </a>
-            ${summary ? `<p style="margin: 0 0 8px 0; color: var(--muted); font-size: 14px; line-height: 1.6;">${summary}${(post.summary || post.description || '').length > 120 ? '…' : ''}</p>` : ''}
+            </h4>
+            ${summaryText ? `<p style="margin: 0 0 8px 0; color: var(--muted); font-size: 14px; line-height: 1.6;"><a href="${link}" target="_blank" rel="noopener" style="color: var(--muted); text-decoration: underline;">${summaryText}${hasMore ? '…' : ''}</a></p>` : ''}
             <div style="display: flex; align-items: center; gap: 12px; font-size: 13px; color: var(--muted); flex-wrap: wrap;">
               ${date ? `<span>📅 ${date}</span>` : ''}
               <a href="${publisherLink}" style="color: #4338ca; text-decoration: underline; font-weight: 500;">${publisherName}</a>
@@ -794,16 +796,18 @@
         const title = escapeHtml(post.title || 'Update');
         const link = escapeHtml(post.link || '#');
         const date = fmtDate(post.published || post.pubDate);
-        const summary = escapeHtml((post.summary || post.description || '').slice(0, 120));
+        const fullSummary = post.summary || post.description || '';
+        const summaryText = escapeHtml(fullSummary.slice(0, 70));
+        const hasMore = fullSummary.length > 70;
         const publisherLink = `/publisher/${encodeURIComponent(post.siteSlug)}/`;
         const publisherName = escapeHtml(post.siteName);
         
         return `
           <div style="padding: 12px; border: 1px solid var(--border); border-radius: 8px; background: var(--bg-alt);">
-            <a href="${link}" target="_blank" rel="noopener" style="font-weight: 600; color: var(--text); text-decoration: none; display: block; margin-bottom: 6px; font-size: 15px; line-height: 1.4;">
+            <h4 style="margin: 0 0 8px 0; font-weight: 600; color: var(--text); font-size: 15px; line-height: 1.4;">
               ${title}
-            </a>
-            ${summary ? `<p style="margin: 0 0 8px 0; color: var(--muted); font-size: 14px; line-height: 1.6;">${summary}${(post.summary || post.description || '').length > 120 ? '…' : ''}</p>` : ''}
+            </h4>
+            ${summaryText ? `<p style="margin: 0 0 8px 0; color: var(--muted); font-size: 14px; line-height: 1.6;"><a href="${link}" target="_blank" rel="noopener" style="color: var(--muted); text-decoration: underline;">${summaryText}${hasMore ? '…' : ''}</a></p>` : ''}
             <div style="display: flex; align-items: center; gap: 12px; font-size: 13px; color: var(--muted); flex-wrap: wrap;">
               ${date ? `<span>📅 ${date}</span>` : ''}
               <a href="${publisherLink}" style="color: #4338ca; text-decoration: underline; font-weight: 500;">${publisherName}</a>
@@ -826,3 +830,4 @@
 </script>
 </body>
 </html>
+
