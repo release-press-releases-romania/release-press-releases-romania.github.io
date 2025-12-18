@@ -515,9 +515,9 @@ small{
   color: rgba(15,23,42,.85); /* Increased contrast for accessibility (WCAG AA) */
 }
 .tag.social{ 
-  background: rgba(20,184,166,.15); /* Increased opacity for better contrast */
-  color: #0d9488; /* Darker teal for better contrast (WCAG AA) */
-  border-color: rgba(20,184,166,.3);
+  background: rgba(20,184,166,.2); /* Increased opacity for better contrast */
+  color: #0f766e; /* Even darker teal for better contrast (WCAG AA) */
+  border-color: rgba(20,184,166,.4);
   font-weight: 600;
 }
 .tag.rss{ 

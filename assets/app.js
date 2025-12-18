@@ -60,7 +60,7 @@
     return `
       <article class="site" itemscope itemtype="https://schema.org/Organization" aria-label="${siteName} publisher">
         <a href="${url}" itemprop="url" rel="bookmark" aria-label="View ${siteName} publisher page and press releases" class="site-link">
-          <div class="site-top">
+        <div class="site-top">
             <div class="site-image-wrapper">
               <svg class="site-icon" aria-hidden="true" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                 <use href="/assets/icons/category-icons.svg#${iconId}"></use>
