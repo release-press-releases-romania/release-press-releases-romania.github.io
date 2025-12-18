@@ -863,17 +863,29 @@
     
     await Promise.allSettled(feedPromises);
     
-    // Sort by date (newest first)
+    // Sort by date (newest first), then randomize for variety on refresh
     allRssPosts.sort((a, b) => {
       const dateA = new Date(a.published || a.pubDate || 0);
       const dateB = new Date(b.published || b.pubDate || 0);
-      return dateB - dateA;
+      // Primary sort: by date (newest first)
+      const dateDiff = dateB - dateA;
+      // Secondary sort: randomize posts from same day for variety
+      if(Math.abs(dateDiff) < 24 * 60 * 60 * 1000) { // Same day (within 24 hours)
+        return Math.random() - 0.5;
+      }
+      return dateDiff;
     });
     
     allMastodonPosts.sort((a, b) => {
       const dateA = new Date(a.published || a.pubDate || 0);
       const dateB = new Date(b.published || b.pubDate || 0);
-      return dateB - dateA;
+      // Primary sort: by date (newest first)
+      const dateDiff = dateB - dateA;
+      // Secondary sort: randomize posts from same day for variety
+      if(Math.abs(dateDiff) < 24 * 60 * 60 * 1000) { // Same day (within 24 hours)
+        return Math.random() - 0.5;
+      }
+      return dateDiff;
     });
     
     // Get latest 10 RSS posts
