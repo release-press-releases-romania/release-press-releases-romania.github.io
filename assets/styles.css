@@ -823,3 +823,35 @@ body.publisher{
   --accent-2: hsl(var(--accent2-h, 165) 85% 44%);
   --ring: hsla(var(--accent-h, 255), 95%, 58%, .22);
 }
+
+.features-section{
+  margin: 64px 0;
+  padding: 48px 0;
+  background: var(--bg-alt);
+  border-radius: 16px;
+  min-height: 600px;
+  box-sizing: border-box;
+}
+.features-section > div{
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 24px;
+  text-align: center;
+}
+.features-section .grid{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 32px;
+  justify-items: center;
+}
+@media (max-width: 768px){
+  .features-section{
+    min-height: 500px;
+    padding: 32px 0;
+    margin: 48px 0;
+  }
+  .features-section .grid{
+    grid-template-columns: 1fr;
+    gap: 24px;
+  }
+}
