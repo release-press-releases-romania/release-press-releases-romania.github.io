@@ -165,6 +165,7 @@ def generate_publisher_page(site, all_sites):
 </head>
 
 <body class="publisher" style="--accent-h:196; --accent2-h:154;" data-slug="{slug}" data-site-url="{escape(url)}" data-rss="{escape(rss)}" data-mastodon="{escape(mastodon or '')}" data-mastodon-rss="{escape(mastodon_rss or '')}">
+<main>
 <div class="nav">
   <div class="nav-inner">
     <a class="brand" href="/" aria-label="Release Press Releases in Romania homepage">
@@ -305,6 +306,7 @@ def generate_publisher_page(site, all_sites):
     </div>
   </div>
 </footer>
+</main>
 
 <script src="/assets/utils.js"></script>
 <script src="/assets/publisher.js"></script>
