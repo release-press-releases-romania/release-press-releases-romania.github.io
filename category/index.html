@@ -82,6 +82,10 @@
       .categories-grid {
         grid-template-columns: repeat(3, 1fr);
       }
+      .categories-grid .category-card[style*="grid-column: 1 / -1"] {
+        grid-column: 1 / -1;
+        max-width: 100%;
+      }
     }
     .category-card {
       background: var(--surface);
@@ -623,6 +627,50 @@
       <meta itemprop="category" content="Miscellaneous">
     </article>
   </div>
+  
+  <article class="category-card" style="grid-column: 1 / -1; max-width: 100%;">
+    <div class="category-header">
+      <div class="category-icon" aria-hidden="true">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <rect x="3" y="4" width="18" height="16" rx="2"/>
+          <path d="M7 8h10M7 12h10M7 16h5"/>
+        </svg>
+      </div>
+      <div class="category-title-wrapper">
+        <h2 class="category-title">Latest Press Releases</h2>
+        <p class="category-subtitle">Recent Updates from All Publishers</p>
+      </div>
+    </div>
+    <div style="display: grid; grid-template-columns: 1fr; gap: 32px; margin-top: 20px;">
+      <div>
+        <h3 style="font-size: 18px; font-weight: 700; margin: 0 0 16px 0; color: var(--text); display: flex; align-items: center; gap: 8px;">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="color: var(--accent);">
+            <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+            <polyline points="22,6 12,13 2,6"/>
+          </svg>
+          Latest RSS Posts
+        </h3>
+        <div id="latestRssPosts" style="display: flex; flex-direction: column; gap: 12px;">
+          <div class="notice">Loading latest RSS posts...</div>
+        </div>
+      </div>
+      <div>
+        <h3 style="font-size: 18px; font-weight: 700; margin: 0 0 16px 0; color: var(--text); display: flex; align-items: center; gap: 8px;">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="color: var(--accent);">
+            <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/>
+          </svg>
+          Latest Mastodon Posts
+        </h3>
+        <div id="latestMastodonPosts" style="display: flex; flex-direction: column; gap: 12px;">
+          <div class="notice">Loading latest Mastodon posts...</div>
+        </div>
+      </div>
+    </div>
+    <div class="category-footer" style="margin-top: 24px;">
+      <span class="category-count">From all publishers</span>
+      <a href="/publishers/" class="category-btn" aria-label="View all publishers">View All Publishers</a>
+    </div>
+  </article>
   
   <div class="cta-section">
     <h2 style="font-size: 24px; font-weight: 700; margin: 0 0 12px 0; color: var(--text);">Explore All Publishers</h2>
