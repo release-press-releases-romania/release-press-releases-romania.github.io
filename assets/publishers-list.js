@@ -147,23 +147,6 @@
     if(list) list.innerHTML = shuffledFiltered.map(card).join("");
   }
 
-  const searchEl = q("#search");
-  const categoryEl = q("#category");
-  const socialOnlyEl = q("#socialOnly");
-
-  if(searchEl) searchEl.addEventListener("input", apply);
-  if(categoryEl) categoryEl.addEventListener("change", apply);
-  if(socialOnlyEl) socialOnlyEl.addEventListener("change", apply);
-
-  // initial render - randomized for SEO
-  const countEl = q("#count");
-  if(countEl) countEl.textContent = total;
-  if(list) {
-    const shuffledSites = shuffleArray(sites);
-    list.innerHTML = shuffledSites.map(card).join("");
-    centerLastRow(); // Center last row after initial render
-  }
-  
   // Center last row items in grid
   function centerLastRow(){
     const grid = document.getElementById('list');
@@ -177,13 +160,21 @@
     const gridWidth = grid.offsetWidth;
     const gap = parseInt(gridStyle.gap) || 24;
     const minColWidth = 300; // minmax(300px, 1fr)
-    const columns = Math.floor((gridWidth + gap) / (minColWidth + gap)) || 1;
+    const columns = Math.max(1, Math.floor((gridWidth + gap) / (minColWidth + gap)));
     
     // Calculate items in last row
     const totalItems = items.length;
     const itemsInLastRow = totalItems % columns;
     
-    if(itemsInLastRow === 0) return; // Full row, no centering needed
+    if(itemsInLastRow === 0) {
+      // Reset all items if full row
+      items.forEach(item => {
+        item.style.gridColumn = '';
+        item.style.margin = '';
+        item.style.maxWidth = '';
+      });
+      return;
+    }
     
     // Reset all items
     items.forEach(item => {
@@ -210,6 +201,23 @@
       }
     }
   }
+
+  const searchEl = q("#search");
+  const categoryEl = q("#category");
+  const socialOnlyEl = q("#socialOnly");
+
+  if(searchEl) searchEl.addEventListener("input", () => { apply(); setTimeout(centerLastRow, 100); });
+  if(categoryEl) categoryEl.addEventListener("change", () => { apply(); setTimeout(centerLastRow, 100); });
+  if(socialOnlyEl) socialOnlyEl.addEventListener("change", () => { apply(); setTimeout(centerLastRow, 100); });
+
+  // initial render - randomized for SEO
+  const countEl = q("#count");
+  if(countEl) countEl.textContent = total;
+  if(list) {
+    const shuffledSites = shuffleArray(sites);
+    list.innerHTML = shuffledSites.map(card).join("");
+    setTimeout(centerLastRow, 100); // Center last row after initial render
+  }
   
   // Re-center on window resize
   let resizeTimeout;
@@ -217,12 +225,5 @@
     clearTimeout(resizeTimeout);
     resizeTimeout = setTimeout(centerLastRow, 250);
   });
-  
-  // Re-center after filtering/searching
-  const originalApply = apply;
-  apply = function(){
-    originalApply();
-    setTimeout(centerLastRow, 100);
-  };
 })();
 
