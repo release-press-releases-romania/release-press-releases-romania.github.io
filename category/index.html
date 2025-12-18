@@ -786,6 +786,161 @@
     setTimeout(centerLastRow, 100);
   }
 })();
+
+// Load latest posts from RSS and Mastodon
+(async function(){
+  const q = (sel) => document.querySelector(sel);
+  const qa = (sel) => Array.from(document.querySelectorAll(sel));
+  
+  async function loadJson(url) {
+    const res = await fetch(url);
+    if(!res.ok) throw new Error(`Failed to load ${url}`);
+    return res.json();
+  }
+  
+  function escapeHtml(text) {
+    const div = document.createElement('div');
+    div.textContent = text;
+    return div.innerHTML;
+  }
+  
+  function fmtDate(dateStr) {
+    if(!dateStr) return '';
+    try {
+      const d = new Date(dateStr);
+      return d.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
+    } catch(e) {
+      return dateStr;
+    }
+  }
+  
+  try {
+    // Load sites data
+    const sitesData = await loadJson('/data/sites.json');
+    const sites = sitesData.sites || [];
+    
+    // Get all RSS and Mastodon posts
+    const allRssPosts = [];
+    const allMastodonPosts = [];
+    
+    // Load feeds for sites that have them (limit to avoid too many requests)
+    const sitesToLoad = sites.filter(site => site.rss || site.mastodon).slice(0, 30);
+    
+    const feedPromises = sitesToLoad.map(async (site) => {
+      try {
+        const feedUrl = `/data/feeds/${encodeURIComponent(site.slug)}.json`;
+        const feed = await loadJson(feedUrl);
+        
+        // Add RSS posts
+        if(feed.items && Array.isArray(feed.items)) {
+          feed.items.forEach(item => {
+            allRssPosts.push({
+              ...item,
+              siteSlug: site.slug,
+              siteName: site.name || site.slug,
+              siteUrl: site.url || ''
+            });
+          });
+        }
+        
+        // Add Mastodon posts
+        if(feed.social && Array.isArray(feed.social)) {
+          feed.social.forEach(post => {
+            allMastodonPosts.push({
+              ...post,
+              siteSlug: site.slug,
+              siteName: site.name || site.slug,
+              siteUrl: site.url || '',
+              mastodonUrl: site.mastodon || ''
+            });
+          });
+        }
+      } catch(e) {
+        // Skip if feed doesn't exist yet
+      }
+    });
+    
+    await Promise.allSettled(feedPromises);
+    
+    // Sort by date (newest first)
+    allRssPosts.sort((a, b) => {
+      const dateA = new Date(a.published || a.pubDate || 0);
+      const dateB = new Date(b.published || b.pubDate || 0);
+      return dateB - dateA;
+    });
+    
+    allMastodonPosts.sort((a, b) => {
+      const dateA = new Date(a.published || a.pubDate || 0);
+      const dateB = new Date(b.published || b.pubDate || 0);
+      return dateB - dateA;
+    });
+    
+    // Get latest 10 RSS posts
+    const latestRss = allRssPosts.slice(0, 10);
+    const rssContainer = q('#latestRssPosts');
+    if(rssContainer && latestRss.length > 0) {
+      rssContainer.innerHTML = latestRss.map(post => {
+        const title = escapeHtml(post.title || 'Untitled');
+        const link = escapeHtml(post.link || '#');
+        const date = fmtDate(post.published || post.pubDate);
+        const summary = escapeHtml((post.summary || post.description || '').slice(0, 120));
+        const publisherLink = `/publisher/${encodeURIComponent(post.siteSlug)}/`;
+        const publisherName = escapeHtml(post.siteName);
+        
+        return `
+          <div style="padding: 12px; border: 1px solid var(--border); border-radius: 8px; background: var(--bg-alt);">
+            <a href="${link}" target="_blank" rel="noopener" style="font-weight: 600; color: var(--text); text-decoration: none; display: block; margin-bottom: 6px; font-size: 15px; line-height: 1.4;">
+              ${title}
+            </a>
+            ${summary ? `<p style="margin: 0 0 8px 0; color: var(--muted); font-size: 14px; line-height: 1.6;">${summary}${(post.summary || post.description || '').length > 120 ? '…' : ''}</p>` : ''}
+            <div style="display: flex; align-items: center; gap: 12px; font-size: 13px; color: var(--muted); flex-wrap: wrap;">
+              ${date ? `<span>📅 ${date}</span>` : ''}
+              <a href="${publisherLink}" style="color: #4338ca; text-decoration: underline; font-weight: 500;">${publisherName}</a>
+            </div>
+          </div>
+        `;
+      }).join('');
+    } else if(rssContainer) {
+      rssContainer.innerHTML = '<div class="notice">No RSS posts available yet. Feeds are updated regularly.</div>';
+    }
+    
+    // Get latest 10 Mastodon posts
+    const latestMastodon = allMastodonPosts.slice(0, 10);
+    const mastodonContainer = q('#latestMastodonPosts');
+    if(mastodonContainer && latestMastodon.length > 0) {
+      mastodonContainer.innerHTML = latestMastodon.map(post => {
+        const title = escapeHtml(post.title || 'Update');
+        const link = escapeHtml(post.link || '#');
+        const date = fmtDate(post.published || post.pubDate);
+        const summary = escapeHtml((post.summary || post.description || '').slice(0, 120));
+        const publisherLink = `/publisher/${encodeURIComponent(post.siteSlug)}/`;
+        const publisherName = escapeHtml(post.siteName);
+        
+        return `
+          <div style="padding: 12px; border: 1px solid var(--border); border-radius: 8px; background: var(--bg-alt);">
+            <a href="${link}" target="_blank" rel="noopener" style="font-weight: 600; color: var(--text); text-decoration: none; display: block; margin-bottom: 6px; font-size: 15px; line-height: 1.4;">
+              ${title}
+            </a>
+            ${summary ? `<p style="margin: 0 0 8px 0; color: var(--muted); font-size: 14px; line-height: 1.6;">${summary}${(post.summary || post.description || '').length > 120 ? '…' : ''}</p>` : ''}
+            <div style="display: flex; align-items: center; gap: 12px; font-size: 13px; color: var(--muted); flex-wrap: wrap;">
+              ${date ? `<span>📅 ${date}</span>` : ''}
+              <a href="${publisherLink}" style="color: #4338ca; text-decoration: underline; font-weight: 500;">${publisherName}</a>
+            </div>
+          </div>
+        `;
+      }).join('');
+    } else if(mastodonContainer) {
+      mastodonContainer.innerHTML = '<div class="notice">No Mastodon posts available yet. Feeds are updated regularly.</div>';
+    }
+    
+  } catch(e) {
+    console.error('Error loading latest posts:', e);
+    const rssContainer = q('#latestRssPosts');
+    const mastodonContainer = q('#latestMastodonPosts');
+    if(rssContainer) rssContainer.innerHTML = '<div class="notice">Unable to load RSS posts. Please try again later.</div>';
+    if(mastodonContainer) mastodonContainer.innerHTML = '<div class="notice">Unable to load Mastodon posts. Please try again later.</div>';
+  }
+})();
 </script>
 </body>
 </html>
