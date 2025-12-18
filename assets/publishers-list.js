@@ -44,7 +44,8 @@
       domainName = (s.url||"").replace(/^https?:\/\//,"").replace(/\/$/,"");
     } else if(s.slug) {
       // Convert slug to domain format: "partizani-ro" -> "partizani.ro", "top-clinici-ro" -> "top-clinici.ro"
-      domainName = s.slug.replace(/-ro$/, ".ro").replace(/-/g, ".");
+      // Only replace "-ro" at the end with ".ro", keep other hyphens
+      domainName = s.slug.replace(/-ro$/, ".ro");
     } else {
       domainName = s.slug || "";
     }
