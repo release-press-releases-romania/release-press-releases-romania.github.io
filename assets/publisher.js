@@ -88,16 +88,28 @@
       // Use different variation based on index and random for natural distribution
       const anchorText = anchorVariations[(idx + Math.floor(Math.random() * anchorVariations.length)) % anchorVariations.length];
       
+      // If title is generic like "Update", use summary text for link instead
+      const isGenericTitle = title.toLowerCase().trim() === "update" || title.toLowerCase().trim() === "articol" || title.length < 10;
+      const linkText = isGenericTitle && sum ? sum.slice(0, 100) + (sum.length > 100 ? "…" : "") : anchorText;
+      const linkClass = isGenericTitle && sum ? "feed-summary-link" : "feed-title";
+      
       return `
         <div class="feed-item">
-          <a href="${link}" target="_blank" rel="${relAttr}" class="feed-title" aria-label="Read article: ${escapeHtml(title)}">
-            ${anchorText}
-          </a>
+          ${isGenericTitle && sum ? `
+            <div class="feed-title-placeholder">${escapeHtml(title)}</div>
+            <a href="${link}" target="_blank" rel="${relAttr}" class="${linkClass}" aria-label="Read article">
+              ${linkText}
+            </a>
+          ` : `
+            <a href="${link}" target="_blank" rel="${relAttr}" class="${linkClass}" aria-label="Read article: ${escapeHtml(title)}">
+              ${linkText}
+            </a>
+          `}
           <div class="meta">
             ${when ? `<span>🗓️ ${when}</span>` : ""}
             ${source ? `<span>🔗 ${source}</span>` : ""}
           </div>
-          ${sum ? `<div class="sum">${sum}${it.summary && it.summary.length>340 ? "…" : ""}</div>` : ""}
+          ${sum && !isGenericTitle ? `<div class="sum">${sum}${it.summary && it.summary.length>340 ? "…" : ""}</div>` : ""}
         </div>
       `;
     }).join("");
@@ -130,16 +142,28 @@
           ];
           const anchorText = anchorVariations[(currentIndex + idx + Math.floor(Math.random() * anchorVariations.length)) % anchorVariations.length];
           
+          // If title is generic like "Update", use summary text for link instead
+          const isGenericTitle = title.toLowerCase().trim() === "update" || title.toLowerCase().trim() === "articol" || title.length < 10;
+          const linkText = isGenericTitle && sum ? sum.slice(0, 100) + (sum.length > 100 ? "…" : "") : anchorText;
+          const linkClass = isGenericTitle && sum ? "feed-summary-link" : "feed-title";
+          
           const itemHtml = `
             <div class="feed-item">
-              <a href="${link}" target="_blank" rel="${relAttr}" class="feed-title" aria-label="Read article: ${escapeHtml(title)}">
-                ${anchorText}
-              </a>
+              ${isGenericTitle && sum ? `
+                <div class="feed-title-placeholder">${escapeHtml(title)}</div>
+                <a href="${link}" target="_blank" rel="${relAttr}" class="${linkClass}" aria-label="Read article">
+                  ${linkText}
+                </a>
+              ` : `
+                <a href="${link}" target="_blank" rel="${relAttr}" class="${linkClass}" aria-label="Read article: ${escapeHtml(title)}">
+                  ${linkText}
+                </a>
+              `}
               <div class="meta">
                 ${when ? `<span>🗓️ ${when}</span>` : ""}
                 ${source ? `<span>🔗 ${source}</span>` : ""}
               </div>
-              ${sum ? `<div class="sum">${sum}${it.summary && it.summary.length>340 ? "…" : ""}</div>` : ""}
+              ${sum && !isGenericTitle ? `<div class="sum">${sum}${it.summary && it.summary.length>340 ? "…" : ""}</div>` : ""}
             </div>
           `;
           box.insertAdjacentHTML("beforeend", itemHtml);
