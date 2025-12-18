@@ -7,8 +7,105 @@
     "rss": "https://casa-moderna.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": null,
-  "status": "pending",
-  "items": [],
+  "updated_at": "2025-12-18T00:40:15.309056+00:00",
+  "status": "ok",
+  "items": [
+    {
+      "title": "Open Graph și preview: cum arată linkurile WordPress pe Mastodon",
+      "link": "https://casa-moderna.ro/open-graph-si-preview-cum-arata-linkurile-wordpress-pe-mastodon/",
+      "summary": "V-ați postat vreodată un link de pe site-ul vostru WordPress pe o rețea socială, doar pentru a descoperi că imaginea&#8230; Articolul Open Graph și preview: cum arată linkurile WordPress pe Mastodon apare prima dată în Casa Moderna .",
+      "published": "2025-12-17T16:58:54+00:00",
+      "published_human": "2025-12-17T16:58",
+      "source": "https://casa-moderna.ro/"
+    },
+    {
+      "title": "Cum te ajută notificările AI în rutina zilnică",
+      "link": "https://casa-moderna.ro/cum-te-ajuta-notificarile-ai-in-rutina-zilnica/",
+      "summary": "Notificările AI pot organiza informațiile zilnice astfel încât utilizatorul să primească doar alertele relevante, la momentul potrivit. Sistemul analizează tiparele&#8230; Articolul Cum te ajută notificările AI în rutina zilnică apare prima dată în Casa Moderna .",
+      "published": "2025-12-12T10:11:00+00:00",
+      "published_human": "2025-12-12T10:11",
+      "source": "https://casa-moderna.ro/"
+    },
+    {
+      "title": "Învățare prin joacă: Puzzle-urile educative și beneficiile lor",
+      "link": "https://casa-moderna.ro/invatare-prin-joaca-puzzle-urile-educative-si-beneficiile-lor/",
+      "summary": "Cine a spus că &#238;nvățarea trebuie să fie serioasă, cu fruntea &#238;ncruntată și caiete pline de teme? &#206;n realitate, copiii&#8230; Articolul Învățare prin joacă: Puzzle-urile educative și beneficiile lor apare prima dată în Casa Moderna .",
+      "published": "2025-12-03T10:29:40+00:00",
+      "published_human": "2025-12-03T10:29",
+      "source": "https://casa-moderna.ro/"
+    },
+    {
+      "title": "Cum testezi titlurile pentru articole SEO în 2025 ca să crești CTR-ul",
+      "link": "https://casa-moderna.ro/cum-testezi-titlurile-pentru-articole-seo-in-2025-ca-sa-cresti-ctr-ul/",
+      "summary": "Ați investit timp și resurse considerabile în crearea unui conținut excepțional, dar traficul întârzie să apară? Este o frustrare comună&#8230; Articolul Cum testezi titlurile pentru articole SEO în 2025 ca să crești CTR-ul apare prima dată în Casa Moderna .",
+      "published": "2025-12-01T12:07:49+00:00",
+      "published_human": "2025-12-01T12:07",
+      "source": "https://casa-moderna.ro/"
+    },
+    {
+      "title": "Greșeli de evitat atunci când vine vorba de amenajarea băii",
+      "link": "https://casa-moderna.ro/greseli-de-evitat-atunci-cand-vine-vorba-de-amenajarea-baii/",
+      "summary": "În amenajarea unei băi este important să ţii cont de niște reguli de bază ca să te bucuri la final&#8230; Articolul Greșeli de evitat atunci când vine vorba de amenajarea băii apare prima dată în Casa Moderna .",
+      "published": "2025-11-28T08:37:28+00:00",
+      "published_human": "2025-11-28T08:37",
+      "source": "https://casa-moderna.ro/"
+    },
+    {
+      "title": "Cash-out: când e inteligent să închizi biletul înainte de final",
+      "link": "https://casa-moderna.ro/cash-out-cand-e-inteligent-sa-inchizi-biletul-inainte-de-final/",
+      "summary": "Ați simțit vreodată regretul amar când echipa pe care ați pariat conducea cu 2-0, dar a încasat un gol rapid,&#8230; Articolul Cash-out: când e inteligent să închizi biletul înainte de final apare prima dată în Casa Moderna .",
+      "published": "2025-11-15T10:03:28+00:00",
+      "published_human": "2025-11-15T10:03",
+      "source": "https://casa-moderna.ro/"
+    },
+    {
+      "title": "Cum folosești funcțiile de auto-excludere și limitare din platformele de joc",
+      "link": "https://casa-moderna.ro/cum-folosesti-functiile-de-auto-excludere-si-limitare-din-platformele-de-joc/",
+      "summary": "Te-ai simțit vreodată copleșit de timpul sau banii petrecuți în jocurile online? Mulți jucători se confruntă cu această situație. Este&#8230; Articolul Cum folosești funcțiile de auto-excludere și limitare din platformele de joc apare prima dată în Casa Moderna .",
+      "published": "2025-11-14T09:07:58+00:00",
+      "published_human": "2025-11-14T09:07",
+      "source": "https://casa-moderna.ro/"
+    },
+    {
+      "title": "Raportare SEO pentru clienți: ce indicatori incluzi și cum îi explici pe înțelesul tuturor",
+      "link": "https://casa-moderna.ro/raportare-seo-pentru-clienti-ce-indicatori-incluzi-si-cum-ii-explici-pe-intelesul-tuturor/",
+      "summary": "Când primești un teanc de date despre performanța online, simți adesea că ai în față o ecuație complicată pe care&#8230; Articolul Raportare SEO pentru clienți: ce indicatori incluzi și cum îi explici pe înțelesul tuturor apare prima dată în Casa Moderna .",
+      "published": "2025-11-14T07:32:14+00:00",
+      "published_human": "2025-11-14T07:32",
+      "source": "https://casa-moderna.ro/"
+    },
+    {
+      "title": "Ce este viteza de încărcare și cum influențează pozițiile în Google?",
+      "link": "https://casa-moderna.ro/ce-este-viteza-de-incarcare-si-cum-influenteaza-pozitiile-in-google/",
+      "summary": "Introducere: De ce vizitatorii și Google nu mai așteaptă Atenție: Ați simțit vreodată frustrarea unui site care se încarcă lent,&#8230; Articolul Ce este viteza de încărcare și cum influențează pozițiile în Google? apare prima dată în Casa Moderna .",
+      "published": "2025-11-13T11:14:17+00:00",
+      "published_human": "2025-11-13T11:14",
+      "source": "https://casa-moderna.ro/"
+    },
+    {
+      "title": "Căldură instant și stil: șemineele electrice la reducere transformă orice living",
+      "link": "https://casa-moderna.ro/caldura-instant-si-stil-semineele-electrice-la-reducere-transforma-orice-living/",
+      "summary": "Livingul este, fără îndoială, camera din casă în care au loc reuniunile familiale, dar şi întâlnirile cu prietenii. Este o&#8230; Articolul Căldură instant și stil: șemineele electrice la reducere transformă orice living apare prima dată în Casa Moderna .",
+      "published": "2025-11-06T14:23:49+00:00",
+      "published_human": "2025-11-06T14:23",
+      "source": "https://casa-moderna.ro/"
+    },
+    {
+      "title": "Curățenie la domiciliu în Oradea cu produse ecologice sigur pentru copii și animale",
+      "link": "https://casa-moderna.ro/curatenie-la-domiciliu-in-oradea-cu-produse-ecologice-sigur-pentru-copii-si-animale/",
+      "summary": "Vă simțiți copleșiți de praful persistent și de rutina obositoare a întreținerii casei? Viața modernă în Oradea este dinamică. Timpul&#8230; Articolul Curățenie la domiciliu în Oradea cu produse ecologice sigur pentru copii și animale apare prima dată în Casa Moderna .",
+      "published": "2025-10-01T08:15:26+00:00",
+      "published_human": "2025-10-01T08:15",
+      "source": "https://casa-moderna.ro/"
+    },
+    {
+      "title": "De ce să alegi lenjeriile de pat făcute pe comandă – un plus de confort și rafinament",
+      "link": "https://casa-moderna.ro/de-ce-sa-alegi-lenjeriile-de-pat-facute-pe-comanda-un-plus-de-confort-si-rafinament/",
+      "summary": "Într-o lume în care standardizarea pare să fie regula de bază, micile detalii personalizate fac diferența între un spațiu banal&#8230; Articolul De ce să alegi lenjeriile de pat făcute pe comandă – un plus de confort și rafinament apare prima dată în Casa Moderna .",
+      "published": "2025-09-22T10:53:28+00:00",
+      "published_human": "2025-09-22T10:53",
+      "source": "https://casa-moderna.ro/"
+    }
+  ],
   "social": []
 }
