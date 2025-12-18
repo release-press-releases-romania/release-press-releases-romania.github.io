@@ -6,14 +6,14 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Press Release Categories — Release Press Releases in Romania</title>
-  <meta name="description" content="Browse press releases organized by category: PR & Marketing (12 publishers), Health (17 publishers), News & Society (19 publishers), Technology & Energy (7 publishers), Business (19 publishers), Tourism & Delta (3 publishers), Construction & Home (7 publishers), Miscellaneous (19 publishers). Over 100 Romanian publishers.">
+  <meta name="description" content="Browse press releases organized by category: PR & Marketing (12 publishers), Health (17 publishers), News & Society (19 publishers), Business (19 publishers), Technology & Energy (7 publishers). Over 100 Romanian publishers.">
   <meta name="keywords" content="press releases romania, press release categories, PR & Marketing, Health press releases, Business press releases, Technology press releases, Romanian media categories, press release publishers by category">
   <link rel="canonical" href="https://release-press-releases-romania.github.io/category/">
   <link rel="alternate" type="application/rss+xml" title="Release Press Releases in Romania - RSS Feed" href="https://release-press-releases-romania.github.io/feed.xml">
   <meta name="robots" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1">
   <meta property="og:type" content="website">
   <meta property="og:title" content="Press Release Categories — Release Press Releases in Romania">
-  <meta property="og:description" content="Browse press releases organized by category. Comprehensive directory of Romanian press release publishers across 8 categories with over 100 publishers.">
+  <meta property="og:description" content="Browse press releases organized by category. Comprehensive directory of Romanian press release publishers across 5 main categories with over 100 publishers.">
   <meta property="og:url" content="https://release-press-releases-romania.github.io/category/">
   <meta property="og:locale" content="en_US">
   <meta name="twitter:card" content="summary_large_image">
@@ -78,11 +78,16 @@
       margin-top: 32px;
       justify-items: stretch;
     }
+    @media (min-width: 768px) {
+      .categories-grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
     @media (min-width: 1024px) {
       .categories-grid {
         grid-template-columns: repeat(3, 1fr);
       }
-      .categories-grid .category-card[style*="grid-column: 1 / -1"] {
+      .categories-grid .latest-posts-card {
         grid-column: 1 / -1;
         max-width: 100%;
       }
@@ -234,6 +239,17 @@
     .category-btn:hover::after {
       transform: translateX(2px);
     }
+    .latest-posts-content {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 32px;
+      margin-top: 20px;
+    }
+    @media (min-width: 768px) {
+      .latest-posts-content {
+        grid-template-columns: repeat(2, 1fr) !important;
+      }
+    }
     .cta-section {
       margin-top: 48px;
       text-align: center;
@@ -298,11 +314,6 @@
         width: 100%;
       }
     }
-    @media (min-width: 768px) {
-      .latest-posts-content {
-        grid-template-columns: repeat(2, 1fr) !important;
-      }
-    }
     @media (max-width: 480px) {
       .category-hero {
         padding: 20px 16px;
@@ -329,7 +340,7 @@
     "@type": "CollectionPage",
     "name": "Press Release Categories — Release Press Releases in Romania",
     "url": "https://release-press-releases-romania.github.io/category/",
-    "description": "Browse press releases organized by category. Comprehensive directory of Romanian press release publishers across 8 categories with over 100 publishers.",
+    "description": "Browse press releases organized by category. Comprehensive directory of Romanian press release publishers across 5 main categories with over 100 publishers.",
     "inLanguage": "en",
     "isPartOf": {
       "@type": "WebSite",
@@ -349,11 +360,8 @@
         {"@type": "ListItem", "position": 1, "name": "PR & Marketing", "url": "https://release-press-releases-romania.github.io/category/pr-marketing/"},
         {"@type": "ListItem", "position": 2, "name": "Health", "url": "https://release-press-releases-romania.github.io/category/health/"},
         {"@type": "ListItem", "position": 3, "name": "News & Society", "url": "https://release-press-releases-romania.github.io/category/news-society/"},
-        {"@type": "ListItem", "position": 4, "name": "Technology & Energy", "url": "https://release-press-releases-romania.github.io/category/technology-energy/"},
-        {"@type": "ListItem", "position": 5, "name": "Business", "url": "https://release-press-releases-romania.github.io/category/business/"},
-        {"@type": "ListItem", "position": 6, "name": "Tourism & Delta", "url": "https://release-press-releases-romania.github.io/category/tourism-delta/"},
-        {"@type": "ListItem", "position": 7, "name": "Construction & Home", "url": "https://release-press-releases-romania.github.io/category/construction-home/"},
-        {"@type": "ListItem", "position": 8, "name": "Miscellaneous", "url": "https://release-press-releases-romania.github.io/category/miscellaneous/"}
+        {"@type": "ListItem", "position": 4, "name": "Business", "url": "https://release-press-releases-romania.github.io/category/business/"},
+        {"@type": "ListItem", "position": 5, "name": "Technology & Energy", "url": "https://release-press-releases-romania.github.io/category/technology-energy/"}
       ]
     }
   }</script>
@@ -382,12 +390,12 @@
   
   <div class="category-hero">
     <h1>Press Release Categories</h1>
-    <p>Discover Romanian press releases organized by industry and topic. Browse publishers across 8 specialized categories.</p>
+    <p>Discover Romanian press releases organized by industry and topic. Browse publishers across 5 main categories.</p>
   </div>
   
   <div class="intro-card">
     <h2>Organized by Industry</h2>
-    <p>Our platform organizes over 100 Romanian press release publishers into eight main categories, each specializing in specific domains. This categorization helps you quickly find press releases relevant to your interests, whether you're a journalist covering specific beats, a business professional tracking industry news, or a reader interested in particular topics.</p>
+    <p>Our platform organizes over 100 Romanian press release publishers into five main categories, each specializing in specific domains. This categorization helps you quickly find press releases relevant to your interests, whether you're a journalist covering specific beats, a business professional tracking industry news, or a reader interested in particular topics.</p>
     <p>Each category page provides detailed descriptions, lists all publishers in that category, and offers direct links to publisher pages and RSS feeds. Browse categories below to discover publishers by industry, or use our <a href="/publishers/">complete publisher directory</a> to search across all categories. You can also subscribe to our <a href="/feed.xml">aggregated RSS feed</a> to receive press releases from all categories in a single feed.</p>
   </div>
   
@@ -486,36 +494,6 @@
       <div class="category-header">
         <div class="category-icon" aria-hidden="true">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-            <use href="/assets/icons/category-icons.svg#icon-tech"></use>
-          </svg>
-        </div>
-        <div class="category-title-wrapper">
-          <h2 class="category-title" itemprop="name">
-            <a href="/category/technology-energy/" itemprop="url">Technology & Energy</a>
-          </h2>
-          <p class="category-subtitle">Innovation & Sustainable Solutions</p>
-        </div>
-      </div>
-      <p class="category-description" itemprop="description">
-        Cutting-edge technological innovations, comprehensive IT solutions, and sustainable renewable energy developments transforming Romania's digital and energy sectors. Access detailed information about software development methodologies, enterprise digital transformation strategies, cloud computing solutions, cybersecurity advancements, and energy efficiency initiatives. These platforms cover the latest technological trends, IT infrastructure developments, and renewable energy projects that drive innovation and sustainability. From enterprise software solutions to renewable energy initiatives, these publishers provide insights into how technology and energy innovations are shaping Romania's digital economy and contributing to sustainable development goals across various industries and sectors.
-      </p>
-      <ul class="category-features">
-        <li>Software development and enterprise IT solutions</li>
-        <li>Digital transformation and cloud computing platforms</li>
-        <li>Renewable energy projects and efficiency initiatives</li>
-        <li>Cybersecurity and technological innovation news</li>
-      </ul>
-      <div class="category-footer">
-        <span class="category-count">7 publishers</span>
-        <a href="/category/technology-energy/" class="category-btn" aria-label="View Technology & Energy category">View Category</a>
-      </div>
-      <meta itemprop="category" content="Technology & Energy">
-    </article>
-
-    <article class="category-card" itemscope itemtype="https://schema.org/Thing">
-      <div class="category-header">
-        <div class="category-icon" aria-hidden="true">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
             <use href="/assets/icons/category-icons.svg#icon-business"></use>
           </svg>
         </div>
@@ -546,134 +524,74 @@
       <div class="category-header">
         <div class="category-icon" aria-hidden="true">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-            <use href="/assets/icons/category-icons.svg#icon-tourism"></use>
+            <use href="/assets/icons/category-icons.svg#icon-tech"></use>
           </svg>
         </div>
         <div class="category-title-wrapper">
           <h2 class="category-title" itemprop="name">
-            <a href="/category/tourism-delta/" itemprop="url">Tourism & Delta</a>
+            <a href="/category/technology-energy/" itemprop="url">Technology & Energy</a>
           </h2>
-          <p class="category-subtitle">Travel Destinations & Natural Heritage</p>
+          <p class="category-subtitle">Innovation & Sustainable Solutions</p>
         </div>
       </div>
       <p class="category-description" itemprop="description">
-        Breathtaking tourist destinations, comprehensive travel information, and natural landmarks showcasing Romania's rich heritage, including the renowned Danube Delta UNESCO World Heritage site. Access detailed travel guides, tourism event calendars, and information about Romania's diverse cultural attractions, historic sites, and natural wonders. These platforms promote sustainable tourism, ecotourism initiatives, and cultural experiences that highlight Romania's unique travel offerings and natural beauty. From historic cities and cultural landmarks to natural reserves and ecotourism destinations, these publishers provide comprehensive information about Romania's tourism industry and help travelers discover the country's diverse attractions and natural heritage sites.
+        Cutting-edge technological innovations, comprehensive IT solutions, and sustainable renewable energy developments transforming Romania's digital and energy sectors. Access detailed information about software development methodologies, enterprise digital transformation strategies, cloud computing solutions, cybersecurity advancements, and energy efficiency initiatives. These platforms cover the latest technological trends, IT infrastructure developments, and renewable energy projects that drive innovation and sustainability. From enterprise software solutions to renewable energy initiatives, these publishers provide insights into how technology and energy innovations are shaping Romania's digital economy and contributing to sustainable development goals across various industries and sectors.
       </p>
       <ul class="category-features">
-        <li>Travel destinations and comprehensive travel guides</li>
-        <li>Cultural attractions, historic sites, and landmarks</li>
-        <li>Ecotourism initiatives and natural heritage preservation</li>
-        <li>Tourism events and hospitality industry updates</li>
-      </ul>
-      <div class="category-footer">
-        <span class="category-count">3 publishers</span>
-        <a href="/category/tourism-delta/" class="category-btn" aria-label="View Tourism & Delta category">View Category</a>
-      </div>
-      <meta itemprop="category" content="Tourism & Delta">
-    </article>
-
-    <article class="category-card" itemscope itemtype="https://schema.org/Thing">
-      <div class="category-header">
-        <div class="category-icon" aria-hidden="true">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-            <use href="/assets/icons/category-icons.svg#icon-construction"></use>
-          </svg>
-        </div>
-        <div class="category-title-wrapper">
-          <h2 class="category-title" itemprop="name">
-            <a href="/category/construction-home/" itemprop="url">Construction & Home</a>
-          </h2>
-          <p class="category-subtitle">Building Solutions & Interior Design</p>
-        </div>
-      </div>
-      <p class="category-description" itemprop="description">
-        Comprehensive construction projects, innovative home renovation solutions, and cutting-edge interior design ideas transforming living spaces across Romania. Access detailed information about construction materials, sustainable building practices, renovation project management, architectural innovations, and design trends. These platforms provide practical guidance for homeowners, construction professionals, architects, and interior designers seeking inspiration and technical knowledge for building and renovation projects. Whether you're planning a home renovation, looking for construction materials, or seeking design inspiration, this category offers valuable resources about construction practices, home improvement solutions, and design trends that help create functional and beautiful living spaces.
-      </p>
-      <ul class="category-features">
-        <li>Construction projects and sustainable building materials</li>
-        <li>Interior and exterior design trends and inspiration</li>
-        <li>Renovation solutions and practical project guides</li>
-        <li>Architectural innovations and construction technologies</li>
+        <li>Software development and enterprise IT solutions</li>
+        <li>Digital transformation and cloud computing platforms</li>
+        <li>Renewable energy projects and efficiency initiatives</li>
+        <li>Cybersecurity and technological innovation news</li>
       </ul>
       <div class="category-footer">
         <span class="category-count">7 publishers</span>
-        <a href="/category/construction-home/" class="category-btn" aria-label="View Construction & Home category">View Category</a>
+        <a href="/category/technology-energy/" class="category-btn" aria-label="View Technology & Energy category">View Category</a>
       </div>
-      <meta itemprop="category" content="Construction & Home">
-    </article>
-
-    <article class="category-card" itemscope itemtype="https://schema.org/Thing">
-      <div class="category-header">
-        <div class="category-icon" aria-hidden="true">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-            <use href="/assets/icons/category-icons.svg#icon-misc"></use>
-          </svg>
-        </div>
-        <div class="category-title-wrapper">
-          <h2 class="category-title" itemprop="name">
-            <a href="/category/miscellaneous/" itemprop="url">Miscellaneous</a>
-          </h2>
-          <p class="category-subtitle">Diverse Content & Resources</p>
-        </div>
-      </div>
-      <p class="category-description" itemprop="description">
-        Diverse and varied content covering multiple topics and interests designed to inform, educate, and engage the general public. Access practical guides, educational resources, lifestyle articles, and informative content that addresses various aspects of daily life, personal development, and general knowledge. These platforms offer a wide range of articles, tips, and resources that don't fit into specific industry categories but provide valuable information and practical advice for readers seeking diverse perspectives and useful content. From practical how-to guides to educational resources and lifestyle information, these publishers provide content that appeals to a broad audience and covers topics that enhance daily living and personal growth across various subjects and interests.
-      </p>
-      <ul class="category-features">
-        <li>Practical guides, tips, and how-to articles</li>
-        <li>Educational content and learning resources</li>
-        <li>General interest articles and lifestyle content</li>
-        <li>Diverse topics and multi-subject information</li>
-      </ul>
-      <div class="category-footer">
-        <span class="category-count">19 publishers</span>
-        <a href="/category/miscellaneous/" class="category-btn" aria-label="View Miscellaneous category">View Category</a>
-      </div>
-      <meta itemprop="category" content="Miscellaneous">
+      <meta itemprop="category" content="Technology & Energy">
     </article>
 
     <article class="category-card latest-posts-card" style="grid-column: 1 / -1; max-width: 100%;">
-    <div class="category-header">
-      <div class="category-icon" aria-hidden="true">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-          <rect x="3" y="4" width="18" height="16" rx="2"/>
-          <path d="M7 8h10M7 12h10M7 16h5"/>
-        </svg>
-      </div>
-      <div class="category-title-wrapper">
-        <h2 class="category-title">Latest Press Releases</h2>
-        <p class="category-subtitle">Recent Updates from All Publishers</p>
-      </div>
-    </div>
-    <div style="display: grid; grid-template-columns: 1fr; gap: 32px; margin-top: 20px;">
-      <div>
-        <h3 style="font-size: 18px; font-weight: 700; margin: 0 0 16px 0; color: var(--text); display: flex; align-items: center; gap: 8px;">
-          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="color: var(--accent);">
-            <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
-            <polyline points="22,6 12,13 2,6"/>
+      <div class="category-header">
+        <div class="category-icon" aria-hidden="true">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <rect x="3" y="4" width="18" height="16" rx="2"/>
+            <path d="M7 8h10M7 12h10M7 16h5"/>
           </svg>
-          Latest RSS Posts
-        </h3>
-        <div id="latestRssPosts" style="display: flex; flex-direction: column; gap: 12px;">
-          <div class="notice">Loading latest RSS posts...</div>
+        </div>
+        <div class="category-title-wrapper">
+          <h2 class="category-title">Latest Press Releases</h2>
+          <p class="category-subtitle">Recent Updates from All Publishers</p>
         </div>
       </div>
-      <div>
-        <h3 style="font-size: 18px; font-weight: 700; margin: 0 0 16px 0; color: var(--text); display: flex; align-items: center; gap: 8px;">
-          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="color: var(--accent);">
-            <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/>
-          </svg>
-          Latest Mastodon Posts
-        </h3>
-        <div id="latestMastodonPosts" style="display: flex; flex-direction: column; gap: 12px;">
-          <div class="notice">Loading latest Mastodon posts...</div>
+      <div class="latest-posts-content">
+        <div>
+          <h3 style="font-size: 18px; font-weight: 700; margin: 0 0 16px 0; color: var(--text); display: flex; align-items: center; gap: 8px;">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="color: var(--accent);">
+              <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+              <polyline points="22,6 12,13 2,6"/>
+            </svg>
+            Latest RSS Posts
+          </h3>
+          <div id="latestRssPosts" style="display: flex; flex-direction: column; gap: 12px;">
+            <div class="notice">Loading latest RSS posts...</div>
+          </div>
+        </div>
+        <div>
+          <h3 style="font-size: 18px; font-weight: 700; margin: 0 0 16px 0; color: var(--text); display: flex; align-items: center; gap: 8px;">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="color: var(--accent);">
+              <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/>
+            </svg>
+            Latest Mastodon Posts
+          </h3>
+          <div id="latestMastodonPosts" style="display: flex; flex-direction: column; gap: 12px;">
+            <div class="notice">Loading latest Mastodon posts...</div>
+          </div>
         </div>
       </div>
-    </div>
-    <div class="category-footer" style="margin-top: 24px;">
-      <span class="category-count">From all publishers</span>
-      <a href="/publishers/" class="category-btn" aria-label="View all publishers">View All Publishers</a>
-    </div>
+      <div class="category-footer" style="margin-top: 24px;">
+        <span class="category-count">From all publishers</span>
+        <a href="/publishers/" class="category-btn" aria-label="View all publishers">View All Publishers</a>
+      </div>
     </article>
   </div>
   
@@ -736,62 +654,13 @@
 <script src="/assets/utils.js"></script>
 <script>
 (function(){
-  // Center last 2 category cards on desktop (3-column layout)
-  const grid = document.getElementById("categoriesGrid");
-  if(!grid) return;
-  
-  // Get only category cards (exclude latest-posts-card)
-  const allCards = Array.from(grid.querySelectorAll(".category-card"));
-  const categoryCards = allCards.filter(card => !card.classList.contains('latest-posts-card'));
-  
-  if(categoryCards.length !== 8) return;
-  
-  function centerLastRow() {
-    if(window.innerWidth >= 1024) {
-      const card7 = categoryCards[6]; // Construction & Home
-      const card8 = categoryCards[7]; // Miscellaneous
-      
-      if(card7 && card8) {
-        // Reset all category cards first
-        categoryCards.forEach(card => {
-          card.style.gridColumn = "";
-          card.style.justifySelf = "";
-          card.style.maxWidth = "";
-        });
-        
-        // Center last 2 category cards
-        card7.style.gridColumn = "2";
-        card7.style.justifySelf = "center";
-        card7.style.maxWidth = "400px";
-        
-        card8.style.gridColumn = "3";
-        card8.style.justifySelf = "center";
-        card8.style.maxWidth = "400px";
-      }
-    } else {
-      // Reset on mobile
-      categoryCards.forEach(card => {
-        card.style.gridColumn = "";
-        card.style.justifySelf = "";
-        card.style.maxWidth = "";
-      });
-    }
-  }
-  
-  centerLastRow();
-  window.addEventListener('resize', centerLastRow);
-  
-  if(document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', centerLastRow);
-  } else {
-    setTimeout(centerLastRow, 100);
-  }
+  // No need to center cards anymore - we have 5 categories + 1 latest posts = 6 cards total
+  // Grid will handle layout automatically: 3 columns desktop, 2 tablet, 1 mobile
 })();
 
 // Load latest posts from RSS and Mastodon
 (async function(){
   const q = (sel) => document.querySelector(sel);
-  const qa = (sel) => Array.from(document.querySelectorAll(sel));
   
   async function loadJson(url) {
     const res = await fetch(url);
@@ -825,7 +694,7 @@
     const allMastodonPosts = [];
     
     // Load feeds for sites that have them (limit to avoid too many requests)
-    const sitesToLoad = sites.filter(site => site.rss || site.mastodon).slice(0, 30);
+    const sitesToLoad = sites.filter(site => site.rss || site.mastodon).slice(0, 50);
     
     const feedPromises = sitesToLoad.map(async (site) => {
       try {
