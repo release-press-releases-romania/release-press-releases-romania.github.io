@@ -698,6 +698,17 @@ small{
   background: var(--surface);
   text-decoration: none;
 }
+/* Ensure tag links maintain tag styling */
+.site-meta a.tag,
+.site-meta a.tag:hover,
+.site-meta a.tag:focus {
+  text-decoration: none;
+  color: inherit;
+}
+.site-meta a.tag:hover,
+.site-meta a.tag:focus {
+  text-decoration: none;
+}
 .tag.social{ 
   background: rgba(20,184,166,.15) !important; /* Reduced opacity for better contrast */
   color: #064e3b !important; /* Very dark teal for WCAG AA compliance (8.12:1 contrast) */
