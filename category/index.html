@@ -53,18 +53,19 @@
     @media (min-width: 1024px) {
       .categories-grid {
         grid-template-columns: repeat(3, 1fr);
+        justify-items: stretch;
       }
-      .categories-grid .category-card:nth-last-child(2) {
+      .categories-grid .category-card:nth-child(7) {
         grid-column: 2;
         justify-self: center;
         max-width: 400px;
-        margin: 0 auto;
+        width: 100%;
       }
-      .categories-grid .category-card:nth-last-child(1) {
+      .categories-grid .category-card:nth-child(8) {
         grid-column: 3;
         justify-self: center;
         max-width: 400px;
-        margin: 0 auto;
+        width: 100%;
       }
     }
     .category-card {
@@ -694,58 +695,24 @@
 <script src="/assets/utils.js"></script>
 <script>
 (function(){
-  // Center last row if odd number of items
+  // Ensure last 2 cards are centered on desktop
   const grid = document.getElementById("categoriesGrid");
   if(!grid) return;
   
-  const items = Array.from(grid.querySelectorAll(".category-card"));
-  if(items.length === 0) return;
-  
-  function centerLastRow() {
-    if(window.innerWidth < 1024) {
-      // Mobile/Tablet: reset all styles
-      items.forEach(item => {
-        item.style.gridColumn = "";
-        item.style.justifySelf = "";
-        item.style.maxWidth = "";
-        item.style.margin = "";
-      });
-      return;
-    }
-    
-    // Desktop (≥1024px): For 8 items, center last 2
-    if(items.length === 8) {
-      // Reset all items first
-      items.forEach(item => {
-        item.style.gridColumn = "";
-        item.style.justifySelf = "";
-        item.style.maxWidth = "";
-        item.style.margin = "";
-      });
-      
-      // Center last 2 items in their columns
-      const secondLast = items[items.length - 2];
-      const last = items[items.length - 1];
-      
-      if(secondLast) {
-        secondLast.style.gridColumn = "2";
-        secondLast.style.justifySelf = "center";
-        secondLast.style.maxWidth = "400px";
-        secondLast.style.margin = "0 auto";
-      }
-      
-      if(last) {
-        last.style.gridColumn = "3";
-        last.style.justifySelf = "center";
-        last.style.maxWidth = "400px";
-        last.style.margin = "0 auto";
-      }
+  function updateLayout() {
+    if(window.innerWidth >= 1024) {
+      // Desktop: CSS handles centering via media query
+      // Just ensure grid is set correctly
+      grid.style.display = 'grid';
+      grid.style.gridTemplateColumns = 'repeat(3, 1fr)';
+    } else {
+      // Mobile/Tablet: use auto-fit
+      grid.style.gridTemplateColumns = '';
     }
   }
   
-  // Run on load and resize
-  centerLastRow();
-  window.addEventListener('resize', centerLastRow);
+  updateLayout();
+  window.addEventListener('resize', updateLayout);
 })();
 </script>
 </body>
