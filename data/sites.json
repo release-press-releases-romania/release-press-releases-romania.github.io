@@ -736,7 +736,7 @@
         "medical counseling"
       ],
       "category_en": "Health",
-      "description_long_en": "A platform offering comprehensive medical information and healthcare resources. Access articles, guides, and resources on various subjects for the general public. The platform covers a wide range of subjects and provides diverse content.",
+      "description_long_en": "A platform offering comprehensive sports medicine information and healthcare resources. Access articles, guides, and resources on various subjects for the general public. The platform covers a wide range of subjects and provides diverse content.",
       "description_short_en": "Comprehensive medical information and healthcare resources.",
       "description_small_en": "Medical information and health resources."
     },
@@ -1253,7 +1253,7 @@
         "public information"
       ],
       "category_en": "News & Society",
-      "description_long_en": "A news coverage of local and national events and social issues. Access community journalism, civic engagement information, and social initiatives. The platform focuses on local governance, social initiatives, and community news coverage.",
+      "description_long_en": "A news coverage of democratic processes and political developments and democratic participation. Access community journalism, civic engagement information, and social initiatives. The platform focuses on local governance, social initiatives, and community news coverage.",
       "description_short_en": "News coverage of local and national events and social issues.",
       "description_small_en": "Local and national news coverage."
     },
@@ -1276,7 +1276,7 @@
       ],
       "category_en": "News & Society",
       "description_long_en": "A local and national news coverage focusing on social developments. Access community journalism, civic engagement information, and social initiatives. The platform focuses on local governance, social initiatives, and community news coverage.",
-      "description_short_en": "Local and national news coverage focusing on social developments.",
+      "description_short_en": "Social news coverage focusing on social developments.",
       "description_small_en": "Local and national news coverage."
     },
     {
@@ -1633,8 +1633,8 @@
         "servicii comunicare"
       ],
       "category_en": "PR & Marketing",
-      "description_long_en": "A platform offering advertorial and promotional content distribution services for businesses. Access advertising content creation, promotional material distribution, and marketing communication tools. The platform helps businesses create and distribute advertorial content that blends advertising with editorial content for effective marketing and brand promotion.",
-      "description_short_en": "Advertorial and promotional content distribution services.",
+      "description_long_en": "A platform offering promotional advertorial and promotional marketing content distribution services for businesses. Access advertising content creation, promotional material distribution, and marketing communication tools. The platform helps businesses create and distribute promotional advertorial content that blends advertising with editorial content for effective marketing and brand promotion.",
+      "description_short_en": "Promotional advertorial and promotional content distribution services.",
       "description_small_en": "Advertorial content distribution."
     },
     {
@@ -2258,8 +2258,8 @@
         "campanii PR"
       ],
       "category_en": "PR & Marketing",
-      "description_long_en": "A platform offering advertorial and promotional content distribution services for businesses. Access advertising content creation, promotional material distribution, and marketing communication tools. The platform helps businesses create and distribute advertorial content that blends advertising with editorial content for effective marketing and brand promotion.",
-      "description_short_en": "Advertorial and promotional content distribution services.",
+      "description_long_en": "A platform offering electronic advertorial and digital promotional content distribution services for businesses. Access advertising content creation, promotional material distribution, and marketing communication tools. The platform helps businesses create and distribute electronic advertorial content that blends advertising with editorial content for effective marketing and brand promotion.",
+      "description_short_en": "Electronic advertorial and promotional content distribution services.",
       "description_small_en": "Advertorial content distribution."
     },
     {
@@ -2280,8 +2280,8 @@
         "campanii PR"
       ],
       "category_en": "PR & Marketing",
-      "description_long_en": "A platform offering advertorial and promotional content distribution services for businesses. Access advertising content creation, promotional material distribution, and marketing communication tools. The platform helps businesses create and distribute advertorial content that blends advertising with editorial content for effective marketing and brand promotion.",
-      "description_short_en": "Advertorial and promotional content distribution services.",
+      "description_long_en": "A platform offering electronic advertorial and digital promotional content distribution services for businesses. Access advertising content creation, promotional material distribution, and marketing communication tools. The platform helps businesses create and distribute electronic advertorial content that blends advertising with editorial content for effective marketing and brand promotion.",
+      "description_short_en": "Electronic advertorial and promotional content distribution services.",
       "description_small_en": "Advertorial content distribution."
     },
     {
@@ -2302,8 +2302,8 @@
         "campanii PR"
       ],
       "category_en": "PR & Marketing",
-      "description_long_en": "A platform offering advertorial and promotional content distribution services for businesses. Access advertising content creation, promotional material distribution, and marketing communication tools. The platform helps businesses create and distribute advertorial content that blends advertising with editorial content for effective marketing and brand promotion.",
-      "description_short_en": "Advertorial and promotional content distribution services.",
+      "description_long_en": "A platform offering electronic advertorial and digital promotional content distribution services for businesses. Access advertising content creation, promotional material distribution, and marketing communication tools. The platform helps businesses create and distribute electronic advertorial content that blends advertising with editorial content for effective marketing and brand promotion.",
+      "description_short_en": "Electronic advertorial and promotional content distribution services.",
       "description_small_en": "Advertorial content distribution."
     }
   ]
