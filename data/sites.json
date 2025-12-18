@@ -9,7 +9,16 @@
       "rss": "https://contentai.ro/feed/",
       "category": "PR & Marketing",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "Contentai publică promovare și servicii PR pentru branduri din România. Informațiile sunt relevante și actualizate. Accesează contentai.ro pentru comunicate de presă și conținut din pr & marketing.",
+      "description_short": "Accesează Contentai pentru promovare și servicii PR.",
+      "description_small": "Contentai - comunicate de presă despre pr & marketing.",
+      "keywords": [
+        "comunicate de presă",
+        "distribuție comunicate",
+        "relații publice",
+        "campanii PR"
+      ]
     },
     {
       "slug": "cutremurul-ro",
@@ -18,7 +27,16 @@
       "rss": "https://cutremurul.ro/feed/",
       "category": "Diverse",
       "mastodon": "https://social.5th.ro/@cutremur",
-      "mastodon_rss": "https://social.5th.ro/@cutremur.rss"
+      "mastodon_rss": "https://social.5th.ro/@cutremur.rss",
+      "description_long": "Cutremurul conectează utilizatorii cu ghiduri și sfaturi pentru public. Conținutul este actualizat regulat. Accesează cutremurul.ro pentru comunicate de presă din domeniul diverse.",
+      "description_short": "Cutremurul pentru ghiduri și sfaturi din diverse.",
+      "description_small": "Cutremurul: ghiduri din diverse.",
+      "keywords": [
+        "informații generale",
+        "conținut divers",
+        "articole",
+        "resurse utile"
+      ]
     },
     {
       "slug": "dentist360-ro",
@@ -27,7 +45,17 @@
       "rss": "https://dentist360.ro/feed/",
       "category": "Sănătate",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "Dentist360 este dedicat informații medicale și prevenție pentru pacienți. Oferă o abordare completă a domeniului. Pe dentist360.ro găsești comunicate de presă și știri din sănătate.",
+      "description_short": "Dentist360 - informații medicale și prevenție din România.",
+      "description_small": "Dentist360 - sănătate din România.",
+      "keywords": [
+        "informații medicale",
+        "sănătate publică",
+        "tratamente medicale",
+        "recomandări medicale",
+        "servicii complete"
+      ]
     },
     {
       "slug": "dobrogea-news-ro",
@@ -36,7 +64,17 @@
       "rss": "https://dobrogea-news.ro/feed/",
       "category": "Știri & Societate",
       "mastodon": "https://social.5th.ro/@dobrogea",
-      "mastodon_rss": "https://social.5th.ro/@dobrogea.rss"
+      "mastodon_rss": "https://social.5th.ro/@dobrogea.rss",
+      "description_long": "Dobrogea News conectează utilizatorii cu comunitate și democrație pentru cetățeni. Cu focus pe regiunea Dobrogea, vizitează dobrogea-news.ro pentru detalii complete și comunicate de presă relevante.",
+      "description_short": "Dobrogea News pentru comunitate și democrație din știri & societate.",
+      "description_small": "Dobrogea News - comunicate de presă despre știri & societate.",
+      "keywords": [
+        "știri locale",
+        "evenimente sociale",
+        "actualități",
+        "informații publice",
+        "știri actualizate"
+      ]
     },
     {
       "slug": "doctor360-ro",
@@ -45,7 +83,18 @@
       "rss": "https://doctor360.ro/feed/",
       "category": "Sănătate",
       "mastodon": "https://social.5th.ro/@doctor360",
-      "mastodon_rss": "https://social.5th.ro/@doctor360.rss"
+      "mastodon_rss": "https://social.5th.ro/@doctor360.rss",
+      "description_long": "Pe doctor360.ro găsești informații despre sănătate și tratamente. Oferă o abordare completă a domeniului. Vizitează doctor360.ro pentru detalii complete și comunicate de presă relevante.",
+      "description_short": "Doctor360 oferă informații despre sănătate și tratamente din România.",
+      "description_small": "Doctor360: sănătate din România.",
+      "keywords": [
+        "informații medicale",
+        "sănătate publică",
+        "tratamente medicale",
+        "recomandări medicale",
+        "servicii complete",
+        "consiliere medicală"
+      ]
     },
     {
       "slug": "doctorite-ro",
@@ -54,7 +103,17 @@
       "rss": "https://doctorite.ro/feed/",
       "category": "Sănătate",
       "mastodon": "https://social.5th.ro/@DoctoriteBlog",
-      "mastodon_rss": "https://social.5th.ro/@DoctoriteBlog.rss"
+      "mastodon_rss": "https://social.5th.ro/@DoctoriteBlog.rss",
+      "description_long": "Prin Doctorite poți descoperi consiliere și prevenție din domeniul sănătate. Conținutul este actualizat regulat, Vizitează doctorite.ro pentru detalii complete și comunicate de presă relevante.",
+      "description_short": "Doctorite: consiliere și prevenție din România.",
+      "description_small": "Doctorite - consiliere.",
+      "keywords": [
+        "informații medicale",
+        "sănătate publică",
+        "tratamente medicale",
+        "recomandări medicale",
+        "consiliere medicală"
+      ]
     },
     {
       "slug": "drepturisociale-ro",
@@ -63,7 +122,16 @@
       "rss": "https://drepturisociale.ro/feed/",
       "category": "Știri & Societate",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "Drepturisociale este un hub pentru societate și știri locale pentru comunitate. Site-ul drepturisociale.ro oferă comunicate de presă actualizate și informații relevante.",
+      "description_short": "Drepturisociale - societate și știri locale din știri & societate.",
+      "description_small": "Drepturisociale: societate din România.",
+      "keywords": [
+        "știri locale",
+        "evenimente sociale",
+        "actualități",
+        "informații publice"
+      ]
     },
     {
       "slug": "e-faq-ro",
@@ -72,7 +140,16 @@
       "rss": "https://e-faq.ro/feed/",
       "category": "Diverse",
       "mastodon": "https://social.5th.ro/@efaq",
-      "mastodon_rss": "https://social.5th.ro/@efaq.rss"
+      "mastodon_rss": "https://social.5th.ro/@efaq.rss",
+      "description_long": "Informații despre sfaturi și ghiduri pe E Faq din România. Pe e-faq.ro găsești comunicate de presă și știri din diverse.",
+      "description_short": "E Faq conectează cu sfaturi și ghiduri.",
+      "description_small": "E Faq: sfaturi din România.",
+      "keywords": [
+        "informații generale",
+        "conținut divers",
+        "articole",
+        "resurse utile"
+      ]
     },
     {
       "slug": "e-it-ro",
@@ -81,7 +158,16 @@
       "rss": "https://e-it.ro/feed/",
       "category": "Tehnologie & Energie",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "Descoperă digitalizare și inovare prin E It, o platformă din România. Materialele sunt organizate pentru acces ușor, Informații actualizate și comunicate de presă la e-it.ro.",
+      "description_short": "E It: digitalizare și inovare din România.",
+      "description_small": "E It oferă digitalizare și inovare.",
+      "keywords": [
+        "inovare tehnologică",
+        "tehnologii verzi",
+        "energie regenerabilă",
+        "eficiență energetică"
+      ]
     },
     {
       "slug": "e-nume-ro",
@@ -90,7 +176,16 @@
       "rss": "https://e-nume.ro/feed/",
       "category": "Diverse",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "E Nume te ajută să descoperi conținut și informații pentru utilizatori. Informații actualizate și comunicate de presă la e-nume.ro.",
+      "description_short": "E Nume - comunicate de presă despre diverse.",
+      "description_small": "E Nume: conținut din România.",
+      "keywords": [
+        "informații generale",
+        "conținut divers",
+        "articole",
+        "resurse utile"
+      ]
     },
     {
       "slug": "energie-sustenabila-ro",
@@ -99,7 +194,16 @@
       "rss": "https://energie-sustenabila.ro/feed/",
       "category": "Tehnologie & Energie",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "Informații valoroase despre eficiență energetică și energie pe Sustenabila din România. Conținutul este actualizat regulat, Accesează energie-sustenabila.ro pentru comunicate de presă și informații actualizate.",
+      "description_short": "Energie Sustenabila conectează cu eficiență energetică și",
+      "description_small": "Energie Sustenabila: eficiență energetică din tehnologie &",
+      "keywords": [
+        "inovare tehnologică",
+        "tehnologii verzi",
+        "energie regenerabilă",
+        "eficiență energetică"
+      ]
     },
     {
       "slug": "eratehnologica-ro",
@@ -108,7 +212,16 @@
       "rss": "https://EraTehnologica.ro/feed/",
       "category": "Tehnologie & Energie",
       "mastodon": "https://social.5th.ro/@eratehnologica",
-      "mastodon_rss": "https://social.5th.ro/@eratehnologica.rss"
+      "mastodon_rss": "https://social.5th.ro/@eratehnologica.rss",
+      "description_long": "Explorează Eratehnologica pentru inovare și digitalizare din domeniul tehnologie & energie. Accesează Era. Tehnologica.ro pentru comunicate de presă și informații actualizate.",
+      "description_short": "Platformă de inovare și digitalizare: Eratehnologica.",
+      "description_small": "Eratehnologica: inovare din România.",
+      "keywords": [
+        "inovare tehnologică",
+        "tehnologii verzi",
+        "energie regenerabilă",
+        "eficiență energetică"
+      ]
     },
     {
       "slug": "excursie-delta-ro",
@@ -117,7 +230,16 @@
       "rss": "https://excursie-delta.ro/feed/",
       "category": "Turism & Delta",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "Excursie Delta oferă acces la călătorii și Dunării pentru turiști. Materialele sunt organizate pentru acces ușor, Pe excursie-delta.ro găsești comunicate de presă și știri din turism & delta.",
+      "description_short": "Excursie Delta călătorii și Dunării din turism &",
+      "description_small": "Excursie Delta pentru călătorii și Dunării.",
+      "keywords": [
+        "destinații turistice",
+        "turism durabil",
+        "Delta Dunării",
+        "patrimoniu natural"
+      ]
     },
     {
       "slug": "femeiaz-ro",
@@ -126,7 +248,16 @@
       "rss": "https://femeiaz.ro/feed/",
       "category": "Diverse",
       "mastodon": "https://social.5th.ro/@femeiAZ",
-      "mastodon_rss": "https://social.5th.ro/@femeiAZ.rss"
+      "mastodon_rss": "https://social.5th.ro/@femeiAZ.rss",
+      "description_long": "Pe femeiaz.ro găsești articole și ghiduri pentru public. Pe femeiaz.ro găsești comunicate de presă și știri din diverse.",
+      "description_short": "Femeiaz oferă articole și ghiduri din diverse.",
+      "description_small": "Femeiaz - articole și ghiduri.",
+      "keywords": [
+        "informații generale",
+        "conținut divers",
+        "articole",
+        "resurse utile"
+      ]
     },
     {
       "slug": "femeie-antreprenor-ro",
@@ -135,7 +266,17 @@
       "rss": "https://femeie-antreprenor.ro/feed/",
       "category": "Afaceri",
       "mastodon": "https://social.5th.ro/@femeie_antreprenor",
-      "mastodon_rss": "https://social.5th.ro/@femeie_antreprenor.rss"
+      "mastodon_rss": "https://social.5th.ro/@femeie_antreprenor.rss",
+      "description_long": "Femeie Antreprenor publică management și business despre afaceri din România. Site-ul femeie-antreprenor.ro oferă comunicate de presă actualizate și informații relevante.",
+      "description_short": "Accesează Femeie Antreprenor pentru management și business.",
+      "description_small": "Femeie Antreprenor: management din România.",
+      "keywords": [
+        "antreprenoriat",
+        "dezvoltare afaceri",
+        "investiții",
+        "strategii business",
+        "servicii comunicare"
+      ]
     },
     {
       "slug": "ghid-sanatate-ro",
@@ -144,7 +285,16 @@
       "rss": "https://ghid-sanatate.ro/feed/",
       "category": "Sănătate",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "Ghid Sanatate te ajută să descoperi tratamente și consiliere despre sănătate. Vizitează ghid-sanatate.ro pentru detalii complete și comunicate de presă relevante.",
+      "description_short": "Ghid Sanatate - comunicate de presă despre sănătate.",
+      "description_small": "Ghid Sanatate - tratamente și consiliere.",
+      "keywords": [
+        "informații medicale",
+        "sănătate publică",
+        "tratamente medicale",
+        "recomandări medicale"
+      ]
     },
     {
       "slug": "gradina24-ro",
@@ -153,7 +303,16 @@
       "rss": "https://gradina24.ro/feed/",
       "category": "Diverse",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "Dacă cauți sfaturi și informații, Gradina24 este o opțiune valoroasă. Conținutul este actualizat regulat, gradina24.ro publică comunicate de presă din domeniul diverse.",
+      "description_short": "Accesează Gradina24 pentru sfaturi și informații.",
+      "description_small": "Gradina24: sfaturi din diverse.",
+      "keywords": [
+        "informații generale",
+        "conținut divers",
+        "articole",
+        "resurse utile"
+      ]
     },
     {
       "slug": "iafaceri-ro",
@@ -162,7 +321,16 @@
       "rss": "https://iAfaceri.ro/feed/",
       "category": "Afaceri",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "IAfaceri oferă acces la strategii și business pentru investitori. Verifică i. Afaceri.ro pentru comunicate de presă și materiale informative.",
+      "description_short": "IAfaceri strategii și business din afaceri.",
+      "description_small": "IAfaceri: strategii din România.",
+      "keywords": [
+        "antreprenoriat",
+        "dezvoltare afaceri",
+        "investiții",
+        "strategii business"
+      ]
     },
     {
       "slug": "iantreprenor-ro",
@@ -171,7 +339,17 @@
       "rss": "https://iAntreprenor.ro/feed/",
       "category": "Afaceri",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "IAntreprenor te ajută să descoperi investiții și afaceri despre Vizitează i. Antreprenor.ro pentru detalii complete și comunicate de presă relevante.",
+      "description_short": "IAntreprenor - comunicate de presă despre afaceri.",
+      "description_small": "IAntreprenor - investiții și afaceri.",
+      "keywords": [
+        "antreprenoriat",
+        "dezvoltare afaceri",
+        "investiții",
+        "strategii business",
+        "servicii comunicare"
+      ]
     },
     {
       "slug": "iasi-azi-ro",
@@ -180,7 +358,16 @@
       "rss": "https://iasi-azi.ro/feed/",
       "category": "Știri & Societate",
       "mastodon": "https://social.5th.ro/@Iasi",
-      "mastodon_rss": "https://social.5th.ro/@Iasi.rss"
+      "mastodon_rss": "https://social.5th.ro/@Iasi.rss",
+      "description_long": "Explorează Iasi Azi pentru actualități și societate din domeniul știri & Cu focus pe regiunea Iasi, Accesează iasi-azi.ro pentru comunicate de presă și informații actualizate.",
+      "description_short": "Platformă de actualități și societate: Iasi Azi.",
+      "description_small": "Iasi Azi: actualități din România.",
+      "keywords": [
+        "știri locale",
+        "evenimente sociale",
+        "actualități",
+        "informații publice"
+      ]
     },
     {
       "slug": "icomunicat-ro",
@@ -189,7 +376,16 @@
       "rss": "https://iComunicat.ro/feed/",
       "category": "PR & Marketing",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "IComunicat este un hub pentru servicii PR și distribuție comunicate în domeniul PR.Materialele sunt organizate pentru acces ușor, Explorează i. Comunicat.ro pentru mai multe informații despre pr & marketing.",
+      "description_short": "IComunicat servicii PR și distribuție comunicate din pr & marketing.",
+      "description_small": "IComunicat pentru servicii PR și distribuție comunicate.",
+      "keywords": [
+        "comunicate de presă",
+        "distribuție comunicate",
+        "relații publice",
+        "campanii PR"
+      ]
     },
     {
       "slug": "idezvoltator-ro",
@@ -198,7 +394,16 @@
       "rss": "https://idezvoltator.ro/feed/",
       "category": "Afaceri",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "Accesează Idezvoltator pentru antreprenoriat și investiții din afaceri. Materialele sunt organizate pentru acces ușor, Accesează idezvoltator.ro pentru comunicate de presă și informații actualizate.",
+      "description_short": "Găsești antreprenoriat și investiții pe Idezvoltator.",
+      "description_small": "Idezvoltator pentru antreprenoriat și investiții.",
+      "keywords": [
+        "antreprenoriat",
+        "dezvoltare afaceri",
+        "investiții",
+        "strategii business"
+      ]
     },
     {
       "slug": "ienergie-ro",
@@ -207,7 +412,16 @@
       "rss": "https://iEnergie.ro/feed/",
       "category": "Tehnologie & Energie",
       "mastodon": "https://social.5th.ro/@ienergie",
-      "mastodon_rss": "https://social.5th.ro/@ienergie.rss"
+      "mastodon_rss": "https://social.5th.ro/@ienergie.rss",
+      "description_long": "IEnergie te ajută să descoperi inovare și soluții IT pentru eficiență. Informațiile sunt relevante și actualizate, Verifică i. Energie.ro pentru comunicate de presă și materiale informative.",
+      "description_short": "IEnergie - comunicate de presă despre tehnologie & energie.",
+      "description_small": "IEnergie - tehnologie & energie din România.",
+      "keywords": [
+        "inovare tehnologică",
+        "tehnologii verzi",
+        "energie regenerabilă",
+        "eficiență energetică"
+      ]
     },
     {
       "slug": "ifemeie-ro",
@@ -216,7 +430,16 @@
       "rss": "https://iFemeie.ro/feed/",
       "category": "Diverse",
       "mastodon": "https://social.5th.ro/@iFemeie",
-      "mastodon_rss": "https://social.5th.ro/@iFemeie.rss"
+      "mastodon_rss": "https://social.5th.ro/@iFemeie.rss",
+      "description_long": "IFemeie este un hub pentru resurse și informații despre diverse. Comunicate de presă și informații relevante disponibile pe i. Femeie.ro.",
+      "description_short": "IFemeie resurse și informații din diverse.",
+      "description_small": "IFemeie: resurse din România.",
+      "keywords": [
+        "informații generale",
+        "conținut divers",
+        "articole",
+        "resurse utile"
+      ]
     },
     {
       "slug": "info-santate-ro",
@@ -225,7 +448,16 @@
       "rss": "https://info-santate.ro/feed/",
       "category": "Sănătate",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "Prin Info Santate poți descoperi consiliere și informații medicale din domeniul sănătate.info-santate.ro publică comunicate de presă din domeniul sănătate.",
+      "description_short": "Info Santate: consiliere și informații medicale din România.",
+      "description_small": "Info Santate: consiliere din România.",
+      "keywords": [
+        "informații medicale",
+        "sănătate publică",
+        "tratamente medicale",
+        "recomandări medicale"
+      ]
     },
     {
       "slug": "inovare-afaceri-ro",
@@ -234,7 +466,16 @@
       "rss": "https://inovare-afaceri.ro/feed/",
       "category": "Afaceri",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "La Inovare Afaceri poți accesa antreprenoriat și investiții din Informațiile sunt relevante și actualizate, Accesează inovare-afaceri.ro pentru comunicate de presă și informații actualizate.",
+      "description_short": "Inovare Afaceri oferă antreprenoriat și investiții din",
+      "description_small": "Inovare Afaceri - din România.",
+      "keywords": [
+        "antreprenoriat",
+        "dezvoltare afaceri",
+        "investiții",
+        "strategii business"
+      ]
     },
     {
       "slug": "ipresa-ro",
@@ -243,7 +484,16 @@
       "rss": "https://iPresa.ro/feed/",
       "category": "PR & Marketing",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "Dacă cauți promovare și relații publice, i. Presa este o opțiune valoroasă. Conținutul este actualizat regulat, Verifică i. Presa.ro pentru comunicate de presă și materiale informative.",
+      "description_short": "Accesează i. Presa pentru promovare și relații publice.",
+      "description_small": "IPresa: promovare din pr & marketing.",
+      "keywords": [
+        "comunicate de presă",
+        "distribuție comunicate",
+        "relații publice",
+        "campanii PR"
+      ]
     },
     {
       "slug": "irezidential-ro",
@@ -252,7 +502,16 @@
       "rss": "https://irezidential.ro/feed/",
       "category": "Afaceri",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "Pe irezidential.ro găsești antreprenoriat și management despre afaceri. Conținutul este actualizat regulat, Vizitează irezidential.ro pentru detalii complete și comunicate de presă relevante.",
+      "description_short": "Irezidential oferă antreprenoriat și management din afaceri.",
+      "description_small": "Irezidential: antreprenoriat din afaceri.",
+      "keywords": [
+        "antreprenoriat",
+        "dezvoltare afaceri",
+        "investiții",
+        "strategii business"
+      ]
     },
     {
       "slug": "lvu-ro",
@@ -261,7 +520,16 @@
       "rss": "https://lvu.ro/feed/",
       "category": "Diverse",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "Conținut despre și informații la Lvu pentru utilizatori din România. Materialele sunt organizate pentru acces ușor, Explorează lvu.ro pentru mai multe informații despre diverse.",
+      "description_short": "Platformă de conținut și informații: Lvu.",
+      "description_small": "Lvu oferă conținut și informații.",
+      "keywords": [
+        "informații generale",
+        "conținut divers",
+        "articole",
+        "resurse utile"
+      ]
     },
     {
       "slug": "mama-antreprenor-ro",
@@ -270,7 +538,17 @@
       "rss": "https://mama-antreprenor.ro/feed/",
       "category": "Afaceri",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "Mama Antreprenor conectează utilizatorii cu business și afaceri despre Vizitează mama-antreprenor.ro pentru detalii complete și comunicate de presă relevante.",
+      "description_short": "Mama Antreprenor pentru business și afaceri din",
+      "description_small": "Mama Antreprenor: business din România.",
+      "keywords": [
+        "antreprenoriat",
+        "dezvoltare afaceri",
+        "investiții",
+        "strategii business",
+        "servicii comunicare"
+      ]
     },
     {
       "slug": "medic360-ro",
@@ -279,7 +557,18 @@
       "rss": "https://medic360.ro/feed/",
       "category": "Sănătate",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "Medic360 aduce informații medicale și sănătate despre pentru publicul român. Oferă o abordare completă a domeniului, Comunicate de presă și informații relevante disponibile pe medic360.ro.",
+      "description_short": "Medic360 este o sursă de informații medicale și sănătate.",
+      "description_small": "Medic360: informații medicale din sănătate.",
+      "keywords": [
+        "informații medicale",
+        "sănătate publică",
+        "tratamente medicale",
+        "recomandări medicale",
+        "servicii complete",
+        "consiliere medicală"
+      ]
     },
     {
       "slug": "medicina-familie-ro",
@@ -288,7 +577,17 @@
       "rss": "https://medicina-familie.ro/feed/",
       "category": "Sănătate",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "Medicina Familie prezintă consiliere și tratamente despre sănătate din piața românească. Vizitează medicina-familie.ro pentru detalii complete și comunicate de presă relevante.",
+      "description_short": "Medicina Familie pentru consiliere și tratamente din sănătate.",
+      "description_small": "Medicina Familie - consiliere și tratamente.",
+      "keywords": [
+        "informații medicale",
+        "sănătate publică",
+        "tratamente medicale",
+        "recomandări medicale",
+        "consiliere medicală"
+      ]
     },
     {
       "slug": "medicina-sportiva-ro",
@@ -297,7 +596,17 @@
       "rss": "https://medicina-sportiva.ro/feed/",
       "category": "Sănătate",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "Medicina Sportiva prezintă consiliere și recomandări medicale în domeniul medical din piața românească. Conținutul este actualizat regulat, La medicina-sportiva.ro poți accesa comunicate de presă și conținut din sănătate.",
+      "description_short": "Medicina Sportiva pentru consiliere și recomandări medicale din sănătate.",
+      "description_small": "Medicina Sportiva: consiliere din sănătate.",
+      "keywords": [
+        "informații medicale",
+        "sănătate publică",
+        "tratamente medicale",
+        "recomandări medicale",
+        "consiliere medicală"
+      ]
     },
     {
       "slug": "networkinghub-ro",
@@ -306,7 +615,16 @@
       "rss": "https://networkinghub.ro/feed/",
       "category": "Afaceri",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "La Networkinghub poți accesa antreprenoriat și strategii din afaceri. Informațiile sunt relevante și actualizate, Pe networkinghub.ro găsești comunicate de presă și știri din afaceri.",
+      "description_short": "Networkinghub oferă antreprenoriat și strategii din afaceri.",
+      "description_small": "Networkinghub - afaceri din România.",
+      "keywords": [
+        "antreprenoriat",
+        "dezvoltare afaceri",
+        "investiții",
+        "strategii business"
+      ]
     },
     {
       "slug": "noutati24-ro",
@@ -315,7 +633,16 @@
       "rss": "https://noutati24.ro/feed/",
       "category": "Diverse",
       "mastodon": "https://social.5th.ro/@noutati24",
-      "mastodon_rss": "https://social.5th.ro/@noutati24.rss"
+      "mastodon_rss": "https://social.5th.ro/@noutati24.rss",
+      "description_long": "Descoperă ghiduri și articole prin Noutati24, o platformă din România. Informațiile sunt relevante și actualizate, Pentru comunicate de presă, accesează noutati24.ro.",
+      "description_short": "Noutati24: ghiduri și articole din România.",
+      "description_small": "Noutati24 - diverse din România.",
+      "keywords": [
+        "informații generale",
+        "conținut divers",
+        "articole",
+        "resurse utile"
+      ]
     },
     {
       "slug": "nutritie-sanatate-ro",
@@ -324,7 +651,16 @@
       "rss": "https://nutritie-sanatate.ro/feed/",
       "category": "Sănătate",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "Nutritie Sanatate este o sursă de informații medicale și sănătate despre din România. Materialele sunt organizate pentru acces ușor, Comunicate de presă și informații relevante disponibile pe nutritie-sanatate.ro.",
+      "description_short": "Nutritie Sanatate - informații medicale și sănătate din România.",
+      "description_small": "Nutritie Sanatate oferă informații medicale și sănătate.",
+      "keywords": [
+        "informații medicale",
+        "sănătate publică",
+        "tratamente medicale",
+        "recomandări medicale"
+      ]
     },
     {
       "slug": "oltenia-news-ro",
@@ -333,7 +669,17 @@
       "rss": "https://oltenia-news.ro/feed/",
       "category": "Știri & Societate",
       "mastodon": "https://social.5th.ro/@oltenia",
-      "mastodon_rss": "https://social.5th.ro/@oltenia.rss"
+      "mastodon_rss": "https://social.5th.ro/@oltenia.rss",
+      "description_long": "Oltenia News este o resursă pentru actualități și evenimente în domeniul social. Cu focus pe regiunea Oltenia, Informații actualizate și comunicate de presă la oltenia-news.ro.",
+      "description_short": "Oltenia News - comunicate de presă despre știri & societate.",
+      "description_small": "Oltenia News - știri & societate din România.",
+      "keywords": [
+        "știri locale",
+        "evenimente sociale",
+        "actualități",
+        "informații publice",
+        "știri actualizate"
+      ]
     },
     {
       "slug": "panourifotovoltaice360-ro",
@@ -342,7 +688,17 @@
       "rss": "https://panourifotovoltaice360.ro/feed/",
       "category": "Tehnologie & Energie",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "Descoperă digitalizare și soluții IT prin Panourifotovoltaice360, o platformă din România. Oferă o abordare completă a domeniului, Explorează panourifotovoltaice360.ro pentru mai multe informații despre tehnologie & energie.",
+      "description_short": "Panourifotovoltaice360: digitalizare și soluții IT din România.",
+      "description_small": "Panourifotovoltaice360 - tehnologie & energie din România.",
+      "keywords": [
+        "inovare tehnologică",
+        "tehnologii verzi",
+        "energie regenerabilă",
+        "eficiență energetică",
+        "servicii complete"
+      ]
     },
     {
       "slug": "partizani-ro",
@@ -351,7 +707,16 @@
       "rss": "https://partizani.ro/feed/",
       "category": "Turism & Delta",
       "mastodon": "https://social.5th.ro/@Partizani",
-      "mastodon_rss": "https://social.5th.ro/@Partizani.rss"
+      "mastodon_rss": "https://social.5th.ro/@Partizani.rss",
+      "description_long": "Pe partizani.ro descoperi călătorii și Delta Dunării din piața românească. Vizitează partizani.ro pentru detalii complete și comunicate de presă relevante.",
+      "description_short": "Partizani prezintă călătorii și Delta Dunării din România.",
+      "description_small": "Partizani: călătorii din România.",
+      "keywords": [
+        "destinații turistice",
+        "turism durabil",
+        "Delta Dunării",
+        "patrimoniu natural"
+      ]
     },
     {
       "slug": "pensiuni-delta-ro",
@@ -360,7 +725,16 @@
       "rss": "https://pensiuni-delta.ro/feed/",
       "category": "Turism & Delta",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "Pensiuni Delta oferă acces la călătorii și turism despre destinații. Materialele sunt organizate pentru acces ușor, Comunicate de presă și informații relevante disponibile pe pensiuni-delta.ro.",
+      "description_short": "Pensiuni Delta călătorii și turism din &",
+      "description_small": "Pensiuni Delta pentru călătorii și turism.",
+      "keywords": [
+        "destinații turistice",
+        "turism durabil",
+        "Delta Dunării",
+        "patrimoniu natural"
+      ]
     },
     {
       "slug": "pentruoameni-ro",
@@ -369,7 +743,16 @@
       "rss": "https://pentruoameni.ro/feed/",
       "category": "Diverse",
       "mastodon": "https://social.5th.ro/@pentruoameni",
-      "mastodon_rss": "https://social.5th.ro/@pentruoameni.rss"
+      "mastodon_rss": "https://social.5th.ro/@pentruoameni.rss",
+      "description_long": "Dacă cauți sfaturi și informații, Pentruoameni este o opțiune valoroasă. Conținutul este actualizat regulat, Verifică pentruoameni.ro pentru comunicate de presă și materiale informative.",
+      "description_short": "Accesează Pentruoameni pentru sfaturi și informații.",
+      "description_small": "Pentruoameni: sfaturi din diverse.",
+      "keywords": [
+        "informații generale",
+        "conținut divers",
+        "articole",
+        "resurse utile"
+      ]
     },
     {
       "slug": "pr-1az-ro",
@@ -378,7 +761,17 @@
       "rss": "https://pr.1az.ro/feed/",
       "category": "PR & Marketing",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "Pr. 1az aduce comunicate de presă și promovare pentru companii publicul român. Informațiile sunt relevante și actualizate, Pentru comunicate de presă, accesează pr. 1az.ro.",
+      "description_short": "Pr. 1az este o sursă de comunicate de presă și promovare.",
+      "description_small": "Pr. 1az - comunicate de presă despre pr & marketing.",
+      "keywords": [
+        "comunicate de presă",
+        "distribuție comunicate",
+        "relații publice",
+        "campanii PR",
+        "servicii comunicare"
+      ]
     },
     {
       "slug": "pr360-ro",
@@ -387,7 +780,18 @@
       "rss": "https://pr360.ro/feed/",
       "category": "PR & Marketing",
       "mastodon": "https://social.5th.ro/@pr360",
-      "mastodon_rss": "https://social.5th.ro/@pr360.rss"
+      "mastodon_rss": "https://social.5th.ro/@pr360.rss",
+      "description_long": "Pr360 este dedicat comunicate de presă și servicii PR pentru companii. Oferă o abordare completă a domeniului, Pe pr360.ro găsești comunicate de presă și știri din pr & marketing.",
+      "description_short": "Pr360 - comunicate de presă și servicii PR din România.",
+      "description_small": "Pr360 - comunicate de presă despre pr & marketing.",
+      "keywords": [
+        "comunicate de presă",
+        "distribuție comunicate",
+        "relații publice",
+        "campanii PR",
+        "servicii complete",
+        "servicii comunicare"
+      ]
     },
     {
       "slug": "prbusiness-ro",
@@ -396,7 +800,17 @@
       "rss": "https://prbusiness.ro/feed/",
       "category": "Afaceri",
       "mastodon": "https://social.5th.ro/@prbusiness",
-      "mastodon_rss": "https://social.5th.ro/@prbusiness.rss"
+      "mastodon_rss": "https://social.5th.ro/@prbusiness.rss",
+      "description_long": "Prbusiness este un hub pentru strategii și afaceri în business. Materialele sunt organizate pentru acces ușor, Explorează prbusiness.ro pentru mai multe informații despre afaceri.",
+      "description_short": "Prbusiness strategii și afaceri din",
+      "description_small": "Prbusiness pentru strategii și afaceri.",
+      "keywords": [
+        "antreprenoriat",
+        "dezvoltare afaceri",
+        "investiții",
+        "strategii business",
+        "servicii comunicare"
+      ]
     },
     {
       "slug": "recent-news-ro",
@@ -405,7 +819,17 @@
       "rss": "https://recent-news.ro/feed/",
       "category": "Știri & Societate",
       "mastodon": "https://social.5th.ro/@recent_news",
-      "mastodon_rss": "https://social.5th.ro/@recent_news.rss"
+      "mastodon_rss": "https://social.5th.ro/@recent_news.rss",
+      "description_long": "Explorează Recent News pentru actualități și societate din domeniul știri & Cu accent pe actualități și evenimente importante, Informații actualizate și comunicate de presă la recent-news.ro.",
+      "description_short": "Platformă de actualități și societate: Recent News.",
+      "description_small": "Recent News - știri & societate din România.",
+      "keywords": [
+        "știri locale",
+        "evenimente sociale",
+        "actualități",
+        "informații publice",
+        "știri actualizate"
+      ]
     },
     {
       "slug": "recomandari-medicale-ro",
@@ -414,7 +838,17 @@
       "rss": "https://recomandari-medicale.ro/feed/",
       "category": "Sănătate",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "Vizitează recomandari-medicale.ro pentru sănătate și consiliere din Materialele sunt organizate pentru acces ușor, recomandari-medicale.ro publică comunicate de presă din domeniul sănătate.",
+      "description_short": "Găsești sănătate și consiliere pe Recomandari Medicale.",
+      "description_small": "Recomandari Medicale oferă sănătate și consiliere.",
+      "keywords": [
+        "informații medicale",
+        "sănătate publică",
+        "tratamente medicale",
+        "recomandări medicale",
+        "consiliere medicală"
+      ]
     },
     {
       "slug": "resurse-afaceri-ro",
@@ -423,7 +857,16 @@
       "rss": "https://resurse-afaceri.ro/feed/",
       "category": "Afaceri",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "Resurse Afaceri este dedicat și antreprenoriat despre Informațiile sunt relevante și actualizate, Vizitează resurse-afaceri.ro pentru detalii complete și comunicate de presă relevante.",
+      "description_short": "Resurse Afaceri - și antreprenoriat din România.",
+      "description_small": "Resurse Afaceri - din România.",
+      "keywords": [
+        "antreprenoriat",
+        "dezvoltare afaceri",
+        "investiții",
+        "strategii business"
+      ]
     },
     {
       "slug": "revista-antreprenorului-ro",
@@ -432,7 +875,17 @@
       "rss": "https://revista-antreprenorului.ro/feed/",
       "category": "Afaceri",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "Vizitează revista-antreprenorului.ro pentru antreprenoriat și investiții din afaceri. Informațiile sunt relevante și actualizate, Site-ul revista-antreprenorului.ro oferă comunicate de presă actualizate și informații relevante.",
+      "description_short": "Găsești antreprenoriat și investiții pe Revista Antreprenorului.",
+      "description_small": "Revista Antreprenorului - afaceri din România.",
+      "keywords": [
+        "antreprenoriat",
+        "dezvoltare afaceri",
+        "investiții",
+        "strategii business",
+        "servicii comunicare"
+      ]
     },
     {
       "slug": "sanatate-mentala-ro",
@@ -441,7 +894,16 @@
       "rss": "https://sanatate-mentala.ro/feed/",
       "category": "Sănătate",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "Vizitează sanatate-mentala.ro pentru sănătate și consiliere din Materialele sunt organizate pentru acces ușor, Informații actualizate și comunicate de presă la sanatate-mentala.ro.",
+      "description_short": "Găsești sănătate și consiliere pe Sanatate Mentala.",
+      "description_small": "Sanatate Mentala oferă sănătate și consiliere.",
+      "keywords": [
+        "informații medicale",
+        "sănătate publică",
+        "tratamente medicale",
+        "recomandări medicale"
+      ]
     },
     {
       "slug": "sfatul-doctorului-ro",
@@ -450,7 +912,17 @@
       "rss": "https://sfatul-doctorului.ro/feed/",
       "category": "Sănătate",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "Sfatul Doctorului aduce informații medicale și sănătate pentru prevenție publicul român. Materialele sunt organizate pentru acces ușor, sfatul-doctorului.ro publică comunicate de presă din domeniul sănătate.",
+      "description_short": "Sfatul Doctorului este o sursă de informații medicale și sănătate.",
+      "description_small": "Sfatul Doctorului pentru informații medicale și sănătate.",
+      "keywords": [
+        "informații medicale",
+        "sănătate publică",
+        "tratamente medicale",
+        "recomandări medicale",
+        "consiliere medicală"
+      ]
     },
     {
       "slug": "societatecivila-ro",
@@ -459,7 +931,16 @@
       "rss": "https://societatecivila.ro/feed/",
       "category": "Știri & Societate",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "Explorează Societatecivila pentru actualități și democrație din domeniul știri & societate. Conținutul este actualizat regulat, Vizitează societatecivila.ro pentru detalii complete și comunicate de presă relevante.",
+      "description_short": "Platformă de actualități și democrație: Societatecivila.",
+      "description_small": "Societatecivila: actualități din știri & societate.",
+      "keywords": [
+        "știri locale",
+        "evenimente sociale",
+        "actualități",
+        "informații publice"
+      ]
     },
     {
       "slug": "solutii-constructii-ro",
@@ -468,7 +949,16 @@
       "rss": "https://solutii-constructii.ro/feed/",
       "category": "Construcții & Casă",
       "mastodon": "https://social.5th.ro/@SolutiiConstructii",
-      "mastodon_rss": "https://social.5th.ro/@SolutiiConstructii.rss"
+      "mastodon_rss": "https://social.5th.ro/@SolutiiConstructii.rss",
+      "description_long": "Solutii Constructii prezintă design și casă despre construcții din piața românească. Materialele sunt organizate pentru acces ușor, Vizitează solutii-constructii.ro pentru detalii complete și comunicate de presă relevante.",
+      "description_short": "Solutii Constructii pentru design și casă din construcții & casă.",
+      "description_small": "Solutii Constructii pentru design și casă.",
+      "keywords": [
+        "construcții durabile",
+        "amenajări interioare",
+        "renovări",
+        "design interior"
+      ]
     },
     {
       "slug": "stiri-live-ro",
@@ -477,7 +967,16 @@
       "rss": "https://stiri-live.ro/feed/",
       "category": "Știri & Societate",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "Stiri Live este o resursă pentru actualități și evenimente în domeniul social. Conținutul este actualizat regulat, Verifică stiri-live.ro pentru comunicate de presă și materiale informative.",
+      "description_short": "Stiri Live - comunicate de presă despre știri & societate.",
+      "description_small": "Stiri Live - actualități.",
+      "keywords": [
+        "știri locale",
+        "evenimente sociale",
+        "actualități",
+        "informații publice"
+      ]
     },
     {
       "slug": "stiri-medicale-ro",
@@ -486,7 +985,17 @@
       "rss": "https://stiri-medicale.ro/feed/",
       "category": "Sănătate",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "Stiri Medicale publică prevenție și tratamente despre sănătate din România. Materialele sunt organizate pentru acces ușor, Comunicate de presă și informații relevante disponibile pe stiri-medicale.ro.",
+      "description_short": "Accesează Stiri Medicale pentru prevenție și tratamente.",
+      "description_small": "Stiri Medicale oferă prevenție și tratamente.",
+      "keywords": [
+        "informații medicale",
+        "sănătate publică",
+        "tratamente medicale",
+        "recomandări medicale",
+        "consiliere medicală"
+      ]
     },
     {
       "slug": "stiri-razboi-ro",
@@ -495,7 +1004,16 @@
       "rss": "https://stiri-razboi.ro/feed/",
       "category": "Știri & Societate",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "Stiri Razboi te ajută să descoperi actualități și societate despre evenimente. Detalii și comunicate de presă pe stiri-razboi.ro.",
+      "description_short": "Stiri Razboi - comunicate de presă despre știri & societate.",
+      "description_small": "Stiri Razboi: actualități din România.",
+      "keywords": [
+        "știri locale",
+        "evenimente sociale",
+        "actualități",
+        "informații publice"
+      ]
     },
     {
       "slug": "stiridemocratice-ro",
@@ -504,7 +1022,16 @@
       "rss": "https://stiridemocratice.ro/feed/",
       "category": "Știri & Societate",
       "mastodon": "https://social.5th.ro/@stiri_democratice",
-      "mastodon_rss": "https://social.5th.ro/@stiri_democratice.rss"
+      "mastodon_rss": "https://social.5th.ro/@stiri_democratice.rss",
+      "description_long": "Stiridemocratice este dedicat știri locale și actualități pentru comunitate. Site-ul stiridemocratice.ro oferă comunicate de presă actualizate și informații relevante.",
+      "description_short": "Stiridemocratice - știri locale și actualități din România.",
+      "description_small": "Stiridemocratice - știri locale și actualități.",
+      "keywords": [
+        "știri locale",
+        "evenimente sociale",
+        "actualități",
+        "informații publice"
+      ]
     },
     {
       "slug": "stirisociale-ro",
@@ -513,7 +1040,16 @@
       "rss": "https://stirisociale.ro/feed/",
       "category": "Știri & Societate",
       "mastodon": "https://social.5th.ro/@stiri_sociale",
-      "mastodon_rss": "https://social.5th.ro/@stiri_sociale.rss"
+      "mastodon_rss": "https://social.5th.ro/@stiri_sociale.rss",
+      "description_long": "Stirisociale oferă acces la societate și evenimente în domeniul social. Conținutul este actualizat regulat, Informații actualizate și comunicate de presă la stirisociale.ro.",
+      "description_short": "Stirisociale societate și evenimente din știri &",
+      "description_small": "Stirisociale: societate din știri &",
+      "keywords": [
+        "știri locale",
+        "evenimente sociale",
+        "actualități",
+        "informații publice"
+      ]
     },
     {
       "slug": "stomatologie360-ro",
@@ -522,7 +1058,17 @@
       "rss": "https://stomatologie360.ro/feed/",
       "category": "Sănătate",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "Stomatologie360 este un hub pentru recomandări medicale și prevenție pacienți. Oferă o abordare completă a domeniului, Pe stomatologie360.ro găsești comunicate de presă și știri din sănătate.",
+      "description_short": "Stomatologie360 recomandări medicale și prevenție din sănătate.",
+      "description_small": "Stomatologie360 - sănătate din România.",
+      "keywords": [
+        "informații medicale",
+        "sănătate publică",
+        "tratamente medicale",
+        "recomandări medicale",
+        "servicii complete"
+      ]
     },
     {
       "slug": "top-clinici-ro",
@@ -531,7 +1077,17 @@
       "rss": "https://top-clinici.ro/feed/",
       "category": "Sănătate",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "Vizitează top-clinici.ro pentru sănătate și informații medicale din Materialele sunt organizate pentru acces ușor, Accesează top-clinici.ro pentru comunicate de presă și informații actualizate.",
+      "description_short": "Găsești sănătate și informații medicale pe Top Clinici.",
+      "description_small": "Top Clinici pentru sănătate și informații medicale.",
+      "keywords": [
+        "informații medicale",
+        "sănătate publică",
+        "tratamente medicale",
+        "recomandări medicale",
+        "consiliere medicală"
+      ]
     },
     {
       "slug": "top15-ro",
@@ -540,7 +1096,16 @@
       "rss": "https://top15.ro/feed/",
       "category": "Diverse",
       "mastodon": "https://social.5th.ro/@top",
-      "mastodon_rss": "https://social.5th.ro/@top.rss"
+      "mastodon_rss": "https://social.5th.ro/@top.rss",
+      "description_long": "Găsești resurse și ghiduri pe Top15, o platformă din România. Conținutul este actualizat regulat, Explorează top15.ro pentru mai multe informații despre diverse.",
+      "description_short": "Top15 prezintă resurse și ghiduri din România.",
+      "description_small": "Top15 - resurse.",
+      "keywords": [
+        "informații generale",
+        "conținut divers",
+        "articole",
+        "resurse utile"
+      ]
     },
     {
       "slug": "topantreprenor-ro",
@@ -549,7 +1114,17 @@
       "rss": "https://topantreprenor.ro/feed/",
       "category": "Afaceri",
       "mastodon": "https://social.5th.ro/@topantreprenor",
-      "mastodon_rss": "https://social.5th.ro/@topantreprenor.rss"
+      "mastodon_rss": "https://social.5th.ro/@topantreprenor.rss",
+      "description_long": "Topantreprenor este o resursă pentru investiții și antreprenoriat investitori. Informațiile sunt relevante și actualizate, Informații și comunicate de presă la topantreprenor.ro.",
+      "description_short": "Topantreprenor - comunicate de presă despre afaceri.",
+      "description_small": "Topantreprenor - comunicate de presă despre afaceri.",
+      "keywords": [
+        "antreprenoriat",
+        "dezvoltare afaceri",
+        "investiții",
+        "strategii business",
+        "servicii comunicare"
+      ]
     },
     {
       "slug": "topcomunicate-ro",
@@ -558,7 +1133,17 @@
       "rss": "https://topcomunicate.ro/feed/",
       "category": "PR & Marketing",
       "mastodon": "https://social.5th.ro/@topcomunicate_ro",
-      "mastodon_rss": "https://social.5th.ro/@topcomunicate_ro.rss"
+      "mastodon_rss": "https://social.5th.ro/@topcomunicate_ro.rss",
+      "description_long": "Găsești servicii PR și campanii media pe Topcomunicate, o platformă din România.topcomunicate.ro publică comunicate de presă din domeniul pr & marketing.",
+      "description_short": "Topcomunicate prezintă servicii PR și campanii media din România.",
+      "description_small": "Topcomunicate: servicii PR din România.",
+      "keywords": [
+        "comunicate de presă",
+        "distribuție comunicate",
+        "relații publice",
+        "campanii PR",
+        "servicii comunicare"
+      ]
     },
     {
       "slug": "traim-sanatos-ro",
@@ -567,7 +1152,16 @@
       "rss": "https://traim-sanatos.ro/feed/",
       "category": "Sănătate",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "Explorează Traim Sanatos pentru tratamente și sănătate din domeniul Informațiile sunt relevante și actualizate, traim-sanatos.ro publică comunicate de presă din domeniul sănătate.",
+      "description_short": "Platformă de tratamente și sănătate: Traim Sanatos.",
+      "description_small": "Traim Sanatos - sănătate din România.",
+      "keywords": [
+        "informații medicale",
+        "sănătate publică",
+        "tratamente medicale",
+        "recomandări medicale"
+      ]
     },
     {
       "slug": "tratament-natural-ro",
@@ -576,7 +1170,16 @@
       "rss": "https://tratament-natural.ro/feed/",
       "category": "Sănătate",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "Pe tratament-natural.ro găsești sănătate și informații medicale despre Materialele sunt organizate pentru acces ușor, Site-ul tratament-natural.ro oferă comunicate de presă actualizate și informații relevante.",
+      "description_short": "Tratament Natural oferă sănătate și informații medicale din",
+      "description_small": "Tratament Natural oferă sănătate și informații medicale.",
+      "keywords": [
+        "informații medicale",
+        "sănătate publică",
+        "tratamente medicale",
+        "recomandări medicale"
+      ]
     },
     {
       "slug": "tvaz-ro",
@@ -585,7 +1188,16 @@
       "rss": "https://TVaz.ro/feed/",
       "category": "Diverse",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "TVaz este dedicat informații și articole cu Informațiile sunt relevante și actualizate, Detalii și comunicate de presă pe TVaz.ro.",
+      "description_short": "TVaz - informații și articole din România.",
+      "description_small": "TVaz - diverse din România.",
+      "keywords": [
+        "informații generale",
+        "conținut divers",
+        "articole",
+        "resurse utile"
+      ]
     },
     {
       "slug": "universultech-ro",
@@ -594,7 +1206,16 @@
       "rss": "https://UniversulTech.ro/feed/",
       "category": "Tehnologie & Energie",
       "mastodon": "https://social.5th.ro/@UniversulTech",
-      "mastodon_rss": "https://social.5th.ro/@UniversulTech.rss"
+      "mastodon_rss": "https://social.5th.ro/@UniversulTech.rss",
+      "description_long": "Universultech aduce tehnologie și energie pentru eficiență publicul român. Materialele sunt organizate pentru acces ușor, Informații actualizate și comunicate de presă la Universul. Tech.ro.",
+      "description_short": "Universultech este o sursă de tehnologie și energie.",
+      "description_small": "Universultech oferă tehnologie și energie.",
+      "keywords": [
+        "inovare tehnologică",
+        "tehnologii verzi",
+        "energie regenerabilă",
+        "eficiență energetică"
+      ]
     },
     {
       "slug": "vhm-ro",
@@ -603,7 +1224,16 @@
       "rss": "https://vhm.ro/feed/",
       "category": "Diverse",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "Informații despre sfaturi și resurse pe Vhm din România. Conținutul este actualizat regulat, Detalii și comunicate de presă pe vhm.ro.",
+      "description_short": "Vhm conectează cu sfaturi și resurse.",
+      "description_small": "Vhm: sfaturi din diverse.",
+      "keywords": [
+        "informații generale",
+        "conținut divers",
+        "articole",
+        "resurse utile"
+      ]
     },
     {
       "slug": "ziar360-ro",
@@ -612,7 +1242,17 @@
       "rss": "https://ziar360.ro/feed/",
       "category": "Știri & Societate",
       "mastodon": "https://social.5th.ro/@ziar360",
-      "mastodon_rss": "https://social.5th.ro/@ziar360.rss"
+      "mastodon_rss": "https://social.5th.ro/@ziar360.rss",
+      "description_long": "Ziar360 oferă acces la societate și știri locale din regiune. Oferă o abordare completă a domeniului, Pentru comunicate de presă, accesează ziar360.ro.",
+      "description_short": "Ziar360 societate și știri locale din &",
+      "description_small": "Ziar360 oferă societate și știri locale.",
+      "keywords": [
+        "știri locale",
+        "evenimente sociale",
+        "actualități",
+        "informații publice",
+        "servicii complete"
+      ]
     },
     {
       "slug": "1az-ro",
@@ -621,7 +1261,16 @@
       "rss": "https://1az.ro/feed/",
       "category": "Diverse",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "1az este un hub pentru resurse și articole despre diverse. Conținutul este actualizat regulat, Site-ul 1az.ro oferă comunicate de presă actualizate și informații relevante.",
+      "description_short": "1az resurse și articole din diverse.",
+      "description_small": "1az - resurse.",
+      "keywords": [
+        "informații generale",
+        "conținut divers",
+        "articole",
+        "resurse utile"
+      ]
     },
     {
       "slug": "5th-ro",
@@ -630,7 +1279,16 @@
       "rss": "https://5th.ro/feed/",
       "category": "PR & Marketing",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "Vizitează 5th.ro pentru relații publice și distribuție comunicate din pr & marketing. Accesează 5th.ro pentru comunicate de presă și informații actualizate.",
+      "description_short": "Găsești relații publice și distribuție comunicate pe 5th.",
+      "description_small": "5th - relații publice și distribuție comunicate.",
+      "keywords": [
+        "comunicate de presă",
+        "distribuție comunicate",
+        "relații publice",
+        "campanii PR"
+      ]
     },
     {
       "slug": "9z-ro",
@@ -639,7 +1297,16 @@
       "rss": "https://9z.ro/feed/",
       "category": "Diverse",
       "mastodon": "https://social.5th.ro/@9z",
-      "mastodon_rss": "https://social.5th.ro/@9z.rss"
+      "mastodon_rss": "https://social.5th.ro/@9z.rss",
+      "description_long": "Pe 9z.ro găsești articole și conținut pentru utilizatori. Informațiile sunt relevante și actualizate, Verifică 9z.ro pentru comunicate de presă și materiale informative.",
+      "description_short": "9z oferă articole și conținut din diverse.",
+      "description_small": "9z - diverse din România.",
+      "keywords": [
+        "informații generale",
+        "conținut divers",
+        "articole",
+        "resurse utile"
+      ]
     },
     {
       "slug": "actulcivic-ro",
@@ -648,7 +1315,16 @@
       "rss": "https://actulcivic.ro/feed/",
       "category": "Știri & Societate",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "Actulcivic oferă acces la societate și comunitate pentru Conținutul este actualizat regulat, Comunicate de presă și informații relevante disponibile pe actulcivic.ro.",
+      "description_short": "Actulcivic societate și comunitate din știri &",
+      "description_small": "Actulcivic: societate din știri &",
+      "keywords": [
+        "știri locale",
+        "evenimente sociale",
+        "actualități",
+        "informații publice"
+      ]
     },
     {
       "slug": "advertorialpromovare-ro",
@@ -657,7 +1333,17 @@
       "rss": "https://advertorialpromovare.ro/feed/",
       "category": "PR & Marketing",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "Pe advertorialpromovare.ro descoperi servicii PR și relații publice din piața românească. Conținutul este actualizat regulat, Vizitează advertorialpromovare.ro pentru detalii complete și comunicate de presă relevante.",
+      "description_short": "Advertorialpromovare prezintă servicii PR și relații publice din România.",
+      "description_small": "Advertorialpromovare - servicii PR.",
+      "keywords": [
+        "comunicate de presă",
+        "distribuție comunicate",
+        "relații publice",
+        "campanii PR",
+        "servicii comunicare"
+      ]
     },
     {
       "slug": "afaceri-romanesti-ro",
@@ -666,7 +1352,16 @@
       "rss": "https://afaceri-romanesti.ro/feed/",
       "category": "Afaceri",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "Site-ul Afaceri ROmanesti oferă și investiții pentru publicul din România. Materialele sunt organizate pentru acces ușor, afaceri-romanesti.ro publică comunicate de presă din domeniul afaceri.",
+      "description_short": "Afaceri ROmanesti este o sursă de și investiții.",
+      "description_small": "Afaceri ROmanesti oferă și investiții.",
+      "keywords": [
+        "antreprenoriat",
+        "dezvoltare afaceri",
+        "investiții",
+        "strategii business"
+      ]
     },
     {
       "slug": "afaceri24-ro",
@@ -675,7 +1370,16 @@
       "rss": "https://afaceri24.ro/feed/",
       "category": "Afaceri",
       "mastodon": "https://social.5th.ro/@afaceri24",
-      "mastodon_rss": "https://social.5th.ro/@afaceri24.rss"
+      "mastodon_rss": "https://social.5th.ro/@afaceri24.rss",
+      "description_long": "Conținut despre investiții și strategii la Afaceri24 pentru utilizatori din România. Materialele sunt organizate pentru acces ușor, comunicate de presă, accesează afaceri24.ro.",
+      "description_short": "Platformă de investiții și strategii: Afaceri24.",
+      "description_small": "Afaceri24 oferă investiții și strategii.",
+      "keywords": [
+        "antreprenoriat",
+        "dezvoltare afaceri",
+        "investiții",
+        "strategii business"
+      ]
     },
     {
       "slug": "afaceriprofi-ro",
@@ -684,7 +1388,17 @@
       "rss": "https://afaceriprofi.ro/feed/",
       "category": "Afaceri",
       "mastodon": "https://social.5th.ro/@AfaceriProfi",
-      "mastodon_rss": "https://social.5th.ro/@AfaceriProfi.rss"
+      "mastodon_rss": "https://social.5th.ro/@AfaceriProfi.rss",
+      "description_long": "Descoperă business și management prin Afaceriprofi, o platformă din România. Conținutul este actualizat regulat, Pe afaceriprofi.ro găsești comunicate de presă și știri din afaceri.",
+      "description_short": "Afaceriprofi: business și management din România.",
+      "description_small": "Afaceriprofi - business.",
+      "keywords": [
+        "antreprenoriat",
+        "dezvoltare afaceri",
+        "investiții",
+        "strategii business",
+        "servicii comunicare"
+      ]
     },
     {
       "slug": "afaceritop-ro",
@@ -693,7 +1407,16 @@
       "rss": "https://afaceritop.ro/feed/",
       "category": "Tehnologie & Energie",
       "mastodon": "https://social.5th.ro/@afaceri_top",
-      "mastodon_rss": "https://social.5th.ro/@afaceri_top.rss"
+      "mastodon_rss": "https://social.5th.ro/@afaceri_top.rss",
+      "description_long": "Afaceritop prezintă digitalizare și tehnologie în domeniul tech din piața românească. Explorează afaceritop.ro pentru mai multe informații despre tehnologie & energie.",
+      "description_short": "Afaceritop pentru digitalizare și tehnologie din & energie.",
+      "description_small": "Afaceritop - digitalizare și tehnologie.",
+      "keywords": [
+        "inovare tehnologică",
+        "tehnologii verzi",
+        "energie regenerabilă",
+        "eficiență energetică"
+      ]
     },
     {
       "slug": "aiadvertising-ro",
@@ -702,7 +1425,16 @@
       "rss": "https://aiadvertising.ro/feed/",
       "category": "Diverse",
       "mastodon": "https://social.5th.ro/@ai_advertising",
-      "mastodon_rss": "https://social.5th.ro/@ai_advertising.rss"
+      "mastodon_rss": "https://social.5th.ro/@ai_advertising.rss",
+      "description_long": "Aiadvertising este un hub pentru resurse și sfaturi cu informații. Informațiile sunt relevante și actualizate, Explorează aiadvertising.ro pentru mai multe informații despre diverse.",
+      "description_short": "Aiadvertising resurse și sfaturi din diverse.",
+      "description_small": "Aiadvertising - comunicate de presă despre diverse.",
+      "keywords": [
+        "informații generale",
+        "conținut divers",
+        "articole",
+        "resurse utile"
+      ]
     },
     {
       "slug": "amenajari360-ro",
@@ -711,7 +1443,17 @@
       "rss": "https://amenajari360.ro/feed/",
       "category": "Construcții & Casă",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "Amenajari360 te ajută să descoperi casă și design în amenajări. Oferă o abordare completă a domeniului, Detalii și comunicate de presă pe amenajari360.ro.",
+      "description_short": "Amenajari360 - comunicate de presă despre construcții & casă.",
+      "description_small": "Amenajari360: casă din România.",
+      "keywords": [
+        "construcții durabile",
+        "amenajări interioare",
+        "renovări",
+        "design interior",
+        "servicii complete"
+      ]
     },
     {
       "slug": "analize-financiare-ro",
@@ -720,7 +1462,16 @@
       "rss": "https://analize-financiare.ro/feed/",
       "category": "Afaceri",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "Găsești strategii și management pe Analize Financiare, o platformă din România. Conținutul este actualizat regulat, Informații actualizate și comunicate de presă la analize-financiare.ro.",
+      "description_short": "Analize Financiare prezintă strategii și management din România.",
+      "description_small": "Analize Financiare: strategii din afaceri.",
+      "keywords": [
+        "antreprenoriat",
+        "dezvoltare afaceri",
+        "investiții",
+        "strategii business"
+      ]
     },
     {
       "slug": "antreprenorclub-ro",
@@ -729,7 +1480,17 @@
       "rss": "https://antreprenorclub.ro/feed/",
       "category": "Afaceri",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "Antreprenorclub aduce afaceri și strategii pentru antreprenori publicul român. Informațiile sunt relevante și actualizate, Pentru comunicate de presă, accesează antreprenorclub.ro.",
+      "description_short": "Antreprenorclub este o sursă de afaceri și strategii.",
+      "description_small": "Antreprenorclub - afaceri din România.",
+      "keywords": [
+        "antreprenoriat",
+        "dezvoltare afaceri",
+        "investiții",
+        "strategii business",
+        "servicii comunicare"
+      ]
     },
     {
       "slug": "anuntimm-ro",
@@ -738,7 +1499,16 @@
       "rss": "https://anuntimm.ro/feed/",
       "category": "Afaceri",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "Prin Anuntimm poți descoperi business și management din domeniul afaceri. Conținutul este actualizat regulat, Explorează anuntimm.ro pentru mai multe informații despre afaceri.",
+      "description_short": "Anuntimm: business și management din România.",
+      "description_small": "Anuntimm - business.",
+      "keywords": [
+        "antreprenoriat",
+        "dezvoltare afaceri",
+        "investiții",
+        "strategii business"
+      ]
     },
     {
       "slug": "arta-constructiilor-ro",
@@ -747,7 +1517,16 @@
       "rss": "https://arta-constructiilor.ro/feed/",
       "category": "Construcții & Casă",
       "mastodon": "https://social.5th.ro/@ArtaConstructiilor",
-      "mastodon_rss": "https://social.5th.ro/@ArtaConstructiilor.rss"
+      "mastodon_rss": "https://social.5th.ro/@ArtaConstructiilor.rss",
+      "description_long": "La Arta Constructiilor poți accesa amenajări și soluții din construcții & casă. Conținutul este actualizat regulat, arta-constructiilor.ro publică comunicate de presă din domeniul construcții & casă.",
+      "description_short": "Arta Constructiilor oferă amenajări și soluții din construcții & casă.",
+      "description_small": "Arta Constructiilor - amenajări.",
+      "keywords": [
+        "construcții durabile",
+        "amenajări interioare",
+        "renovări",
+        "design interior"
+      ]
     },
     {
       "slug": "banat-news-ro",
@@ -756,7 +1535,17 @@
       "rss": "https://banat-news.ro/feed/",
       "category": "Știri & Societate",
       "mastodon": "https://social.5th.ro/@banat",
-      "mastodon_rss": "https://social.5th.ro/@banat.rss"
+      "mastodon_rss": "https://social.5th.ro/@banat.rss",
+      "description_long": "Banat News prezintă comunitate și actualități din regiune din piața românească. Cu focus pe regiunea Banat, Accesează banat-news.ro pentru comunicate de presă și informații actualizate.",
+      "description_short": "Banat News pentru comunitate și actualități din știri & societate.",
+      "description_small": "Banat News pentru comunitate și actualități.",
+      "keywords": [
+        "știri locale",
+        "evenimente sociale",
+        "actualități",
+        "informații publice",
+        "știri actualizate"
+      ]
     },
     {
       "slug": "bizwoman-ro",
@@ -765,7 +1554,16 @@
       "rss": "https://bizwoman.ro/feed/",
       "category": "Diverse",
       "mastodon": "https://social.5th.ro/@BIZWoman",
-      "mastodon_rss": "https://social.5th.ro/@BIZWoman.rss"
+      "mastodon_rss": "https://social.5th.ro/@BIZWoman.rss",
+      "description_long": "Bizwoman prezintă ghiduri și informații despre diverse din piața românească. Comunicate de presă și informații relevante disponibile pe bizwoman.ro.",
+      "description_short": "Bizwoman pentru ghiduri și informații din diverse.",
+      "description_small": "Bizwoman - ghiduri și informații.",
+      "keywords": [
+        "informații generale",
+        "conținut divers",
+        "articole",
+        "resurse utile"
+      ]
     },
     {
       "slug": "brasov-azi-ro",
@@ -774,7 +1572,16 @@
       "rss": "https://brasov-azi.ro/feed/",
       "category": "Știri & Societate",
       "mastodon": "https://social.5th.ro/@brasov",
-      "mastodon_rss": "https://social.5th.ro/@brasov.rss"
+      "mastodon_rss": "https://social.5th.ro/@brasov.rss",
+      "description_long": "Găsești societate și comunitate pe Brasov Azi, o platformă din România. Cu focus pe regiunea Brasov, La brasov-azi.ro poți accesa comunicate de presă și conținut din știri & societate.",
+      "description_short": "Brasov Azi prezintă societate și comunitate din România.",
+      "description_small": "Brasov Azi - societate și comunitate.",
+      "keywords": [
+        "știri locale",
+        "evenimente sociale",
+        "actualități",
+        "informații publice"
+      ]
     },
     {
       "slug": "bucovina-news-ro",
@@ -783,7 +1590,17 @@
       "rss": "https://bucovina-news.ro/feed/",
       "category": "Știri & Societate",
       "mastodon": "https://social.5th.ro/@bucovina",
-      "mastodon_rss": "https://social.5th.ro/@bucovina.rss"
+      "mastodon_rss": "https://social.5th.ro/@bucovina.rss",
+      "description_long": "Bucovina News conectează utilizatorii cu comunitate și societate despre evenimente. Cu focus pe regiunea Bucovina, Explorează bucovina-news.ro pentru mai multe informații despre știri & societate.",
+      "description_short": "Bucovina News pentru comunitate și societate din știri &",
+      "description_small": "Bucovina News - știri & societate din România.",
+      "keywords": [
+        "știri locale",
+        "evenimente sociale",
+        "actualități",
+        "informații publice",
+        "știri actualizate"
+      ]
     },
     {
       "slug": "casa-moderna-ro",
@@ -792,7 +1609,16 @@
       "rss": "https://casa-moderna.ro/feed/",
       "category": "Construcții & Casă",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "Prin Casa Moderna poți descoperi design și renovări din domeniul construcții & casă. Informațiile sunt relevante și actualizate, Pentru comunicate de presă, accesează casa-moderna.ro.",
+      "description_short": "Casa Moderna: design și renovări din România.",
+      "description_small": "Casa Moderna - construcții & casă din România.",
+      "keywords": [
+        "construcții durabile",
+        "amenajări interioare",
+        "renovări",
+        "design interior"
+      ]
     },
     {
       "slug": "casa-sustenabila-ro",
@@ -801,7 +1627,16 @@
       "rss": "https://casa-sustenabila.ro/feed/",
       "category": "Construcții & Casă",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "Site-ul Casa Sustenabila oferă construcții și soluții pentru publicul din România. Conținutul este actualizat regulat, Vizitează casa-sustenabila.ro pentru detalii complete și comunicate de presă relevante.",
+      "description_short": "Casa Sustenabila este o sursă de construcții și soluții.",
+      "description_small": "Casa Sustenabila - construcții.",
+      "keywords": [
+        "construcții durabile",
+        "amenajări interioare",
+        "renovări",
+        "design interior"
+      ]
     },
     {
       "slug": "case-verzi-ro",
@@ -810,7 +1645,16 @@
       "rss": "https://case-verzi.ro/feed/",
       "category": "Construcții & Casă",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "Case Verzi este un hub pentru renovări și construcții case-verzi.ro publică comunicate de presă din domeniul construcții & casă.",
+      "description_short": "Case Verzi renovări și construcții din & casă.",
+      "description_small": "Case Verzi: renovări din România.",
+      "keywords": [
+        "construcții durabile",
+        "amenajări interioare",
+        "renovări",
+        "design interior"
+      ]
     },
     {
       "slug": "ceamai-ro",
@@ -819,7 +1663,16 @@
       "rss": "https://ceamai.ro/feed/",
       "category": "Știri & Societate",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "Ceamai te ajută să descoperi actualități și evenimente din regiune. Informațiile sunt relevante și actualizate, Accesează ceamai.ro pentru comunicate de presă și informații actualizate.",
+      "description_short": "Ceamai - comunicate de presă despre știri & societate.",
+      "description_small": "Ceamai - știri & societate din România.",
+      "keywords": [
+        "știri locale",
+        "evenimente sociale",
+        "actualități",
+        "informații publice"
+      ]
     },
     {
       "slug": "cetateanmodel-ro",
@@ -828,7 +1681,16 @@
       "rss": "https://cetateanmodel.ro/feed/",
       "category": "Știri & Societate",
       "mastodon": "https://social.5th.ro/@cetatean_model",
-      "mastodon_rss": "https://social.5th.ro/@cetatean_model.rss"
+      "mastodon_rss": "https://social.5th.ro/@cetatean_model.rss",
+      "description_long": "Prin Cetateanmodel poți descoperi comunitate și societate din domeniul știri & Conținutul este actualizat regulat, Site-ul cetateanmodel.ro oferă comunicate de presă actualizate și informații relevante.",
+      "description_short": "Cetateanmodel: comunitate și societate din România.",
+      "description_small": "Cetateanmodel: comunitate din știri & societate.",
+      "keywords": [
+        "știri locale",
+        "evenimente sociale",
+        "actualități",
+        "informații publice"
+      ]
     },
     {
       "slug": "clasici-ro",
@@ -837,7 +1699,16 @@
       "rss": "https://clasici.ro/feed/",
       "category": "Diverse",
       "mastodon": "https://social.5th.ro/@clasici",
-      "mastodon_rss": "https://social.5th.ro/@clasici.rss"
+      "mastodon_rss": "https://social.5th.ro/@clasici.rss",
+      "description_long": "Informații valoroase despre sfaturi și resurse pe Clasici din România. Conținutul este actualizat regulat, Accesează clasici.ro pentru comunicate de presă și informații actualizate.",
+      "description_short": "Clasici conectează cu sfaturi și resurse.",
+      "description_small": "Clasici: sfaturi din diverse.",
+      "keywords": [
+        "informații generale",
+        "conținut divers",
+        "articole",
+        "resurse utile"
+      ]
     },
     {
       "slug": "clinic-sanatos-ro",
@@ -846,7 +1717,17 @@
       "rss": "https://clinic-sanatos.ro/feed/",
       "category": "Diverse",
       "mastodon": "https://social.5th.ro/@clinic_sanatos",
-      "mastodon_rss": "https://social.5th.ro/@clinic_sanatos.rss"
+      "mastodon_rss": "https://social.5th.ro/@clinic_sanatos.rss",
+      "description_long": "Conținut despre și sfaturi la Clinic Sanatos pentru utilizatori din România. Conținutul este actualizat regulat, Informații actualizate și comunicate de presă la clinic-sanatos.ro.",
+      "description_short": "Platformă de conținut și sfaturi: Clinic Sanatos.",
+      "description_small": "Clinic Sanatos - conținut.",
+      "keywords": [
+        "informații generale",
+        "conținut divers",
+        "articole",
+        "resurse utile",
+        "consiliere medicală"
+      ]
     },
     {
       "slug": "cluj-azi-ro",
@@ -855,7 +1736,16 @@
       "rss": "https://cluj-azi.ro/feed/",
       "category": "Știri & Societate",
       "mastodon": "https://social.5th.ro/@cluj",
-      "mastodon_rss": "https://social.5th.ro/@cluj.rss"
+      "mastodon_rss": "https://social.5th.ro/@cluj.rss",
+      "description_long": "Cluj Azi este dedicat știri locale și evenimente din regiune. Cu focus pe regiunea Cluj, Accesează cluj-azi.ro pentru comunicate de presă și informații actualizate.",
+      "description_short": "Cluj Azi - știri locale și evenimente din România.",
+      "description_small": "Cluj Azi oferă știri locale și evenimente.",
+      "keywords": [
+        "știri locale",
+        "evenimente sociale",
+        "actualități",
+        "informații publice"
+      ]
     },
     {
       "slug": "comunicatimm-ro",
@@ -864,7 +1754,17 @@
       "rss": "https://comunicatimm.ro/feed/",
       "category": "Afaceri",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "Pe comunicatimm.ro descoperi strategii și business din piața românească. Detalii și comunicate de presă pe comunicatimm.ro.",
+      "description_short": "Comunicatimm prezintă strategii și business din România.",
+      "description_small": "Comunicatimm: strategii din România.",
+      "keywords": [
+        "antreprenoriat",
+        "dezvoltare afaceri",
+        "investiții",
+        "strategii business",
+        "servicii comunicare"
+      ]
     },
     {
       "slug": "comunicatpresa-9z-ro",
@@ -873,7 +1773,17 @@
       "rss": "https://comunicatpresa.9z.ro/feed/",
       "category": "PR & Marketing",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "La Comunicatpresa. 9z poți accesa relații publice și servicii PR din pr & marketing. Conținutul este actualizat regulat, Pentru comunicate de presă, accesează comunicatpresa. 9z.ro.",
+      "description_short": "Comunicatpresa. 9z oferă relații publice și servicii PR din pr & marketing.",
+      "description_small": "Comunicatpresa. 9z - relații publice.",
+      "keywords": [
+        "comunicate de presă",
+        "distribuție comunicate",
+        "relații publice",
+        "campanii PR",
+        "servicii comunicare"
+      ]
     },
     {
       "slug": "constanta-azi-ro",
@@ -882,7 +1792,16 @@
       "rss": "https://constanta-azi.ro/feed/",
       "category": "Știri & Societate",
       "mastodon": "https://social.5th.ro/@constanta",
-      "mastodon_rss": "https://social.5th.ro/@constanta.rss"
+      "mastodon_rss": "https://social.5th.ro/@constanta.rss",
+      "description_long": "Constanta Azi oferă acces la societate și știri locale pentru comunitate. Cu focus pe regiunea Constanta, Site-ul constanta-azi.ro oferă comunicate de presă actualizate și informații relevante.",
+      "description_short": "Constanta Azi societate și știri locale din &",
+      "description_small": "Constanta Azi pentru societate și știri locale.",
+      "keywords": [
+        "știri locale",
+        "evenimente sociale",
+        "actualități",
+        "informații publice"
+      ]
     },
     {
       "slug": "constructii360-ro",
@@ -891,7 +1810,17 @@
       "rss": "https://constructii360.ro/feed/",
       "category": "Construcții & Casă",
       "mastodon": "https://social.5th.ro/@constructii360",
-      "mastodon_rss": "https://social.5th.ro/@constructii360.rss"
+      "mastodon_rss": "https://social.5th.ro/@constructii360.rss",
+      "description_long": "Conținut despre casă și renovări la Constructii360 pentru utilizatori din România. Oferă o abordare completă a domeniului, Comunicate de presă și informații relevante disponibile pe constructii360.ro.",
+      "description_short": "Platformă de casă și renovări: Constructii360.",
+      "description_small": "Constructii360 - comunicate de presă despre construcții & casă.",
+      "keywords": [
+        "construcții durabile",
+        "amenajări interioare",
+        "renovări",
+        "design interior",
+        "servicii complete"
+      ]
     },
     {
       "slug": "e-agentie-ro",
@@ -900,7 +1829,16 @@
       "rss": "https://e-agentie.ro/feed/",
       "category": "Diverse",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "E Agentie este un hub pentru resurse și conținut despre diverse. Materialele sunt organizate pentru acces ușor, Vizitează e-agentie.ro pentru detalii complete și comunicate de presă relevante.",
+      "description_short": "E Agentie resurse și conținut din diverse.",
+      "description_small": "E Agentie pentru resurse și conținut.",
+      "keywords": [
+        "informații generale",
+        "conținut divers",
+        "articole",
+        "resurse utile"
+      ]
     },
     {
       "slug": "eadvertorial-ro",
@@ -909,7 +1847,16 @@
       "rss": "https://eadvertorial.ro/feed/",
       "category": "PR & Marketing",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "Eadvertorial oferă acces la servicii PR și promovare în domeniul PR. Informațiile sunt relevante și actualizate, Explorează eadvertorial.ro pentru mai multe informații despre pr & marketing.",
+      "description_short": "Eadvertorial servicii PR și promovare din pr & marketing.",
+      "description_small": "Eadvertorial - comunicate de presă despre pr & marketing.",
+      "keywords": [
+        "comunicate de presă",
+        "distribuție comunicate",
+        "relații publice",
+        "campanii PR"
+      ]
     },
     {
       "slug": "e-advertorial-ro",
@@ -918,7 +1865,16 @@
       "rss": "https://e-advertorial.ro/feed/",
       "category": "PR & Marketing",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "Explorează E Advertorial pentru campanii media și relații publice din domeniul pr & marketing. Conținutul este actualizat regulat, Accesează e-advertorial.ro pentru comunicate de presă și informații actualizate.",
+      "description_short": "Platformă de campanii media și relații publice: E Advertorial.",
+      "description_small": "E Advertorial - campanii media.",
+      "keywords": [
+        "comunicate de presă",
+        "distribuție comunicate",
+        "relații publice",
+        "campanii PR"
+      ]
     },
     {
       "slug": "eadvertoriale-ro",
@@ -927,7 +1883,16 @@
       "rss": "https://eadvertoriale.ro/feed/",
       "category": "PR & Marketing",
       "mastodon": null,
-      "mastodon_rss": null
+      "mastodon_rss": null,
+      "description_long": "Eadvertoriale este o sursă de comunicate de presă și distribuție pentru campanii din România. Informații actualizate și comunicate de presă la eadvertoriale.ro.",
+      "description_short": "Eadvertoriale - comunicate de presă și distribuție din România.",
+      "description_small": "Eadvertoriale: comunicate de presă din România.",
+      "keywords": [
+        "comunicate de presă",
+        "distribuție comunicate",
+        "relații publice",
+        "campanii PR"
+      ]
     }
   ]
 }
