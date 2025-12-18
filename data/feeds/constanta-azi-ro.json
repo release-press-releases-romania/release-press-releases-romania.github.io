@@ -1,0 +1,17 @@
+{
+  "slug": "constanta-azi-ro",
+  "site": {
+    "name": "Constanta Azi",
+    "url": "https://constanta-azi.ro/",
+    "category": "Știri & Societate",
+    "rss": "https://constanta-azi.ro/feed/"
+  },
+  "mastodon": {
+    "url": "https://social.5th.ro/@constanta",
+    "rss": "https://social.5th.ro/@constanta.rss"
+  },
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

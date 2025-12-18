@@ -1,0 +1,17 @@
+{
+  "slug": "solutii-constructii-ro",
+  "site": {
+    "name": "Solutii Constructii",
+    "url": "https://solutii-constructii.ro/",
+    "category": "Construcții & Casă",
+    "rss": "https://solutii-constructii.ro/feed/"
+  },
+  "mastodon": {
+    "url": "https://social.5th.ro/@SolutiiConstructii",
+    "rss": "https://social.5th.ro/@SolutiiConstructii.rss"
+  },
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

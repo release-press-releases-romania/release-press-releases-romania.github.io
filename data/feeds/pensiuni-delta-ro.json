@@ -1,0 +1,14 @@
+{
+  "slug": "pensiuni-delta-ro",
+  "site": {
+    "name": "Pensiuni Delta",
+    "url": "https://pensiuni-delta.ro/",
+    "category": "Turism & Delta",
+    "rss": "https://pensiuni-delta.ro/feed/"
+  },
+  "mastodon": null,
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

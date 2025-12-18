@@ -1,0 +1,17 @@
+{
+  "slug": "brasov-azi-ro",
+  "site": {
+    "name": "Brasov Azi",
+    "url": "https://brasov-azi.ro/",
+    "category": "Știri & Societate",
+    "rss": "https://brasov-azi.ro/feed/"
+  },
+  "mastodon": {
+    "url": "https://social.5th.ro/@brasov",
+    "rss": "https://social.5th.ro/@brasov.rss"
+  },
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "e-nume-ro",
+  "site": {
+    "name": "E Nume",
+    "url": "https://e-nume.ro/",
+    "category": "Diverse",
+    "rss": "https://e-nume.ro/feed/"
+  },
+  "mastodon": null,
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

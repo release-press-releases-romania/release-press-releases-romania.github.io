@@ -1,0 +1,14 @@
+{
+  "slug": "recomandari-medicale-ro",
+  "site": {
+    "name": "Recomandari Medicale",
+    "url": "https://recomandari-medicale.ro/",
+    "category": "Sănătate",
+    "rss": "https://recomandari-medicale.ro/feed/"
+  },
+  "mastodon": null,
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

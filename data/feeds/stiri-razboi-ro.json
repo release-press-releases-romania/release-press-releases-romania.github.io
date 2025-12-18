@@ -1,0 +1,14 @@
+{
+  "slug": "stiri-razboi-ro",
+  "site": {
+    "name": "Stiri Razboi",
+    "url": "https://stiri-razboi.ro/",
+    "category": "Știri & Societate",
+    "rss": "https://stiri-razboi.ro/feed/"
+  },
+  "mastodon": null,
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

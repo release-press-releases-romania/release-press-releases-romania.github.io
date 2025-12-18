@@ -1,0 +1,14 @@
+{
+  "slug": "medic360-ro",
+  "site": {
+    "name": "Medic360",
+    "url": "https://medic360.ro/",
+    "category": "Sănătate",
+    "rss": "https://medic360.ro/feed/"
+  },
+  "mastodon": null,
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

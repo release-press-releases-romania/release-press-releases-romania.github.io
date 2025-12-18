@@ -1,0 +1,14 @@
+{
+  "slug": "traim-sanatos-ro",
+  "site": {
+    "name": "Traim Sanatos",
+    "url": "https://traim-sanatos.ro/",
+    "category": "Sănătate",
+    "rss": "https://traim-sanatos.ro/feed/"
+  },
+  "mastodon": null,
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

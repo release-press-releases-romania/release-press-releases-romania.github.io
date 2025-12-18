@@ -1,0 +1,14 @@
+{
+  "slug": "sfatul-doctorului-ro",
+  "site": {
+    "name": "Sfatul Doctorului",
+    "url": "https://sfatul-doctorului.ro/",
+    "category": "Sănătate",
+    "rss": "https://sfatul-doctorului.ro/feed/"
+  },
+  "mastodon": null,
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

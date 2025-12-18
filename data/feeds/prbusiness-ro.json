@@ -1,0 +1,17 @@
+{
+  "slug": "prbusiness-ro",
+  "site": {
+    "name": "Prbusiness",
+    "url": "https://prbusiness.ro/",
+    "category": "Afaceri",
+    "rss": "https://prbusiness.ro/feed/"
+  },
+  "mastodon": {
+    "url": "https://social.5th.ro/@prbusiness",
+    "rss": "https://social.5th.ro/@prbusiness.rss"
+  },
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

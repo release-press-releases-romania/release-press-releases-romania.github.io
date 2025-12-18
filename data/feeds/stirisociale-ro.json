@@ -1,0 +1,17 @@
+{
+  "slug": "stirisociale-ro",
+  "site": {
+    "name": "Stirisociale",
+    "url": "https://stirisociale.ro/",
+    "category": "Știri & Societate",
+    "rss": "https://stirisociale.ro/feed/"
+  },
+  "mastodon": {
+    "url": "https://social.5th.ro/@stiri_sociale",
+    "rss": "https://social.5th.ro/@stiri_sociale.rss"
+  },
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

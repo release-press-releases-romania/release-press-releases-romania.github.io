@@ -1,0 +1,14 @@
+{
+  "slug": "sanatate-mentala-ro",
+  "site": {
+    "name": "Sanatate Mentala",
+    "url": "https://sanatate-mentala.ro/",
+    "category": "Sănătate",
+    "rss": "https://sanatate-mentala.ro/feed/"
+  },
+  "mastodon": null,
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "topantreprenor-ro",
+  "site": {
+    "name": "Topantreprenor",
+    "url": "https://topantreprenor.ro/",
+    "category": "Afaceri",
+    "rss": "https://topantreprenor.ro/feed/"
+  },
+  "mastodon": {
+    "url": "https://social.5th.ro/@topantreprenor",
+    "rss": "https://social.5th.ro/@topantreprenor.rss"
+  },
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

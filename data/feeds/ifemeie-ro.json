@@ -1,0 +1,17 @@
+{
+  "slug": "ifemeie-ro",
+  "site": {
+    "name": "iFemeie",
+    "url": "https://iFemeie.ro/",
+    "category": "Diverse",
+    "rss": "https://iFemeie.ro/feed/"
+  },
+  "mastodon": {
+    "url": "https://social.5th.ro/@iFemeie",
+    "rss": "https://social.5th.ro/@iFemeie.rss"
+  },
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

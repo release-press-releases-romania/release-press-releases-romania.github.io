@@ -1,0 +1,17 @@
+{
+  "slug": "ziar360-ro",
+  "site": {
+    "name": "Ziar360",
+    "url": "https://ziar360.ro/",
+    "category": "Știri & Societate",
+    "rss": "https://ziar360.ro/feed/"
+  },
+  "mastodon": {
+    "url": "https://social.5th.ro/@ziar360",
+    "rss": "https://social.5th.ro/@ziar360.rss"
+  },
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

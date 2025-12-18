@@ -1,0 +1,14 @@
+{
+  "slug": "e-it-ro",
+  "site": {
+    "name": "E It",
+    "url": "https://e-it.ro/",
+    "category": "Tehnologie & Energie",
+    "rss": "https://e-it.ro/feed/"
+  },
+  "mastodon": null,
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

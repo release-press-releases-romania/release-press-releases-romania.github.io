@@ -1,0 +1,14 @@
+{
+  "slug": "antreprenorclub-ro",
+  "site": {
+    "name": "Antreprenorclub",
+    "url": "https://antreprenorclub.ro/",
+    "category": "Afaceri",
+    "rss": "https://antreprenorclub.ro/feed/"
+  },
+  "mastodon": null,
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

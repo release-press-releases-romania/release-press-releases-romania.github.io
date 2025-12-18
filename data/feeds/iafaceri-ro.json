@@ -1,0 +1,14 @@
+{
+  "slug": "iafaceri-ro",
+  "site": {
+    "name": "iAfaceri",
+    "url": "https://iAfaceri.ro/",
+    "category": "Afaceri",
+    "rss": "https://iAfaceri.ro/feed/"
+  },
+  "mastodon": null,
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

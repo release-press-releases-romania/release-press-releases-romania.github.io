@@ -1,0 +1,14 @@
+{
+  "slug": "ceamai-ro",
+  "site": {
+    "name": "Ceamai",
+    "url": "https://ceamai.ro/",
+    "category": "Știri & Societate",
+    "rss": "https://ceamai.ro/feed/"
+  },
+  "mastodon": null,
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

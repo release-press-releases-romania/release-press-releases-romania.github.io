@@ -1,0 +1,17 @@
+{
+  "slug": "e-faq-ro",
+  "site": {
+    "name": "E Faq",
+    "url": "https://e-faq.ro/",
+    "category": "Diverse",
+    "rss": "https://e-faq.ro/feed/"
+  },
+  "mastodon": {
+    "url": "https://social.5th.ro/@efaq",
+    "rss": "https://social.5th.ro/@efaq.rss"
+  },
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

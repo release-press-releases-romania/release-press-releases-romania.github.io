@@ -1,0 +1,17 @@
+{
+  "slug": "cutremurul-ro",
+  "site": {
+    "name": "Cutremurul",
+    "url": "https://cutremurul.ro/",
+    "category": "Diverse",
+    "rss": "https://cutremurul.ro/feed/"
+  },
+  "mastodon": {
+    "url": "https://social.5th.ro/@cutremur",
+    "rss": "https://social.5th.ro/@cutremur.rss"
+  },
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

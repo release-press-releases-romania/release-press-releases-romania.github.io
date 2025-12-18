@@ -1,0 +1,17 @@
+{
+  "slug": "dobrogea-news-ro",
+  "site": {
+    "name": "Dobrogea News",
+    "url": "https://dobrogea-news.ro/",
+    "category": "Știri & Societate",
+    "rss": "https://dobrogea-news.ro/feed/"
+  },
+  "mastodon": {
+    "url": "https://social.5th.ro/@dobrogea",
+    "rss": "https://social.5th.ro/@dobrogea.rss"
+  },
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

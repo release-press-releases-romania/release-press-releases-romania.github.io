@@ -1,0 +1,14 @@
+{
+  "slug": "irezidential-ro",
+  "site": {
+    "name": "Irezidential",
+    "url": "https://irezidential.ro/",
+    "category": "Afaceri",
+    "rss": "https://irezidential.ro/feed/"
+  },
+  "mastodon": null,
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

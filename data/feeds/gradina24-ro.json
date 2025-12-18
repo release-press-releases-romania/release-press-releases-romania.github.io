@@ -1,0 +1,14 @@
+{
+  "slug": "gradina24-ro",
+  "site": {
+    "name": "Gradina24",
+    "url": "https://gradina24.ro/",
+    "category": "Diverse",
+    "rss": "https://gradina24.ro/feed/"
+  },
+  "mastodon": null,
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

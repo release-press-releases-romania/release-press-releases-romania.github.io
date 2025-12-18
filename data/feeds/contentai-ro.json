@@ -1,0 +1,14 @@
+{
+  "slug": "contentai-ro",
+  "site": {
+    "name": "Contentai",
+    "url": "https://contentai.ro/",
+    "category": "PR & Marketing",
+    "rss": "https://contentai.ro/feed/"
+  },
+  "mastodon": null,
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

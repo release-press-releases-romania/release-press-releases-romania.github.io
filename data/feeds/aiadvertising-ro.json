@@ -1,0 +1,17 @@
+{
+  "slug": "aiadvertising-ro",
+  "site": {
+    "name": "Aiadvertising",
+    "url": "https://aiadvertising.ro/",
+    "category": "Diverse",
+    "rss": "https://aiadvertising.ro/feed/"
+  },
+  "mastodon": {
+    "url": "https://social.5th.ro/@ai_advertising",
+    "rss": "https://social.5th.ro/@ai_advertising.rss"
+  },
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

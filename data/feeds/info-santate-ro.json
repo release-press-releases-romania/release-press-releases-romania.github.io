@@ -1,0 +1,14 @@
+{
+  "slug": "info-santate-ro",
+  "site": {
+    "name": "Info Santate",
+    "url": "https://info-santate.ro/",
+    "category": "Sănătate",
+    "rss": "https://info-santate.ro/feed/"
+  },
+  "mastodon": null,
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

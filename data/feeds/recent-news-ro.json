@@ -1,0 +1,17 @@
+{
+  "slug": "recent-news-ro",
+  "site": {
+    "name": "Recent News",
+    "url": "https://recent-news.ro/",
+    "category": "Știri & Societate",
+    "rss": "https://recent-news.ro/feed/"
+  },
+  "mastodon": {
+    "url": "https://social.5th.ro/@recent_news",
+    "rss": "https://social.5th.ro/@recent_news.rss"
+  },
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

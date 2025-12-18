@@ -1,0 +1,17 @@
+{
+  "slug": "clinic-sanatos-ro",
+  "site": {
+    "name": "Clinic Sanatos",
+    "url": "https://clinic-sanatos.ro/",
+    "category": "Diverse",
+    "rss": "https://clinic-sanatos.ro/feed/"
+  },
+  "mastodon": {
+    "url": "https://social.5th.ro/@clinic_sanatos",
+    "rss": "https://social.5th.ro/@clinic_sanatos.rss"
+  },
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

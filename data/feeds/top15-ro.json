@@ -1,0 +1,17 @@
+{
+  "slug": "top15-ro",
+  "site": {
+    "name": "Top15",
+    "url": "https://top15.ro/",
+    "category": "Diverse",
+    "rss": "https://top15.ro/feed/"
+  },
+  "mastodon": {
+    "url": "https://social.5th.ro/@top",
+    "rss": "https://social.5th.ro/@top.rss"
+  },
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

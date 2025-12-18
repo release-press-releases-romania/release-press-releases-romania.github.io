@@ -1,0 +1,17 @@
+{
+  "slug": "arta-constructiilor-ro",
+  "site": {
+    "name": "Arta Constructiilor",
+    "url": "https://arta-constructiilor.ro/",
+    "category": "Construcții & Casă",
+    "rss": "https://arta-constructiilor.ro/feed/"
+  },
+  "mastodon": {
+    "url": "https://social.5th.ro/@ArtaConstructiilor",
+    "rss": "https://social.5th.ro/@ArtaConstructiilor.rss"
+  },
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

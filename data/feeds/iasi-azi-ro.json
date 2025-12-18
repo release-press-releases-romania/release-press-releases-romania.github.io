@@ -1,0 +1,17 @@
+{
+  "slug": "iasi-azi-ro",
+  "site": {
+    "name": "Iasi Azi",
+    "url": "https://iasi-azi.ro/",
+    "category": "Știri & Societate",
+    "rss": "https://iasi-azi.ro/feed/"
+  },
+  "mastodon": {
+    "url": "https://social.5th.ro/@Iasi",
+    "rss": "https://social.5th.ro/@Iasi.rss"
+  },
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

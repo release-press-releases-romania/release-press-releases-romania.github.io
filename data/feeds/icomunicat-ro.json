@@ -1,0 +1,14 @@
+{
+  "slug": "icomunicat-ro",
+  "site": {
+    "name": "iComunicat",
+    "url": "https://iComunicat.ro/",
+    "category": "PR & Marketing",
+    "rss": "https://iComunicat.ro/feed/"
+  },
+  "mastodon": null,
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

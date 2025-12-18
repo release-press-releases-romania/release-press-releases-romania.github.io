@@ -1,0 +1,14 @@
+{
+  "slug": "tvaz-ro",
+  "site": {
+    "name": "TVaz",
+    "url": "https://TVaz.ro/",
+    "category": "Diverse",
+    "rss": "https://TVaz.ro/feed/"
+  },
+  "mastodon": null,
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

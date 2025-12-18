@@ -1,0 +1,17 @@
+{
+  "slug": "ienergie-ro",
+  "site": {
+    "name": "iEnergie",
+    "url": "https://iEnergie.ro/",
+    "category": "Tehnologie & Energie",
+    "rss": "https://iEnergie.ro/feed/"
+  },
+  "mastodon": {
+    "url": "https://social.5th.ro/@ienergie",
+    "rss": "https://social.5th.ro/@ienergie.rss"
+  },
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

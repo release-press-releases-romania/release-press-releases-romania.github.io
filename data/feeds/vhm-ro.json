@@ -1,0 +1,14 @@
+{
+  "slug": "vhm-ro",
+  "site": {
+    "name": "Vhm",
+    "url": "https://vhm.ro/",
+    "category": "Diverse",
+    "rss": "https://vhm.ro/feed/"
+  },
+  "mastodon": null,
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "stiri-live-ro",
+  "site": {
+    "name": "Stiri Live",
+    "url": "https://stiri-live.ro/",
+    "category": "Știri & Societate",
+    "rss": "https://stiri-live.ro/feed/"
+  },
+  "mastodon": null,
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

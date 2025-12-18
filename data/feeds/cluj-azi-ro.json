@@ -1,0 +1,17 @@
+{
+  "slug": "cluj-azi-ro",
+  "site": {
+    "name": "Cluj Azi",
+    "url": "https://cluj-azi.ro/",
+    "category": "Știri & Societate",
+    "rss": "https://cluj-azi.ro/feed/"
+  },
+  "mastodon": {
+    "url": "https://social.5th.ro/@cluj",
+    "rss": "https://social.5th.ro/@cluj.rss"
+  },
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

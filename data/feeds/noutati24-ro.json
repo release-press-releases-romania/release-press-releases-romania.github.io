@@ -1,0 +1,17 @@
+{
+  "slug": "noutati24-ro",
+  "site": {
+    "name": "Noutati24",
+    "url": "https://noutati24.ro/",
+    "category": "Diverse",
+    "rss": "https://noutati24.ro/feed/"
+  },
+  "mastodon": {
+    "url": "https://social.5th.ro/@noutati24",
+    "rss": "https://social.5th.ro/@noutati24.rss"
+  },
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

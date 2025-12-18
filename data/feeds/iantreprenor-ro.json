@@ -1,0 +1,14 @@
+{
+  "slug": "iantreprenor-ro",
+  "site": {
+    "name": "iAntreprenor",
+    "url": "https://iAntreprenor.ro/",
+    "category": "Afaceri",
+    "rss": "https://iAntreprenor.ro/feed/"
+  },
+  "mastodon": null,
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

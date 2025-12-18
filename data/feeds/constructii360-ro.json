@@ -1,0 +1,17 @@
+{
+  "slug": "constructii360-ro",
+  "site": {
+    "name": "Constructii360",
+    "url": "https://constructii360.ro/",
+    "category": "Construcții & Casă",
+    "rss": "https://constructii360.ro/feed/"
+  },
+  "mastodon": {
+    "url": "https://social.5th.ro/@constructii360",
+    "rss": "https://social.5th.ro/@constructii360.rss"
+  },
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "stomatologie360-ro",
+  "site": {
+    "name": "Stomatologie360",
+    "url": "https://stomatologie360.ro/",
+    "category": "Sănătate",
+    "rss": "https://stomatologie360.ro/feed/"
+  },
+  "mastodon": null,
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

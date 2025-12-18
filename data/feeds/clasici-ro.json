@@ -1,0 +1,17 @@
+{
+  "slug": "clasici-ro",
+  "site": {
+    "name": "Clasici",
+    "url": "https://clasici.ro/",
+    "category": "Diverse",
+    "rss": "https://clasici.ro/feed/"
+  },
+  "mastodon": {
+    "url": "https://social.5th.ro/@clasici",
+    "rss": "https://social.5th.ro/@clasici.rss"
+  },
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

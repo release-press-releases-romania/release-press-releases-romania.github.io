@@ -1,0 +1,14 @@
+{
+  "slug": "revista-antreprenorului-ro",
+  "site": {
+    "name": "Revista Antreprenorului",
+    "url": "https://revista-antreprenorului.ro/",
+    "category": "Afaceri",
+    "rss": "https://revista-antreprenorului.ro/feed/"
+  },
+  "mastodon": null,
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

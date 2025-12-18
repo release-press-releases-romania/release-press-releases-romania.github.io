@@ -1,0 +1,17 @@
+{
+  "slug": "afaceriprofi-ro",
+  "site": {
+    "name": "Afaceriprofi",
+    "url": "https://afaceriprofi.ro/",
+    "category": "Afaceri",
+    "rss": "https://afaceriprofi.ro/feed/"
+  },
+  "mastodon": {
+    "url": "https://social.5th.ro/@AfaceriProfi",
+    "rss": "https://social.5th.ro/@AfaceriProfi.rss"
+  },
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

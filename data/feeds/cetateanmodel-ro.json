@@ -1,0 +1,17 @@
+{
+  "slug": "cetateanmodel-ro",
+  "site": {
+    "name": "Cetateanmodel",
+    "url": "https://cetateanmodel.ro/",
+    "category": "Știri & Societate",
+    "rss": "https://cetateanmodel.ro/feed/"
+  },
+  "mastodon": {
+    "url": "https://social.5th.ro/@cetatean_model",
+    "rss": "https://social.5th.ro/@cetatean_model.rss"
+  },
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

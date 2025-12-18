@@ -1,0 +1,14 @@
+{
+  "slug": "ghid-sanatate-ro",
+  "site": {
+    "name": "Ghid Sanatate",
+    "url": "https://ghid-sanatate.ro/",
+    "category": "Sănătate",
+    "rss": "https://ghid-sanatate.ro/feed/"
+  },
+  "mastodon": null,
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "eratehnologica-ro",
+  "site": {
+    "name": "Eratehnologica",
+    "url": "https://EraTehnologica.ro/",
+    "category": "Tehnologie & Energie",
+    "rss": "https://EraTehnologica.ro/feed/"
+  },
+  "mastodon": {
+    "url": "https://social.5th.ro/@eratehnologica",
+    "rss": "https://social.5th.ro/@eratehnologica.rss"
+  },
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

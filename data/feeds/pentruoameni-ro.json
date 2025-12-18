@@ -1,0 +1,17 @@
+{
+  "slug": "pentruoameni-ro",
+  "site": {
+    "name": "Pentruoameni",
+    "url": "https://pentruoameni.ro/",
+    "category": "Diverse",
+    "rss": "https://pentruoameni.ro/feed/"
+  },
+  "mastodon": {
+    "url": "https://social.5th.ro/@pentruoameni",
+    "rss": "https://social.5th.ro/@pentruoameni.rss"
+  },
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

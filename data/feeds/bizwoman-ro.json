@@ -1,0 +1,17 @@
+{
+  "slug": "bizwoman-ro",
+  "site": {
+    "name": "Bizwoman",
+    "url": "https://bizwoman.ro/",
+    "category": "Diverse",
+    "rss": "https://bizwoman.ro/feed/"
+  },
+  "mastodon": {
+    "url": "https://social.5th.ro/@BIZWoman",
+    "rss": "https://social.5th.ro/@BIZWoman.rss"
+  },
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

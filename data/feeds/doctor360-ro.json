@@ -1,0 +1,17 @@
+{
+  "slug": "doctor360-ro",
+  "site": {
+    "name": "Doctor360",
+    "url": "https://doctor360.ro/",
+    "category": "Sănătate",
+    "rss": "https://doctor360.ro/feed/"
+  },
+  "mastodon": {
+    "url": "https://social.5th.ro/@doctor360",
+    "rss": "https://social.5th.ro/@doctor360.rss"
+  },
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

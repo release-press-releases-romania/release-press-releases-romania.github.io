@@ -1,0 +1,14 @@
+{
+  "slug": "e-agentie-ro",
+  "site": {
+    "name": "E Agentie",
+    "url": "https://e-agentie.ro/",
+    "category": "Diverse",
+    "rss": "https://e-agentie.ro/feed/"
+  },
+  "mastodon": null,
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

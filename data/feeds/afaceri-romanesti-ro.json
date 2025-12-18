@@ -1,0 +1,14 @@
+{
+  "slug": "afaceri-romanesti-ro",
+  "site": {
+    "name": "Afaceri ROmanesti",
+    "url": "https://afaceri-romanesti.ro/",
+    "category": "Afaceri",
+    "rss": "https://afaceri-romanesti.ro/feed/"
+  },
+  "mastodon": null,
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

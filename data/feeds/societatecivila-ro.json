@@ -1,0 +1,14 @@
+{
+  "slug": "societatecivila-ro",
+  "site": {
+    "name": "Societatecivila",
+    "url": "https://societatecivila.ro/",
+    "category": "Știri & Societate",
+    "rss": "https://societatecivila.ro/feed/"
+  },
+  "mastodon": null,
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

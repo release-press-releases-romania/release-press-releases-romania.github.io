@@ -1,0 +1,14 @@
+{
+  "slug": "idezvoltator-ro",
+  "site": {
+    "name": "Idezvoltator",
+    "url": "https://idezvoltator.ro/",
+    "category": "Afaceri",
+    "rss": "https://idezvoltator.ro/feed/"
+  },
+  "mastodon": null,
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

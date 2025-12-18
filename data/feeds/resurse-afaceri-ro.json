@@ -1,0 +1,14 @@
+{
+  "slug": "resurse-afaceri-ro",
+  "site": {
+    "name": "Resurse Afaceri",
+    "url": "https://resurse-afaceri.ro/",
+    "category": "Afaceri",
+    "rss": "https://resurse-afaceri.ro/feed/"
+  },
+  "mastodon": null,
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

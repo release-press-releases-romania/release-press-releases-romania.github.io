@@ -1,0 +1,17 @@
+{
+  "slug": "afaceritop-ro",
+  "site": {
+    "name": "Afaceritop",
+    "url": "https://afaceritop.ro/",
+    "category": "Tehnologie & Energie",
+    "rss": "https://afaceritop.ro/feed/"
+  },
+  "mastodon": {
+    "url": "https://social.5th.ro/@afaceri_top",
+    "rss": "https://social.5th.ro/@afaceri_top.rss"
+  },
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

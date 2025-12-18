@@ -1,0 +1,17 @@
+{
+  "slug": "universultech-ro",
+  "site": {
+    "name": "Universultech",
+    "url": "https://UniversulTech.ro/",
+    "category": "Tehnologie & Energie",
+    "rss": "https://UniversulTech.ro/feed/"
+  },
+  "mastodon": {
+    "url": "https://social.5th.ro/@UniversulTech",
+    "rss": "https://social.5th.ro/@UniversulTech.rss"
+  },
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

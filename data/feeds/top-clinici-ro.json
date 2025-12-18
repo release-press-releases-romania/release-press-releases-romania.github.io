@@ -1,0 +1,14 @@
+{
+  "slug": "top-clinici-ro",
+  "site": {
+    "name": "Top Clinici",
+    "url": "https://top-clinici.ro/",
+    "category": "Sănătate",
+    "rss": "https://top-clinici.ro/feed/"
+  },
+  "mastodon": null,
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

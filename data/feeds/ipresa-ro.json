@@ -1,0 +1,14 @@
+{
+  "slug": "ipresa-ro",
+  "site": {
+    "name": "iPresa",
+    "url": "https://iPresa.ro/",
+    "category": "PR & Marketing",
+    "rss": "https://iPresa.ro/feed/"
+  },
+  "mastodon": null,
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

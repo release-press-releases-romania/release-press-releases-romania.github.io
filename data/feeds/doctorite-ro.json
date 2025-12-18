@@ -1,0 +1,17 @@
+{
+  "slug": "doctorite-ro",
+  "site": {
+    "name": "Doctorite",
+    "url": "https://doctorite.ro/",
+    "category": "Sănătate",
+    "rss": "https://doctorite.ro/feed/"
+  },
+  "mastodon": {
+    "url": "https://social.5th.ro/@DoctoriteBlog",
+    "rss": "https://social.5th.ro/@DoctoriteBlog.rss"
+  },
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

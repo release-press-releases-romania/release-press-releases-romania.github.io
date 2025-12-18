@@ -1,0 +1,14 @@
+{
+  "slug": "lvu-ro",
+  "site": {
+    "name": "Lvu",
+    "url": "https://lvu.ro/",
+    "category": "Diverse",
+    "rss": "https://lvu.ro/feed/"
+  },
+  "mastodon": null,
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

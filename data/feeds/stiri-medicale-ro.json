@@ -1,0 +1,14 @@
+{
+  "slug": "stiri-medicale-ro",
+  "site": {
+    "name": "Stiri Medicale",
+    "url": "https://stiri-medicale.ro/",
+    "category": "Sănătate",
+    "rss": "https://stiri-medicale.ro/feed/"
+  },
+  "mastodon": null,
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

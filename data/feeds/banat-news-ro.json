@@ -1,0 +1,17 @@
+{
+  "slug": "banat-news-ro",
+  "site": {
+    "name": "Banat News",
+    "url": "https://banat-news.ro/",
+    "category": "Știri & Societate",
+    "rss": "https://banat-news.ro/feed/"
+  },
+  "mastodon": {
+    "url": "https://social.5th.ro/@banat",
+    "rss": "https://social.5th.ro/@banat.rss"
+  },
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

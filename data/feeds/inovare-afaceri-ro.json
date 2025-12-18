@@ -1,0 +1,14 @@
+{
+  "slug": "inovare-afaceri-ro",
+  "site": {
+    "name": "Inovare Afaceri",
+    "url": "https://inovare-afaceri.ro/",
+    "category": "Afaceri",
+    "rss": "https://inovare-afaceri.ro/feed/"
+  },
+  "mastodon": null,
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "partizani-ro",
+  "site": {
+    "name": "Partizani",
+    "url": "https://partizani.ro/",
+    "category": "Turism & Delta",
+    "rss": "https://partizani.ro/feed/"
+  },
+  "mastodon": {
+    "url": "https://social.5th.ro/@Partizani",
+    "rss": "https://social.5th.ro/@Partizani.rss"
+  },
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

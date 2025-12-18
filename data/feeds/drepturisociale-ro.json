@@ -1,0 +1,14 @@
+{
+  "slug": "drepturisociale-ro",
+  "site": {
+    "name": "Drepturisociale",
+    "url": "https://drepturisociale.ro/",
+    "category": "Știri & Societate",
+    "rss": "https://drepturisociale.ro/feed/"
+  },
+  "mastodon": null,
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

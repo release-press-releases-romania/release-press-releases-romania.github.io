@@ -1,0 +1,17 @@
+{
+  "slug": "femeiaz-ro",
+  "site": {
+    "name": "Femeiaz",
+    "url": "https://femeiaz.ro/",
+    "category": "Diverse",
+    "rss": "https://femeiaz.ro/feed/"
+  },
+  "mastodon": {
+    "url": "https://social.5th.ro/@femeiAZ",
+    "rss": "https://social.5th.ro/@femeiAZ.rss"
+  },
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "femeie-antreprenor-ro",
+  "site": {
+    "name": "Femeie Antreprenor",
+    "url": "https://femeie-antreprenor.ro/",
+    "category": "Afaceri",
+    "rss": "https://femeie-antreprenor.ro/feed/"
+  },
+  "mastodon": {
+    "url": "https://social.5th.ro/@femeie_antreprenor",
+    "rss": "https://social.5th.ro/@femeie_antreprenor.rss"
+  },
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

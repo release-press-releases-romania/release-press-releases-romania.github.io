@@ -1,0 +1,14 @@
+{
+  "slug": "excursie-delta-ro",
+  "site": {
+    "name": "Excursie Delta",
+    "url": "https://excursie-delta.ro/",
+    "category": "Turism & Delta",
+    "rss": "https://excursie-delta.ro/feed/"
+  },
+  "mastodon": null,
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}
