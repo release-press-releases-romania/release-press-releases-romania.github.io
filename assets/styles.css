@@ -665,6 +665,7 @@ small{
   margin: 0 0 28px 0;
   word-wrap: break-word;
   overflow-wrap: break-word;
+  text-align: center;
 }
 .categories-grid{
   display:grid;
@@ -707,6 +708,7 @@ small{
   box-shadow: var(--shadow);
   text-decoration: none;
   color: var(--text);
+  margin: 0 auto; /* Center individual buttons */
 }
 .category-btn:hover, .category-btn:focus{
   transform: translateY(-2px);
