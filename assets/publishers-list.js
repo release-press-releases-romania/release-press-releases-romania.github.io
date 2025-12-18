@@ -38,9 +38,17 @@
       <span class="tag">${category}</span>
     `;
     
-    // Extract domain from URL
-    const siteUrl = (s.url||"").replace(/^https?:\/\//,"").replace(/\/$/,"");
-    const domainName = escapeHtml(siteUrl || s.slug);
+    // Extract domain from URL - convert slug to domain format if URL missing
+    let domainName = "";
+    if(s.url) {
+      domainName = (s.url||"").replace(/^https?:\/\//,"").replace(/\/$/,"");
+    } else if(s.slug) {
+      // Convert slug to domain format: "partizani-ro" -> "partizani.ro", "top-clinici-ro" -> "top-clinici.ro"
+      domainName = s.slug.replace(/-ro$/, ".ro").replace(/-/g, ".");
+    } else {
+      domainName = s.slug || "";
+    }
+    domainName = escapeHtml(domainName);
     
     // Generate description without site name reference
     // Use description_long_en or description_short_en, but remove site name references

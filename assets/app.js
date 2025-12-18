@@ -37,9 +37,17 @@
       <span class="tag" aria-label="Category: ${category}">${category}</span>
     `;
     
-    // Extract domain from URL
-    const siteUrl = (s.url||"").replace(/^https?:\/\//,"").replace(/\/$/,"");
-    const domainName = escapeHtml(siteUrl || s.slug);
+    // Extract domain from URL - convert slug to domain format if URL missing
+    let domainName = "";
+    if(s.url) {
+      domainName = (s.url||"").replace(/^https?:\/\//,"").replace(/\/$/,"");
+    } else if(s.slug) {
+      // Convert slug to domain format: "partizani-ro" -> "partizani.ro", "top-clinici-ro" -> "top-clinici.ro"
+      domainName = s.slug.replace(/-ro$/, ".ro").replace(/-/g, ".");
+    } else {
+      domainName = s.slug || "";
+    }
+    domainName = escapeHtml(domainName);
     
     // Generate description without site name reference
     // Use description_small_en or description_short_en, but remove site name references
@@ -355,14 +363,14 @@
       const summary = escapeHtml(summaryText);
       const hasMore = post.summary && post.summary.length > 100;
       const when = post.published_human || "";
-      const siteName = escapeHtml(post.siteName || "");
+      const siteDomain = escapeHtml(post.siteDomain || post.siteSlug || "");
       const siteUrl = `/publisher/${encodeURIComponent(post.siteSlug)}/`;
 
       return `
         <div class="feed-item">
           <div class="feed-header">
             <span class="tag social">Mastodon</span>
-            <small class="feed-site">${siteName}</small>
+            <small class="feed-site">${siteDomain}</small>
           </div>
           ${Math.random() < 0.2 ? `
             <a href="${link}" target="_blank" rel="nofollow noopener" class="feed-title-image" aria-label="Read Mastodon post: ${title}">
