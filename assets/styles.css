@@ -418,17 +418,7 @@ small{
   margin: 0 auto;
 }
 /* Center last row items when grid has fewer items than columns */
-.publishers-grid:has(.site:nth-child(3n+1):last-child) .site:last-child{
-  grid-column: 2;
-  margin: 0 auto;
-  max-width: 300px;
-}
-.publishers-grid:has(.site:nth-child(3n+2):last-child) .site:nth-last-child(2),
-.publishers-grid:has(.site:nth-child(3n+2):last-child) .site:last-child{
-  grid-column: span 1;
-  margin: 0 auto;
-  max-width: 300px;
-}
+/* JavaScript handles this dynamically for better browser compatibility */
 @media (max-width: 768px){
   .publishers-grid{
     gap: 20px;
