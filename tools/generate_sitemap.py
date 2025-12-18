@@ -18,12 +18,30 @@ def main() -> int:
         data = json.load(f)
     sites = data.get("sites", [])
 
+    # Get unique categories
+    categories = set()
+    for s in sites:
+        cat = s.get("category", "Diverse")
+        categories.add(cat)
+    
     urls = [
         f"{BASE_URL}/",
         f"{BASE_URL}/publishers/",
+        f"{BASE_URL}/en/",
+        f"{BASE_URL}/en/publishers/",
     ]
+    
+    # Add category pages
+    for cat in categories:
+        cat_slug_ro = cat.lower().replace(" ", "-").replace("&", "").replace("ș", "s").replace("ț", "t").replace("ă", "a").replace("â", "a").replace("î", "i")
+        cat_slug_en = cat.lower().replace(" ", "-").replace("&", "")
+        urls.append(f"{BASE_URL}/categorie/{cat_slug_ro}/")
+        urls.append(f"{BASE_URL}/en/category/{cat_slug_en}/")
+    
+    # Add publisher pages
     for s in sites:
         urls.append(f"{BASE_URL}/publisher/{s['slug']}/")
+        urls.append(f"{BASE_URL}/en/publisher/{s['slug']}/")
 
     now = datetime.now(timezone.utc).date().isoformat()
 

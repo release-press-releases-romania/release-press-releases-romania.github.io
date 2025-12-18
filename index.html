@@ -1,20 +1,45 @@
 <!doctype html>
-<html lang="ro">
+<html lang="ro" dir="ltr">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Release Press Romania — Hub de publishers (RSS + Mastodon)</title>
-  <meta name="description" content="Un hub public cu pagini dedicate pentru publicații românești: ultimele articole din RSS (WordPress) și, unde există, actualizări din Mastodon.">
+  <title>Release Press Releases Romania — Hub Central pentru Release Press Releases</title>
+  <meta name="description" content="Hub central pentru release press releases din România. Accesează release press releases din peste 100 de publishers românești: RSS feed-uri, comunicate de presă și actualizări Mastodon. Release press releases din toate categoriile: PR & Marketing, Sănătate, Știri, Tehnologie, Afaceri.">
+  <meta name="keywords" content="release press releases, release press releases românia, comunicate de presă, RSS feed românia, distribuție comunicate, release press releases hub">
   <link rel="canonical" href="https://release-press-releases-romania.github.io/">
-  <meta name="robots" content="index,follow">
+  <link rel="alternate" hreflang="ro" href="https://release-press-releases-romania.github.io/">
+  <link rel="alternate" hreflang="en" href="https://release-press-releases-romania.github.io/en/">
+  <link rel="alternate" hreflang="x-default" href="https://release-press-releases-romania.github.io/">
+  <meta name="robots" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1">
   <meta property="og:type" content="website">
-  <meta property="og:title" content="Release Press Romania — Hub de publishers (RSS + Mastodon)">
-  <meta property="og:description" content="Un hub public cu pagini dedicate pentru publicații românești: ultimele articole din RSS (WordPress) și, unde există, actualizări din Mastodon.">
+  <meta property="og:title" content="Release Press Releases Romania — Hub Central pentru Release Press Releases">
+  <meta property="og:description" content="Hub central pentru release press releases din România. Accesează release press releases din peste 100 de publishers românești cu RSS feed-uri și comunicate de presă.">
   <meta property="og:url" content="https://release-press-releases-romania.github.io/">
-  <meta name="twitter:card" content="summary">
-  <meta name="theme-color" content="#f6f7fb">
+  <meta property="og:locale" content="ro_RO">
+  <meta property="og:locale:alternate" content="en_US">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Release Press Releases Romania">
+  <meta name="twitter:description" content="Hub central pentru release press releases din România">
+  <meta name="theme-color" content="#6d5efc">
   <link rel="stylesheet" href="/assets/styles.css">
-  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebSite", "name": "Release Press Romania", "url": "https://release-press-releases-romania.github.io", "description": "Un hub public cu pagini dedicate pentru publicații românești: ultimele articole din RSS (WordPress) și, unde există, actualizări din Mastodon."}</script>
+  <script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Release Press Releases Romania",
+    "alternateName": "Release Press Romania",
+    "url": "https://release-press-releases-romania.github.io",
+    "description": "Hub central pentru release press releases din România. Accesează release press releases din peste 100 de publishers românești cu RSS feed-uri, comunicate de presă și actualizări Mastodon.",
+    "inLanguage": ["ro", "en"],
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://release-press-releases-romania.github.io/publishers/?search={search_term_string}",
+      "query-input": "required name=search_term_string"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Release Press Releases Romania"
+    }
+  }</script>
 </head>
 
 <body>
@@ -24,17 +49,19 @@
     <div class="nav-links">
       <a href="/publishers/">Publishers</a>
       <a href="/sitemap.xml">Sitemap</a>
-      <a href="https://social.5th.ro/" target="_blank" rel="noopener">Mastodon</a>
+      <a href="https://social.5th.ro/" target="_blank" rel="noopener nofollow">Mastodon</a>
+      <a href="/en/" class="lang-switcher">EN</a>
     </div>
   </div>
 </div>
 
 <div class="container">
   <section class="hero">
-    <h1 class="h-title">Un hub public pentru publicații & proiecte media din România</h1>
+    <h1 class="h-title">Release Press Releases Romania — Hub Central pentru Release Press Releases</h1>
     <p class="h-sub">
-      Aici găsești pagini dedicate pentru fiecare site din rețea: ultimele articole din RSS (WordPress) și,
-      unde există profil, actualizări din Mastodon. Totul este servit ca pagini statice (rapid, fără bloat).
+      Hub central pentru <strong>release press releases</strong> din România. Accesează <strong>release press releases</strong> din peste 100 de publishers românești: 
+      RSS feed-uri, comunicate de presă și actualizări Mastodon. Explorează <strong>release press releases</strong> din toate categoriile: PR & Marketing, Sănătate, Știri & Societate, 
+      Tehnologie & Energie, Afaceri, Construcții și multe altele. Totul este servit ca pagini statice pentru performanță optimă.
     </p>
     <div class="pills" id="chips"></div>
   </section>
@@ -71,25 +98,37 @@
         </div>
 
         <div style="margin-top:14px" class="notice">
-          <b>Tip:</b> dacă nu vezi articole în paginile individuale, rulează workflow-ul
-          <b>Update feeds</b> din GitHub Actions pentru a genera cache-ul JSON.
+          <b>Tip:</b> dacă nu vezi articole în paginile individuale cu release press releases, rulează workflow-ul
+          <b>Update feeds</b> din GitHub Actions pentru a genera cache-ul JSON cu ultimele release press releases.
         </div>
 
-        <div style="margin-top:14px; display:flex; gap:10px; flex-wrap:wrap;">
+        <div style="margin-top:14px; display:flex; gap:10px; flex-wrap:wrap;" id="categoryLinks">
           <a class="btn" href="/publishers/">Vezi lista completă</a>
-          <a class="btn" href="/robots.txt">robots.txt</a>
+        </div>
+        <div style="margin-top:10px; display:flex; gap:10px; flex-wrap:wrap;" id="categoryLinks2">
+          <a class="btn" href="/sitemap.xml">Sitemap</a>
+        </div>
+      </div>
+    </aside>
+
+    <aside class="card" style="margin-top:18px">
+      <div class="card-head"><h2>Ultimul Post Mastodon</h2><small>din feed-uri</small></div>
+      <div class="card-body">
+        <div id="latestMastodon">
+          <div class="notice">Se încarcă ultimul post Mastodon…</div>
         </div>
       </div>
     </aside>
   </div>
 
   <p class="footer">
-    Conținutul listat aparține publisherilor. Hub-ul afișează doar rezumate din feed-uri publice (RSS).
-    <br>© 2025 Release Press Romania.
+    Conținutul listat aparține publisherilor. Hub-ul Release Press Releases Romania afișează doar rezumate din feed-uri publice (RSS) cu release press releases.
+    <br>© 2025 Release Press Releases Romania. Hub central pentru release press releases din România.
   </p>
 </div>
 
 <script src="/assets/utils.js"></script>
 <script src="/assets/app.js"></script>
+<script src="/assets/engagement-tracker.js"></script>
 </body>
 </html>
