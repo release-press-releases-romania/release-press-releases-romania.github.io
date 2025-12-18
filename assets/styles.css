@@ -565,6 +565,8 @@ small{
   align-items:center; 
   flex-wrap:wrap; 
   margin-top:14px;
+  justify-content: flex-start;
+  width: 100%;
 }
 @media (max-width: 640px){
   .site{padding: 18px}
