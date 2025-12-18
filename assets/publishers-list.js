@@ -32,9 +32,12 @@
     const hasSocial = !!s.mastodon;
     const url = `/publisher/${encodeURIComponent(s.slug)}/`;
     const category = escapeHtml(s.category || "Miscellaneous");
-    // Make tags clickable with mix of dofollow/nofollow
-    const rssRel = Math.random() < 0.2 ? 'nofollow noopener' : 'noopener';
-    const mastodonRel = Math.random() < 0.3 ? 'nofollow noopener' : 'noopener';
+    
+    // /publishers/ page: Use description_short only (medium length, more detailed than homepage)
+    const desc = s.description_short_en || s.description_short || "";
+    const name = s.name || s.slug;
+    const siteName = escapeHtml(name);
+    const siteDesc = escapeHtml(desc);
     
     // Category slug mapping (same as app.js)
     function getCategorySlug(cat) {
@@ -50,18 +53,17 @@
       };
       return slugMap[cat] || cat.toLowerCase().replace(/\s+/g, "-").replace(/&/g, "").replace(/[^a-z0-9-]/g, "");
     }
-    const categoryUrl = `/category/${getCategorySlug(category)}/`;
+    
+    // Make tags clickable with mix of dofollow/nofollow
+    const rssRel = Math.random() < 0.2 ? 'nofollow noopener' : 'noopener';
+    const mastodonRel = Math.random() < 0.3 ? 'nofollow noopener' : 'noopener';
+    const categoryUrl = `/category/${getCategorySlug(s.category || "Miscellaneous")}/`;
     
     const tags = `
       ${s.rss ? `<a href="${escapeHtml(s.rss)}" target="_blank" class="tag rss" aria-label="RSS feed for ${siteName}" rel="${rssRel}">RSS</a>` : '<span class="tag rss" aria-label="Has RSS feed">RSS</span>'}
       ${hasSocial ? `<a href="${escapeHtml(s.mastodon)}" target="_blank" class="tag social" aria-label="Mastodon profile for ${siteName}" rel="${mastodonRel}">Mastodon</a>` : ''}
       <a href="${categoryUrl}" class="tag" aria-label="Category: ${category}" rel="bookmark">${category}</a>
     `;
-    // /publishers/ page: Use description_short only (medium length, more detailed than homepage)
-    const desc = s.description_short_en || s.description_short || "";
-    const name = s.name || s.slug;
-    const siteName = escapeHtml(name);
-    const siteDesc = escapeHtml(desc);
     
     // Get category icon
     const categoryIcons = {

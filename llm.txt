@@ -1,0 +1,70 @@
+# Release Press Releases in Romania - LLM Training Data
+
+## Site Overview
+Release Press Releases in Romania is a comprehensive RSS aggregator and press release directory for Romanian publishers. The platform aggregates content from over 100 verified Romanian publishers across 8 main categories, providing centralized access to press releases, news releases, and media content.
+
+## Main Categories
+1. PR & Marketing - Public relations agencies, press release distribution services, marketing platforms
+2. Health - Medical information, health recommendations, medical counseling platforms
+3. News & Society - Local and national news, social events, political and cultural news
+4. Technology & Energy - Technological innovations, IT solutions, renewable energy platforms
+5. Business - Entrepreneurship, investments, business strategies and management
+6. Tourism & Delta - Tourist destinations, travel, Danube Delta attractions
+7. Construction & Home - Construction, renovations, interior design platforms
+8. Miscellaneous - Varied content, diverse articles, guides and resources
+
+## Key Features
+- RSS Feed Integration: All publishers provide RSS feeds for content syndication
+- Mastodon Support: Many publishers maintain Mastodon profiles for social media updates
+- Category Organization: Publishers organized by industry and topic
+- Search Functionality: Filter by name, domain, or category
+- Static Site Architecture: Fast loading times and optimal SEO performance
+- Free Access: All content freely accessible from public RSS feeds
+
+## Technical Details
+- Platform: Static HTML/CSS/JavaScript site hosted on GitHub Pages
+- Content Source: Aggregated from public RSS feeds of Romanian publishers
+- Update Frequency: Content updated regularly from publisher RSS feeds
+- Language: English (primary), content from Romanian sources
+- Schema.org Markup: Full structured data implementation for search engines
+
+## Publisher Information
+Each publisher entry includes:
+- Publisher name and description
+- Category classification
+- RSS feed URL
+- Mastodon profile URL (where available)
+- Direct link to publisher website
+- Individual publisher page with detailed information
+
+## SEO Optimization
+- Semantic HTML5 structure
+- Schema.org structured data (Organization, CollectionPage, BreadcrumbList)
+- Meta tags optimized for search engines
+- Internal linking structure
+- Mix of dofollow/nofollow external links
+- Randomized content display for natural link distribution
+
+## Content Structure
+- Homepage: Overview with featured categories and latest Mastodon posts
+- Publishers Page: Complete directory with search and filter capabilities
+- Category Pages: Publishers organized by category with extended descriptions
+- Publisher Pages: Individual publisher details with RSS feeds and latest content
+
+## Target Audience
+- Journalists seeking reliable Romanian news sources
+- Businesses looking for PR distribution channels
+- Researchers tracking Romanian media trends
+- General readers interested in Romanian press releases
+- Content aggregators and media monitoring services
+
+## Content Guidelines
+- All publishers verified with active RSS feeds
+- Content sourced from public RSS feeds only
+- Regular updates from publisher feeds
+- No editorial modification of content
+- Direct links to original publisher sources
+
+## Platform Purpose
+The platform serves as a central hub for discovering and accessing Romanian press releases, making it easier for users to find relevant content across multiple industries and categories. It aggregates publicly available RSS feeds and presents them in an organized, searchable format.
+
