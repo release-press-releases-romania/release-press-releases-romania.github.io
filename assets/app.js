@@ -99,8 +99,8 @@
     // SEO-optimized card with semantic HTML, images, and structured data (Google 2025)
     // Mix of text and image links for natural link distribution
     return `
-      <article class="site" itemscope itemtype="https://schema.org/Organization" aria-label="${siteName} publisher">
-        <a href="${url}" itemprop="url" rel="bookmark" aria-label="View ${siteName} publisher page and press releases" class="site-link">
+      <article class="site" itemscope itemtype="https://schema.org/Organization" aria-label="${domainName} publisher">
+        <a href="${url}" itemprop="url" rel="bookmark" aria-label="View ${domainName} publisher page and press releases" class="site-link">
         <div class="site-top">
             <div class="site-image-wrapper">
               <svg class="site-icon" aria-hidden="true" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
@@ -108,20 +108,20 @@
               </svg>
             </div>
             <div class="site-content">
-              <h3 class="site-name" itemprop="name">${siteName}</h3>
+              <h3 class="site-name" itemprop="name">${domainName}</h3>
               ${siteDesc ? `<p class="site-desc" itemprop="description">${siteDesc}</p>` : ''}
               <div class="site-meta" aria-label="Publisher metadata">${tags}</div>
             </div>
           </div>
         </a>
         ${s.url ? `
-          <a href="${escapeHtml(s.url)}" target="_blank" class="site-image-link" aria-label="Visit ${siteName} website" 
+          <a href="${escapeHtml(s.url)}" target="_blank" class="site-image-link" aria-label="Visit ${domainName} website" 
              rel="${Math.random() < 0.3 ? 'nofollow noopener' : 'noopener'}">
-            <img src="/assets/images/logo.svg" alt="${siteName} - Press Releases" class="site-logo" loading="lazy" width="32" height="32" itemprop="logo">
+            <img src="/assets/images/logo.svg" alt="${domainName} - Press Releases" class="site-logo" loading="lazy" width="32" height="32" itemprop="logo">
           </a>
         ` : `
-          <a href="${url}" class="site-image-link" aria-label="View ${siteName} press releases">
-            <img src="/assets/images/logo.svg" alt="${siteName} - Press Releases" class="site-logo" loading="lazy" width="32" height="32" itemprop="logo">
+          <a href="${url}" class="site-image-link" aria-label="View ${domainName} press releases">
+            <img src="/assets/images/logo.svg" alt="${domainName} - Press Releases" class="site-logo" loading="lazy" width="32" height="32" itemprop="logo">
           </a>
         `}
         <meta itemprop="category" content="${category}">
