@@ -671,6 +671,21 @@ small{
   grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
   gap: 20px;
 }
+/* Center last 2 items in grid when there are 8 categories (odd in 3-column layout) */
+@media (min-width: 900px) {
+  .categories-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+  /* When there are 8 items, center last 2 in columns 2 and 3 */
+  .categories-grid .site:nth-last-child(2) {
+    grid-column: 2;
+    justify-self: center;
+  }
+  .categories-grid .site:nth-last-child(1) {
+    grid-column: 3;
+    justify-self: center;
+  }
+}
 @media (max-width: 768px){
   .categories-grid{
     gap: 16px;

@@ -28,19 +28,20 @@
   const list = q("#list");
   if(!list) return;
 
-  function card(s){
+  function card(s, index = 0){
     const hasSocial = !!s.mastodon;
     const url = `/publisher/${encodeURIComponent(s.slug)}/`;
     const category = escapeHtml(s.category || "Miscellaneous");
     const tags = `
-      <span class="tag rss">RSS</span>
-      ${hasSocial ? '<span class="tag social">Mastodon</span>' : ''}
-      <span class="tag">${category}</span>
+      <span class="tag rss" aria-label="Has RSS feed">RSS</span>
+      ${hasSocial ? '<span class="tag social" aria-label="Has Mastodon profile">Mastodon</span>' : ''}
+      <span class="tag" aria-label="Category: ${category}">${category}</span>
     `;
     // /publishers/ page: Use description_short only (medium length, more detailed than homepage)
     const desc = s.description_short_en || s.description_short || "";
-    const siteName = escapeHtml(s.name || s.slug);
-    const siteUrl = escapeHtml((s.url||"").replace(/^https?:\/\//,"").replace(/\/$/,""));
+    const name = s.name || s.slug;
+    const siteName = escapeHtml(name);
+    const siteDesc = escapeHtml(desc);
     
     // Get category icon
     const categoryIcons = {
@@ -59,9 +60,10 @@
     // External link to publisher website (30% nofollow, 70% dofollow)
     const externalRel = s.url ? (Math.random() < 0.3 ? 'nofollow noopener' : 'noopener') : '';
     
+    // SEO-optimized card similar to index page
     return `
-      <article class="site" itemscope itemtype="https://schema.org/Organization">
-        <a class="site-link" href="${url}" itemprop="url" rel="bookmark">
+      <article class="site" itemscope itemtype="https://schema.org/Organization" aria-label="${siteName} publisher">
+        <a href="${url}" itemprop="url" rel="bookmark" aria-label="View ${siteName} publisher page and press releases" class="site-link">
           <div class="site-top">
             <div class="site-image-wrapper">
               <svg class="site-icon" aria-hidden="true" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
@@ -70,14 +72,14 @@
             </div>
             <div class="site-content">
               <h3 class="site-name" itemprop="name">${siteName}</h3>
-              ${desc ? `<p class="site-desc" itemprop="description">${escapeHtml(desc)}</p>` : ''}
-              <div class="site-meta">${tags}</div>
-              ${s.url ? `<small class="site-url"><a href="${escapeHtml(s.url)}" target="_blank" rel="${externalRel}" style="color: var(--muted); text-decoration: none;" class="publisher-external-link">${siteUrl}</a></small>` : `<small class="site-url">${siteUrl}</small>`}
+              ${siteDesc ? `<p class="site-desc" itemprop="description">${siteDesc}</p>` : ''}
+              <div class="site-meta" aria-label="Publisher metadata">${tags}</div>
             </div>
           </div>
         </a>
         ${s.url ? `
-          <a href="${escapeHtml(s.url)}" target="_blank" class="site-image-link" aria-label="Visit ${siteName} website" rel="${externalRel}">
+          <a href="${escapeHtml(s.url)}" target="_blank" class="site-image-link" aria-label="Visit ${siteName} website" 
+             rel="${externalRel}">
             <img src="/assets/images/logo.svg" alt="${siteName} - Press Releases" class="site-logo" loading="lazy" width="32" height="32" itemprop="logo">
           </a>
         ` : `
@@ -87,6 +89,7 @@
         `}
         <meta itemprop="category" content="${category}">
         ${s.url ? `<link itemprop="sameAs" href="${escapeHtml(s.url)}">` : ''}
+        ${s.rss ? `<link itemprop="rss" href="${escapeHtml(s.rss)}">` : ''}
       </article>
     `;
   }

@@ -14,7 +14,16 @@
 /assets/utils.js
   Cache-Control: public, max-age=31536000, immutable
 
+/assets/engagement-tracker.js
+  Cache-Control: public, max-age=31536000, immutable
+
 /assets/*.svg
+  Cache-Control: public, max-age=31536000, immutable
+
+/assets/icons/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/assets/images/*
   Cache-Control: public, max-age=31536000, immutable
 
 /*.html

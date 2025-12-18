@@ -40,6 +40,16 @@
   <meta name="twitter:image" content="https://release-press-releases-romania.github.io/assets/images/logo.svg">
   <meta name="twitter:image:alt" content="Release Press Releases in Romania">
   <meta name="theme-color" content="#6d5efc">
+  <style>
+    /* Critical CSS to prevent layout shift */
+    body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;color:#0f172a;background:#f8fafc;line-height:1.6}
+    .nav{position:sticky;top:0;z-index:50;backdrop-filter:blur(12px);background:rgba(248,250,252,.85);border-bottom:1px solid rgba(15,23,42,.08);box-shadow:0 1px 3px 0 rgba(0,0,0,.1)}
+    .nav-inner{max-width:1200px;margin:0 auto;padding:16px 24px;display:flex;align-items:center;justify-content:space-between;gap:20px}
+    .container{max-width:1200px;margin:0 auto;padding:40px 32px 80px}
+    .intro-section{margin:48px 0;padding:40px 0;border-top:1px solid rgba(15,23,42,.08);min-height:200px}
+    .stats-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:24px;margin-top:40px}
+    @media (max-width:768px){.container{padding:32px 24px 64px}.stats-grid{grid-template-columns:1fr}}
+  </style>
   <link rel="stylesheet" href="/assets/styles.css" media="print" onload="this.media='all'">
   <noscript><link rel="stylesheet" href="/assets/styles.css"></noscript>
   <script type="application/ld+json">{
