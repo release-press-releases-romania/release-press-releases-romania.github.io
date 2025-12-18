@@ -5,7 +5,7 @@
   let withSocial = 0;
 
   for(const s of sites){
-    const c = s.category || "Diverse";
+    const c = s.category || "Miscellaneous";
     byCat.set(c, (byCat.get(c)||0)+1);
     if(s.mastodon) withSocial++;
   }
@@ -15,7 +15,7 @@
   q("#kpiSocial").textContent = withSocial;
   q("#kpiCats").textContent = byCat.size;
 
-  // category filter options
+  // category filter options (categories are now in English)
   const cats = Array.from(byCat.keys()).sort((a,b)=>a.localeCompare(b));
   const sel = q("#category");
   for(const c of cats){
@@ -27,24 +27,66 @@
 
   // render list
   const list = q("#list");
-  function card(s){
+  function card(s, index = 0){
     const hasSocial = !!s.mastodon;
     const url = `/publisher/${encodeURIComponent(s.slug)}/`;
+    const category = escapeHtml(s.category || "Miscellaneous");
     const tags = `
-      <span class="tag rss">RSS</span>
-      ${hasSocial ? '<span class="tag social">Mastodon</span>' : ''}
-      <span class="tag">${escapeHtml(s.category || "Diverse")}</span>
+      <span class="tag rss" aria-label="Has RSS feed">RSS</span>
+      ${hasSocial ? '<span class="tag social" aria-label="Has Mastodon profile">Mastodon</span>' : ''}
+      <span class="tag" aria-label="Category: ${category}">${category}</span>
     `;
+    // Homepage: Use description_small only (shortest, most concise)
+    const desc = s.description_small_en || s.description_small || "";
+    const name = s.name || s.slug;
+    const siteName = escapeHtml(name);
+    const siteDesc = escapeHtml(desc);
+    
+    // Get category icon
+    const categoryIcons = {
+      "PR & Marketing": "icon-pr",
+      "Health": "icon-health",
+      "News & Society": "icon-news",
+      "Technology & Energy": "icon-tech",
+      "Business": "icon-business",
+      "Tourism & Delta": "icon-tourism",
+      "Construction & Home": "icon-construction",
+      "Miscellaneous": "icon-misc"
+    };
+    const iconId = categoryIcons[category] || "icon-misc";
+    
+    // SEO-optimized card with semantic HTML, images, and structured data (Google 2025)
+    // Mix of text and image links for natural link distribution
     return `
-      <a class="site" href="${url}">
-        <div class="site-top">
-          <div>
-            <p class="site-name">${escapeHtml(s.name || s.slug)}</p>
-            <div class="site-meta">${tags}</div>
+      <article class="site" itemscope itemtype="https://schema.org/Organization" aria-label="${siteName} publisher">
+        <a href="${url}" itemprop="url" rel="bookmark" aria-label="View ${siteName} publisher page and press releases" class="site-link">
+          <div class="site-top">
+            <div class="site-image-wrapper">
+              <svg class="site-icon" aria-hidden="true" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <use href="/assets/icons/category-icons.svg#${iconId}"></use>
+              </svg>
+            </div>
+            <div class="site-content">
+              <h3 class="site-name" itemprop="name">${siteName}</h3>
+              ${siteDesc ? `<p class="site-desc" itemprop="description">${siteDesc}</p>` : ''}
+              <div class="site-meta" aria-label="Publisher metadata">${tags}</div>
+            </div>
           </div>
-          <small>${escapeHtml((s.url||"").replace(/^https?:\/\//,"").replace(/\/$/,""))}</small>
-        </div>
-      </a>
+        </a>
+        ${s.url ? `
+          <a href="${escapeHtml(s.url)}" target="_blank" class="site-image-link" aria-label="Visit ${siteName} website" 
+             rel="${Math.random() < 0.3 ? 'nofollow noopener' : 'noopener'}">
+            <img src="/assets/images/logo.svg" alt="${siteName} - Press Releases" class="site-logo" loading="lazy" width="32" height="32" itemprop="logo">
+          </a>
+        ` : `
+          <a href="${url}" class="site-image-link" aria-label="View ${siteName} press releases">
+            <img src="/assets/images/logo.svg" alt="${siteName} - Press Releases" class="site-logo" loading="lazy" width="32" height="32" itemprop="logo">
+          </a>
+        `}
+        <meta itemprop="category" content="${category}">
+        ${s.url ? `<link itemprop="sameAs" href="${escapeHtml(s.url)}">` : ''}
+        ${s.rss ? `<link itemprop="rss" href="${escapeHtml(s.rss)}">` : ''}
+      </article>
     `;
   }
 
@@ -58,28 +100,251 @@
       if(socialOnly && !s.mastodon) return false;
 
       if(!term) return true;
-      const hay = `${s.name||""} ${s.url||""} ${s.slug||""} ${s.category||""}`.toLowerCase();
+      // Homepage search: Use only description_small
+      const hay = `${s.name||""} ${s.url||""} ${s.slug||""} ${s.category||""} ${s.description_small_en||""} ${s.description_small||""}`.toLowerCase();
       return hay.includes(term);
     });
 
     q("#count").textContent = filtered.length;
-    list.innerHTML = filtered.map(card).join("");
+    const initialFiltered = filtered.slice(0, INITIAL_SHOW);
+    renderSites(initialFiltered, false, 0);
+    
+    const existingBtn = list.parentElement.querySelector("button.btn");
+    if(existingBtn) existingBtn.remove();
+    
+    if(filtered.length > INITIAL_SHOW) {
+      const loadMoreBtn = document.createElement("button");
+      loadMoreBtn.className = "btn";
+      loadMoreBtn.textContent = `Load more (${filtered.length - INITIAL_SHOW} remaining)`;
+      loadMoreBtn.style.marginTop = "20px";
+      let currentIndex = INITIAL_SHOW;
+      
+      loadMoreBtn.addEventListener("click", () => {
+        const nextBatch = filtered.slice(currentIndex, currentIndex + BATCH_SIZE);
+        if(nextBatch.length > 0) {
+          renderSites(nextBatch, true, currentIndex);
+          currentIndex += BATCH_SIZE;
+          if(currentIndex >= filtered.length) {
+            loadMoreBtn.remove();
+          } else {
+            loadMoreBtn.textContent = `Load more (${filtered.length - currentIndex} remaining)`;
+          }
+        }
+      });
+      
+      list.parentElement.appendChild(loadMoreBtn);
+    }
   }
 
   q("#search").addEventListener("input", apply);
   q("#category").addEventListener("change", apply);
   q("#socialOnly").addEventListener("change", apply);
 
-  // initial
-  q("#count").textContent = total;
-  list.innerHTML = sites.map(card).join("");
+  function shuffleArray(array) {
+    const shuffled = [...array];
+    for (let i = shuffled.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+    }
+    return shuffled;
+  }
 
-  // small featured chips
+  const INITIAL_SHOW = 20;
+  const BATCH_SIZE = 20;
+  
+  function renderSites(sitesToRender, append = false, startIndex = 0) {
+    const shuffledSites = shuffleArray(sitesToRender);
+    const html = shuffledSites.map((s, idx) => card(s, startIndex + idx)).join("");
+    if(append) {
+      list.innerHTML += html;
+    } else {
+      list.innerHTML = html;
+    }
+  }
+
+  q("#count").textContent = total;
+  const initialSites = sites.slice(0, INITIAL_SHOW);
+  renderSites(initialSites);
+  
+  if(sites.length > INITIAL_SHOW) {
+    const loadMoreBtn = document.createElement("button");
+    loadMoreBtn.className = "btn";
+    loadMoreBtn.textContent = `Load more (${sites.length - INITIAL_SHOW} remaining)`;
+    loadMoreBtn.style.marginTop = "20px";
+    let currentIndex = INITIAL_SHOW;
+    
+    loadMoreBtn.addEventListener("click", () => {
+      const nextBatch = sites.slice(currentIndex, currentIndex + BATCH_SIZE);
+      if(nextBatch.length > 0) {
+        renderSites(nextBatch, true, currentIndex);
+        currentIndex += BATCH_SIZE;
+        if(currentIndex >= sites.length) {
+          loadMoreBtn.remove();
+        } else {
+          loadMoreBtn.textContent = `Load more (${sites.length - currentIndex} remaining)`;
+        }
+      }
+    });
+    
+    list.parentElement.appendChild(loadMoreBtn);
+  }
+
+  // Featured category chips (categories are now in English)
   const chips = q("#chips");
   const topCats = cats
     .map(c=>({c, n: byCat.get(c)}))
     .sort((a,b)=>b.n-a.n)
     .slice(0,5);
 
-  chips.innerHTML = topCats.map(x=>`<span class="pill ${x.c.includes("Tehnologie")?'green':''}"><i></i>${escapeHtml(x.c)} <small>· ${x.n}</small></span>`).join("");
+  chips.innerHTML = topCats.map(x=>`<a href="/category/${getCategorySlug(x.c)}/" class="pill ${x.c.includes("Technology") || x.c.includes("Energy")?'green':''}"><i></i>${escapeHtml(x.c)} <small>· ${x.n}</small></a>`).join("");
+
+  // Category links with English slugs
+  function getCategorySlug(category) {
+    const slugMap = {
+      "PR & Marketing": "pr-marketing",
+      "Health": "health",
+      "News & Society": "news-society",
+      "Technology & Energy": "technology-energy",
+      "Business": "business",
+      "Tourism & Delta": "tourism-delta",
+      "Construction & Home": "construction-home",
+      "Miscellaneous": "miscellaneous"
+    };
+    return slugMap[category] || category.toLowerCase().replace(/\s+/g, "-").replace(/&/g, "").replace(/[^a-z0-9-]/g, "");
+  }
+
+  const categoryLinks = [
+    {name: "PR & Marketing", url: "/category/pr-marketing/"},
+    {name: "Health", url: "/category/health/"},
+    {name: "News & Society", url: "/category/news-society/"},
+    {name: "Technology & Energy", url: "/category/technology-energy/"},
+    {name: "Business", url: "/category/business/"},
+    {name: "Tourism & Delta", url: "/category/tourism-delta/"},
+    {name: "Construction & Home", url: "/category/construction-home/"},
+    {name: "Miscellaneous", url: "/category/miscellaneous/"}
+  ];
+  
+  const shuffledCategories = shuffleArray(categoryLinks);
+  const catLinksContainer = q("#categoryLinks");
+  
+  if(catLinksContainer) {
+    shuffledCategories.forEach(cat => {
+      const btn = document.createElement("a");
+      btn.className = "category-btn";
+      btn.href = cat.url;
+      btn.textContent = cat.name;
+      catLinksContainer.appendChild(btn);
+    });
+  }
+
+  // Load latest 5 Mastodon posts (randomized) - Lazy loaded after page render
+  async function loadLatestMastodon(){
+    const container = q("#latestMastodon");
+    if(!container) return;
+    
+    // Defer loading until after initial render to avoid blocking
+    if('requestIdleCallback' in window) {
+      requestIdleCallback(() => loadMastodonFeeds(container), { timeout: 2000 });
+    } else {
+      setTimeout(() => loadMastodonFeeds(container), 1000);
+    }
+  }
+  
+  async function loadMastodonFeeds(container){
+    const mastodonSites = sites.filter(s => s.mastodon && s.mastodon_rss);
+    if(mastodonSites.length === 0) {
+      container.innerHTML = '<div class="notice">No Mastodon feeds available.</div>';
+      return;
+    }
+
+    const allFeeds = [];
+    // Reduced from 20 to 5 feeds for faster loading
+    const maxFeeds = Math.min(5, mastodonSites.length);
+    
+    // Sequential loading with small delays to avoid blocking
+    for(let i = 0; i < maxFeeds; i++){
+      const site = mastodonSites[i];
+      try {
+        const feed = await loadJson(`/data/feeds/${encodeURIComponent(site.slug)}.json`);
+        if(feed.mastodon && feed.social && feed.social.length > 0){
+          // Get up to 2 latest posts from each feed for variety
+          const posts = feed.social.slice(0, 2).map(post => ({
+            ...post,
+            siteName: site.name,
+            siteSlug: site.slug,
+            mastodonUrl: site.mastodon
+          }));
+          allFeeds.push(...posts);
+        }
+        // Small delay to avoid blocking main thread
+        if(i < maxFeeds - 1) {
+          await new Promise(resolve => setTimeout(resolve, 50));
+        }
+      } catch(err){
+        continue;
+      }
+    }
+
+    if(allFeeds.length === 0){
+      q("#latestMastodon").innerHTML = '<div class="notice">No Mastodon posts available at the moment.</div>';
+      return;
+    }
+
+    // Sort by date (newest first)
+    allFeeds.sort((a, b) => {
+      const dateA = a.published ? new Date(a.published) : new Date(0);
+      const dateB = b.published ? new Date(b.published) : new Date(0);
+      return dateB - dateA;
+    });
+
+    // Get top 10 newest, then randomize and take 5
+    const topFeeds = allFeeds.slice(0, 10);
+    const shuffledTop = shuffleArray(topFeeds);
+    const selectedFeeds = shuffledTop.slice(0, 5);
+
+    if(selectedFeeds.length === 0){
+      q("#latestMastodon").innerHTML = '<div class="notice">No Mastodon posts available at the moment.</div>';
+      return;
+    }
+
+    const postsHtml = selectedFeeds.map(post => {
+      const title = escapeHtml(post.title || "Mastodon Post");
+      const link = post.link || post.mastodonUrl || "#";
+      const summaryText = (post.summary || "").slice(0, 100);
+      const summary = escapeHtml(summaryText);
+      const hasMore = post.summary && post.summary.length > 100;
+      const when = post.published_human || "";
+      const siteName = escapeHtml(post.siteName || "");
+      const siteUrl = `/publisher/${encodeURIComponent(post.siteSlug)}/`;
+
+      return `
+        <div class="feed-item">
+          <div class="feed-header">
+            <span class="tag social">Mastodon</span>
+            <small class="feed-site">${siteName}</small>
+          </div>
+          ${Math.random() < 0.2 ? `
+            <a href="${link}" target="_blank" rel="nofollow noopener" class="feed-title-image" aria-label="Read Mastodon post: ${title}">
+              <img src="/assets/images/logo.svg" alt="" width="20" height="20" style="vertical-align: middle; margin-right: 8px; opacity: 0.7;" aria-hidden="true">
+              <span>${title}</span>
+            </a>
+          ` : `
+            <a href="${link}" target="_blank" rel="nofollow noopener" class="feed-title">
+              ${title}
+            </a>
+          `}
+          ${summary ? `<a href="${link}" target="_blank" rel="nofollow noopener" class="feed-summary">${summary}${hasMore ? "…" : ""}</a>` : ""}
+          <div class="feed-meta">
+            ${when ? `<span class="feed-date">📅 ${when}</span>` : ""}
+            <a href="${link}" target="_blank" rel="nofollow noopener" class="feed-link">Read on Mastodon →</a>
+            <a href="${siteUrl}" class="feed-publisher">View publisher</a>
+          </div>
+        </div>
+      `;
+    }).join("");
+
+    q("#latestMastodon").innerHTML = postsHtml;
+  }
+
+  loadLatestMastodon();
 })();

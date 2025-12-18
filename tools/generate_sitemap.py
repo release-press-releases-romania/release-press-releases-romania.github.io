@@ -18,10 +18,37 @@ def main() -> int:
         data = json.load(f)
     sites = data.get("sites", [])
 
+    # Get unique categories
+    categories = set()
+    for s in sites:
+        cat = s.get("category", "Miscellaneous")
+        categories.add(cat)
+    
+    # Category slug mapping (all categories are now in English)
+    cat_slug_map = {
+        "PR & Marketing": "pr-marketing",
+        "Health": "health",
+        "News & Society": "news-society",
+        "Technology & Energy": "technology-energy",
+        "Business": "business",
+        "Tourism & Delta": "tourism-delta",
+        "Construction & Home": "construction-home",
+        "Miscellaneous": "miscellaneous"
+    }
+    
     urls = [
         f"{BASE_URL}/",
         f"{BASE_URL}/publishers/",
+        f"{BASE_URL}/category/",
+        f"{BASE_URL}/feed.xml",
     ]
+    
+    # Add category pages (English slugs only)
+    for cat in categories:
+        cat_en = cat_slug_map.get(cat, cat.lower().replace(" ", "-").replace("&", ""))
+        urls.append(f"{BASE_URL}/category/{cat_en}/")
+    
+    # Add publisher pages
     for s in sites:
         urls.append(f"{BASE_URL}/publisher/{s['slug']}/")
 

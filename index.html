@@ -1,95 +1,288 @@
 <!doctype html>
-<html lang="ro">
+<html lang="en" dir="ltr">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Release Press Romania — Hub de publishers (RSS + Mastodon)</title>
-  <meta name="description" content="Un hub public cu pagini dedicate pentru publicații românești: ultimele articole din RSS (WordPress) și, unde există, actualizări din Mastodon.">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Release Press Releases in Romania — Central Hub</title>
+  <meta name="description" content="Central hub for press releases from Romania. Access press releases from over 100 Romanian publishers: RSS feeds, press releases and Mastodon updates. Press releases from all categories: PR & Marketing, Health, News, Technology, Business.">
+  <meta name="keywords" content="press releases romania, press releases, RSS feed romania, press release distribution, press releases hub, Romanian press releases, news releases, media releases, PR distribution, press release aggregation, Romanian media, press release syndication, news wire Romania, press release service, media relations Romania, public relations Romania, corporate communications, news distribution Romania, press release platform, Romanian news, media coverage Romania, press release management, news aggregation Romania, RSS feeds Romania, Mastodon Romania, social media press releases">
+  <meta name="author" content="Release Press Releases in Romania">
+  <meta name="theme-color" content="#6d5efc">
+  <meta name="color-scheme" content="light dark">
   <link rel="canonical" href="https://release-press-releases-romania.github.io/">
-  <meta name="robots" content="index,follow">
+  <link rel="alternate" type="application/rss+xml" title="Release Press Releases in Romania - RSS Feed" href="https://release-press-releases-romania.github.io/feed.xml">
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <link rel="alternate icon" href="/favicon.ico">
+  <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+  <link rel="dns-prefetch" href="https://social.5th.ro">
+  <link rel="preconnect" href="https://release-press-releases-romania.github.io" crossorigin>
+  <link rel="preload" href="/assets/images/logo.svg" as="image" type="image/svg+xml">
+  <link rel="preload" href="/assets/icons/category-icons.svg" as="image" type="image/svg+xml">
+  <link rel="preload" href="/data/sites.json" as="fetch" crossorigin>
+  <link rel="preload" href="/assets/utils.js" as="script">
+  <link rel="preload" href="/assets/app.js" as="script">
+  <meta name="robots" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1">
+  <meta name="googlebot" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1">
+  <meta name="bingbot" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1">
   <meta property="og:type" content="website">
-  <meta property="og:title" content="Release Press Romania — Hub de publishers (RSS + Mastodon)">
-  <meta property="og:description" content="Un hub public cu pagini dedicate pentru publicații românești: ultimele articole din RSS (WordPress) și, unde există, actualizări din Mastodon.">
+  <meta property="og:title" content="Release Press Releases in Romania — Central Hub">
+  <meta property="og:description" content="Central hub for press releases from Romania. Access press releases from over 100 Romanian publishers with RSS feeds and press releases.">
   <meta property="og:url" content="https://release-press-releases-romania.github.io/">
-  <meta name="twitter:card" content="summary">
-  <meta name="theme-color" content="#f6f7fb">
-  <link rel="stylesheet" href="/assets/styles.css">
-  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebSite", "name": "Release Press Romania", "url": "https://release-press-releases-romania.github.io", "description": "Un hub public cu pagini dedicate pentru publicații românești: ultimele articole din RSS (WordPress) și, unde există, actualizări din Mastodon."}</script>
+  <meta property="og:site_name" content="Release Press Releases in Romania">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:image" content="https://release-press-releases-romania.github.io/assets/images/logo.svg">
+  <meta property="og:image:width" content="144">
+  <meta property="og:image:height" content="144">
+  <meta property="og:image:alt" content="Release Press Releases in Romania Logo">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Release Press Releases in Romania">
+  <meta name="twitter:description" content="Central hub for press releases from Romania">
+  <meta name="twitter:image" content="https://release-press-releases-romania.github.io/assets/images/logo.svg">
+  <meta name="twitter:image:alt" content="Release Press Releases in Romania">
+  <meta name="theme-color" content="#6d5efc">
+  <link rel="stylesheet" href="/assets/styles.css" media="print" onload="this.media='all'">
+  <noscript><link rel="stylesheet" href="/assets/styles.css"></noscript>
+  <script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Release Press Releases in Romania",
+    "alternateName": "Release Press Romania",
+    "url": "https://release-press-releases-romania.github.io",
+    "description": "Central hub for press releases from Romania. Access press releases from over 100 Romanian publishers with RSS feeds, press releases and Mastodon updates.",
+    "inLanguage": "en",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://release-press-releases-romania.github.io/publishers/?search={search_term_string}"
+      },
+      "query-input": "required name=search_term_string"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Release Press Releases in Romania",
+      "url": "https://release-press-releases-romania.github.io",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://release-press-releases-romania.github.io/assets/logo.png"
+      }
+    },
+    "mainEntity": {
+      "@type": "ItemList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Publishers",
+          "url": "https://release-press-releases-romania.github.io/publishers/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Categories",
+          "url": "https://release-press-releases-romania.github.io/category/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "RSS Feed",
+          "url": "https://release-press-releases-romania.github.io/feed.xml"
+        }
+      ]
+    },
+    "image": {
+      "@type": "ImageObject",
+      "url": "https://release-press-releases-romania.github.io/assets/images/logo.svg",
+      "width": 144,
+      "height": 144
+    }
+  }</script>
 </head>
 
 <body>
+<main>
 <div class="nav">
   <div class="nav-inner">
-    <a class="brand" href="/"><span class="badge" aria-hidden="true"></span><span>Release Press Romania</span></a>
+    <a class="brand" href="/" aria-label="Release Press Releases in Romania homepage">
+      <img src="/assets/images/logo.svg" alt="Release Press Releases in Romania" width="36" height="36" class="brand-logo" loading="eager" itemprop="logo">
+      <span>Release Press Romania</span>
+    </a>
     <div class="nav-links">
       <a href="/publishers/">Publishers</a>
+      <a href="/category/">Categories</a>
+      <a href="/feed.xml">RSS Feed</a>
       <a href="/sitemap.xml">Sitemap</a>
-      <a href="https://social.5th.ro/" target="_blank" rel="noopener">Mastodon</a>
+      <a href="https://social.5th.ro/" target="_blank" rel="noopener nofollow">Mastodon</a>
     </div>
   </div>
 </div>
 
 <div class="container">
   <section class="hero">
-    <h1 class="h-title">Un hub public pentru publicații & proiecte media din România</h1>
+    <h1 class="h-title">Release Press Releases in Romania</h1>
     <p class="h-sub">
-      Aici găsești pagini dedicate pentru fiecare site din rețea: ultimele articole din RSS (WordPress) și,
-      unde există profil, actualizări din Mastodon. Totul este servit ca pagini statice (rapid, fără bloat).
+      Your central hub for discovering press releases from Romanian publishers. Browse through <strong>over 100 publishers</strong> covering PR & Marketing, Health, News & Society, Technology, Business, and more. Everything is served as static pages for optimal performance.
     </p>
     <div class="pills" id="chips"></div>
   </section>
 
-  <div class="grid">
-    <section class="card">
-      <div class="card-head">
-        <h2>Director — caută rapid un publisher</h2>
-        <small><span id="count">0</span> rezultate</small>
+  <section class="intro-section" style="margin: 48px 0; padding: 40px 0; border-top: 1px solid var(--border); border-bottom: 1px solid var(--border);">
+    <div style="max-width: 900px; margin: 0 auto; padding: 0 24px;">
+      <h2 style="font-size: 32px; font-weight: 700; margin: 0 0 24px 0; color: var(--text);">Comprehensive Press Release Aggregation Platform for Romania</h2>
+      <div style="font-size: 17px; line-height: 1.85; color: var(--muted);">
+        <p style="margin: 0 0 24px 0;">
+          <strong>Release Press Releases in Romania</strong> is the premier destination for accessing press releases, news releases, and media releases from Romanian publishers across multiple industries. Our platform aggregates content from over 100 trusted sources, providing journalists, media professionals, businesses, researchers, and the general public with a centralized resource for Romanian press releases and news distribution. We serve as a comprehensive hub that connects content creators, publishers, and readers through our extensive network of RSS feeds and press release sources.
+        </p>
+        <p style="margin: 0 0 24px 0;">
+          Whether you're looking for <strong>press release distribution</strong> services, <strong>RSS feed aggregation</strong>, <strong>Mastodon social media</strong> updates, or comprehensive coverage of Romanian media, our platform offers extensive access to content from PR & Marketing, Health & Medical, News & Society, Technology & Energy, Business & Entrepreneurship, Construction & Home, Tourism & Delta, and Miscellaneous categories. Each category contains carefully curated publishers that specialize in their respective domains, ensuring high-quality and relevant press releases for your specific interests or professional needs.
+        </p>
+        <p style="margin: 0 0 24px 0;">
+          Our platform is designed with <strong>search engine optimization</strong> and <strong>user experience</strong> in mind. All press releases are sourced from public RSS feeds and are updated regularly to ensure you have access to the latest content. Our static site architecture ensures fast loading times, excellent performance, and optimal SEO visibility, making it easy for search engines and users to discover Romanian press releases and media content. We provide detailed publisher pages, category browsing, search functionality, and RSS feed integration to meet the diverse needs of our users.
+        </p>
+        <p style="margin: 0;">
+          Explore our <a href="/publishers/" style="color: #4f46e5; text-decoration: underline; font-weight: 500;">complete directory of publishers</a>, browse content by <a href="/category/" style="color: #4f46e5; text-decoration: underline; font-weight: 500;">category</a>, or subscribe to our <a href="/feed.xml" style="color: #4f46e5; text-decoration: underline; font-weight: 500;">aggregated RSS feed</a> to stay updated with the latest press releases from Romania. Our platform is free to use and provides open access to press releases from trusted Romanian sources, supporting transparency, information access, and media literacy in Romania.
+        </p>
       </div>
-      <div class="card-body">
-        <div class="search">
-          <input id="search" type="search" placeholder="Caută după nume, domeniu, categorie…" aria-label="Caută publisher">
-          <select id="category" class="select" aria-label="Filtru categorie">
-            <option value="">Toate categoriile</option>
-          </select>
-          <label class="pill" style="cursor:pointer; user-select:none;">
-            <input id="socialOnly" type="checkbox" style="accent-color: var(--accent);">
-            Doar cu Mastodon
-          </label>
-        </div>
+    </div>
+  </section>
 
-        <div class="list" id="list" aria-live="polite"></div>
-      </div>
-    </section>
-
-    <aside class="card">
-      <div class="card-head"><h2>Statistici</h2><small>actualizate din listă</small></div>
-      <div class="card-body">
-        <div class="kpi">
-          <div class="box"><div class="num" id="kpiTotal">0</div><div class="lab">site-uri</div></div>
-          <div class="box"><div class="num" id="kpiSocial">0</div><div class="lab">cu Mastodon</div></div>
-          <div class="box"><div class="num" id="kpiCats">0</div><div class="lab">categorii</div></div>
-        </div>
-
-        <div style="margin-top:14px" class="notice">
-          <b>Tip:</b> dacă nu vezi articole în paginile individuale, rulează workflow-ul
-          <b>Update feeds</b> din GitHub Actions pentru a genera cache-ul JSON.
-        </div>
-
-        <div style="margin-top:14px; display:flex; gap:10px; flex-wrap:wrap;">
-          <a class="btn" href="/publishers/">Vezi lista completă</a>
-          <a class="btn" href="/robots.txt">robots.txt</a>
-        </div>
-      </div>
-    </aside>
+  <div class="stats-grid">
+    <div class="stat-card">
+      <div class="stat-number" id="kpiTotal">0</div>
+      <div class="stat-label">Publishers</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-number" id="kpiSocial">0</div>
+      <div class="stat-label">With Mastodon</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-number" id="kpiCats">0</div>
+      <div class="stat-label">Categories</div>
+    </div>
   </div>
 
+  <section class="search-section">
+    <div class="search-card">
+      <h2>Search Publishers</h2>
+      <div class="search-controls">
+        <input id="search" type="search" placeholder="Search by name, domain, category…" aria-label="Search publisher">
+        <select id="category" class="select" aria-label="Category filter">
+          <option value="">All categories</option>
+        </select>
+        <label class="checkbox-label">
+          <input id="socialOnly" type="checkbox">
+          <span>Mastodon only</span>
+        </label>
+      </div>
+      <div class="results-info">
+        <span id="count">0</span> results found
+      </div>
+    </div>
+  </section>
+
+  <section class="publishers-section">
+    <div class="publishers-grid" id="list" aria-live="polite"></div>
+  </section>
+
+  <section class="latest-section">
+    <div class="latest-card">
+      <h2>Latest Mastodon Posts</h2>
+      <p class="section-subtitle">Recent posts from Romanian publishers on Mastodon</p>
+      <div id="latestMastodon">
+        <div class="notice">Loading Mastodon posts…</div>
+      </div>
+    </div>
+  </section>
+
+  <section class="categories-section">
+    <h2 class="section-title">Browse by Category</h2>
+    <p class="section-subtitle" style="text-align: center; margin-bottom: 32px; color: var(--muted); max-width: 700px; margin-left: auto; margin-right: auto;">
+      Explore press releases organized by industry and topic. Each category contains curated publishers specializing in specific domains, from public relations and marketing campaigns to health information, technology news, business updates, and more.
+    </p>
+    <div class="categories-grid" id="categoryLinks"></div>
+  </section>
+
+  <section class="features-section" style="margin: 64px 0; padding: 48px 0; background: var(--bg-alt); border-radius: 16px;">
+    <div style="max-width: 900px; margin: 0 auto; padding: 0 24px;">
+      <h2 style="font-size: 32px; font-weight: 700; margin: 0 0 12px 0; text-align: center; color: var(--text);">Why Use Release Press Releases in Romania?</h2>
+      <p style="text-align: center; color: var(--muted); margin-bottom: 40px; font-size: 16px;">
+        Our platform offers unique advantages for accessing Romanian press releases and media content
+      </p>
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 32px;">
+        <div>
+          <h3 style="font-size: 20px; font-weight: 600; margin: 0 0 12px 0; color: var(--text);">Comprehensive Coverage</h3>
+          <p style="margin: 0; color: var(--muted); line-height: 1.7;">
+            Access press releases from over 100 Romanian publishers across 8 major categories, ensuring comprehensive coverage of news, PR, and media releases from Romania.
+          </p>
+        </div>
+        <div>
+          <h3 style="font-size: 20px; font-weight: 600; margin: 0 0 12px 0; color: var(--text);">RSS Feed Integration</h3>
+          <p style="margin: 0; color: var(--muted); line-height: 1.7;">
+            All publishers provide RSS feeds for easy syndication and integration with news readers, content management systems, and media monitoring tools.
+          </p>
+        </div>
+        <div>
+          <h3 style="font-size: 20px; font-weight: 600; margin: 0 0 12px 0; color: var(--text);">Mastodon Updates</h3>
+          <p style="margin: 0; color: var(--muted); line-height: 1.7;">
+            Many publishers also maintain Mastodon profiles, providing real-time social media updates alongside traditional press release distribution.
+          </p>
+        </div>
+        <div>
+          <h3 style="font-size: 20px; font-weight: 600; margin: 0 0 12px 0; color: var(--text);">SEO Optimized</h3>
+          <p style="margin: 0; color: var(--muted); line-height: 1.7;">
+            Our static site architecture ensures fast loading times, excellent search engine visibility, and optimal performance for discovering Romanian press releases.
+          </p>
+        </div>
+        <div>
+          <h3 style="font-size: 20px; font-weight: 600; margin: 0 0 12px 0; color: var(--text);">Free Access</h3>
+          <p style="margin: 0; color: var(--muted); line-height: 1.7;">
+            All press releases are freely accessible. We aggregate content from public RSS feeds, making Romanian press releases available to journalists, researchers, and the public.
+          </p>
+        </div>
+        <div>
+          <h3 style="font-size: 20px; font-weight: 600; margin: 0 0 12px 0; color: var(--text);">Regular Updates</h3>
+          <p style="margin: 0; color: var(--muted); line-height: 1.7;">
+            Content is updated regularly from publisher RSS feeds, ensuring you have access to the latest press releases and news from Romanian media sources.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section style="margin: 64px 0 32px 0; padding: 32px 0; border-top: 1px solid var(--border);">
+    <div style="max-width: 800px; margin: 0 auto; text-align: center;">
+      <h2 style="font-size: 24px; font-weight: 700; margin: 0 0 16px 0; color: var(--text);">Quick Navigation</h2>
+      <p style="margin: 0 0 24px 0; color: var(--muted); line-height: 1.7;">
+        Explore our platform through these key sections and resources.
+      </p>
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 16px; margin-bottom: 24px;">
+        <a href="/publishers/" class="btn" style="padding: 14px 20px; text-align: center; display: block;">All Publishers</a>
+        <a href="/category/" class="btn" style="padding: 14px 20px; text-align: center; display: block;">Categories</a>
+        <a href="/feed.xml" class="btn" style="padding: 14px 20px; text-align: center; display: block;">RSS Feed</a>
+        <a href="/sitemap.xml" class="btn" style="padding: 14px 20px; text-align: center; display: block;">Sitemap</a>
+      </div>
+      <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; font-size: 14px;">
+        <a href="/category/pr-marketing/" style="color: #4f46e5; text-decoration: underline; font-weight: 500;">PR & Marketing</a>
+        <a href="/category/health/" style="color: #4f46e5; text-decoration: underline; font-weight: 500;">Health</a>
+        <a href="/category/news-society/" style="color: #4f46e5; text-decoration: underline; font-weight: 500;">News & Society</a>
+        <a href="/category/technology-energy/" style="color: #4f46e5; text-decoration: underline; font-weight: 500;">Technology & Energy</a>
+        <a href="/category/business/" style="color: #4f46e5; text-decoration: underline; font-weight: 500;">Business</a>
+        <a href="/category/tourism-delta/" style="color: #4f46e5; text-decoration: underline; font-weight: 500;">Tourism & Delta</a>
+        <a href="/category/construction-home/" style="color: #4f46e5; text-decoration: underline; font-weight: 500;">Construction & Home</a>
+        <a href="/category/miscellaneous/" style="color: #4f46e5; text-decoration: underline; font-weight: 500;">Miscellaneous</a>
+      </div>
+    </div>
+  </section>
+
   <p class="footer">
-    Conținutul listat aparține publisherilor. Hub-ul afișează doar rezumate din feed-uri publice (RSS).
-    <br>© 2025 Release Press Romania.
+    Listed content belongs to publishers. Release Press Releases in Romania hub displays only summaries from public RSS feeds with press releases. All press releases are sourced from publisher RSS feeds and are updated regularly. For complete articles and full content, please visit the original publisher websites linked on each publisher page.
+    <br>© 2025 Release Press Releases in Romania. Central hub for press releases from Romania. <a href="/sitemap.xml" style="color: #4f46e5; text-decoration: underline; font-weight: 500;">Sitemap</a> | <a href="/feed.xml" style="color: #4f46e5; text-decoration: underline; font-weight: 500;">RSS Feed</a>
   </p>
 </div>
+</main>
 
-<script src="/assets/utils.js"></script>
-<script src="/assets/app.js"></script>
+  <script src="/assets/utils.js" defer></script>
+  <script src="/assets/app.js" defer></script>
+<script src="/assets/engagement-tracker.js"></script>
 </body>
 </html>
