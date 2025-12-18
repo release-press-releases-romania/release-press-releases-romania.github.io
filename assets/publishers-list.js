@@ -161,6 +161,68 @@
   if(list) {
     const shuffledSites = shuffleArray(sites);
     list.innerHTML = shuffledSites.map(card).join("");
+    centerLastRow(); // Center last row after initial render
   }
+  
+  // Center last row items in grid
+  function centerLastRow(){
+    const grid = document.getElementById('list');
+    if(!grid) return;
+    
+    const items = Array.from(grid.children);
+    if(items.length === 0) return;
+    
+    // Get computed grid columns (approximate based on viewport)
+    const gridStyle = window.getComputedStyle(grid);
+    const gridWidth = grid.offsetWidth;
+    const gap = parseInt(gridStyle.gap) || 24;
+    const minColWidth = 300; // minmax(300px, 1fr)
+    const columns = Math.floor((gridWidth + gap) / (minColWidth + gap)) || 1;
+    
+    // Calculate items in last row
+    const totalItems = items.length;
+    const itemsInLastRow = totalItems % columns;
+    
+    if(itemsInLastRow === 0) return; // Full row, no centering needed
+    
+    // Reset all items
+    items.forEach(item => {
+      item.style.gridColumn = '';
+      item.style.margin = '';
+      item.style.maxWidth = '';
+    });
+    
+    // Center last row items
+    if(itemsInLastRow === 1){
+      // Single item in last row - center it
+      const lastItem = items[items.length - 1];
+      lastItem.style.gridColumn = `span ${columns}`;
+      lastItem.style.margin = '0 auto';
+      lastItem.style.maxWidth = '300px';
+    } else {
+      // Multiple items in last row - center the group
+      const startIndex = totalItems - itemsInLastRow;
+      const offset = Math.floor((columns - itemsInLastRow) / 2);
+      
+      if(offset > 0){
+        const firstLastRowItem = items[startIndex];
+        firstLastRowItem.style.gridColumnStart = offset + 1;
+      }
+    }
+  }
+  
+  // Re-center on window resize
+  let resizeTimeout;
+  window.addEventListener('resize', () => {
+    clearTimeout(resizeTimeout);
+    resizeTimeout = setTimeout(centerLastRow, 250);
+  });
+  
+  // Re-center after filtering/searching
+  const originalApply = apply;
+  apply = function(){
+    originalApply();
+    setTimeout(centerLastRow, 100);
+  };
 })();
 
