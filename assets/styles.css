@@ -520,10 +520,11 @@ small{
 .site-top{
   display:flex; 
   align-items:flex-start; 
-  justify-content:space-between; 
   gap:16px; 
   flex:1;
   position: relative;
+  width: 100%;
+  min-width: 0;
 }
 .site-url{
   display: block;
@@ -543,6 +544,8 @@ small{
   word-wrap: break-word;
   overflow-wrap: break-word;
   hyphens: auto;
+  width: 100%;
+  overflow: hidden;
 }
 .site-desc{
   margin: 10px 0 0 0;
@@ -553,6 +556,8 @@ small{
   word-wrap: break-word;
   overflow-wrap: break-word;
   hyphens: auto;
+  width: 100%;
+  overflow: hidden;
 }
 .site-meta{
   display:flex; 
