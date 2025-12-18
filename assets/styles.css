@@ -444,6 +444,9 @@ small{
   /* SEO: Ensure cards are crawlable and indexable */
   contain: layout style;
   overflow: hidden;
+  width: 100%;
+  box-sizing: border-box;
+  min-width: 0;
 }
 .site-link{
   display: block;
@@ -494,6 +497,9 @@ small{
 .site-content{
   flex: 1;
   min-width: 0;
+  overflow: hidden;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
 }
 @media (max-width: 640px){
   .site{
