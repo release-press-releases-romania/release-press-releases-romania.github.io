@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="ro">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Release Press Romania — Hub de publishers (RSS + Mastodon)</title>
+  <meta name="description" content="Un hub public cu pagini dedicate pentru publicații românești: ultimele articole din RSS (WordPress) și, unde există, actualizări din Mastodon.">
+  <link rel="canonical" href="https://release-press-releases-romania.github.io/">
+  <meta name="robots" content="index,follow">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Release Press Romania — Hub de publishers (RSS + Mastodon)">
+  <meta property="og:description" content="Un hub public cu pagini dedicate pentru publicații românești: ultimele articole din RSS (WordPress) și, unde există, actualizări din Mastodon.">
+  <meta property="og:url" content="https://release-press-releases-romania.github.io/">
+  <meta name="twitter:card" content="summary">
+  <meta name="theme-color" content="#f6f7fb">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebSite", "name": "Release Press Romania", "url": "https://release-press-releases-romania.github.io", "description": "Un hub public cu pagini dedicate pentru publicații românești: ultimele articole din RSS (WordPress) și, unde există, actualizări din Mastodon."}</script>
+</head>
+
+<body>
+<div class="nav">
+  <div class="nav-inner">
+    <a class="brand" href="/"><span class="badge" aria-hidden="true"></span><span>Release Press Romania</span></a>
+    <div class="nav-links">
+      <a href="/publishers/">Publishers</a>
+      <a href="/sitemap.xml">Sitemap</a>
+      <a href="https://social.5th.ro/" target="_blank" rel="noopener">Mastodon</a>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <section class="hero">
+    <h1 class="h-title">Un hub public pentru publicații & proiecte media din România</h1>
+    <p class="h-sub">
+      Aici găsești pagini dedicate pentru fiecare site din rețea: ultimele articole din RSS (WordPress) și,
+      unde există profil, actualizări din Mastodon. Totul este servit ca pagini statice (rapid, fără bloat).
+    </p>
+    <div class="pills" id="chips"></div>
+  </section>
+
+  <div class="grid">
+    <section class="card">
+      <div class="card-head">
+        <h2>Director — caută rapid un publisher</h2>
+        <small><span id="count">0</span> rezultate</small>
+      </div>
+      <div class="card-body">
+        <div class="search">
+          <input id="search" type="search" placeholder="Caută după nume, domeniu, categorie…" aria-label="Caută publisher">
+          <select id="category" class="select" aria-label="Filtru categorie">
+            <option value="">Toate categoriile</option>
+          </select>
+          <label class="pill" style="cursor:pointer; user-select:none;">
+            <input id="socialOnly" type="checkbox" style="accent-color: var(--accent);">
+            Doar cu Mastodon
+          </label>
+        </div>
+
+        <div class="list" id="list" aria-live="polite"></div>
+      </div>
+    </section>
+
+    <aside class="card">
+      <div class="card-head"><h2>Statistici</h2><small>actualizate din listă</small></div>
+      <div class="card-body">
+        <div class="kpi">
+          <div class="box"><div class="num" id="kpiTotal">0</div><div class="lab">site-uri</div></div>
+          <div class="box"><div class="num" id="kpiSocial">0</div><div class="lab">cu Mastodon</div></div>
+          <div class="box"><div class="num" id="kpiCats">0</div><div class="lab">categorii</div></div>
+        </div>
+
+        <div style="margin-top:14px" class="notice">
+          <b>Tip:</b> dacă nu vezi articole în paginile individuale, rulează workflow-ul
+          <b>Update feeds</b> din GitHub Actions pentru a genera cache-ul JSON.
+        </div>
+
+        <div style="margin-top:14px; display:flex; gap:10px; flex-wrap:wrap;">
+          <a class="btn" href="/publishers/">Vezi lista completă</a>
+          <a class="btn" href="/robots.txt">robots.txt</a>
+        </div>
+      </div>
+    </aside>
+  </div>
+
+  <p class="footer">
+    Conținutul listat aparține publisherilor. Hub-ul afișează doar rezumate din feed-uri publice (RSS).
+    <br>© 2025 Release Press Romania.
+  </p>
+</div>
+
+<script src="/assets/utils.js"></script>
+<script src="/assets/app.js"></script>
+</body>
+</html>

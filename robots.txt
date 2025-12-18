@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://release-press-releases-romania.github.io/sitemap.xml

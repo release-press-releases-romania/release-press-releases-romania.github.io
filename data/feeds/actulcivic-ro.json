@@ -1,0 +1,14 @@
+{
+  "slug": "actulcivic-ro",
+  "site": {
+    "name": "Actulcivic",
+    "url": "https://actulcivic.ro/",
+    "category": "Știri & Societate",
+    "rss": "https://actulcivic.ro/feed/"
+  },
+  "mastodon": null,
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

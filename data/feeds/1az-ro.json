@@ -1,0 +1,14 @@
+{
+  "slug": "1az-ro",
+  "site": {
+    "name": "1az",
+    "url": "https://1az.ro/",
+    "category": "Diverse",
+    "rss": "https://1az.ro/feed/"
+  },
+  "mastodon": null,
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

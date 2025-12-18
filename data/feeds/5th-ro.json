@@ -1,0 +1,14 @@
+{
+  "slug": "5th-ro",
+  "site": {
+    "name": "5th",
+    "url": "https://5th.ro/",
+    "category": "PR & Marketing",
+    "rss": "https://5th.ro/feed/"
+  },
+  "mastodon": null,
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "9z-ro",
+  "site": {
+    "name": "9z",
+    "url": "https://9z.ro/",
+    "category": "Diverse",
+    "rss": "https://9z.ro/feed/"
+  },
+  "mastodon": {
+    "url": "https://social.5th.ro/@9z",
+    "rss": "https://social.5th.ro/@9z.rss"
+  },
+  "updated_at": null,
+  "status": "pending",
+  "items": [],
+  "social": []
+}
