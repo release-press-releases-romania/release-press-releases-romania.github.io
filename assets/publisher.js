@@ -88,20 +88,11 @@
       // Use different variation based on index and random for natural distribution
       const anchorText = anchorVariations[(idx + Math.floor(Math.random() * anchorVariations.length)) % anchorVariations.length];
       
-      // Mix of text and image links for external articles (30% chance for image link)
-      const useImageLink = Math.random() < 0.3 && idx > 0; // Don't use image for first item
-      const linkClass = useImageLink ? "feed-title-image" : "feed-title-text";
-      
       return `
         <div class="feed-item">
-          ${useImageLink ? `
-            <a href="${link}" target="_blank" rel="${relAttr}" class="${linkClass}" aria-label="Read article: ${escapeHtml(title)}">
-              <img src="/assets/images/logo.svg" alt="" width="24" height="24" style="vertical-align: middle; margin-right: 8px; opacity: 0.7;" aria-hidden="true">
-              <span>${anchorText}</span>
-            </a>
-          ` : `
-            <a href="${link}" target="_blank" rel="${relAttr}" class="${linkClass}">${anchorText}</a>
-          `}
+          <a href="${link}" target="_blank" rel="${relAttr}" class="feed-title" aria-label="Read article: ${escapeHtml(title)}">
+            ${anchorText}
+          </a>
           <div class="meta">
             ${when ? `<span>🗓️ ${when}</span>` : ""}
             ${source ? `<span>🔗 ${source}</span>` : ""}
@@ -139,20 +130,11 @@
           ];
           const anchorText = anchorVariations[(currentIndex + idx + Math.floor(Math.random() * anchorVariations.length)) % anchorVariations.length];
           
-          // Mix of text and image links (30% chance for image link)
-          const useImageLink = Math.random() < 0.3;
-          const linkClass = useImageLink ? "feed-title-image" : "feed-title-text";
-          
           const itemHtml = `
             <div class="feed-item">
-              ${useImageLink ? `
-                <a href="${link}" target="_blank" rel="${relAttr}" class="${linkClass}" aria-label="Read article: ${escapeHtml(title)}">
-                  <img src="/assets/images/logo.svg" alt="" width="24" height="24" style="vertical-align: middle; margin-right: 8px; opacity: 0.7;" aria-hidden="true">
-                  <span>${anchorText}</span>
-                </a>
-              ` : `
-                <a href="${link}" target="_blank" rel="${relAttr}" class="${linkClass}">${anchorText}</a>
-              `}
+              <a href="${link}" target="_blank" rel="${relAttr}" class="feed-title" aria-label="Read article: ${escapeHtml(title)}">
+                ${anchorText}
+              </a>
               <div class="meta">
                 ${when ? `<span>🗓️ ${when}</span>` : ""}
                 ${source ? `<span>🔗 ${source}</span>` : ""}
