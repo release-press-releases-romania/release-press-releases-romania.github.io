@@ -653,11 +653,6 @@
 
 <script src="/assets/utils.js"></script>
 <script>
-(function(){
-  // No need to center cards anymore - we have 5 categories + 1 latest posts = 6 cards total
-  // Grid will handle layout automatically: 3 columns desktop, 2 tablet, 1 mobile
-})();
-
 // Load latest posts from RSS and Mastodon
 (async function(){
   const q = (sel) => document.querySelector(sel);
@@ -757,7 +752,7 @@
       return dateDiff;
     });
     
-    // Get latest 10 RSS posts
+    // Get latest 10 RSS posts - LINK ON TEXT, NOT TITLE
     const latestRss = allRssPosts.slice(0, 10);
     const rssContainer = q('#latestRssPosts');
     if(rssContainer && latestRss.length > 0) {
@@ -766,8 +761,10 @@
         const link = escapeHtml(post.link || '#');
         const date = fmtDate(post.published || post.pubDate);
         const fullSummary = post.summary || post.description || '';
-        const summaryText = escapeHtml(fullSummary.slice(0, 70));
-        const hasMore = fullSummary.length > 70;
+        // Limit to 50-70 characters
+        const summaryLength = Math.floor(Math.random() * 21) + 50; // Random between 50-70
+        const summaryText = escapeHtml(fullSummary.slice(0, summaryLength));
+        const hasMore = fullSummary.length > summaryLength;
         const publisherLink = `/publisher/${encodeURIComponent(post.siteSlug)}/`;
         const publisherName = escapeHtml(post.siteName);
         
@@ -788,7 +785,7 @@
       rssContainer.innerHTML = '<div class="notice">No RSS posts available yet. Feeds are updated regularly.</div>';
     }
     
-    // Get latest 10 Mastodon posts
+    // Get latest 10 Mastodon posts - LINK ON TEXT, NOT TITLE
     const latestMastodon = allMastodonPosts.slice(0, 10);
     const mastodonContainer = q('#latestMastodonPosts');
     if(mastodonContainer && latestMastodon.length > 0) {
@@ -797,8 +794,10 @@
         const link = escapeHtml(post.link || '#');
         const date = fmtDate(post.published || post.pubDate);
         const fullSummary = post.summary || post.description || '';
-        const summaryText = escapeHtml(fullSummary.slice(0, 70));
-        const hasMore = fullSummary.length > 70;
+        // Limit to 50-70 characters
+        const summaryLength = Math.floor(Math.random() * 21) + 50; // Random between 50-70
+        const summaryText = escapeHtml(fullSummary.slice(0, summaryLength));
+        const hasMore = fullSummary.length > summaryLength;
         const publisherLink = `/publisher/${encodeURIComponent(post.siteSlug)}/`;
         const publisherName = escapeHtml(post.siteName);
         
