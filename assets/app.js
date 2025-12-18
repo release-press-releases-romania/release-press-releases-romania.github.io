@@ -318,10 +318,21 @@
         const feed = await loadJson(`/data/feeds/${encodeURIComponent(site.slug)}.json`);
         if(feed.mastodon && feed.social && feed.social.length > 0){
           // Get up to 2 latest posts from each feed for variety
+          // Extract domain for display
+          let siteDomain = "";
+          if(site.url) {
+            siteDomain = site.url.replace(/^https?:\/\//,"").replace(/\/$/,"");
+          } else if(site.slug) {
+            siteDomain = site.slug.replace(/-ro$/, ".ro");
+          } else {
+            siteDomain = site.slug || "";
+          }
+          
           const posts = feed.social.slice(0, 2).map(post => ({
             ...post,
             siteName: site.name,
             siteSlug: site.slug,
+            siteDomain: siteDomain,
             mastodonUrl: site.mastodon
           }));
           allFeeds.push(...posts);
