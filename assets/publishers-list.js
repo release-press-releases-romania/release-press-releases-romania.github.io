@@ -32,10 +32,31 @@
     const hasSocial = !!s.mastodon;
     const url = `/publisher/${encodeURIComponent(s.slug)}/`;
     const category = escapeHtml(s.category || "Miscellaneous");
+    
+    // Category slug mapping
+    function getCategorySlug(cat) {
+      const slugMap = {
+        "PR & Marketing": "pr-marketing",
+        "Health": "health",
+        "News & Society": "news-society",
+        "Technology & Energy": "technology-energy",
+        "Business": "business",
+        "Tourism & Delta": "tourism-delta",
+        "Construction & Home": "construction-home",
+        "Miscellaneous": "miscellaneous"
+      };
+      return slugMap[cat] || cat.toLowerCase().replace(/\s+/g, "-").replace(/&/g, "").replace(/[^a-z0-9-]/g, "");
+    }
+    
+    // Make tags clickable with mix of dofollow/nofollow
+    const rssRel = s.rss ? (Math.random() < 0.2 ? 'nofollow noopener' : 'noopener') : '';
+    const mastodonRel = hasSocial ? (Math.random() < 0.3 ? 'nofollow noopener' : 'noopener') : '';
+    const categoryUrl = `/category/${getCategorySlug(s.category || "Miscellaneous")}/`;
+    
     const tags = `
-      <span class="tag rss">RSS</span>
-      ${hasSocial ? '<span class="tag social">Mastodon</span>' : ''}
-      <span class="tag">${category}</span>
+      ${s.rss ? `<a href="${escapeHtml(s.rss)}" target="_blank" class="tag rss" aria-label="RSS feed for ${escapeHtml(s.url ? (s.url.replace(/^https?:\/\//,"").replace(/\/$/,"")) : s.slug.replace(/-ro$/, ".ro"))}" rel="${rssRel}">RSS</a>` : '<span class="tag rss" aria-label="Has RSS feed">RSS</span>'}
+      ${hasSocial ? `<a href="${escapeHtml(s.mastodon)}" target="_blank" class="tag social" aria-label="Mastodon profile for ${escapeHtml(s.url ? (s.url.replace(/^https?:\/\//,"").replace(/\/$/,"")) : s.slug.replace(/-ro$/, ".ro"))}" rel="${mastodonRel}">Mastodon</a>` : ''}
+      <a href="${categoryUrl}" class="tag" aria-label="Category: ${category}" rel="bookmark">${category}</a>
     `;
     
     // Extract domain from URL - convert slug to domain format if URL missing
