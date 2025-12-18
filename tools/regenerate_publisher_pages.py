@@ -125,6 +125,16 @@ def generate_publisher_page(site, all_sites):
   <meta name="twitter:card" content="summary_large_image">
   <meta name="theme-color" content="#6d5efc">
   <link rel="stylesheet" href="/assets/styles.css">
+  <style>
+    @media (max-width: 768px) {
+      footer[style*="margin-top"] { padding: 32px 0 !important; margin-top: 48px !important; }
+      footer div[style*="padding: 0 32px"] { padding: 0 20px !important; }
+      footer div[style*="grid-template-columns"] { grid-template-columns: 1fr !important; gap: 24px !important; }
+    }
+    @media (max-width: 480px) {
+      footer div[style*="padding: 0 20px"] { padding: 0 16px !important; }
+    }
+  </style>
   <script type="application/ld+json">{{
     "@context": "https://schema.org",
     "@type": "WebPage",
