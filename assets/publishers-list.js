@@ -35,8 +35,22 @@
     // Make tags clickable with mix of dofollow/nofollow
     const rssRel = Math.random() < 0.2 ? 'nofollow noopener' : 'noopener';
     const mastodonRel = Math.random() < 0.3 ? 'nofollow noopener' : 'noopener';
-    const categorySlug = category.toLowerCase().replace(/\s+/g, '-').replace(/&/g, '').replace(/[^a-z0-9-]/g, '');
-    const categoryUrl = `/category/${categorySlug}/`;
+    
+    // Category slug mapping (same as app.js)
+    function getCategorySlug(cat) {
+      const slugMap = {
+        "PR & Marketing": "pr-marketing",
+        "Health": "health",
+        "News & Society": "news-society",
+        "Technology & Energy": "technology-energy",
+        "Business": "business",
+        "Tourism & Delta": "tourism-delta",
+        "Construction & Home": "construction-home",
+        "Miscellaneous": "miscellaneous"
+      };
+      return slugMap[cat] || cat.toLowerCase().replace(/\s+/g, "-").replace(/&/g, "").replace(/[^a-z0-9-]/g, "");
+    }
+    const categoryUrl = `/category/${getCategorySlug(category)}/`;
     
     const tags = `
       ${s.rss ? `<a href="${escapeHtml(s.rss)}" target="_blank" class="tag rss" aria-label="RSS feed for ${siteName}" rel="${rssRel}">RSS</a>` : '<span class="tag rss" aria-label="Has RSS feed">RSS</span>'}
