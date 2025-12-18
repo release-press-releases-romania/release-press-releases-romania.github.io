@@ -55,19 +55,6 @@
         grid-template-columns: repeat(3, 1fr);
         justify-items: stretch;
       }
-      /* Center last 2 cards */
-      .categories-grid .category-card:nth-child(7) {
-        grid-column: 2 / 3;
-        justify-self: center;
-        max-width: 400px;
-        width: 400px;
-      }
-      .categories-grid .category-card:nth-child(8) {
-        grid-column: 3 / 4;
-        justify-self: center;
-        max-width: 400px;
-        width: 400px;
-      }
     }
     .category-card {
       background: var(--surface);
@@ -696,50 +683,62 @@
 <script src="/assets/utils.js"></script>
 <script>
 (function(){
-  // Force center last 2 cards on desktop
+  // Center last 2 cards on desktop by wrapping them
   const grid = document.getElementById("categoriesGrid");
   if(!grid) return;
   
   const cards = Array.from(grid.querySelectorAll(".category-card"));
-  if(cards.length < 8) return;
+  if(cards.length !== 8) return;
   
-  function centerLastCards() {
+  function centerLastRow() {
     const isDesktop = window.innerWidth >= 1024;
-    const card7 = cards[6]; // 7th card (Construction & Home)
-    const card8 = cards[7]; // 8th card (Miscellaneous)
     
-    if(isDesktop && card7 && card8) {
-      // Force center with inline styles - use grid-column: 2 / 3 and 3 / 4
-      card7.style.gridColumn = "2 / 3";
-      card7.style.justifySelf = "center";
-      card7.style.maxWidth = "400px";
-      card7.style.width = "400px";
+    if(isDesktop) {
+      // On desktop: center last 2 cards by placing them in columns 2 and 3
+      const card7 = cards[6]; // Construction & Home
+      const card8 = cards[7]; // Miscellaneous
       
-      card8.style.gridColumn = "3 / 4";
-      card8.style.justifySelf = "center";
-      card8.style.maxWidth = "400px";
-      card8.style.width = "400px";
+      if(card7 && card8) {
+        // Reset all first
+        cards.forEach(card => {
+          card.style.gridColumn = "";
+          card.style.justifySelf = "";
+          card.style.maxWidth = "";
+          card.style.width = "";
+          card.style.margin = "";
+        });
+        
+        // Place card 7 in column 2, centered
+        card7.style.gridColumn = "2";
+        card7.style.justifySelf = "center";
+        card7.style.maxWidth = "400px";
+        
+        // Place card 8 in column 3, centered
+        card8.style.gridColumn = "3";
+        card8.style.justifySelf = "center";
+        card8.style.maxWidth = "400px";
+      }
     } else {
-      // Reset on mobile
+      // Mobile: reset all
       cards.forEach(card => {
         card.style.gridColumn = "";
         card.style.justifySelf = "";
         card.style.maxWidth = "";
         card.style.width = "";
+        card.style.margin = "";
       });
     }
   }
   
-  // Run immediately and on resize
-  centerLastCards();
-  window.addEventListener('resize', centerLastCards);
+  // Run on load and resize
+  centerLastRow();
+  window.addEventListener('resize', centerLastRow);
   
-  // Also run after DOM is ready
+  // Ensure it runs after DOM is ready
   if(document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', centerLastCards);
+    document.addEventListener('DOMContentLoaded', centerLastRow);
   } else {
-    setTimeout(centerLastCards, 50);
-    setTimeout(centerLastCards, 200);
+    setTimeout(centerLastRow, 100);
   }
 })();
 </script>
