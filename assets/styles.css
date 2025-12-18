@@ -515,10 +515,10 @@ small{
   color: rgba(15,23,42,.85); /* Increased contrast for accessibility (WCAG AA) */
 }
 .tag.social{ 
-  background: rgba(20,184,166,.2); /* Increased opacity for better contrast */
-  color: #0f766e; /* Even darker teal for better contrast (WCAG AA) */
-  border-color: rgba(20,184,166,.4);
-  font-weight: 600;
+  background: rgba(20,184,166,.15); /* Reduced opacity for better contrast */
+  color: #064e3b; /* Very dark teal for WCAG AA compliance (4.5:1+) */
+  border-color: rgba(20,184,166,.3);
+  font-weight: 700; /* Increased font weight for better visibility */
 }
 .tag.rss{ 
   background: rgba(99,102,241,.15); /* Increased opacity for better contrast */
