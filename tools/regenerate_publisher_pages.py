@@ -93,7 +93,7 @@ def generate_publisher_page(site, all_sites):
   <section class="card" style="margin-top:20px">
     <div class="card-head">
       <h2>Other Press Release Publishers from {escape(CATEGORY_NAMES.get(category, category))}</h2>
-      <small><a href="/category/{category_slug}/" style="color: var(--accent);">View all {len(related)} publishers in this category →</a></small>
+      <small><a href="/category/{category_slug}/" style="color: #4338ca; text-decoration: underline;">View all {len(related)} publishers in this category →</a></small>
     </div>
     <div class="card-body">
       <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 16px;">
@@ -198,9 +198,9 @@ def generate_publisher_page(site, all_sites):
   </div>
   
   <section class="card" style="margin-top:20px">
-    <div class="card-head">
+      <div class="card-head">
       <h2>About {escape(name)}</h2>
-      <small><a href="/category/{category_slug}/" style="color: var(--accent);">View category {escape(CATEGORY_NAMES.get(category, category))}</a></small>
+      <small><a href="/category/{category_slug}/" style="color: #4338ca; text-decoration: underline;">View category {escape(CATEGORY_NAMES.get(category, category))}</a></small>
     </div>
     <div class="card-body">
       <p style="line-height:1.85; color: rgba(17,20,37,.85); margin:0; font-size:16px;">
@@ -208,12 +208,12 @@ def generate_publisher_page(site, all_sites):
       </p>
       <div style="margin-top:20px; padding-top:20px; border-top:1px solid var(--border);">
         <p style="margin:0 0 12px 0; font-size:15px; color: var(--muted);">
-          <strong>Website:</strong> <a href="{escape(url)}" target="_blank" rel="noopener" style="color: var(--accent); text-decoration: underline;">{escape(url.replace('https://', '').replace('http://', '').rstrip('/'))}</a> | 
-          <strong>Category:</strong> <a href="/category/{category_slug}/" style="color: var(--accent); text-decoration: underline;">{escape(CATEGORY_NAMES.get(category, category))}</a> | 
-          <strong>RSS Feed:</strong> <a href="{escape(rss)}" target="_blank" rel="nofollow noopener" style="color: var(--accent); text-decoration: underline;">Subscribe</a>
+          <strong>Website:</strong> <a href="{escape(url)}" target="_blank" rel="noopener" style="color: #4338ca; text-decoration: underline;">{escape(url.replace('https://', '').replace('http://', '').rstrip('/'))}</a> | 
+          <strong>Category:</strong> <a href="/category/{category_slug}/" style="color: #4338ca; text-decoration: underline;">{escape(CATEGORY_NAMES.get(category, category))}</a> | 
+          <strong>RSS Feed:</strong> <a href="{escape(rss)}" target="_blank" rel="nofollow noopener" style="color: #4338ca; text-decoration: underline;">Subscribe</a>
         </p>
         <p style="margin:0; font-size:14px; color: var(--muted); line-height:1.6;">
-          Explore more publishers in the <a href="/category/{category_slug}/" style="color: var(--accent); text-decoration: underline;">{escape(CATEGORY_NAMES.get(category, category))} category</a>, browse our <a href="/publishers/" style="color: var(--accent); text-decoration: underline;">complete publisher directory</a>, or return to the <a href="/" style="color: var(--accent); text-decoration: underline;">homepage</a> to discover more press release sources from Romania.
+          Explore more publishers in the <a href="/category/{category_slug}/" style="color: #4338ca; text-decoration: underline;">{escape(CATEGORY_NAMES.get(category, category))} category</a>, browse our <a href="/publishers/" style="color: #4338ca; text-decoration: underline;">complete publisher directory</a>, or return to the <a href="/" style="color: #4338ca; text-decoration: underline;">homepage</a> to discover more press release sources from Romania.
         </p>
       </div>
     </div>

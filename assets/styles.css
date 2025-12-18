@@ -265,17 +265,18 @@ small{
   display:inline-block;
 }
 .pill.green{
-  background: rgba(20,184,166,.1);
-  border-color: rgba(20,184,166,.2);
-  color: #0d9488; /* Darker teal for better contrast */
-}
-.pill.green:hover{
   background: rgba(20,184,166,.15);
   border-color: rgba(20,184,166,.3);
-  color: #0d9488;
+  color: #047857 !important; /* Much darker teal for WCAG AA contrast - minimum 4.5:1 */
+  font-weight: 600 !important;
 }
-.pill.green i{background: #0d9488;} /* Darker teal */
-.pill.green small{color: rgba(15,23,42,.75);} /* Increased contrast */
+.pill.green:hover{
+  background: rgba(20,184,166,.2);
+  border-color: rgba(20,184,166,.4);
+  color: #047857 !important;
+}
+.pill.green i{background: #047857 !important;} /* Much darker teal */
+.pill.green small{color: #047857 !important; font-weight: 700 !important;} /* Maximum contrast */
 
 .stats-grid{
   display:grid;

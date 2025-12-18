@@ -90,26 +90,36 @@
       
       // If title is generic like "Update", use summary text for link instead
       const isGenericTitle = title.toLowerCase().trim() === "update" || title.toLowerCase().trim() === "articol" || title.length < 10;
-      const linkText = isGenericTitle && sum ? sum.slice(0, 100) + (sum.length > 100 ? "…" : "") : anchorText;
-      const linkClass = isGenericTitle && sum ? "feed-summary-link" : "feed-title";
       
+      // For generic titles, always use summary text for the link
+      if (isGenericTitle && sum) {
+        const linkText = sum.slice(0, 200) + (sum.length > 200 ? "…" : "");
+        return `
+          <div class="feed-item">
+            <div class="feed-title-placeholder">${escapeHtml(title.toUpperCase())}</div>
+            <a href="${link}" target="_blank" rel="${relAttr}" class="feed-summary-link" aria-label="Read article: ${escapeHtml(sum.slice(0, 100))}">
+              ${linkText}
+            </a>
+            <div class="meta">
+              ${when ? `<span>🗓️ ${when}</span>` : ""}
+              ${source ? `<span>🔗 ${source}</span>` : ""}
+            </div>
+          </div>
+        `;
+      }
+      
+      // For non-generic titles, use title as link
+      const linkText = anchorText;
       return `
         <div class="feed-item">
-          ${isGenericTitle && sum ? `
-            <div class="feed-title-placeholder">${escapeHtml(title)}</div>
-            <a href="${link}" target="_blank" rel="${relAttr}" class="${linkClass}" aria-label="Read article">
-              ${linkText}
-            </a>
-          ` : `
-            <a href="${link}" target="_blank" rel="${relAttr}" class="${linkClass}" aria-label="Read article: ${escapeHtml(title)}">
-              ${linkText}
-            </a>
-          `}
+          <a href="${link}" target="_blank" rel="${relAttr}" class="feed-title" aria-label="Read article: ${escapeHtml(title)}">
+            ${linkText}
+          </a>
           <div class="meta">
             ${when ? `<span>🗓️ ${when}</span>` : ""}
             ${source ? `<span>🔗 ${source}</span>` : ""}
           </div>
-          ${sum && !isGenericTitle ? `<div class="sum">${sum}${it.summary && it.summary.length>340 ? "…" : ""}</div>` : ""}
+          ${sum ? `<div class="sum">${sum}${it.summary && it.summary.length>340 ? "…" : ""}</div>` : ""}
         </div>
       `;
     }).join("");
@@ -144,28 +154,39 @@
           
           // If title is generic like "Update", use summary text for link instead
           const isGenericTitle = title.toLowerCase().trim() === "update" || title.toLowerCase().trim() === "articol" || title.length < 10;
-          const linkText = isGenericTitle && sum ? sum.slice(0, 100) + (sum.length > 100 ? "…" : "") : anchorText;
-          const linkClass = isGenericTitle && sum ? "feed-summary-link" : "feed-title";
           
-          const itemHtml = `
-            <div class="feed-item">
-              ${isGenericTitle && sum ? `
-                <div class="feed-title-placeholder">${escapeHtml(title)}</div>
-                <a href="${link}" target="_blank" rel="${relAttr}" class="${linkClass}" aria-label="Read article">
+          // For generic titles, always use summary text for the link
+          let itemHtml;
+          if (isGenericTitle && sum) {
+            const linkText = sum.slice(0, 200) + (sum.length > 200 ? "…" : "");
+            itemHtml = `
+              <div class="feed-item">
+                <div class="feed-title-placeholder">${escapeHtml(title.toUpperCase())}</div>
+                <a href="${link}" target="_blank" rel="${relAttr}" class="feed-summary-link" aria-label="Read article: ${escapeHtml(sum.slice(0, 100))}">
                   ${linkText}
                 </a>
-              ` : `
-                <a href="${link}" target="_blank" rel="${relAttr}" class="${linkClass}" aria-label="Read article: ${escapeHtml(title)}">
-                  ${linkText}
-                </a>
-              `}
-              <div class="meta">
-                ${when ? `<span>🗓️ ${when}</span>` : ""}
-                ${source ? `<span>🔗 ${source}</span>` : ""}
+                <div class="meta">
+                  ${when ? `<span>🗓️ ${when}</span>` : ""}
+                  ${source ? `<span>🔗 ${source}</span>` : ""}
+                </div>
               </div>
-              ${sum && !isGenericTitle ? `<div class="sum">${sum}${it.summary && it.summary.length>340 ? "…" : ""}</div>` : ""}
-            </div>
-          `;
+            `;
+          } else {
+            // For non-generic titles, use title as link
+            const linkText = anchorText;
+            itemHtml = `
+              <div class="feed-item">
+                <a href="${link}" target="_blank" rel="${relAttr}" class="feed-title" aria-label="Read article: ${escapeHtml(title)}">
+                  ${linkText}
+                </a>
+                <div class="meta">
+                  ${when ? `<span>🗓️ ${when}</span>` : ""}
+                  ${source ? `<span>🔗 ${source}</span>` : ""}
+                </div>
+                ${sum ? `<div class="sum">${sum}${it.summary && it.summary.length>340 ? "…" : ""}</div>` : ""}
+              </div>
+            `;
+          }
           box.insertAdjacentHTML("beforeend", itemHtml);
         });
         
