@@ -543,6 +543,8 @@ small{
   overflow: hidden;
   word-wrap: break-word;
   overflow-wrap: break-word;
+  display: flex;
+  flex-direction: column;
 }
 @media (max-width: 640px){
   .site{
