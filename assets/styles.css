@@ -414,16 +414,21 @@ small{
   display:grid;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   gap: 24px;
+  justify-items: center; /* Center grid items */
+  max-width: 1400px;
+  margin: 0 auto;
 }
 @media (max-width: 768px){
   .publishers-grid{
     gap: 20px;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
   }
 }
 @media (max-width: 720px){ 
   .publishers-grid{
     grid-template-columns:1fr; 
     gap: 16px;
+    max-width: 100%;
   }
 }
 
@@ -566,6 +571,16 @@ small{
   border: 1px solid var(--border);
   background: var(--surface-2);
   color: rgba(15,23,42,.85); /* Increased contrast for accessibility (WCAG AA) */
+  display: inline-block;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  cursor: pointer;
+}
+.tag:hover, .tag:focus{
+  transform: translateY(-1px);
+  box-shadow: 0 2px 4px rgba(0,0,0,.1);
+  background: var(--surface);
+  text-decoration: none;
 }
 .tag.social{ 
   background: rgba(20,184,166,.15) !important; /* Reduced opacity for better contrast */
@@ -573,11 +588,21 @@ small{
   border-color: rgba(20,184,166,.3) !important;
   font-weight: 700 !important; /* Increased font weight for better visibility */
 }
+.tag.social:hover, .tag.social:focus{
+  background: rgba(20,184,166,.25) !important;
+  border-color: rgba(20,184,166,.5) !important;
+  color: #065f46 !important;
+}
 .tag.rss{ 
   background: rgba(99,102,241,.15); /* Increased opacity for better contrast */
   color: #4f46e5; /* Darker indigo for better contrast (WCAG AA) */
   border-color: rgba(99,102,241,.3);
   font-weight: 600;
+}
+.tag.rss:hover, .tag.rss:focus{
+  background: rgba(99,102,241,.25);
+  border-color: rgba(99,102,241,.5);
+  color: #4338ca;
 }
 
 .latest-section{
@@ -820,9 +845,19 @@ small{
 .page-sub{
   margin:0; 
   color: var(--muted); 
-  max-width: 80ch; 
+  max-width: 100%;
   line-height:1.7;
   font-size: 16px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+@media (max-width: 768px){
+  .page-sub{
+    white-space: normal;
+    overflow: visible;
+    text-overflow: clip;
+  }
 }
 
 .notice{

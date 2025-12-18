@@ -32,10 +32,16 @@
     const hasSocial = !!s.mastodon;
     const url = `/publisher/${encodeURIComponent(s.slug)}/`;
     const category = escapeHtml(s.category || "Miscellaneous");
+    // Make tags clickable with mix of dofollow/nofollow
+    const rssRel = Math.random() < 0.2 ? 'nofollow noopener' : 'noopener';
+    const mastodonRel = Math.random() < 0.3 ? 'nofollow noopener' : 'noopener';
+    const categorySlug = category.toLowerCase().replace(/\s+/g, '-').replace(/&/g, '').replace(/[^a-z0-9-]/g, '');
+    const categoryUrl = `/category/${categorySlug}/`;
+    
     const tags = `
-      <span class="tag rss" aria-label="Has RSS feed">RSS</span>
-      ${hasSocial ? '<span class="tag social" aria-label="Has Mastodon profile">Mastodon</span>' : ''}
-      <span class="tag" aria-label="Category: ${category}">${category}</span>
+      ${s.rss ? `<a href="${escapeHtml(s.rss)}" target="_blank" class="tag rss" aria-label="RSS feed for ${siteName}" rel="${rssRel}">RSS</a>` : '<span class="tag rss" aria-label="Has RSS feed">RSS</span>'}
+      ${hasSocial ? `<a href="${escapeHtml(s.mastodon)}" target="_blank" class="tag social" aria-label="Mastodon profile for ${siteName}" rel="${mastodonRel}">Mastodon</a>` : ''}
+      <a href="${categoryUrl}" class="tag" aria-label="Category: ${category}" rel="bookmark">${category}</a>
     `;
     // /publishers/ page: Use description_short only (medium length, more detailed than homepage)
     const desc = s.description_short_en || s.description_short || "";
@@ -134,16 +140,6 @@
   if(searchEl) searchEl.addEventListener("input", apply);
   if(categoryEl) categoryEl.addEventListener("change", apply);
   if(socialOnlyEl) socialOnlyEl.addEventListener("change", apply);
-
-  // Randomization function for SEO - different order each visit
-  function shuffleArray(array) {
-    const shuffled = [...array];
-    for (let i = shuffled.length - 1; i > 0; i--) {
-      const j = Math.floor(Math.random() * (i + 1));
-      [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
-    }
-    return shuffled;
-  }
 
   // initial render - randomized for SEO
   const countEl = q("#count");
