@@ -37,10 +37,52 @@
       ${hasSocial ? '<span class="tag social">Mastodon</span>' : ''}
       <span class="tag">${category}</span>
     `;
-    // /publishers/ page: Use description_short only (medium length, more detailed than homepage)
-    const desc = s.description_short_en || s.description_short || "";
-    const siteName = escapeHtml(s.name || s.slug);
-    const siteUrl = escapeHtml((s.url||"").replace(/^https?:\/\//,"").replace(/\/$/,""));
+    
+    // Extract domain from URL
+    const siteUrl = (s.url||"").replace(/^https?:\/\//,"").replace(/\/$/,"");
+    const domainName = escapeHtml(siteUrl || s.slug);
+    
+    // Generate description without site name reference
+    // Use description_long_en or description_short_en, but remove site name references
+    let desc = s.description_long_en || s.description_short_en || s.description_long || s.description_short || "";
+    
+    // Remove site name references from description
+    if(desc) {
+      const siteNamePattern = new RegExp(`\\b${escapeRegex(s.name || s.slug)}\\b`, 'gi');
+      desc = desc.replace(siteNamePattern, 'This platform');
+      
+      // Also remove common patterns like "The platform", "The site" at start if redundant
+      desc = desc.replace(/^(This platform|The platform|The site|This site)\s+/i, '');
+      
+      // If description is too short or empty, generate generic description based on category
+      if(desc.length < 50) {
+        desc = generateGenericDescription(category, s.url);
+      }
+    } else {
+      desc = generateGenericDescription(category, s.url);
+    }
+    
+    const siteDesc = escapeHtml(desc);
+    
+    // Helper function to escape regex special characters
+    function escapeRegex(str) {
+      return str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    }
+    
+    // Generate generic description based on category
+    function generateGenericDescription(cat, url) {
+      const categoryDescriptions = {
+        "PR & Marketing": "A platform offering press release distribution services, public relations solutions, and marketing communications for businesses and organizations. Access professional PR services, press release distribution, and marketing resources.",
+        "Health": "A platform providing medical information, health recommendations, treatment options, and healthcare resources. Find articles on preventive medicine, medical treatments, and public health information.",
+        "News & Society": "A news platform covering local and national events, social issues, political developments, and cultural news. Access community journalism, civic engagement information, and social initiatives.",
+        "Technology & Energy": "A platform focused on technological innovations, IT solutions, digital transformation, and energy efficiency. Find information about software development, renewable energy, and technological advancements.",
+        "Business": "A platform dedicated to entrepreneurship, business strategies, investments, and corporate news. Access resources for startups, business management, investment opportunities, and market analysis.",
+        "Tourism & Delta": "A platform covering tourist destinations, travel information, cultural attractions, and natural landmarks. Find travel guides, tourism events, and information about Romania's tourist destinations.",
+        "Construction & Home": "A platform focused on construction projects, home renovations, interior design, and building solutions. Access information about construction materials, renovation projects, and architectural innovations.",
+        "Miscellaneous": "A platform offering diverse content covering multiple topics and interests. Find articles, guides, and resources on various subjects for the general public."
+      };
+      return categoryDescriptions[cat] || "A platform providing press releases and content across various topics. Access RSS feeds for the latest updates and information.";
+    }
     
     // Get category icon
     const categoryIcons = {
@@ -69,20 +111,19 @@
               </svg>
             </div>
             <div class="site-content">
-              <h3 class="site-name" itemprop="name">${siteName}</h3>
-              ${desc ? `<p class="site-desc" itemprop="description">${escapeHtml(desc)}</p>` : ''}
+              <h3 class="site-name" itemprop="name">${domainName}</h3>
+              ${siteDesc ? `<p class="site-desc" itemprop="description">${siteDesc}</p>` : ''}
               <div class="site-meta">${tags}</div>
-              ${s.url ? `<small class="site-url"><a href="${escapeHtml(s.url)}" target="_blank" rel="${externalRel}" style="color: var(--muted); text-decoration: none;" class="publisher-external-link">${siteUrl}</a></small>` : `<small class="site-url">${siteUrl}</small>`}
             </div>
           </div>
         </a>
         ${s.url ? `
-          <a href="${escapeHtml(s.url)}" target="_blank" class="site-image-link" aria-label="Visit ${siteName} website" rel="${externalRel}">
-            <img src="/assets/images/logo.svg" alt="${siteName} - Press Releases" class="site-logo" loading="lazy" width="32" height="32" itemprop="logo">
+          <a href="${escapeHtml(s.url)}" target="_blank" class="site-image-link" aria-label="Visit ${domainName} website" rel="${externalRel}">
+            <img src="/assets/images/logo.svg" alt="${domainName} - Press Releases" class="site-logo" loading="lazy" width="32" height="32" itemprop="logo">
           </a>
         ` : `
-          <a href="${url}" class="site-image-link" aria-label="View ${siteName} press releases">
-            <img src="/assets/images/logo.svg" alt="${siteName} - Press Releases" class="site-logo" loading="lazy" width="32" height="32" itemprop="logo">
+          <a href="${url}" class="site-image-link" aria-label="View ${domainName} press releases">
+            <img src="/assets/images/logo.svg" alt="${domainName} - Press Releases" class="site-logo" loading="lazy" width="32" height="32" itemprop="logo">
           </a>
         `}
         <meta itemprop="category" content="${category}">

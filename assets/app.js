@@ -36,11 +36,52 @@
       ${hasSocial ? '<span class="tag social" aria-label="Has Mastodon profile">Mastodon</span>' : ''}
       <span class="tag" aria-label="Category: ${category}">${category}</span>
     `;
-    // Homepage: Use description_small only (shortest, most concise)
-    const desc = s.description_small_en || s.description_small || "";
-    const name = s.name || s.slug;
-    const siteName = escapeHtml(name);
+    
+    // Extract domain from URL
+    const siteUrl = (s.url||"").replace(/^https?:\/\//,"").replace(/\/$/,"");
+    const domainName = escapeHtml(siteUrl || s.slug);
+    
+    // Generate description without site name reference
+    // Use description_small_en or description_short_en, but remove site name references
+    let desc = s.description_small_en || s.description_short_en || s.description_small || s.description_short || "";
+    
+    // Remove site name references from description
+    if(desc) {
+      const siteNamePattern = new RegExp(`\\b${escapeRegex(s.name || s.slug)}\\b`, 'gi');
+      desc = desc.replace(siteNamePattern, 'This platform');
+      
+      // Also remove common patterns like "The platform", "The site" at start if redundant
+      desc = desc.replace(/^(This platform|The platform|The site|This site)\s+/i, '');
+      
+      // If description is too short or empty, generate generic description based on category
+      if(desc.length < 30) {
+        desc = generateGenericDescription(category, s.url);
+      }
+    } else {
+      desc = generateGenericDescription(category, s.url);
+    }
+    
     const siteDesc = escapeHtml(desc);
+    
+    // Helper function to escape regex special characters
+    function escapeRegex(str) {
+      return str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    }
+    
+    // Generate generic description based on category
+    function generateGenericDescription(cat, url) {
+      const categoryDescriptions = {
+        "PR & Marketing": "Press release distribution and PR services.",
+        "Health": "Medical information and health resources.",
+        "News & Society": "Local and national news coverage.",
+        "Technology & Energy": "Technology innovations and IT solutions.",
+        "Business": "Business news and entrepreneurship resources.",
+        "Tourism & Delta": "Tourism information and travel guides.",
+        "Construction & Home": "Construction and home improvement content.",
+        "Miscellaneous": "Diverse content and articles."
+      };
+      return categoryDescriptions[cat] || "Press releases and content.";
+    }
     
     // Get category icon
     const categoryIcons = {
