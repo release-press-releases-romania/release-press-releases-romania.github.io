@@ -33,8 +33,22 @@
     const url = `/publisher/${encodeURIComponent(s.slug)}/`;
     const category = escapeHtml(s.category || "Miscellaneous");
     
-    // /publishers/ page: Use description_short only (medium length, more detailed than homepage)
-    const desc = s.description_short_en || s.description_short || "";
+    // /publishers/ page: Use longer descriptions - combine short and long for more complete text
+    const shortDesc = s.description_short_en || s.description_short || "";
+    const longDesc = s.description_long_en || s.description_long || "";
+    // Combine descriptions: if we have both, use short + part of long. Otherwise use what's available.
+    let desc = "";
+    if(shortDesc && longDesc && longDesc.length > shortDesc.length) {
+      // Use short description + first sentence or 100 chars from long description
+      const longExcerpt = longDesc.split('.')[0] || longDesc.substring(0, 100);
+      desc = shortDesc + (longExcerpt && !shortDesc.includes(longExcerpt.substring(0, 30)) ? '. ' + longExcerpt : '');
+    } else {
+      desc = longDesc || shortDesc || "";
+    }
+    // Ensure minimum length - if too short, try to expand
+    if(desc.length < 50 && longDesc) {
+      desc = longDesc.substring(0, 200) + (longDesc.length > 200 ? '...' : '');
+    }
     const name = s.name || s.slug;
     const siteName = escapeHtml(name);
     const siteDesc = escapeHtml(desc);

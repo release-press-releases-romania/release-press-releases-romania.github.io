@@ -10,6 +10,7 @@
   --accent: #6366f1;
   --accent-2: #14b8a6;
   --accent-hover: #4f46e5;
+  --accent-link: #4338ca; /* Darker indigo for better contrast on light backgrounds - WCAG AA compliant */
   --ring: rgba(99,102,241,.2);
   --radius: 12px;
   --radius-lg: 16px;
@@ -331,7 +332,23 @@ small{
 }
 @media (max-width: 640px){
   .search-card{
-    padding: 24px;
+    padding: 24px 20px;
+  }
+  .search-section{
+    margin-top: 32px;
+  }
+}
+@media (max-width: 480px){
+  .search-card{
+    padding: 20px 16px;
+  }
+  .search-controls input{
+    font-size: 14px;
+    padding: 10px 14px;
+  }
+  .select{
+    font-size: 14px;
+    padding: 10px 14px;
   }
 }
 .search-card h2{
@@ -436,6 +453,14 @@ small{
     grid-template-columns:1fr; 
     gap: 16px;
     max-width: 100%;
+  }
+  .publishers-section{
+    margin-top: 32px;
+  }
+}
+@media (max-width: 480px){
+  .publishers-grid{
+    gap: 12px;
   }
 }
 
@@ -595,7 +620,7 @@ small{
   margin: 0;
   font-size: 14px;
   color: var(--muted);
-  line-height: 1.6;
+  line-height: 1.7;
   font-weight: 400;
   word-wrap: break-word;
   overflow-wrap: break-word;
@@ -603,6 +628,10 @@ small{
   width: 100%;
   overflow: hidden;
   transition: color 0.2s ease;
+  min-height: 2.5em; /* Ensure minimum height for better visual consistency */
+  display: -webkit-box;
+  -webkit-line-clamp: 4; /* Show up to 4 lines */
+  -webkit-box-orient: vertical;
 }
 .site-meta{
   display:flex; 
@@ -618,8 +647,36 @@ small{
 @media (max-width: 640px){
   .site{padding: 18px}
   .site-name{font-size: 16px}
-  .site-desc{font-size: 13px; margin-top:8px}
+  .site-desc{
+    font-size: 13px; 
+    margin-top:8px;
+    -webkit-line-clamp: 5; /* More lines on mobile for better readability */
+    min-height: 3em;
+  }
   .site-meta{margin-top:12px; gap:6px}
+  .site-header .site-image-wrapper{
+    width: 40px;
+    height: 40px;
+  }
+  .site-icon{
+    width: 28px;
+    height: 28px;
+  }
+  .site-external-link{
+    width: 28px;
+    height: 28px;
+  }
+}
+@media (max-width: 480px){
+  .site{padding: 16px}
+  .site-name{font-size: 15px; line-height: 1.25}
+  .site-desc{
+    font-size: 12px;
+    line-height: 1.6;
+    -webkit-line-clamp: 6; /* Even more lines on very small screens */
+  }
+  .site-meta{gap: 4px}
+  .tag{font-size: 10px; padding: 4px 8px}
 }
 
 .tag{
