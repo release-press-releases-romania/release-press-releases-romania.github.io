@@ -16,6 +16,16 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="theme-color" content="#6d5efc">
   <link rel="stylesheet" href="/assets/styles.css">
+  <style>
+    @media (max-width: 768px) {
+      footer[style*="margin-top"] { padding: 32px 0 !important; margin-top: 48px !important; }
+      footer div[style*="padding: 0 32px"] { padding: 0 20px !important; }
+      footer div[style*="grid-template-columns"] { grid-template-columns: 1fr !important; gap: 24px !important; }
+    }
+    @media (max-width: 480px) {
+      footer div[style*="padding: 0 20px"] { padding: 0 16px !important; }
+    }
+  </style>
   <script type="application/ld+json">{
     "@context": "https://schema.org",
     "@type": "WebPage",
@@ -108,14 +118,6 @@
     <div class="card-body">
       <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 16px;">
         
-        <a class="site" href="/publisher/constructii360-ro/" style="display: block; padding: 16px; border: 1px solid var(--border); border-radius: 8px; text-decoration: none; transition: all 0.2s;">
-          <div style="display: flex; justify-content: space-between; align-items: start;">
-            <div>
-              <p style="margin: 0 0 8px 0; font-weight: 600; color: var(--text);">Constructii360</p>
-              <p style="margin: 0; font-size: 14px; color: var(--muted); line-height: 1.5;">Construction platform covering projects and home improvements.</p>
-            </div>
-          </div>
-        </a>
         <a class="site" href="/publisher/arta-constructiilor-ro/" style="display: block; padding: 16px; border: 1px solid var(--border); border-radius: 8px; text-decoration: none; transition: all 0.2s;">
           <div style="display: flex; justify-content: space-between; align-items: start;">
             <div>
@@ -124,11 +126,11 @@
             </div>
           </div>
         </a>
-        <a class="site" href="/publisher/solutii-constructii-ro/" style="display: block; padding: 16px; border: 1px solid var(--border); border-radius: 8px; text-decoration: none; transition: all 0.2s;">
+        <a class="site" href="/publisher/constructii360-ro/" style="display: block; padding: 16px; border: 1px solid var(--border); border-radius: 8px; text-decoration: none; transition: all 0.2s;">
           <div style="display: flex; justify-content: space-between; align-items: start;">
             <div>
-              <p style="margin: 0 0 8px 0; font-weight: 600; color: var(--text);">Solutii Constructii</p>
-              <p style="margin: 0; font-size: 14px; color: var(--muted); line-height: 1.5;">Construction solutions, building resources, and construction industry information.</p>
+              <p style="margin: 0 0 8px 0; font-weight: 600; color: var(--text);">Constructii360</p>
+              <p style="margin: 0; font-size: 14px; color: var(--muted); line-height: 1.5;">Construction platform covering projects and home improvements.</p>
             </div>
           </div>
         </a>
@@ -137,6 +139,14 @@
             <div>
               <p style="margin: 0 0 8px 0; font-weight: 600; color: var(--text);">Casa Sustenabila</p>
               <p style="margin: 0; font-size: 14px; color: var(--muted); line-height: 1.5;">Construction solutions, home improvements, and design resources.</p>
+            </div>
+          </div>
+        </a>
+        <a class="site" href="/publisher/solutii-constructii-ro/" style="display: block; padding: 16px; border: 1px solid var(--border); border-radius: 8px; text-decoration: none; transition: all 0.2s;">
+          <div style="display: flex; justify-content: space-between; align-items: start;">
+            <div>
+              <p style="margin: 0 0 8px 0; font-weight: 600; color: var(--text);">Solutii Constructii</p>
+              <p style="margin: 0; font-size: 14px; color: var(--muted); line-height: 1.5;">Construction solutions, building resources, and construction industry information.</p>
             </div>
           </div>
         </a>
