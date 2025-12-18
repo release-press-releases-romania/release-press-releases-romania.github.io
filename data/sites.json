@@ -20,9 +20,9 @@
         "campanii PR"
       ],
       "category_en": "PR & Marketing",
-      "description_long_en": "A comprehensive platform offering press release distribution services, public relations solutions, and marketing communications for businesses. Access professional PR services, press release distribution channels, and marketing resources. The platform facilitates effective communication between businesses and media outlets, helping organizations share their news and announcements.",
-      "description_short_en": "Press release distribution and public relations services.",
-      "description_small_en": "Press release distribution services."
+      "description_long_en": "A comprehensive platform offering press release distribution services and content marketing solutions for businesses. Access professional PR services, content creation resources, marketing communications tools, and press release distribution channels. The platform helps companies distribute press releases effectively and reach their target audience through strategic content marketing and media outreach.",
+      "description_short_en": "Press release distribution and content marketing services for businesses.",
+      "description_small_en": "PR distribution and content marketing."
     },
     {
       "slug": "cutremurul-ro",
@@ -65,9 +65,9 @@
         "servicii complete"
       ],
       "category_en": "Health",
-      "description_long_en": "A trusted medical platform providing comprehensive healthcare information, medical treatments, and health recommendations. Access articles on preventive medicine, treatment options, public health initiatives, and wellness guidance. The platform covers topics including medical research, healthcare policy, and health recommendations for patients and healthcare professionals.",
-      "description_short_en": "Comprehensive healthcare information, medical treatments, and health recommendations.",
-      "description_small_en": "Medical information and health resources."
+      "description_long_en": "A specialized platform providing dental health information, oral care recommendations, and dental treatment resources. Access articles on dental hygiene, preventive dental care, dental procedures, and oral health maintenance. The platform covers topics including dental treatments, oral health best practices, and dental care guidance for maintaining healthy teeth and gums.",
+      "description_short_en": "Dental health information, oral care recommendations, and dental treatment resources.",
+      "description_small_en": "Dental health information."
     },
     {
       "slug": "dobrogea-news-ro",
@@ -88,9 +88,9 @@
         "updated news"
       ],
       "category_en": "News & Society",
-      "description_long_en": "A news platform covering local and national events, social issues, and current affairs. Access articles on community news, social developments, and local events. The platform provides news coverage and information about events affecting communities and society, keeping readers informed about important developments.",
-      "description_short_en": "Local and national news coverage and current affairs.",
-      "description_small_en": "Local and national news coverage."
+      "description_long_en": "A regional news platform covering local events, community news, and regional developments in the Dobrogea region of Romania. Access articles on local governance, community activities, regional events, and local news coverage. The platform serves the Dobrogea community with timely news and information about regional developments, local politics, and community initiatives.",
+      "description_short_en": "Local news coverage for Dobrogea region and community events.",
+      "description_small_en": "Dobrogea regional news coverage."
     },
     {
       "slug": "doctor360-ro",
@@ -112,8 +112,8 @@
         "medical counseling"
       ],
       "category_en": "Health",
-      "description_long_en": "A medical information platform offering health recommendations, treatment options, and healthcare resources. Access articles on preventive care, medical treatments, public health information, and wellness advice. The platform provides valuable health information to help individuals make informed healthcare decisions and maintain good health.",
-      "description_short_en": "Health recommendations, treatment options, and healthcare resources.",
+      "description_long_en": "A comprehensive medical platform offering health information, treatment options, and healthcare resources. Access articles on medical treatments, preventive care, health recommendations, and wellness information. The platform provides valuable medical information to help patients understand treatment options and make informed healthcare decisions.",
+      "description_short_en": "Health information, treatment options, and healthcare resources.",
       "description_small_en": "Medical information and health resources."
     },
     {
@@ -135,9 +135,9 @@
         "medical counseling"
       ],
       "category_en": "Health",
-      "description_long_en": "A healthcare platform providing medical information, treatment guidance, and health resources for patients. Access articles on medical treatments, preventive medicine, health recommendations, and wellness information. The platform helps patients understand medical options and provides guidance for maintaining good health.",
-      "description_short_en": "Medical information, treatment guidance, and health resources.",
-      "description_small_en": "Medical information and health resources."
+      "description_long_en": "A medical information platform providing health recommendations, medical counseling, and treatment guidance. Access articles on preventive medicine, medical treatments, health recommendations, and wellness advice. The platform offers medical counseling resources and helps patients understand medical options and health recommendations.",
+      "description_short_en": "Health recommendations, medical counseling, and treatment guidance.",
+      "description_small_en": "Medical counseling and health information."
     },
     {
       "slug": "drepturisociale-ro",
@@ -157,9 +157,9 @@
         "public information"
       ],
       "category_en": "News & Society",
-      "description_long_en": "A news platform providing coverage of local and national events, social issues, and community news. Access articles on social developments, local governance, and community activities. The platform focuses on keeping readers informed about events and developments that impact local communities and society.",
-      "description_short_en": "Coverage of local and national events and social issues.",
-      "description_small_en": "Local and national news coverage."
+      "description_long_en": "A platform covering social rights, civil society issues, and democratic processes. Access articles on social justice, civil rights, community initiatives, and democratic participation. The platform focuses on social issues, civic engagement, and rights advocacy, providing information about social rights and democratic processes.",
+      "description_short_en": "Social rights, civil society issues, and democratic processes.",
+      "description_small_en": "Social rights and civil society."
     },
     {
       "slug": "e-faq-ro",
@@ -223,8 +223,8 @@
         "resurse utile"
       ],
       "category_en": "Miscellaneous",
-      "description_long_en": "A platform offering diverse content covering multiple topics and interests. Access articles, guides, and resources on various subjects for the general public. The platform covers a wide range of subjects including general interest articles, practical guides, and educational content.",
-      "description_short_en": "Diverse content covering multiple topics and interests.",
+      "description_long_en": "A platform offering diverse content covering various topics and interests. Access articles, guides, and resources on different subjects for the general public. The platform provides diverse content and information on multiple topics, offering readers a variety of content to explore.",
+      "description_short_en": "Diverse content covering various topics and interests.",
       "description_small_en": "Diverse content and articles."
     },
     {
@@ -245,9 +245,9 @@
         "energy efficiency"
       ],
       "category_en": "Technology & Energy",
-      "description_long_en": "A platform covering energy solutions, renewable energy projects, and energy efficiency initiatives. Access information about renewable energy, energy efficiency, sustainable energy solutions, energy policy, and green technologies. The platform focuses on energy innovations, sustainable energy developments, and energy efficiency solutions for businesses and consumers.",
-      "description_short_en": "Energy solutions, renewable energy, and energy efficiency initiatives.",
-      "description_small_en": "Energy solutions and efficiency."
+      "description_long_en": "A platform focused on sustainable energy, renewable energy solutions, and energy efficiency. Access articles on sustainable energy, renewable energy projects, energy efficiency initiatives, and green energy solutions. The platform promotes sustainable energy and helps readers understand sustainable energy options.",
+      "description_short_en": "Sustainable energy, renewable energy solutions, and energy efficiency.",
+      "description_small_en": "Sustainable energy solutions."
     },
     {
       "slug": "eratehnologica-ro",
@@ -267,9 +267,9 @@
         "energy efficiency"
       ],
       "category_en": "Technology & Energy",
-      "description_long_en": "A platform focused on technological innovations, IT solutions, digital transformation, and energy efficiency initiatives. Access information about software development, renewable energy projects, and technological advancements. The platform covers topics including digital transformation, enterprise solutions, and energy efficiency.",
-      "description_short_en": "Technological innovations, IT solutions, and energy efficiency.",
-      "description_small_en": "Technology innovations and IT solutions."
+      "description_long_en": "A platform covering technological innovations, IT solutions, and technological developments. Access articles on technological innovations, IT solutions, digital transformation, and technological advancements. The platform focuses on technological innovations and helps readers stay informed about technological developments.",
+      "description_short_en": "Technological innovations, IT solutions, and technological developments.",
+      "description_small_en": "Technological innovations and IT solutions."
     },
     {
       "slug": "excursie-delta-ro",
@@ -334,9 +334,9 @@
         "servicii comunicare"
       ],
       "category_en": "Business",
-      "description_long_en": "A platform dedicated to entrepreneurship, startup resources, and business development for entrepreneurs in Romania. Access articles on starting a business, entrepreneurial strategies, startup advice, business growth, and entrepreneurial success stories. The platform provides resources, guidance, and inspiration for entrepreneurs and business owners looking to start or grow their businesses.",
-      "description_short_en": "Entrepreneurship resources, startup advice, and business development for entrepreneurs.",
-      "description_small_en": "Entrepreneurship and startup resources."
+      "description_long_en": "A platform dedicated to women entrepreneurs, providing entrepreneurship resources, business development advice, and startup guidance specifically for women in business. Access articles on starting a business, entrepreneurial strategies, business growth, and success stories from women entrepreneurs. The platform provides resources and inspiration for women looking to start or grow their businesses.",
+      "description_short_en": "Entrepreneurship resources and business development for women entrepreneurs.",
+      "description_small_en": "Women entrepreneurship resources."
     },
     {
       "slug": "ghid-sanatate-ro",
@@ -356,9 +356,9 @@
         "medical recommendations"
       ],
       "category_en": "Health",
-      "description_long_en": "A trusted medical platform providing comprehensive healthcare information, medical treatments, and health recommendations. Access articles on preventive medicine, treatment options, public health initiatives, and wellness guidance. The platform covers topics including medical research, healthcare policy, and health recommendations for patients and healthcare professionals.",
-      "description_short_en": "Comprehensive healthcare information, medical treatments, and health recommendations.",
-      "description_small_en": "Medical information and health resources."
+      "description_long_en": "A health information platform providing health guides, medical information, and wellness resources. Access articles on health topics, medical information, wellness guidance, and health recommendations. The platform offers comprehensive health guides and helps individuals understand health topics and make informed health decisions.",
+      "description_short_en": "Health guides, medical information, and wellness resources.",
+      "description_small_en": "Health guides and medical information."
     },
     {
       "slug": "gradina24-ro",
@@ -400,8 +400,8 @@
         "strategii business"
       ],
       "category_en": "Business",
-      "description_long_en": "A business platform covering business news, investment opportunities, market analysis, and corporate developments in Romania. Access articles on business strategies, investment trends, market analysis, and corporate news. The platform provides insights into business opportunities, market developments, and investment prospects for businesses and investors.",
-      "description_short_en": "Business news, investment opportunities, and market analysis.",
+      "description_long_en": "A business platform covering business news, investment opportunities, and corporate developments. Access articles on business strategies, investment trends, market analysis, and corporate news. The platform provides insights into business opportunities and market developments for businesses and investors.",
+      "description_short_en": "Business news, investment opportunities, and corporate developments.",
       "description_small_en": "Business news and investments."
     },
     {
@@ -423,8 +423,8 @@
         "servicii comunicare"
       ],
       "category_en": "Business",
-      "description_long_en": "A platform dedicated to entrepreneurship, startup resources, and business development for entrepreneurs in Romania. Access articles on starting a business, entrepreneurial strategies, startup advice, business growth, and entrepreneurial success stories. The platform provides resources, guidance, and inspiration for entrepreneurs and business owners looking to start or grow their businesses.",
-      "description_short_en": "Entrepreneurship resources, startup advice, and business development for entrepreneurs.",
+      "description_long_en": "A platform dedicated to entrepreneurship, providing startup resources and business development advice for entrepreneurs. Access articles on starting a business, entrepreneurial strategies, startup advice, and business growth. The platform provides resources and guidance for entrepreneurs looking to start or grow their businesses.",
+      "description_short_en": "Entrepreneurship resources and business development for entrepreneurs.",
       "description_small_en": "Entrepreneurship and startup resources."
     },
     {
@@ -445,9 +445,9 @@
         "public information"
       ],
       "category_en": "News & Society",
-      "description_long_en": "A news platform covering local and national events, social issues, and current affairs. Access articles on community news, social developments, and local events. The platform provides news coverage and information about events affecting communities and society, keeping readers informed about important developments.",
-      "description_short_en": "Local and national news coverage and current affairs.",
-      "description_small_en": "Local and national news coverage."
+      "description_long_en": "A local news platform covering events, news, and developments in Iasi and surrounding regions of Romania. Access articles on local governance, community activities, regional events, and local news coverage. The platform serves the Iasi community with timely news and information about local developments, regional politics, and community initiatives.",
+      "description_short_en": "Local news coverage for Iasi region and community events.",
+      "description_small_en": "Iasi regional news coverage."
     },
     {
       "slug": "icomunicat-ro",
@@ -467,9 +467,9 @@
         "campanii PR"
       ],
       "category_en": "PR & Marketing",
-      "description_long_en": "A platform providing press release distribution and marketing communication services for businesses and organizations. Access professional PR services, media outreach tools, and marketing resources. The platform helps companies effectively communicate their messages and reach their target audiences through strategic public relations.",
-      "description_short_en": "Press release distribution and marketing communication services.",
-      "description_small_en": "PR and marketing services."
+      "description_long_en": "A platform providing press release distribution and communication services for businesses. Access professional communication services, press release distribution channels, and media outreach tools. The platform helps businesses effectively communicate their messages and distribute press releases to reach their target audiences.",
+      "description_short_en": "Press release distribution and communication services.",
+      "description_small_en": "Press release distribution services."
     },
     {
       "slug": "idezvoltator-ro",
@@ -489,9 +489,9 @@
         "strategii business"
       ],
       "category_en": "Business",
-      "description_long_en": "A platform dedicated to entrepreneurship, business strategies, investments, and corporate news. Access resources for startups, business management, investment opportunities, and market analysis. The platform covers topics including startup ecosystems, investment opportunities, and business strategies.",
-      "description_short_en": "Entrepreneurship, business strategies, and corporate news.",
-      "description_small_en": "Business news and entrepreneurship resources."
+      "description_long_en": "A platform for idea developers and entrepreneurs, providing resources for developing business ideas and startups. Access articles on idea development, startup resources, entrepreneurial strategies, and business idea implementation. The platform helps entrepreneurs develop and implement business ideas.",
+      "description_short_en": "Resources for idea developers and entrepreneurs.",
+      "description_small_en": "Idea development and entrepreneurship."
     },
     {
       "slug": "ienergie-ro",
@@ -511,8 +511,8 @@
         "energy efficiency"
       ],
       "category_en": "Technology & Energy",
-      "description_long_en": "A platform covering energy solutions, renewable energy projects, and energy efficiency initiatives. Access information about renewable energy, energy efficiency, sustainable energy solutions, energy policy, and green technologies. The platform focuses on energy innovations, sustainable energy developments, and energy efficiency solutions for businesses and consumers.",
-      "description_short_en": "Energy solutions, renewable energy, and energy efficiency initiatives.",
+      "description_long_en": "A platform covering energy solutions, energy efficiency, and energy industry developments. Access articles on energy solutions, energy efficiency, renewable energy, and energy industry news. The platform provides information about energy solutions and helps readers understand energy options and developments.",
+      "description_short_en": "Energy solutions, energy efficiency, and energy industry developments.",
       "description_small_en": "Energy solutions and efficiency."
     },
     {
@@ -533,8 +533,8 @@
         "resurse utile"
       ],
       "category_en": "Miscellaneous",
-      "description_long_en": "A platform offering content focused on women's interests, lifestyle topics, and diverse subjects relevant to women. Access articles, guides, and resources covering various topics including lifestyle, career, health, and personal development. The platform provides diverse content and information tailored to women's interests and needs.",
-      "description_short_en": "Content focused on women's interests, lifestyle, and diverse topics.",
+      "description_long_en": "A platform offering content focused on women's interests and lifestyle topics. Access articles, guides, and resources covering topics relevant to women including lifestyle, career, health, and personal development. The platform provides content tailored to women's interests and needs.",
+      "description_short_en": "Content focused on women's interests and lifestyle topics.",
       "description_small_en": "Women's content and lifestyle."
     },
     {
@@ -555,9 +555,9 @@
         "medical recommendations"
       ],
       "category_en": "Health",
-      "description_long_en": "A medical information platform offering health recommendations, treatment options, and healthcare resources. Access articles on preventive care, medical treatments, public health information, and wellness advice. The platform provides valuable health information to help individuals make informed healthcare decisions and maintain good health.",
-      "description_short_en": "Health recommendations, treatment options, and healthcare resources.",
-      "description_small_en": "Medical information and health resources."
+      "description_long_en": "A platform providing health information, medical news, and wellness resources. Access articles on health topics, medical developments, wellness information, and health recommendations. The platform offers up-to-date health information and helps readers stay informed about health topics and medical developments.",
+      "description_short_en": "Health information, medical news, and wellness resources.",
+      "description_small_en": "Health information and medical news."
     },
     {
       "slug": "inovare-afaceri-ro",
@@ -577,9 +577,9 @@
         "strategii business"
       ],
       "category_en": "Business",
-      "description_long_en": "A business platform covering business news, investment opportunities, market analysis, and corporate developments in Romania. Access articles on business strategies, investment trends, market analysis, and corporate news. The platform provides insights into business opportunities, market developments, and investment prospects for businesses and investors.",
-      "description_short_en": "Business news, investment opportunities, and market analysis.",
-      "description_small_en": "Business news and investments."
+      "description_long_en": "A platform focused on business innovation, providing resources for innovative businesses and startups. Access articles on business innovation, innovative strategies, startup innovation, and business development. The platform helps businesses innovate and provides resources for innovative business development.",
+      "description_short_en": "Business innovation resources and innovative business strategies.",
+      "description_small_en": "Business innovation and strategies."
     },
     {
       "slug": "ipresa-ro",
@@ -599,8 +599,8 @@
         "campanii PR"
       ],
       "category_en": "PR & Marketing",
-      "description_long_en": "A comprehensive platform offering press release distribution services, public relations solutions, and marketing communications for businesses. Access professional PR services, press release distribution channels, and marketing resources. The platform facilitates effective communication between businesses and media outlets, helping organizations share their news and announcements.",
-      "description_short_en": "Press release distribution and public relations services.",
+      "description_long_en": "A press release platform offering distribution services and media communication tools for businesses. Access press release distribution channels, media relations services, and communication resources. The platform facilitates effective press release distribution and helps businesses share their news with media outlets and target audiences.",
+      "description_short_en": "Press release distribution and media communication services.",
       "description_small_en": "Press release distribution services."
     },
     {
@@ -621,9 +621,9 @@
         "strategii business"
       ],
       "category_en": "Business",
-      "description_long_en": "A platform dedicated to entrepreneurship, business strategies, investments, and corporate news. Access resources for startups, business management, investment opportunities, and market analysis. The platform covers topics including startup ecosystems, investment opportunities, and business strategies.",
-      "description_short_en": "Entrepreneurship, business strategies, and corporate news.",
-      "description_small_en": "Business news and entrepreneurship resources."
+      "description_long_en": "A platform covering residential real estate, property information, and housing market developments. Access articles on real estate, property investments, housing market trends, and residential property information. The platform provides insights into the residential real estate market and helps readers understand property investments.",
+      "description_short_en": "Residential real estate information and housing market developments.",
+      "description_small_en": "Residential real estate information."
     },
     {
       "slug": "lvu-ro",
@@ -643,8 +643,8 @@
         "resurse utile"
       ],
       "category_en": "Miscellaneous",
-      "description_long_en": "A platform offering diverse content covering multiple topics and interests. Access articles, guides, and resources on various subjects for the general public. The platform covers a wide range of subjects including general interest articles, practical guides, and educational content.",
-      "description_short_en": "Diverse content covering multiple topics and interests.",
+      "description_long_en": "A platform offering diverse content and articles on various topics. Access articles, guides, and resources covering multiple subjects. The platform provides diverse content and information on various topics, offering readers access to a wide range of content and information.",
+      "description_short_en": "Diverse content and articles on various topics.",
       "description_small_en": "Diverse content and articles."
     },
     {
@@ -666,9 +666,9 @@
         "servicii comunicare"
       ],
       "category_en": "Business",
-      "description_long_en": "A platform dedicated to entrepreneurship, startup resources, and business development for entrepreneurs in Romania. Access articles on starting a business, entrepreneurial strategies, startup advice, business growth, and entrepreneurial success stories. The platform provides resources, guidance, and inspiration for entrepreneurs and business owners looking to start or grow their businesses.",
-      "description_short_en": "Entrepreneurship resources, startup advice, and business development for entrepreneurs.",
-      "description_small_en": "Entrepreneurship and startup resources."
+      "description_long_en": "A platform dedicated to mothers who are entrepreneurs, providing entrepreneurship resources and business development advice. Access articles on balancing motherhood and business, entrepreneurial strategies, and business growth for mother entrepreneurs. The platform provides resources and inspiration for mothers looking to start or grow their businesses.",
+      "description_short_en": "Entrepreneurship resources for mother entrepreneurs and business development.",
+      "description_small_en": "Mother entrepreneurship resources."
     },
     {
       "slug": "medic360-ro",
@@ -690,9 +690,9 @@
         "medical counseling"
       ],
       "category_en": "Health",
-      "description_long_en": "A healthcare platform providing medical information, treatment guidance, and health resources for patients. Access articles on medical treatments, preventive medicine, health recommendations, and wellness information. The platform helps patients understand medical options and provides guidance for maintaining good health.",
-      "description_short_en": "Medical information, treatment guidance, and health resources.",
-      "description_small_en": "Medical information and health resources."
+      "description_long_en": "A medical platform offering comprehensive medical information, treatment resources, and healthcare guidance. Access articles on medical treatments, health recommendations, medical information, and wellness advice. The platform provides comprehensive medical resources and helps patients access reliable medical information.",
+      "description_short_en": "Comprehensive medical information, treatment resources, and healthcare guidance.",
+      "description_small_en": "Comprehensive medical information."
     },
     {
       "slug": "medicina-familie-ro",
@@ -713,9 +713,9 @@
         "medical counseling"
       ],
       "category_en": "Health",
-      "description_long_en": "A trusted medical platform providing comprehensive healthcare information, medical treatments, and health recommendations. Access articles on preventive medicine, treatment options, public health initiatives, and wellness guidance. The platform covers topics including medical research, healthcare policy, and health recommendations for patients and healthcare professionals.",
-      "description_short_en": "Comprehensive healthcare information, medical treatments, and health recommendations.",
-      "description_small_en": "Medical information and health resources."
+      "description_long_en": "A platform focused on family medicine, providing health information and medical resources for families. Access articles on family health, preventive care, children's health, and family wellness. The platform offers family-focused medical information and helps families maintain good health and access appropriate medical care.",
+      "description_short_en": "Family medicine information and health resources for families.",
+      "description_small_en": "Family medicine and health information."
     },
     {
       "slug": "medicina-sportiva-ro",
@@ -736,8 +736,8 @@
         "medical counseling"
       ],
       "category_en": "Health",
-      "description_long_en": "A medical information platform offering health recommendations, treatment options, and healthcare resources. Access articles on preventive care, medical treatments, public health information, and wellness advice. The platform provides valuable health information to help individuals make informed healthcare decisions and maintain good health.",
-      "description_short_en": "Health recommendations, treatment options, and healthcare resources.",
+      "description_long_en": "A platform offering comprehensive medical information and healthcare resources. Access articles, guides, and resources on various subjects for the general public. The platform covers a wide range of subjects and provides diverse content.",
+      "description_short_en": "Comprehensive medical information and healthcare resources.",
       "description_small_en": "Medical information and health resources."
     },
     {
@@ -758,9 +758,9 @@
         "strategii business"
       ],
       "category_en": "Business",
-      "description_long_en": "A platform dedicated to entrepreneurship, business strategies, investments, and corporate news. Access resources for startups, business management, investment opportunities, and market analysis. The platform covers topics including startup ecosystems, investment opportunities, and business strategies.",
-      "description_short_en": "Entrepreneurship, business strategies, and corporate news.",
-      "description_small_en": "Business news and entrepreneurship resources."
+      "description_long_en": "A networking platform providing business networking opportunities and professional connections. Access articles on business networking, professional connections, networking strategies, and business relationship building. The platform helps professionals connect and build valuable business relationships.",
+      "description_short_en": "Business networking opportunities and professional connections.",
+      "description_small_en": "Business networking and connections."
     },
     {
       "slug": "noutati24-ro",
@@ -780,9 +780,9 @@
         "resurse utile"
       ],
       "category_en": "Miscellaneous",
-      "description_long_en": "A platform offering diverse content covering multiple topics and interests. Access articles, guides, and resources on various subjects for the general public. The platform covers a wide range of subjects including general interest articles, practical guides, and educational content.",
-      "description_short_en": "Diverse content covering multiple topics and interests.",
-      "description_small_en": "Diverse content and articles."
+      "description_long_en": "A 24/7 news platform providing continuous news coverage and updates on various topics. Access up-to-date news, continuous news coverage, and timely information about developments. The platform provides 24/7 news coverage and helps readers stay informed about latest news and developments.",
+      "description_short_en": "24/7 news coverage and updates on various topics.",
+      "description_small_en": "24/7 news coverage."
     },
     {
       "slug": "nutritie-sanatate-ro",
@@ -802,9 +802,9 @@
         "medical recommendations"
       ],
       "category_en": "Health",
-      "description_long_en": "A healthcare platform providing medical information, treatment guidance, and health resources for patients. Access articles on medical treatments, preventive medicine, health recommendations, and wellness information. The platform helps patients understand medical options and provides guidance for maintaining good health.",
-      "description_short_en": "Medical information, treatment guidance, and health resources.",
-      "description_small_en": "Medical information and health resources."
+      "description_long_en": "A platform providing nutrition information, dietary guidance, and health resources related to nutrition. Access articles on healthy eating, nutrition advice, dietary recommendations, and nutritional health. The platform focuses on nutrition and helps individuals make informed dietary choices for better health.",
+      "description_short_en": "Nutrition information, dietary guidance, and health resources.",
+      "description_small_en": "Nutrition and dietary information."
     },
     {
       "slug": "oltenia-news-ro",
@@ -825,9 +825,9 @@
         "updated news"
       ],
       "category_en": "News & Society",
-      "description_long_en": "A news platform providing coverage of local and national events, social issues, and community news. Access articles on social developments, local governance, and community activities. The platform focuses on keeping readers informed about events and developments that impact local communities and society.",
-      "description_short_en": "Coverage of local and national events and social issues.",
-      "description_small_en": "Local and national news coverage."
+      "description_long_en": "A regional news platform covering local events, community news, and regional developments in the Oltenia region of Romania. Access articles on local governance, community activities, regional events, and local news coverage. The platform serves the Oltenia community with timely news and information about regional developments.",
+      "description_short_en": "Local news coverage for Oltenia region and community events.",
+      "description_small_en": "Oltenia regional news coverage."
     },
     {
       "slug": "panourifotovoltaice360-ro",
@@ -848,9 +848,9 @@
         "servicii complete"
       ],
       "category_en": "Technology & Energy",
-      "description_long_en": "A platform focused on technological innovations, IT solutions, digital transformation, and energy efficiency initiatives. Access information about software development, renewable energy projects, and technological advancements. The platform covers topics including digital transformation, enterprise solutions, and energy efficiency.",
-      "description_short_en": "Technological innovations, IT solutions, and energy efficiency.",
-      "description_small_en": "Technology innovations and IT solutions."
+      "description_long_en": "A platform focused on photovoltaic panels and solar energy solutions. Access articles on solar energy, photovoltaic technology, renewable energy solutions, and solar panel information. The platform provides comprehensive information about solar energy and photovoltaic solutions for businesses and homeowners.",
+      "description_short_en": "Photovoltaic panels and solar energy solutions.",
+      "description_small_en": "Solar energy and photovoltaic solutions."
     },
     {
       "slug": "partizani-ro",
@@ -870,8 +870,8 @@
         "patrimoniu natural"
       ],
       "category_en": "Tourism & Delta",
-      "description_long_en": "A platform covering tourist destinations, travel information, cultural attractions, and natural landmarks. Access travel guides, tourism events, and information about Romania's tourist destinations. The platform promotes tourism and helps travelers discover new destinations and travel opportunities.",
-      "description_short_en": "Tourist destinations, travel information, and cultural attractions.",
+      "description_long_en": "A platform covering travel platform covering tourist destinations and cultural attractions. Access travel guides, tourism events, and information about Romania's tourist destinations. The platform promotes tourism and helps travelers discover new destinations.",
+      "description_short_en": "Travel platform covering tourist destinations and cultural attractions.",
       "description_small_en": "Tourism information and travel guides."
     },
     {
@@ -892,9 +892,9 @@
         "patrimoniu natural"
       ],
       "category_en": "Tourism & Delta",
-      "description_long_en": "A platform covering tourism in the Danube Delta region, travel information, and natural attractions. Access travel guides, tourism events, ecotourism initiatives, and information about the Danube Delta's unique natural environment. The platform focuses on promoting sustainable tourism in this unique natural region and helping visitors discover its natural beauty.",
-      "description_short_en": "Tourism information for Danube Delta region and natural attractions.",
-      "description_small_en": "Danube Delta tourism information."
+      "description_long_en": "A platform covering guesthouses and accommodations in the Danube Delta region, providing tourism information and travel resources. Access information about guesthouses, accommodations, tourism in the Danube Delta, and travel opportunities. The platform helps travelers find accommodations and plan trips to the Danube Delta region.",
+      "description_short_en": "Guesthouses and accommodations in Danube Delta region.",
+      "description_small_en": "Danube Delta accommodations and tourism."
     },
     {
       "slug": "pentruoameni-ro",
@@ -914,9 +914,9 @@
         "resurse utile"
       ],
       "category_en": "Miscellaneous",
-      "description_long_en": "A platform offering diverse content covering multiple topics and interests. Access articles, guides, and resources on various subjects for the general public. The platform covers a wide range of subjects including general interest articles, practical guides, and educational content.",
-      "description_short_en": "Diverse content covering multiple topics and interests.",
-      "description_small_en": "Diverse content and articles."
+      "description_long_en": "A platform offering content for people, providing articles and resources on various topics relevant to everyday life. Access articles, guides, and resources covering topics that matter to people in their daily lives. The platform provides content and information designed to be useful and relevant for people.",
+      "description_short_en": "Content for people covering various topics relevant to everyday life.",
+      "description_small_en": "Content for people and everyday life."
     },
     {
       "slug": "pr-1az-ro",
@@ -937,9 +937,9 @@
         "servicii comunicare"
       ],
       "category_en": "PR & Marketing",
-      "description_long_en": "A platform providing press release distribution and marketing communication services for businesses and organizations. Access professional PR services, media outreach tools, and marketing resources. The platform helps companies effectively communicate their messages and reach their target audiences through strategic public relations.",
-      "description_short_en": "Press release distribution and marketing communication services.",
-      "description_small_en": "PR and marketing services."
+      "description_long_en": "A PR platform providing press release distribution services and public relations solutions. Access professional PR services, press release distribution channels, and media outreach tools. The platform helps businesses effectively communicate their messages and reach their target audiences through strategic public relations.",
+      "description_short_en": "Press release distribution and public relations services.",
+      "description_small_en": "Press release distribution services."
     },
     {
       "slug": "pr360-ro",
@@ -961,9 +961,9 @@
         "servicii comunicare"
       ],
       "category_en": "PR & Marketing",
-      "description_long_en": "A comprehensive platform offering press release distribution services, public relations solutions, and marketing communications for businesses. Access professional PR services, press release distribution channels, and marketing resources. The platform facilitates effective communication between businesses and media outlets, helping organizations share their news and announcements.",
-      "description_short_en": "Press release distribution and public relations services.",
-      "description_small_en": "Press release distribution services."
+      "description_long_en": "A comprehensive PR platform offering 360-degree public relations services and press release distribution. Access complete PR solutions, media relations services, press release distribution, and communication strategies. The platform provides comprehensive public relations services to help businesses manage their public image and communications.",
+      "description_short_en": "Comprehensive PR services and press release distribution.",
+      "description_small_en": "Comprehensive PR services."
     },
     {
       "slug": "prbusiness-ro",
@@ -984,9 +984,9 @@
         "servicii comunicare"
       ],
       "category_en": "Business",
-      "description_long_en": "A platform dedicated to entrepreneurship, business strategies, investments, and corporate news. Access resources for startups, business management, investment opportunities, and market analysis. The platform covers topics including startup ecosystems, investment opportunities, and business strategies.",
-      "description_short_en": "Entrepreneurship, business strategies, and corporate news.",
-      "description_small_en": "Business news and entrepreneurship resources."
+      "description_long_en": "A platform combining PR services with business news, providing press release distribution and business information. Access professional PR services, press release distribution channels, and business news. The platform helps businesses distribute press releases while also providing business news and market information.",
+      "description_short_en": "PR services combined with business news and press release distribution.",
+      "description_small_en": "PR services and business news."
     },
     {
       "slug": "recent-news-ro",
@@ -1007,9 +1007,9 @@
         "updated news"
       ],
       "category_en": "News & Society",
-      "description_long_en": "A news platform covering local and national events, social issues, and current affairs. Access articles on community news, social developments, and local events. The platform provides news coverage and information about events affecting communities and society, keeping readers informed about important developments.",
-      "description_short_en": "Local and national news coverage and current affairs.",
-      "description_small_en": "Local and national news coverage."
+      "description_long_en": "A news platform providing recent news coverage, current events, and up-to-date information. Access articles on current events, recent news, and timely information about developments. The platform focuses on providing recent and current news coverage to keep readers informed about latest developments.",
+      "description_short_en": "Recent news coverage, current events, and up-to-date information.",
+      "description_small_en": "Recent news and current events."
     },
     {
       "slug": "recomandari-medicale-ro",
@@ -1030,8 +1030,8 @@
         "medical counseling"
       ],
       "category_en": "Health",
-      "description_long_en": "A trusted medical platform providing comprehensive healthcare information, medical treatments, and health recommendations. Access articles on preventive medicine, treatment options, public health initiatives, and wellness guidance. The platform covers topics including medical research, healthcare policy, and health recommendations for patients and healthcare professionals.",
-      "description_short_en": "Comprehensive healthcare information, medical treatments, and health recommendations.",
+      "description_long_en": "A platform offering medical information, treatment options, and healthcare resources. Access articles on preventive medicine, medical treatments, public health initiatives, and wellness information. The platform provides valuable health information to help individuals make informed healthcare decisions.",
+      "description_short_en": "Medical information, treatment options, and healthcare resources.",
       "description_small_en": "Medical information and health resources."
     },
     {
@@ -1052,9 +1052,9 @@
         "strategii business"
       ],
       "category_en": "Business",
-      "description_long_en": "A business platform covering business news, investment opportunities, market analysis, and corporate developments in Romania. Access articles on business strategies, investment trends, market analysis, and corporate news. The platform provides insights into business opportunities, market developments, and investment prospects for businesses and investors.",
-      "description_short_en": "Business news, investment opportunities, and market analysis.",
-      "description_small_en": "Business news and investments."
+      "description_long_en": "A platform providing business resources, tools, and information for businesses. Access articles on business resources, business tools, market information, and business development resources. The platform offers comprehensive business resources and helps businesses access tools and information for business growth.",
+      "description_short_en": "Business resources, tools, and information for businesses.",
+      "description_small_en": "Business resources and tools."
     },
     {
       "slug": "revista-antreprenorului-ro",
@@ -1075,9 +1075,9 @@
         "servicii comunicare"
       ],
       "category_en": "Business",
-      "description_long_en": "A platform dedicated to entrepreneurship, startup resources, and business development for entrepreneurs in Romania. Access articles on starting a business, entrepreneurial strategies, startup advice, business growth, and entrepreneurial success stories. The platform provides resources, guidance, and inspiration for entrepreneurs and business owners looking to start or grow their businesses.",
-      "description_short_en": "Entrepreneurship resources, startup advice, and business development for entrepreneurs.",
-      "description_small_en": "Entrepreneurship and startup resources."
+      "description_long_en": "A magazine-style platform dedicated to entrepreneurship, providing in-depth articles and resources for entrepreneurs. Access comprehensive articles on entrepreneurship, business strategies, startup advice, and entrepreneurial success stories. The platform provides detailed insights and resources for entrepreneurs and business owners.",
+      "description_short_en": "Entrepreneurship magazine with in-depth articles and resources.",
+      "description_small_en": "Entrepreneurship magazine and resources."
     },
     {
       "slug": "sanatate-mentala-ro",
@@ -1097,8 +1097,8 @@
         "medical recommendations"
       ],
       "category_en": "Health",
-      "description_long_en": "A medical information platform offering health recommendations, treatment options, and healthcare resources. Access articles on preventive care, medical treatments, public health information, and wellness advice. The platform provides valuable health information to help individuals make informed healthcare decisions and maintain good health.",
-      "description_short_en": "Health recommendations, treatment options, and healthcare resources.",
+      "description_long_en": "A platform offering health information, medical recommendations, and healthcare resources. Access articles on preventive medicine, medical treatments, public health initiatives, and wellness information. The platform provides valuable health information to help individuals make informed healthcare decisions.",
+      "description_short_en": "Health information, medical recommendations, and healthcare resources.",
       "description_small_en": "Medical information and health resources."
     },
     {
@@ -1120,8 +1120,8 @@
         "medical counseling"
       ],
       "category_en": "Health",
-      "description_long_en": "A healthcare platform providing medical information, treatment guidance, and health resources for patients. Access articles on medical treatments, preventive medicine, health recommendations, and wellness information. The platform helps patients understand medical options and provides guidance for maintaining good health.",
-      "description_short_en": "Medical information, treatment guidance, and health resources.",
+      "description_long_en": "A platform offering medical information and wellness resources. Access articles on preventive medicine, medical treatments, public health initiatives, and wellness information. The platform provides valuable health information to help individuals make informed healthcare decisions.",
+      "description_short_en": "Medical information and wellness resources.",
       "description_small_en": "Medical information and health resources."
     },
     {
@@ -1142,9 +1142,9 @@
         "public information"
       ],
       "category_en": "News & Society",
-      "description_long_en": "A news platform providing coverage of local and national events, social issues, and community news. Access articles on social developments, local governance, and community activities. The platform focuses on keeping readers informed about events and developments that impact local communities and society.",
-      "description_short_en": "Coverage of local and national events and social issues.",
-      "description_small_en": "Local and national news coverage."
+      "description_long_en": "A platform covering civil society issues, social initiatives, and democratic processes. Access articles on civil society, social initiatives, democratic participation, and civic engagement. The platform focuses on civil society and helps readers understand civil society issues and democratic processes.",
+      "description_short_en": "Civil society issues, social initiatives, and democratic processes.",
+      "description_small_en": "Civil society and social initiatives."
     },
     {
       "slug": "solutii-constructii-ro",
@@ -1164,9 +1164,9 @@
         "design interior"
       ],
       "category_en": "Construction & Home",
-      "description_long_en": "A platform covering construction projects, building solutions, and construction industry news. Access information about construction materials, building technologies, construction projects, architectural innovations, and construction best practices. The platform provides resources for construction professionals, architects, and homeowners.",
-      "description_short_en": "Construction projects, building solutions, and construction industry news.",
-      "description_small_en": "Construction and building solutions."
+      "description_long_en": "A platform providing construction solutions, building resources, and construction industry information. Access articles on construction solutions, building technologies, construction projects, and construction industry developments. The platform offers construction solutions and helps construction professionals and homeowners access construction resources.",
+      "description_short_en": "Construction solutions, building resources, and construction industry information.",
+      "description_small_en": "Construction solutions and building resources."
     },
     {
       "slug": "stiri-live-ro",
@@ -1186,9 +1186,9 @@
         "public information"
       ],
       "category_en": "News & Society",
-      "description_long_en": "A news platform covering local and national events, social issues, and current affairs. Access articles on community news, social developments, and local events. The platform provides news coverage and information about events affecting communities and society, keeping readers informed about important developments.",
-      "description_short_en": "Local and national news coverage and current affairs.",
-      "description_small_en": "Local and national news coverage."
+      "description_long_en": "A live news platform providing real-time news coverage, breaking news, and live updates. Access live news coverage, breaking news updates, and real-time information about current events. The platform provides live news coverage and helps readers stay informed about breaking news and current events as they happen.",
+      "description_short_en": "Live news coverage, breaking news, and real-time updates.",
+      "description_small_en": "Live news and breaking news coverage."
     },
     {
       "slug": "stiri-medicale-ro",
@@ -1209,8 +1209,8 @@
         "medical counseling"
       ],
       "category_en": "Health",
-      "description_long_en": "A trusted medical platform providing comprehensive healthcare information, medical treatments, and health recommendations. Access articles on preventive medicine, treatment options, public health initiatives, and wellness guidance. The platform covers topics including medical research, healthcare policy, and health recommendations for patients and healthcare professionals.",
-      "description_short_en": "Comprehensive healthcare information, medical treatments, and health recommendations.",
+      "description_long_en": "A platform offering healthcare information and medical resources. Access articles on preventive medicine, medical treatments, public health initiatives, and wellness information. The platform provides valuable health information to help individuals make informed healthcare decisions.",
+      "description_short_en": "Healthcare information and medical resources.",
       "description_small_en": "Medical information and health resources."
     },
     {
@@ -1231,9 +1231,9 @@
         "public information"
       ],
       "category_en": "News & Society",
-      "description_long_en": "A news platform providing coverage of local and national events, social issues, and community news. Access articles on social developments, local governance, and community activities. The platform focuses on keeping readers informed about events and developments that impact local communities and society.",
-      "description_short_en": "Coverage of local and national events and social issues.",
-      "description_small_en": "Local and national news coverage."
+      "description_long_en": "A news platform covering conflict-related news, international affairs, and geopolitical developments affecting global security. Access articles on international conflicts, military developments, diplomatic relations, and security issues. The platform provides news coverage and analysis of events that impact international peace, security, and global stability.",
+      "description_short_en": "News coverage of international conflicts, geopolitical developments, and security issues.",
+      "description_small_en": "Conflict and international affairs news."
     },
     {
       "slug": "stiridemocratice-ro",
@@ -1253,8 +1253,8 @@
         "public information"
       ],
       "category_en": "News & Society",
-      "description_long_en": "A news platform covering local and national events, social issues, and current affairs. Access articles on community news, social developments, and local events. The platform provides news coverage and information about events affecting communities and society, keeping readers informed about important developments.",
-      "description_short_en": "Local and national news coverage and current affairs.",
+      "description_long_en": "A news coverage of local and national events and social issues. Access community journalism, civic engagement information, and social initiatives. The platform focuses on local governance, social initiatives, and community news coverage.",
+      "description_short_en": "News coverage of local and national events and social issues.",
       "description_small_en": "Local and national news coverage."
     },
     {
@@ -1275,8 +1275,8 @@
         "public information"
       ],
       "category_en": "News & Society",
-      "description_long_en": "A news platform providing coverage of local and national events, social issues, and community news. Access articles on social developments, local governance, and community activities. The platform focuses on keeping readers informed about events and developments that impact local communities and society.",
-      "description_short_en": "Coverage of local and national events and social issues.",
+      "description_long_en": "A local and national news coverage focusing on social developments. Access community journalism, civic engagement information, and social initiatives. The platform focuses on local governance, social initiatives, and community news coverage.",
+      "description_short_en": "Local and national news coverage focusing on social developments.",
       "description_small_en": "Local and national news coverage."
     },
     {
@@ -1298,9 +1298,9 @@
         "servicii complete"
       ],
       "category_en": "Health",
-      "description_long_en": "A medical information platform offering health recommendations, treatment options, and healthcare resources. Access articles on preventive care, medical treatments, public health information, and wellness advice. The platform provides valuable health information to help individuals make informed healthcare decisions and maintain good health.",
-      "description_short_en": "Health recommendations, treatment options, and healthcare resources.",
-      "description_small_en": "Medical information and health resources."
+      "description_long_en": "A comprehensive medical platform offering 360-degree health information and healthcare resources. Access articles on medical treatments, health recommendations, wellness information, and comprehensive healthcare guidance. The platform provides complete health information coverage and helps patients access comprehensive medical resources.",
+      "description_short_en": "Comprehensive 360-degree health information and healthcare resources.",
+      "description_small_en": "Comprehensive health information."
     },
     {
       "slug": "top-clinici-ro",
@@ -1321,9 +1321,9 @@
         "medical counseling"
       ],
       "category_en": "Health",
-      "description_long_en": "A healthcare platform providing medical information, treatment guidance, and health resources for patients. Access articles on medical treatments, preventive medicine, health recommendations, and wellness information. The platform helps patients understand medical options and provides guidance for maintaining good health.",
-      "description_short_en": "Medical information, treatment guidance, and health resources.",
-      "description_small_en": "Medical information and health resources."
+      "description_long_en": "A trusted medical platform providing comprehensive healthcare information, clinic services, and medical treatment resources. Access information about medical clinics, healthcare services, treatment options, and medical consultations. The platform helps patients find reliable medical information and connect with healthcare providers for quality medical care.",
+      "description_short_en": "Medical clinic information, healthcare services, and treatment resources.",
+      "description_small_en": "Medical clinic and healthcare information."
     },
     {
       "slug": "top15-ro",
@@ -1343,9 +1343,9 @@
         "resurse utile"
       ],
       "category_en": "Miscellaneous",
-      "description_long_en": "A platform offering diverse content covering multiple topics and interests. Access articles, guides, and resources on various subjects for the general public. The platform covers a wide range of subjects including general interest articles, practical guides, and educational content.",
-      "description_short_en": "Diverse content covering multiple topics and interests.",
-      "description_small_en": "Diverse content and articles."
+      "description_long_en": "A platform providing top lists, rankings, and curated content on various topics. Access articles featuring top lists, rankings, and curated content covering different subjects. The platform offers top lists and rankings to help readers discover the best content and information on various topics.",
+      "description_short_en": "Top lists, rankings, and curated content on various topics.",
+      "description_small_en": "Top lists and rankings."
     },
     {
       "slug": "topantreprenor-ro",
@@ -1366,9 +1366,9 @@
         "servicii comunicare"
       ],
       "category_en": "Business",
-      "description_long_en": "A platform dedicated to entrepreneurship, startup resources, and business development for entrepreneurs in Romania. Access articles on starting a business, entrepreneurial strategies, startup advice, business growth, and entrepreneurial success stories. The platform provides resources, guidance, and inspiration for entrepreneurs and business owners looking to start or grow their businesses.",
-      "description_short_en": "Entrepreneurship resources, startup advice, and business development for entrepreneurs.",
-      "description_small_en": "Entrepreneurship and startup resources."
+      "description_long_en": "A platform highlighting top entrepreneurs and providing entrepreneurship resources and business development advice. Access articles on successful entrepreneurs, entrepreneurial strategies, startup advice, and business growth. The platform provides inspiration and resources for entrepreneurs looking to achieve business success.",
+      "description_short_en": "Entrepreneurship resources highlighting top entrepreneurs and business development.",
+      "description_small_en": "Top entrepreneurs and business resources."
     },
     {
       "slug": "topcomunicate-ro",
@@ -1389,9 +1389,9 @@
         "servicii comunicare"
       ],
       "category_en": "PR & Marketing",
-      "description_long_en": "A platform providing press release distribution and marketing communication services for businesses and organizations. Access professional PR services, media outreach tools, and marketing resources. The platform helps companies effectively communicate their messages and reach their target audiences through strategic public relations.",
-      "description_short_en": "Press release distribution and marketing communication services.",
-      "description_small_en": "PR and marketing services."
+      "description_long_en": "A communication platform offering press release distribution and media communication services. Access professional communication services, press release distribution channels, and media relations tools. The platform helps businesses effectively communicate with media outlets and distribute their press releases to reach wider audiences.",
+      "description_short_en": "Press release distribution and media communication services.",
+      "description_small_en": "Press release distribution services."
     },
     {
       "slug": "traim-sanatos-ro",
@@ -1411,8 +1411,8 @@
         "medical recommendations"
       ],
       "category_en": "Health",
-      "description_long_en": "A trusted medical platform providing comprehensive healthcare information, medical treatments, and health recommendations. Access articles on preventive medicine, treatment options, public health initiatives, and wellness guidance. The platform covers topics including medical research, healthcare policy, and health recommendations for patients and healthcare professionals.",
-      "description_short_en": "Comprehensive healthcare information, medical treatments, and health recommendations.",
+      "description_long_en": "A platform offering comprehensive medical information and healthcare resources. Access articles, guides, and resources on various subjects for the general public. The platform covers a wide range of subjects and provides diverse content.",
+      "description_short_en": "Comprehensive medical information and healthcare resources.",
       "description_small_en": "Medical information and health resources."
     },
     {
@@ -1433,9 +1433,9 @@
         "medical recommendations"
       ],
       "category_en": "Health",
-      "description_long_en": "A medical information platform offering health recommendations, treatment options, and healthcare resources. Access articles on preventive care, medical treatments, public health information, and wellness advice. The platform provides valuable health information to help individuals make informed healthcare decisions and maintain good health.",
-      "description_short_en": "Health recommendations, treatment options, and healthcare resources.",
-      "description_small_en": "Medical information and health resources."
+      "description_long_en": "A platform offering information about natural treatments, alternative medicine, and natural health solutions. Access articles on natural remedies, alternative treatments, natural health approaches, and wellness through natural methods. The platform provides information about natural treatment options and alternative health approaches.",
+      "description_short_en": "Natural treatments, alternative medicine, and natural health solutions.",
+      "description_small_en": "Natural treatments and alternative medicine."
     },
     {
       "slug": "tvaz-ro",
@@ -1455,8 +1455,8 @@
         "resurse utile"
       ],
       "category_en": "Miscellaneous",
-      "description_long_en": "A platform offering diverse content covering multiple topics and interests. Access articles, guides, and resources on various subjects for the general public. The platform covers a wide range of subjects including general interest articles, practical guides, and educational content.",
-      "description_short_en": "Diverse content covering multiple topics and interests.",
+      "description_long_en": "A platform offering platform offering diverse articles and content on various topics. Access articles, guides, and resources on various subjects for the general public. The platform covers a wide range of subjects and provides diverse content.",
+      "description_short_en": "Platform offering diverse articles and content on various topics.",
       "description_small_en": "Diverse content and articles."
     },
     {
@@ -1477,9 +1477,9 @@
         "energy efficiency"
       ],
       "category_en": "Technology & Energy",
-      "description_long_en": "A platform focused on technological innovations, IT solutions, digital transformation, and energy efficiency initiatives. Access information about software development, renewable energy projects, and technological advancements. The platform covers topics including digital transformation, enterprise solutions, and energy efficiency.",
-      "description_short_en": "Technological innovations, IT solutions, and energy efficiency.",
-      "description_small_en": "Technology innovations and IT solutions."
+      "description_long_en": "A comprehensive technology platform covering technological innovations, IT solutions, and tech developments. Access articles on technology trends, IT solutions, digital transformation, and technological advancements. The platform provides comprehensive coverage of the technology universe and helps readers stay informed about tech developments.",
+      "description_short_en": "Comprehensive technology coverage, IT solutions, and tech developments.",
+      "description_small_en": "Comprehensive technology coverage."
     },
     {
       "slug": "vhm-ro",
@@ -1499,8 +1499,8 @@
         "resurse utile"
       ],
       "category_en": "Miscellaneous",
-      "description_long_en": "A platform offering diverse content covering multiple topics and interests. Access articles, guides, and resources on various subjects for the general public. The platform covers a wide range of subjects including general interest articles, practical guides, and educational content.",
-      "description_short_en": "Diverse content covering multiple topics and interests.",
+      "description_long_en": "A platform offering diverse content platform covering multiple subjects and interests. Access articles, guides, and resources on various subjects for the general public. The platform covers a wide range of subjects and provides diverse content.",
+      "description_short_en": "Diverse content platform covering multiple subjects and interests.",
       "description_small_en": "Diverse content and articles."
     },
     {
@@ -1522,8 +1522,8 @@
         "servicii complete"
       ],
       "category_en": "News & Society",
-      "description_long_en": "A news platform covering local and national events, social issues, and current affairs. Access articles on community news, social developments, and local events. The platform provides news coverage and information about events affecting communities and society, keeping readers informed about important developments.",
-      "description_short_en": "Local and national news coverage and current affairs.",
+      "description_long_en": "A coverage of local events, national news, and social issues. Access community journalism, civic engagement information, and social initiatives. The platform focuses on local governance, social initiatives, and community news coverage.",
+      "description_short_en": "Coverage of local events, national news, and social issues.",
       "description_small_en": "Local and national news coverage."
     },
     {
@@ -1544,8 +1544,8 @@
         "resurse utile"
       ],
       "category_en": "Miscellaneous",
-      "description_long_en": "A platform offering diverse content covering multiple topics and interests. Access articles, guides, and resources on various subjects for the general public. The platform covers a wide range of subjects including general interest articles, practical guides, and educational content.",
-      "description_short_en": "Diverse content covering multiple topics and interests.",
+      "description_long_en": "A platform offering content platform with diverse articles on various topics. Access articles, guides, and resources on various subjects for the general public. The platform covers a wide range of subjects and provides diverse content.",
+      "description_short_en": "Content platform with diverse articles on various topics.",
       "description_small_en": "Diverse content and articles."
     },
     {
@@ -1566,8 +1566,8 @@
         "campanii PR"
       ],
       "category_en": "PR & Marketing",
-      "description_long_en": "A comprehensive platform offering press release distribution services, public relations solutions, and marketing communications for businesses. Access professional PR services, press release distribution channels, and marketing resources. The platform facilitates effective communication between businesses and media outlets, helping organizations share their news and announcements.",
-      "description_short_en": "Press release distribution and public relations services.",
+      "description_long_en": "A platform providing press release distribution and media communication services. Access professional PR services, press release distribution channels, and media outreach tools. The platform helps businesses effectively communicate their messages and distribute press releases to reach their target audiences.",
+      "description_short_en": "Press release distribution and media communication services.",
       "description_small_en": "Press release distribution services."
     },
     {
@@ -1588,8 +1588,8 @@
         "resurse utile"
       ],
       "category_en": "Miscellaneous",
-      "description_long_en": "A platform offering diverse content covering multiple topics and interests. Access articles, guides, and resources on various subjects for the general public. The platform covers a wide range of subjects including general interest articles, practical guides, and educational content.",
-      "description_short_en": "Diverse content covering multiple topics and interests.",
+      "description_long_en": "A platform offering diverse articles and content covering multiple interests. Access articles, guides, and resources on various subjects for the general public. The platform covers a wide range of subjects and provides diverse content.",
+      "description_short_en": "Diverse articles and content covering multiple interests.",
       "description_small_en": "Diverse content and articles."
     },
     {
@@ -1610,8 +1610,8 @@
         "public information"
       ],
       "category_en": "News & Society",
-      "description_long_en": "A news platform providing coverage of local and national events, social issues, and community news. Access articles on social developments, local governance, and community activities. The platform focuses on keeping readers informed about events and developments that impact local communities and society.",
-      "description_short_en": "Coverage of local and national events and social issues.",
+      "description_long_en": "A news platform covering local and national events. Access community journalism, civic engagement information, and social initiatives. The platform focuses on local governance, social initiatives, and community news coverage.",
+      "description_short_en": "News platform covering local and national events.",
       "description_small_en": "Local and national news coverage."
     },
     {
@@ -1633,9 +1633,9 @@
         "servicii comunicare"
       ],
       "category_en": "PR & Marketing",
-      "description_long_en": "A platform providing press release distribution and marketing communication services for businesses and organizations. Access professional PR services, media outreach tools, and marketing resources. The platform helps companies effectively communicate their messages and reach their target audiences through strategic public relations.",
-      "description_short_en": "Press release distribution and marketing communication services.",
-      "description_small_en": "PR and marketing services."
+      "description_long_en": "A platform offering advertorial and promotional content distribution services for businesses. Access advertising content creation, promotional material distribution, and marketing communication tools. The platform helps businesses create and distribute advertorial content that blends advertising with editorial content for effective marketing and brand promotion.",
+      "description_short_en": "Advertorial and promotional content distribution services.",
+      "description_small_en": "Advertorial content distribution."
     },
     {
       "slug": "afaceri-romanesti-ro",
@@ -1655,9 +1655,9 @@
         "strategii business"
       ],
       "category_en": "Business",
-      "description_long_en": "A business platform covering business news, investment opportunities, market analysis, and corporate developments in Romania. Access articles on business strategies, investment trends, market analysis, and corporate news. The platform provides insights into business opportunities, market developments, and investment prospects for businesses and investors.",
-      "description_short_en": "Business news, investment opportunities, and market analysis.",
-      "description_small_en": "Business news and investments."
+      "description_long_en": "A platform covering Romanian business news, local business developments, and investment opportunities. Access articles on Romanian business strategies, local investment trends, market analysis, and corporate news. The platform focuses on business developments specific to the Romanian market and local business environment.",
+      "description_short_en": "Romanian business news, local business developments, and investment opportunities.",
+      "description_small_en": "Romanian business news and investments."
     },
     {
       "slug": "afaceri24-ro",
@@ -1677,9 +1677,9 @@
         "strategii business"
       ],
       "category_en": "Business",
-      "description_long_en": "A business platform covering business news, investment opportunities, market analysis, and corporate developments in Romania. Access articles on business strategies, investment trends, market analysis, and corporate news. The platform provides insights into business opportunities, market developments, and investment prospects for businesses and investors.",
-      "description_short_en": "Business news, investment opportunities, and market analysis.",
-      "description_small_en": "Business news and investments."
+      "description_long_en": "A 24/7 business news platform covering business developments, investment opportunities, and corporate news. Access up-to-date business news, market analysis, investment trends, and corporate developments. The platform provides continuous business news coverage and helps readers stay informed about business developments.",
+      "description_short_en": "24/7 business news, investment opportunities, and corporate developments.",
+      "description_small_en": "24/7 business news and investments."
     },
     {
       "slug": "afaceriprofi-ro",
@@ -1700,9 +1700,9 @@
         "servicii comunicare"
       ],
       "category_en": "Business",
-      "description_long_en": "A business platform covering business news, investment opportunities, market analysis, and corporate developments in Romania. Access articles on business strategies, investment trends, market analysis, and corporate news. The platform provides insights into business opportunities, market developments, and investment prospects for businesses and investors.",
-      "description_short_en": "Business news, investment opportunities, and market analysis.",
-      "description_small_en": "Business news and investments."
+      "description_long_en": "A professional business platform providing business news, professional insights, and corporate developments. Access articles on professional business strategies, market analysis, investment trends, and corporate news. The platform provides professional business insights and helps business professionals stay informed about market developments.",
+      "description_short_en": "Professional business news, insights, and corporate developments.",
+      "description_small_en": "Professional business news and insights."
     },
     {
       "slug": "afaceritop-ro",
@@ -1722,9 +1722,9 @@
         "energy efficiency"
       ],
       "category_en": "Technology & Energy",
-      "description_long_en": "A business platform covering business news, investment opportunities, market analysis, and corporate developments in Romania. Access articles on business strategies, investment trends, market analysis, and corporate news. The platform provides insights into business opportunities, market developments, and investment prospects for businesses and investors.",
-      "description_short_en": "Business news, investment opportunities, and market analysis.",
-      "description_small_en": "Business news and investments."
+      "description_long_en": "A platform focused on technology innovations, it solutions, and digital transformation. Access information about software development, renewable energy projects, and technological advancements. The platform covers topics including digital transformation and technological innovations.",
+      "description_short_en": "Technology innovations, IT solutions, and digital transformation.",
+      "description_small_en": "Technology innovations and IT solutions."
     },
     {
       "slug": "aiadvertising-ro",
@@ -1744,9 +1744,9 @@
         "resurse utile"
       ],
       "category_en": "Miscellaneous",
-      "description_long_en": "A platform offering diverse content covering multiple topics and interests. Access articles, guides, and resources on various subjects for the general public. The platform covers a wide range of subjects including general interest articles, practical guides, and educational content.",
-      "description_short_en": "Diverse content covering multiple topics and interests.",
-      "description_small_en": "Diverse content and articles."
+      "description_long_en": "A platform offering advertising resources, marketing tips, and promotional content. Access articles on advertising, marketing strategies, promotional content, and advertising resources. The platform provides advertising resources and helps businesses access advertising tools and marketing information.",
+      "description_short_en": "Advertising resources, marketing tips, and promotional content.",
+      "description_small_en": "Advertising and marketing resources."
     },
     {
       "slug": "amenajari360-ro",
@@ -1767,8 +1767,8 @@
         "servicii complete"
       ],
       "category_en": "Construction & Home",
-      "description_long_en": "A platform focused on construction projects, home renovations, interior design, and building solutions. Access information about construction materials, renovation projects, architectural innovations, and home improvement solutions. The platform covers topics including sustainable construction and interior design trends.",
-      "description_short_en": "Construction projects, home renovations, and interior design.",
+      "description_long_en": "A platform focused on construction and home improvement platform covering building projects. Access information about construction materials, renovation projects, architectural innovations, and home improvement solutions. The platform covers topics including sustainable construction and design trends.",
+      "description_short_en": "Construction and home improvement platform covering building projects.",
       "description_small_en": "Construction and home improvement content."
     },
     {
@@ -1789,9 +1789,9 @@
         "strategii business"
       ],
       "category_en": "Business",
-      "description_long_en": "A platform dedicated to entrepreneurship, business strategies, investments, and corporate news. Access resources for startups, business management, investment opportunities, and market analysis. The platform covers topics including startup ecosystems, investment opportunities, and business strategies.",
-      "description_short_en": "Entrepreneurship, business strategies, and corporate news.",
-      "description_small_en": "Business news and entrepreneurship resources."
+      "description_long_en": "A platform providing financial analysis, investment insights, and financial market information. Access articles on financial markets, investment analysis, economic trends, and financial planning. The platform offers detailed financial analysis and helps investors make informed financial decisions.",
+      "description_short_en": "Financial analysis, investment insights, and financial market information.",
+      "description_small_en": "Financial analysis and investments."
     },
     {
       "slug": "antreprenorclub-ro",
@@ -1812,9 +1812,9 @@
         "servicii comunicare"
       ],
       "category_en": "Business",
-      "description_long_en": "A platform dedicated to entrepreneurship, startup resources, and business development for entrepreneurs in Romania. Access articles on starting a business, entrepreneurial strategies, startup advice, business growth, and entrepreneurial success stories. The platform provides resources, guidance, and inspiration for entrepreneurs and business owners looking to start or grow their businesses.",
-      "description_short_en": "Entrepreneurship resources, startup advice, and business development for entrepreneurs.",
-      "description_small_en": "Entrepreneurship and startup resources."
+      "description_long_en": "A community platform for entrepreneurs, providing networking opportunities and business development resources. Access articles on entrepreneurship, business networking, startup advice, and entrepreneurial community resources. The platform helps entrepreneurs connect and provides resources for business development.",
+      "description_short_en": "Entrepreneur community platform with networking and business development resources.",
+      "description_small_en": "Entrepreneur community and networking."
     },
     {
       "slug": "anuntimm-ro",
@@ -1834,9 +1834,9 @@
         "strategii business"
       ],
       "category_en": "Business",
-      "description_long_en": "A platform dedicated to entrepreneurship, business strategies, investments, and corporate news. Access resources for startups, business management, investment opportunities, and market analysis. The platform covers topics including startup ecosystems, investment opportunities, and business strategies.",
-      "description_short_en": "Entrepreneurship, business strategies, and corporate news.",
-      "description_small_en": "Business news and entrepreneurship resources."
+      "description_long_en": "A platform providing press release distribution and announcement services for businesses. Access professional announcement services, press release distribution channels, and media communication tools. The platform helps businesses effectively announce their news and distribute press releases to reach their target audiences.",
+      "description_short_en": "Press release distribution and announcement services.",
+      "description_small_en": "Press release distribution services."
     },
     {
       "slug": "arta-constructiilor-ro",
@@ -1856,9 +1856,9 @@
         "design interior"
       ],
       "category_en": "Construction & Home",
-      "description_long_en": "A platform covering construction projects, building solutions, and construction industry news. Access information about construction materials, building technologies, construction projects, architectural innovations, and construction best practices. The platform provides resources for construction professionals, architects, and homeowners.",
-      "description_short_en": "Construction projects, building solutions, and construction industry news.",
-      "description_small_en": "Construction and building solutions."
+      "description_long_en": "A platform focused on home renovation, construction projects, and interior design resources. Access information about construction materials, renovation projects, architectural innovations, and home improvement solutions. The platform covers topics including sustainable construction and design trends.",
+      "description_short_en": "Home renovation, construction projects, and interior design resources.",
+      "description_small_en": "Construction and home improvement content."
     },
     {
       "slug": "banat-news-ro",
@@ -1879,8 +1879,8 @@
         "updated news"
       ],
       "category_en": "News & Society",
-      "description_long_en": "A news platform covering local and national events, social issues, and current affairs. Access articles on community news, social developments, and local events. The platform provides news coverage and information about events affecting communities and society, keeping readers informed about important developments.",
-      "description_short_en": "Local and national news coverage and current affairs.",
+      "description_long_en": "A local and national news coverage with focus on community events. Access community journalism, civic engagement information, and social initiatives. The platform focuses on local governance, social initiatives, and community news coverage.",
+      "description_short_en": "Local and national news coverage with focus on community events.",
       "description_small_en": "Local and national news coverage."
     },
     {
@@ -1901,8 +1901,8 @@
         "resurse utile"
       ],
       "category_en": "Miscellaneous",
-      "description_long_en": "A platform offering diverse content covering multiple topics and interests. Access articles, guides, and resources on various subjects for the general public. The platform covers a wide range of subjects including general interest articles, practical guides, and educational content.",
-      "description_short_en": "Diverse content covering multiple topics and interests.",
+      "description_long_en": "A platform offering platform providing diverse content on various subjects. Access articles, guides, and resources on various subjects for the general public. The platform covers a wide range of subjects and provides diverse content.",
+      "description_short_en": "Platform providing diverse content on various subjects.",
       "description_small_en": "Diverse content and articles."
     },
     {
@@ -1923,8 +1923,8 @@
         "public information"
       ],
       "category_en": "News & Society",
-      "description_long_en": "A news platform providing coverage of local and national events, social issues, and community news. Access articles on social developments, local governance, and community activities. The platform focuses on keeping readers informed about events and developments that impact local communities and society.",
-      "description_short_en": "Coverage of local and national events and social issues.",
+      "description_long_en": "A news coverage of local and national events and social issues. Access community journalism, civic engagement information, and social initiatives. The platform focuses on local governance, social initiatives, and community news coverage.",
+      "description_short_en": "News coverage of local and national events and social issues.",
       "description_small_en": "Local and national news coverage."
     },
     {
@@ -1946,8 +1946,8 @@
         "updated news"
       ],
       "category_en": "News & Society",
-      "description_long_en": "A news platform covering local and national events, social issues, and current affairs. Access articles on community news, social developments, and local events. The platform provides news coverage and information about events affecting communities and society, keeping readers informed about important developments.",
-      "description_short_en": "Local and national news coverage and current affairs.",
+      "description_long_en": "A local and national news coverage focusing on social developments. Access community journalism, civic engagement information, and social initiatives. The platform focuses on local governance, social initiatives, and community news coverage.",
+      "description_short_en": "Local and national news coverage focusing on social developments.",
       "description_small_en": "Local and national news coverage."
     },
     {
@@ -1968,9 +1968,9 @@
         "design interior"
       ],
       "category_en": "Construction & Home",
-      "description_long_en": "A platform focused on home design, interior decoration, and home improvement solutions. Access articles on interior design trends, home renovation ideas, home improvement projects, and design inspiration. The platform provides ideas and resources for creating beautiful, functional, and modern living spaces.",
-      "description_short_en": "Home design, interior decoration, and home improvement solutions.",
-      "description_small_en": "Home design and decoration."
+      "description_long_en": "A platform focused on modern home design, interior decoration, and contemporary home improvement solutions. Access articles on modern interior design trends, home renovation ideas, contemporary home improvement projects, and design inspiration. The platform provides ideas and resources for creating beautiful, modern, and functional living spaces.",
+      "description_short_en": "Modern home design, interior decoration, and home improvement solutions.",
+      "description_small_en": "Modern home design and decoration."
     },
     {
       "slug": "casa-sustenabila-ro",
@@ -1990,9 +1990,9 @@
         "design interior"
       ],
       "category_en": "Construction & Home",
-      "description_long_en": "A platform focused on home design, interior decoration, and home improvement solutions. Access articles on interior design trends, home renovation ideas, home improvement projects, and design inspiration. The platform provides ideas and resources for creating beautiful, functional, and modern living spaces.",
-      "description_short_en": "Home design, interior decoration, and home improvement solutions.",
-      "description_small_en": "Home design and decoration."
+      "description_long_en": "A platform focused on construction solutions, home improvements, and design resources. Access information about construction materials, renovation projects, architectural innovations, and home improvement solutions. The platform covers topics including sustainable construction and design trends.",
+      "description_short_en": "Construction solutions, home improvements, and design resources.",
+      "description_small_en": "Construction and home improvement content."
     },
     {
       "slug": "case-verzi-ro",
@@ -2012,8 +2012,8 @@
         "design interior"
       ],
       "category_en": "Construction & Home",
-      "description_long_en": "A platform focused on construction projects, home renovations, interior design, and building solutions. Access information about construction materials, renovation projects, architectural innovations, and home improvement solutions. The platform covers topics including sustainable construction and interior design trends.",
-      "description_short_en": "Construction projects, home renovations, and interior design.",
+      "description_long_en": "A platform offering building projects, home renovations, and interior design. Access articles, guides, and resources on various subjects for the general public. The platform covers a wide range of subjects and provides diverse content.",
+      "description_short_en": "Building projects, home renovations, and interior design.",
       "description_small_en": "Construction and home improvement content."
     },
     {
@@ -2034,8 +2034,8 @@
         "public information"
       ],
       "category_en": "News & Society",
-      "description_long_en": "A news platform providing coverage of local and national events, social issues, and community news. Access articles on social developments, local governance, and community activities. The platform focuses on keeping readers informed about events and developments that impact local communities and society.",
-      "description_short_en": "Coverage of local and national events and social issues.",
+      "description_long_en": "A coverage of local events, national news, and social issues. Access community journalism, civic engagement information, and social initiatives. The platform focuses on local governance, social initiatives, and community news coverage.",
+      "description_short_en": "Coverage of local events, national news, and social issues.",
       "description_small_en": "Local and national news coverage."
     },
     {
@@ -2056,8 +2056,8 @@
         "public information"
       ],
       "category_en": "News & Society",
-      "description_long_en": "A news platform covering local and national events, social issues, and current affairs. Access articles on community news, social developments, and local events. The platform provides news coverage and information about events affecting communities and society, keeping readers informed about important developments.",
-      "description_short_en": "Local and national news coverage and current affairs.",
+      "description_long_en": "A news platform covering local and national events. Access community journalism, civic engagement information, and social initiatives. The platform focuses on local governance, social initiatives, and community news coverage.",
+      "description_short_en": "News platform covering local and national events.",
       "description_small_en": "Local and national news coverage."
     },
     {
@@ -2078,8 +2078,8 @@
         "resurse utile"
       ],
       "category_en": "Miscellaneous",
-      "description_long_en": "A platform offering diverse content covering multiple topics and interests. Access articles, guides, and resources on various subjects for the general public. The platform covers a wide range of subjects including general interest articles, practical guides, and educational content.",
-      "description_short_en": "Diverse content covering multiple topics and interests.",
+      "description_long_en": "A platform offering platform offering diverse articles and content on various topics. Access articles, guides, and resources on various subjects for the general public. The platform covers a wide range of subjects and provides diverse content.",
+      "description_short_en": "Platform offering diverse articles and content on various topics.",
       "description_small_en": "Diverse content and articles."
     },
     {
@@ -2101,8 +2101,8 @@
         "medical counseling"
       ],
       "category_en": "Miscellaneous",
-      "description_long_en": "A platform offering diverse content covering multiple topics and interests. Access articles, guides, and resources on various subjects for the general public. The platform covers a wide range of subjects including general interest articles, practical guides, and educational content.",
-      "description_short_en": "Diverse content covering multiple topics and interests.",
+      "description_long_en": "A platform offering diverse content platform covering multiple subjects and interests. Access articles, guides, and resources on various subjects for the general public. The platform covers a wide range of subjects and provides diverse content.",
+      "description_short_en": "Diverse content platform covering multiple subjects and interests.",
       "description_small_en": "Diverse content and articles."
     },
     {
@@ -2123,8 +2123,8 @@
         "public information"
       ],
       "category_en": "News & Society",
-      "description_long_en": "A news platform providing coverage of local and national events, social issues, and community news. Access articles on social developments, local governance, and community activities. The platform focuses on keeping readers informed about events and developments that impact local communities and society.",
-      "description_short_en": "Coverage of local and national events and social issues.",
+      "description_long_en": "A local and national news coverage with focus on community events. Access community journalism, civic engagement information, and social initiatives. The platform focuses on local governance, social initiatives, and community news coverage.",
+      "description_short_en": "Local and national news coverage with focus on community events.",
       "description_small_en": "Local and national news coverage."
     },
     {
@@ -2146,9 +2146,9 @@
         "servicii comunicare"
       ],
       "category_en": "Business",
-      "description_long_en": "A platform dedicated to entrepreneurship, business strategies, investments, and corporate news. Access resources for startups, business management, investment opportunities, and market analysis. The platform covers topics including startup ecosystems, investment opportunities, and business strategies.",
-      "description_short_en": "Entrepreneurship, business strategies, and corporate news.",
-      "description_small_en": "Business news and entrepreneurship resources."
+      "description_long_en": "A communication platform offering press release distribution and media communication services. Access professional communication services, press release distribution channels, and media outreach tools. The platform helps businesses effectively communicate their messages and distribute press releases to media outlets and target audiences.",
+      "description_short_en": "Press release distribution and media communication services.",
+      "description_small_en": "Press release distribution services."
     },
     {
       "slug": "comunicatpresa-9z-ro",
@@ -2169,8 +2169,8 @@
         "servicii comunicare"
       ],
       "category_en": "PR & Marketing",
-      "description_long_en": "A comprehensive platform offering press release distribution services, public relations solutions, and marketing communications for businesses. Access professional PR services, press release distribution channels, and marketing resources. The platform facilitates effective communication between businesses and media outlets, helping organizations share their news and announcements.",
-      "description_short_en": "Press release distribution and public relations services.",
+      "description_long_en": "A press release platform offering distribution services and media communication tools. Access press release distribution channels, media relations services, and communication resources. The platform facilitates effective press release distribution and helps businesses share their news and announcements with media outlets.",
+      "description_short_en": "Press release distribution and media communication services.",
       "description_small_en": "Press release distribution services."
     },
     {
@@ -2191,8 +2191,8 @@
         "public information"
       ],
       "category_en": "News & Society",
-      "description_long_en": "A news platform covering local and national events, social issues, and current affairs. Access articles on community news, social developments, and local events. The platform provides news coverage and information about events affecting communities and society, keeping readers informed about important developments.",
-      "description_short_en": "Local and national news coverage and current affairs.",
+      "description_long_en": "A news coverage of local and national events and social issues. Access community journalism, civic engagement information, and social initiatives. The platform focuses on local governance, social initiatives, and community news coverage.",
+      "description_short_en": "News coverage of local and national events and social issues.",
       "description_small_en": "Local and national news coverage."
     },
     {
@@ -2214,9 +2214,9 @@
         "servicii complete"
       ],
       "category_en": "Construction & Home",
-      "description_long_en": "A platform covering construction projects, building solutions, and construction industry news. Access information about construction materials, building technologies, construction projects, architectural innovations, and construction best practices. The platform provides resources for construction professionals, architects, and homeowners.",
-      "description_short_en": "Construction projects, building solutions, and construction industry news.",
-      "description_small_en": "Construction and building solutions."
+      "description_long_en": "A platform focused on construction platform covering projects and home improvements. Access information about construction materials, renovation projects, architectural innovations, and home improvement solutions. The platform covers topics including sustainable construction and design trends.",
+      "description_short_en": "Construction platform covering projects and home improvements.",
+      "description_small_en": "Construction and home improvement content."
     },
     {
       "slug": "e-agentie-ro",
@@ -2236,8 +2236,8 @@
         "resurse utile"
       ],
       "category_en": "Miscellaneous",
-      "description_long_en": "A platform offering diverse content covering multiple topics and interests. Access articles, guides, and resources on various subjects for the general public. The platform covers a wide range of subjects including general interest articles, practical guides, and educational content.",
-      "description_short_en": "Diverse content covering multiple topics and interests.",
+      "description_long_en": "A platform offering content platform with diverse articles on various topics. Access articles, guides, and resources on various subjects for the general public. The platform covers a wide range of subjects and provides diverse content.",
+      "description_short_en": "Content platform with diverse articles on various topics.",
       "description_small_en": "Diverse content and articles."
     },
     {
@@ -2258,9 +2258,9 @@
         "campanii PR"
       ],
       "category_en": "PR & Marketing",
-      "description_long_en": "A platform providing press release distribution and marketing communication services for businesses and organizations. Access professional PR services, media outreach tools, and marketing resources. The platform helps companies effectively communicate their messages and reach their target audiences through strategic public relations.",
-      "description_short_en": "Press release distribution and marketing communication services.",
-      "description_small_en": "PR and marketing services."
+      "description_long_en": "A platform offering advertorial and promotional content distribution services for businesses. Access advertising content creation, promotional material distribution, and marketing communication tools. The platform helps businesses create and distribute advertorial content that blends advertising with editorial content for effective marketing and brand promotion.",
+      "description_short_en": "Advertorial and promotional content distribution services.",
+      "description_small_en": "Advertorial content distribution."
     },
     {
       "slug": "e-advertorial-ro",
@@ -2280,9 +2280,9 @@
         "campanii PR"
       ],
       "category_en": "PR & Marketing",
-      "description_long_en": "A comprehensive platform offering press release distribution services, public relations solutions, and marketing communications for businesses. Access professional PR services, press release distribution channels, and marketing resources. The platform facilitates effective communication between businesses and media outlets, helping organizations share their news and announcements.",
-      "description_short_en": "Press release distribution and public relations services.",
-      "description_small_en": "Press release distribution services."
+      "description_long_en": "A platform offering advertorial and promotional content distribution services for businesses. Access advertising content creation, promotional material distribution, and marketing communication tools. The platform helps businesses create and distribute advertorial content that blends advertising with editorial content for effective marketing and brand promotion.",
+      "description_short_en": "Advertorial and promotional content distribution services.",
+      "description_small_en": "Advertorial content distribution."
     },
     {
       "slug": "eadvertoriale-ro",
@@ -2302,9 +2302,9 @@
         "campanii PR"
       ],
       "category_en": "PR & Marketing",
-      "description_long_en": "A platform providing press release distribution and marketing communication services for businesses and organizations. Access professional PR services, media outreach tools, and marketing resources. The platform helps companies effectively communicate their messages and reach their target audiences through strategic public relations.",
-      "description_short_en": "Press release distribution and marketing communication services.",
-      "description_small_en": "PR and marketing services."
+      "description_long_en": "A platform offering advertorial and promotional content distribution services for businesses. Access advertising content creation, promotional material distribution, and marketing communication tools. The platform helps businesses create and distribute advertorial content that blends advertising with editorial content for effective marketing and brand promotion.",
+      "description_short_en": "Advertorial and promotional content distribution services.",
+      "description_small_en": "Advertorial content distribution."
     }
   ]
 }
