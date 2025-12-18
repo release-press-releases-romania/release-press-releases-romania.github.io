@@ -133,31 +133,30 @@
     
     return `
       <article class="site" itemscope itemtype="https://schema.org/Organization">
-        <a class="site-link" href="${url}" itemprop="url" rel="bookmark">
-          <div class="site-top">
-            <div class="site-image-wrapper">
-              <svg class="site-icon" aria-hidden="true" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <use href="/assets/icons/category-icons.svg#${iconId}"></use>
-              </svg>
-            </div>
-            <div class="site-content">
-              <h3 class="site-name" itemprop="name">${domainName}</h3>
-              ${siteDesc ? `<p class="site-desc" itemprop="description">${siteDesc}</p>` : ''}
-              <div class="site-meta">${tags}</div>
-            </div>
+        <div class="site-header">
+          <div class="site-image-wrapper">
+            <svg class="site-icon" aria-hidden="true" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <use href="/assets/icons/category-icons.svg#${iconId}"></use>
+            </svg>
           </div>
+          ${s.url ? `
+            <a href="${escapeHtml(s.url)}" target="_blank" class="site-external-link" aria-label="Visit ${domainName} website" rel="${externalRel}" title="Visit ${domainName}">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path>
+                <polyline points="15 3 21 3 21 9"></polyline>
+                <line x1="10" y1="14" x2="21" y2="3"></line>
+              </svg>
+            </a>
+          ` : ''}
+        </div>
+        <a href="${url}" itemprop="url" rel="bookmark" aria-label="View ${domainName} publisher page and press releases" class="site-link">
+          <h3 class="site-name" itemprop="name">${domainName}</h3>
+          ${siteDesc ? `<p class="site-desc" itemprop="description">${siteDesc}</p>` : ''}
         </a>
-        ${s.url ? `
-          <a href="${escapeHtml(s.url)}" target="_blank" class="site-image-link" aria-label="Visit ${domainName} website" rel="${externalRel}">
-            <img src="/assets/images/logo.svg" alt="${domainName} - Press Releases" class="site-logo" loading="lazy" width="32" height="32" itemprop="logo">
-          </a>
-        ` : `
-          <a href="${url}" class="site-image-link" aria-label="View ${domainName} press releases">
-            <img src="/assets/images/logo.svg" alt="${domainName} - Press Releases" class="site-logo" loading="lazy" width="32" height="32" itemprop="logo">
-          </a>
-        `}
+        <div class="site-meta" aria-label="Publisher metadata">${tags}</div>
         <meta itemprop="category" content="${category}">
         ${s.url ? `<link itemprop="sameAs" href="${escapeHtml(s.url)}">` : ''}
+        ${s.rss ? `<link itemprop="rss" href="${escapeHtml(s.rss)}">` : ''}
       </article>
     `;
   }
