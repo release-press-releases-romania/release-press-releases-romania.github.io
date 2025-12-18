@@ -3,14 +3,14 @@
   "site": {
     "name": "Cluj Azi",
     "url": "https://cluj-azi.ro/",
-    "category": "Știri & Societate",
+    "category": "News & Society",
     "rss": "https://cluj-azi.ro/feed/"
   },
   "mastodon": {
     "url": "https://social.5th.ro/@cluj",
     "rss": "https://social.5th.ro/@cluj.rss"
   },
-  "updated_at": "2025-12-18T10:53:35.081849+00:00",
+  "updated_at": "2025-12-18T19:01:04.604092+00:00",
   "status": "ok",
   "items": [
     {

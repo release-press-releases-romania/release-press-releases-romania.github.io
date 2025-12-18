@@ -3,13 +3,21 @@
   "site": {
     "name": "Antreprenorclub",
     "url": "https://antreprenorclub.ro/",
-    "category": "Afaceri",
+    "category": "Business",
     "rss": "https://antreprenorclub.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2025-12-18T10:53:35.081849+00:00",
+  "updated_at": "2025-12-18T19:01:04.604092+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Curierat fără granițe: abordarea Bogo Express pentru livrări naționale și internaționale",
+      "link": "https://antreprenorclub.ro/curierat-fara-granite-abordarea-bogo-express-pentru-livrari-nationale-si-internationale/",
+      "summary": "Într-un context în care mobilitatea comercială și nevoia de livrare rapidă cresc constant, soluțiile de curierat trebuie să ofere nu doar acoperire extinsă, ci și claritate, flexibilitate și suport real pentru utilizatori. Atât companiile, cât și persoanele care trimit colete ocazional caută soluții prin care expedierea să fie simplă, predictibilă și ușor de gestionat. Bogo... Read More &#8220;Curierat fără granițe: abordarea Bogo Express pentru livrări naționale și internaționale&#8221; &#187; Articolul Curierat fără granițe: abordarea Bogo Express pentru livrări naționale și internaționale apare prima dată în Antreprenor Club .",
+      "published": "2025-12-18T15:40:04+00:00",
+      "published_human": "2025-12-18T15:40",
+      "source": "https://antreprenorclub.ro/"
+    },
     {
       "title": "Embed postări Mastodon în WordPress: variante și bune practici",
       "link": "https://antreprenorclub.ro/embed-postari-mastodon-in-wordpress-variante-si-bune-practici/",
@@ -80,14 +88,6 @@
       "summary": "Bine ați venit în lumea dinamică și plină de adrenalină a pariurilor baschet! Dacă sunteți în căutarea unor oportunități de pariere care combină analiza statistică riguroasă cu viteza jocului, ați ajuns la locul potrivit. Atenție: Baschetul este un sport extrem de rapid. Liniile de pariere se modifică constant. Mulți pariori se concentrează doar pe echipa... Read More &#8220;Pariuri pe baschet: total puncte, handicap și sferturi de joc&#8221; &#187; Articolul Pariuri pe baschet: total puncte, handicap și sferturi de joc apare prima dată în Antreprenor Club .",
       "published": "2025-11-15T10:03:28+00:00",
       "published_human": "2025-11-15T10:03",
-      "source": "https://antreprenorclub.ro/"
-    },
-    {
-      "title": "Jocurile de masă din cazino: ruletă, blackjack și baccarat pe scurt",
-      "link": "https://antreprenorclub.ro/jocurile-de-masa-din-cazino-ruleta-blackjack-si-baccarat-pe-scurt/",
-      "summary": "Introducere în Fascinația Jocurilor de Masă: Ruletă Online, Blackjack și Baccarat Pășește în lumea strălucitoare a cazinourilor, fie că este vorba de o sală fizică sau de o platformă digitală. Sentimentul de anticipare în fața roții de ruletă online sau adrenalina tactică necesară la masa de blackjack sunt experiențe inegalabile. Aceste trei jocuri reprezintă coloana... Read More &#8220;Jocurile de masă din cazino: ruletă, blackjack și baccarat pe scurt&#8221; &#187; Articolul Jocurile de masă din cazino: ruletă, blackjack și baccarat pe scurt apare prima dată în Antreprenor Club .",
-      "published": "2025-11-14T09:07:58+00:00",
-      "published_human": "2025-11-14T09:07",
       "source": "https://antreprenorclub.ro/"
     }
   ],
