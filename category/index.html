@@ -298,6 +298,11 @@
         width: 100%;
       }
     }
+    @media (min-width: 768px) {
+      .latest-posts-content {
+        grid-template-columns: repeat(2, 1fr) !important;
+      }
+    }
     @media (max-width: 480px) {
       .category-hero {
         padding: 20px 16px;
@@ -626,9 +631,8 @@
       </div>
       <meta itemprop="category" content="Miscellaneous">
     </article>
-  </div>
-  
-  <article class="category-card" style="grid-column: 1 / -1; max-width: 100%;">
+
+    <article class="category-card latest-posts-card" style="grid-column: 1 / -1; max-width: 100%;">
     <div class="category-header">
       <div class="category-icon" aria-hidden="true">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
@@ -731,27 +735,30 @@
 <script src="/assets/utils.js"></script>
 <script>
 (function(){
-  // Center last 2 cards on desktop (3-column layout)
+  // Center last 2 category cards on desktop (3-column layout)
   const grid = document.getElementById("categoriesGrid");
   if(!grid) return;
   
-  const cards = Array.from(grid.querySelectorAll(".category-card"));
-  if(cards.length !== 8) return;
+  // Get only category cards (exclude latest-posts-card)
+  const allCards = Array.from(grid.querySelectorAll(".category-card"));
+  const categoryCards = allCards.filter(card => !card.classList.contains('latest-posts-card'));
+  
+  if(categoryCards.length !== 8) return;
   
   function centerLastRow() {
     if(window.innerWidth >= 1024) {
-      const card7 = cards[6]; // Construction & Home
-      const card8 = cards[7]; // Miscellaneous
+      const card7 = categoryCards[6]; // Construction & Home
+      const card8 = categoryCards[7]; // Miscellaneous
       
       if(card7 && card8) {
-        // Reset all first
-        cards.forEach(card => {
+        // Reset all category cards first
+        categoryCards.forEach(card => {
           card.style.gridColumn = "";
           card.style.justifySelf = "";
           card.style.maxWidth = "";
         });
         
-        // Center last 2 cards
+        // Center last 2 category cards
         card7.style.gridColumn = "2";
         card7.style.justifySelf = "center";
         card7.style.maxWidth = "400px";
@@ -762,7 +769,7 @@
       }
     } else {
       // Reset on mobile
-      cards.forEach(card => {
+      categoryCards.forEach(card => {
         card.style.gridColumn = "";
         card.style.justifySelf = "";
         card.style.maxWidth = "";
