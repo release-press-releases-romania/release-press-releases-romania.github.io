@@ -48,6 +48,24 @@
       grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
       gap: 24px;
       margin-top: 32px;
+      justify-items: stretch;
+    }
+    @media (min-width: 1024px) {
+      .categories-grid {
+        grid-template-columns: repeat(3, 1fr);
+      }
+      .categories-grid .category-card:nth-last-child(2) {
+        grid-column: 2;
+        justify-self: center;
+        max-width: 400px;
+        margin: 0 auto;
+      }
+      .categories-grid .category-card:nth-last-child(1) {
+        grid-column: 3;
+        justify-self: center;
+        max-width: 400px;
+        margin: 0 auto;
+      }
     }
     .category-card {
       background: var(--surface);
@@ -684,42 +702,50 @@
   if(items.length === 0) return;
   
   function centerLastRow() {
-    if(window.innerWidth <= 768) {
-      // Mobile: reset all styles
+    if(window.innerWidth < 1024) {
+      // Mobile/Tablet: reset all styles
       items.forEach(item => {
         item.style.gridColumn = "";
         item.style.justifySelf = "";
         item.style.maxWidth = "";
+        item.style.margin = "";
       });
-      grid.style.gridTemplateColumns = "";
-      grid.style.justifyItems = "";
       return;
     }
     
-    // Desktop: For 8 items, use 3-column grid and center last 2
+    // Desktop (≥1024px): For 8 items, center last 2
     if(items.length === 8) {
-      grid.style.gridTemplateColumns = "repeat(3, 1fr)";
-      grid.style.justifyItems = "stretch";
-      
       // Reset all items first
       items.forEach(item => {
         item.style.gridColumn = "";
         item.style.justifySelf = "";
         item.style.maxWidth = "";
+        item.style.margin = "";
       });
       
-      // Center last 2 items
-      const lastTwo = [items[items.length - 2], items[items.length - 1]];
-      lastTwo.forEach((item, idx) => {
-        item.style.gridColumn = idx === 0 ? "2" : "3";
-        item.style.justifySelf = "center";
-        item.style.maxWidth = "400px"; // Limit width for better centering
-      });
+      // Center last 2 items in their columns
+      const secondLast = items[items.length - 2];
+      const last = items[items.length - 1];
+      
+      if(secondLast) {
+        secondLast.style.gridColumn = "2";
+        secondLast.style.justifySelf = "center";
+        secondLast.style.maxWidth = "400px";
+        secondLast.style.margin = "0 auto";
+      }
+      
+      if(last) {
+        last.style.gridColumn = "3";
+        last.style.justifySelf = "center";
+        last.style.maxWidth = "400px";
+        last.style.margin = "0 auto";
+      }
     }
   }
   
-  window.addEventListener('resize', centerLastRow);
+  // Run on load and resize
   centerLastRow();
+  window.addEventListener('resize', centerLastRow);
 })();
 </script>
 </body>
