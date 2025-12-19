@@ -5,8 +5,8 @@
     <link>https://release-press-releases-romania.github.io</link>
     <description>Aggregated RSS feed of press releases from over 100 Romanian publishers. Covering PR &amp; Marketing, Health, News &amp; Society, Technology, Business, Construction, Tourism, and more. Curated selection of quality press releases from trusted Romanian sources.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Dec 2025 07:00:56 +0000</lastBuildDate>
-    <pubDate>Fri, 19 Dec 2025 07:00:56 +0000</pubDate>
+    <lastBuildDate>Fri, 19 Dec 2025 13:47:11 +0000</lastBuildDate>
+    <pubDate>Fri, 19 Dec 2025 13:47:11 +0000</pubDate>
     <generator>Release Press Releases in Romania RSS Aggregator v2.0</generator>
     <webMaster>noreply@release-press-releases-romania.github.io (Release Press Releases)</webMaster>
     <managingEditor>noreply@release-press-releases-romania.github.io (Release Press Releases)</managingEditor>
@@ -28,6 +28,20 @@
     <sy:updateFrequency>1</sy:updateFrequency>
     <copyright>Copyright 2025 Release Press Releases in Romania. Content belongs to respective publishers.</copyright>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Implanturi mamare cu silicon: aspecte medicale esențiale</title>
+      <link>https://medic360.ro/implanturi-mamare-cu-silicon-aspecte-medicale-esentiale/</link>
+      <description><![CDATA[From Medic360: Decizia de a apela la o intervenție estetică nu este niciodată una simplă, mai ales atunci când presupune modificări corporale vizibile și de durată. În ultimii ani, opțiunea pentru implanturi mamare cu silicon a devenit una dintre cele mai discutate în chirurgia estetică, nu doar din perspectiva rezultatelor estetice, ci și din cea a siguranței medicale și a predictibilității pe termen lung. P...]]></description>
+      <pubDate>Fri, 19 Dec 2025 11:05:33 +0000</pubDate>
+      <author>Medic360 (https://release-press-releases-romania.github.io/publisher/medic360-ro/)</author>
+      <dc:creator>Medic360</dc:creator>
+      <dc:date>2025-12-19T11:05:33+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">Health</category>
+      <guid isPermaLink="true">https://medic360.ro/implanturi-mamare-cu-silicon-aspecte-medicale-esentiale/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/medic360-ro/">Medic360</source>
+      <content:encoded><![CDATA[From Medic360: Decizia de a apela la o intervenție estetică nu este niciodată una simplă, mai ales atunci când presupune modificări corporale vizibile și de durată. În ultimii ani, opțiunea pentru implanturi mamare cu silicon a devenit una dintre cele mai discutate în chirurgia estetică, nu doar din perspectiva rezultatelor estetice, ci și din cea a siguranței medicale și a predictibilității pe termen lung. P...]]></content:encoded>
+      <comments>https://medic360.ro/implanturi-mamare-cu-silicon-aspecte-medicale-esentiale/#comments</comments>
+    </item>
     <item>
       <title>Numele YAFFA: semnificație, origine, trăsături și personalitate</title>
       <link>https://e-nume.ro/numele-yaffa-semnificatie-origine-trasaturi-si-personalitate/</link>
@@ -1329,20 +1343,6 @@
       <source url="https://release-press-releases-romania.github.io/publisher/e-faq-ro/">E Faq</source>
       <content:encoded><![CDATA[From E Faq: Digestia poate fi afectată de alimentație neregulată, stres, mese grele sau sensibilitate gastro-intestinală. Fitoterapia oferă numeroase plante care sprijină funcționarea stomacului și a intestinelor, reduc balonarea, stimulează producția de sucuri digestive și calmează disconfortul abdominal. Plantele pot fi consumate sub formă de ceai, tinctură sau capsule, fiind o soluție naturală și blândă...]]></content:encoded>
       <comments>https://e-faq.ro/plante-utile-pentru-imbunatatirea-digestiei/#comments</comments>
-    </item>
-    <item>
-      <title>Suplimente care pot sprijini procesul de slăbire</title>
-      <link>https://medic360.ro/suplimente-care-pot-sprijini-procesul-de-slabire/</link>
-      <description><![CDATA[From Medic360: Suplimentele pentru slăbit nu înlocuiesc o dietă echilibrată și activitatea fizică, însă pot oferi un sprijin suplimentar atunci când sunt folosite corect. Acestea acționează prin mecanisme diferite: stimularea metabolismului, reducerea poftei de mâncare, îmbunătățirea digestiei sau menținerea nivelului de energie în perioadele cu aport caloric redus. Alegerea suplimentului potrivit depinde de ...]]></description>
-      <pubDate>Fri, 05 Dec 2025 18:05:48 +0000</pubDate>
-      <author>Medic360 (https://release-press-releases-romania.github.io/publisher/medic360-ro/)</author>
-      <dc:creator>Medic360</dc:creator>
-      <dc:date>2025-12-05T18:05:48+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">Health</category>
-      <guid isPermaLink="true">https://medic360.ro/suplimente-care-pot-sprijini-procesul-de-slabire/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/medic360-ro/">Medic360</source>
-      <content:encoded><![CDATA[From Medic360: Suplimentele pentru slăbit nu înlocuiesc o dietă echilibrată și activitatea fizică, însă pot oferi un sprijin suplimentar atunci când sunt folosite corect. Acestea acționează prin mecanisme diferite: stimularea metabolismului, reducerea poftei de mâncare, îmbunătățirea digestiei sau menținerea nivelului de energie în perioadele cu aport caloric redus. Alegerea suplimentului potrivit depinde de ...]]></content:encoded>
-      <comments>https://medic360.ro/suplimente-care-pot-sprijini-procesul-de-slabire/#comments</comments>
     </item>
     <item>
       <title>Băiat sau fetiță? Săptămâna exactă în care ecografia poate confirma sexul bebelușului</title>
