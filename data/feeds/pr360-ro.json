@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@pr360",
     "rss": "https://social.5th.ro/@pr360.rss"
   },
-  "updated_at": "2025-12-19T19:39:09.729835+00:00",
+  "updated_at": "2025-12-19T20:48:51.442014+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Update",
+      "link": "https://pr360.ro/3870-2/",
+      "summary": "The post appeared first on PR 360 .",
+      "published": "2025-12-19T19:49:34+00:00",
+      "published_human": "2025-12-19T19:49",
+      "source": "https://pr360.ro/"
+    },
     {
       "title": "Mastodon România: cum arată comunitatea și ce subiecte prind",
       "link": "https://pr360.ro/mastodon-romania-cum-arata-comunitatea-si-ce-subiecte-prind/",
@@ -100,17 +108,17 @@
       "published": "2025-10-30T10:28:40+00:00",
       "published_human": "2025-10-30T10:28",
       "source": "https://pr360.ro/"
-    },
-    {
-      "title": "De la quantum training la scenă: Răzvan Oprea",
-      "link": "https://pr360.ro/de-la-quantum-training-la-scena-razvan-oprea/",
-      "summary": "Răzvan Oprea, actor, regizor și formator, lansează un atelier gratuit, de creație colectivă, dedicat celor care vor să exploreze profunzimea artei teatrale și să contribuie la un spectacol cu mesaj contemporan:&#160;&#8222;Sacrificiul&#8221;. Ce este Quantum Training și cum se leagă principiile fizicii cuantice de procesul de dezvoltare personală pe care &#238;l propuneți? Răzvan Oprea: Quantum Training [&#8230;] The post De la quantum training la scenă: Răzvan Oprea appeared first on PR 360 .",
-      "published": "2025-09-24T04:55:43+00:00",
-      "published_human": "2025-09-24T04:55",
-      "source": "https://pr360.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@pr360/115747964675415515",
+      "summary": "Sunt entuziasmat de oportunitățile noi. Vreau să împărtășesc idei și sentimente cu ceilalți. Comunitatea noastră este puternică și creativă, iar asta mă inspiră să fiu mai bun. Suntem împreună în această călătorie. 🤓 https:// pr360.ro/3870-2/ @ 5th",
+      "published": "2025-12-19T19:49:37+00:00",
+      "published_human": "2025-12-19T19:49",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@pr360/115747326769045364",
@@ -197,14 +205,6 @@
       "summary": "Începe ROMANIAN ENERGY WEEK 2025!5 zile cu 5 teme relevante pentru sectorul energetic românescLuni, 17 noiembrie, începe ROMANIAN ENERGY WEEK 2025! Descoperă idei, lideri și soluții la masa rotundă a viitorului energetic al României. Înscrie-te acum!Miniștrii Energiei, Economiei, Mediului, reprezentanți ai Cancelariei Prim-Ministrului, ai Departamentului de Dezvoltare Durabilă al Guvernului, Secretari de Stat și Consilieri,… .... https:// pr360.ro/incepe-romanian-energ y-week-2025/",
       "published": "2025-12-10T23:03:22+00:00",
       "published_human": "2025-12-10T23:03",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@pr360/115697621314136629",
-      "summary": "Ați simțit vreodată frustrarea de a pierde un câștig potențial uriaș din cauza unui singur eveniment sportiv care nu s-a concretizat? Este o experiență comună în lumea pariurilor sportive. Mulți pariori se concentrează exclusiv pe clasicul bilet combinat (sau bilet multiplu). Acolo, o singură greșeală înseamnă pierderea întregii mize. Dar ce ați spune dacă ar… .... https:// pr360.ro/pariuri-sistem-ce-sun t-cum-functioneaza-si-cui-i-se-potrivesc/",
-      "published": "2025-12-10T22:26:38+00:00",
-      "published_human": "2025-12-10T22:26",
       "source": "Mastodon"
     }
   ]
