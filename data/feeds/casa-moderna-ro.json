@@ -7,7 +7,7 @@
     "rss": "https://casa-moderna.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2025-12-20T08:53:34.516987+00:00",
+  "updated_at": "2025-12-20T09:43:52.669104+00:00",
   "status": "ok",
   "items": [
     {
@@ -16,6 +16,14 @@
       "summary": "V-ați postat vreodată un link de pe site-ul vostru WordPress pe o rețea socială, doar pentru a descoperi că imaginea&#8230; Articolul Open Graph și preview: cum arată linkurile WordPress pe Mastodon apare prima dată în Casa Moderna .",
       "published": "2025-12-17T16:58:54+00:00",
       "published_human": "2025-12-17T16:58",
+      "source": "https://casa-moderna.ro/"
+    },
+    {
+      "title": "Cum maximizezi spațiul într-un studio de 35 mp?",
+      "link": "https://casa-moderna.ro/cum-maximizezi-spatiul-intr-un-studio-de-35-mp/",
+      "summary": "Locuirea &#238;ntr-un spațiu compact reprezintă o realitate pentru mulți tineri profesioniști sau studenți din marile orașe. O suprafață de 35&#8230; Articolul Cum maximizezi spațiul într-un studio de 35 mp? apare prima dată în Casa Moderna .",
+      "published": "2025-12-15T00:22:00+00:00",
+      "published_human": "2025-12-15T00:22",
       "source": "https://casa-moderna.ro/"
     },
     {
@@ -96,14 +104,6 @@
       "summary": "Vă simțiți copleșiți de praful persistent și de rutina obositoare a întreținerii casei? Viața modernă în Oradea este dinamică. Timpul&#8230; Articolul Curățenie la domiciliu în Oradea cu produse ecologice sigur pentru copii și animale apare prima dată în Casa Moderna .",
       "published": "2025-10-01T08:15:26+00:00",
       "published_human": "2025-10-01T08:15",
-      "source": "https://casa-moderna.ro/"
-    },
-    {
-      "title": "De ce să alegi lenjeriile de pat făcute pe comandă – un plus de confort și rafinament",
-      "link": "https://casa-moderna.ro/de-ce-sa-alegi-lenjeriile-de-pat-facute-pe-comanda-un-plus-de-confort-si-rafinament/",
-      "summary": "Într-o lume în care standardizarea pare să fie regula de bază, micile detalii personalizate fac diferența între un spațiu banal&#8230; Articolul De ce să alegi lenjeriile de pat făcute pe comandă – un plus de confort și rafinament apare prima dată în Casa Moderna .",
-      "published": "2025-09-22T10:53:28+00:00",
-      "published_human": "2025-09-22T10:53",
       "source": "https://casa-moderna.ro/"
     }
   ],
