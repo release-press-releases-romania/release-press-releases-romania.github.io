@@ -10,90 +10,9 @@
     "url": "https://social.5th.ro/@DoctoriteBlog",
     "rss": "https://social.5th.ro/@DoctoriteBlog.rss"
   },
-  "updated_at": "2025-12-20T15:42:58.108763+00:00",
+  "updated_at": "2025-12-20T16:50:09.702257+00:00",
   "status": "ok",
-  "items": [
-    {
-      "title": "Hashtaguri pe Mastodon: cum te găsește lumea mai ușor",
-      "link": "https://doctorite.ro/hashtaguri-pe-mastodon-cum-te-gaseste-lumea-mai-usor/",
-      "summary": "Introducere: De Ce Vizibilitatea Pe Mastodon Depinde De Tine? V-ați săturat de algoritmii care decid... Articolul Hashtaguri pe Mastodon: cum te găsește lumea mai ușor apare prima dată în Doctorite .",
-      "published": "2025-12-17T16:58:54+00:00",
-      "published_human": "2025-12-17T16:58",
-      "source": "https://doctorite.ro/"
-    },
-    {
-      "title": "Igiena și confortul pacientului imobilizat",
-      "link": "https://doctorite.ro/igiena-si-confortul-pacientului-imobilizat/",
-      "summary": "Îngrijirea unui pacient imobilizat la pat, fie temporar din cauza unei recuperări post-operatorii, fie permanent... Articolul Igiena și confortul pacientului imobilizat apare prima dată în Doctorite .",
-      "published": "2025-12-12T10:13:10+00:00",
-      "published_human": "2025-12-12T10:13",
-      "source": "https://doctorite.ro/"
-    },
-    {
-      "title": "Băiat sau fetiță? Săptămâna exactă în care ecografia poate confirma sexul bebelușului",
-      "link": "https://doctorite.ro/baiat-sau-fetita-saptamana-exacta-in-care-ecografia-poate-confirma-sexul-bebelusului/",
-      "summary": "Dintre toate surprizele pe care le rezervă viața, puține se compară cu momentul dezvăluirii sexului... Articolul Băiat sau fetiță? Săptămâna exactă în care ecografia poate confirma sexul bebelușului apare prima dată în Doctorite .",
-      "published": "2025-12-05T16:45:47+00:00",
-      "published_human": "2025-12-05T16:45",
-      "source": "https://doctorite.ro/"
-    },
-    {
-      "title": "De ce combinațiile sunt importante pentru magneziu",
-      "link": "https://doctorite.ro/de-ce-combinatiile-sunt-importante-pentru-magneziu/",
-      "summary": "Magneziul este un mineral esențial implicat în sute de procese biochimice din organism, inclusiv funcționarea... Articolul De ce combinațiile sunt importante pentru magneziu apare prima dată în Doctorite .",
-      "published": "2025-12-04T18:58:45+00:00",
-      "published_human": "2025-12-04T18:58",
-      "source": "https://doctorite.ro/"
-    },
-    {
-      "title": "Sinergiile nutrienților: de ce combinațiile contează pentru Omega-3",
-      "link": "https://doctorite.ro/sinergiile-nutrientilor-de-ce-combinatiile-conteaza-pentru-omega-3/",
-      "summary": "Acizii grași Omega-3 sunt esențiali pentru sănătatea cardiovasculară, funcția cerebrală și controlul inflamației. Totuși, eficiența... Articolul Sinergiile nutrienților: de ce combinațiile contează pentru Omega-3 apare prima dată în Doctorite .",
-      "published": "2025-12-04T17:50:37+00:00",
-      "published_human": "2025-12-04T17:50",
-      "source": "https://doctorite.ro/"
-    },
-    {
-      "title": "De ce rezultatele pentru dermatita seboreică apar și dispar „nu mai funcționează”",
-      "link": "https://doctorite.ro/de-ce-rezultatele-pentru-dermatita-seboreica-apar-si-dispar-nu-mai-functioneaza/",
-      "summary": "Una dintre cele mai frustrante experiențe pentru cineva cu dermatită seboreică&#160;este aceeași poveste repetată: găsești... Articolul De ce rezultatele pentru dermatita seboreică apar și dispar „nu mai funcționează” apare prima dată în Doctorite .",
-      "published": "2025-12-03T12:17:22+00:00",
-      "published_human": "2025-12-03T12:17",
-      "source": "https://doctorite.ro/"
-    },
-    {
-      "title": "Cum scrii un titlu de advertorial atrăgător în 2025",
-      "link": "https://doctorite.ro/cum-scrii-un-titlu-de-advertorial-atragator-in-2025/",
-      "summary": "Ați investit mii de lei în campanii de native advertising. Ați creat conținut impecabil, cu... Articolul Cum scrii un titlu de advertorial atrăgător în 2025 apare prima dată în Doctorite .",
-      "published": "2025-12-01T12:07:49+00:00",
-      "published_human": "2025-12-01T12:07",
-      "source": "https://doctorite.ro/"
-    },
-    {
-      "title": "Halate medicale vs. uniforme medicale – ce alegi pentru activitatea ta?",
-      "link": "https://doctorite.ro/halate-medicale-vs-uniforme-medicale-ce-alegi-pentru-activitatea-ta/",
-      "summary": "În lumea medicală modernă, echipamentul de lucru este o componentă esențială a siguranței, confortului și... Articolul Halate medicale vs. uniforme medicale – ce alegi pentru activitatea ta? apare prima dată în Doctorite .",
-      "published": "2025-11-30T14:43:53+00:00",
-      "published_human": "2025-11-30T14:43",
-      "source": "https://doctorite.ro/"
-    },
-    {
-      "title": "Idei și beneficii ale cremei de gălbenele",
-      "link": "https://doctorite.ro/idei-si-beneficii-ale-cremei-de-galbenele/",
-      "summary": "Crema de gălbenele este unul dintre cele mai populare remedii naturale folosite în medicina tradițională... Articolul Idei și beneficii ale cremei de gălbenele apare prima dată în Doctorite .",
-      "published": "2025-11-19T08:01:36+00:00",
-      "published_human": "2025-11-19T08:01",
-      "source": "https://doctorite.ro/"
-    },
-    {
-      "title": "Acid folic pentru gravide: doze recomandate si beneficii pentru bebelus",
-      "link": "https://doctorite.ro/acid-folic-pentru-gravide-doze-recomandate-si-beneficii-pentru-bebelus/",
-      "summary": "In perioada sarcinii, corpul unei femei trece prin schimbari majore, iar nevoia de nutrienti esentiali... Articolul Acid folic pentru gravide: doze recomandate si beneficii pentru bebelus apare prima dată în Doctorite .",
-      "published": "2025-11-17T09:55:58+00:00",
-      "published_human": "2025-11-17T09:55",
-      "source": "https://doctorite.ro/"
-    }
-  ],
+  "items": [],
   "social": [
     {
       "title": "Update",
