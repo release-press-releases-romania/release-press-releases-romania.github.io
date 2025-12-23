@@ -7,9 +7,17 @@
     "rss": "https://afaceri-romanesti.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2025-12-23T07:02:44.684168+00:00",
+  "updated_at": "2025-12-23T07:47:17.873574+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "„Dorintele” unui lant de drujba si ale utilizatorului sau, pentru anul 2026!",
+      "link": "https://afaceri-romanesti.ro/dorintele-unui-lant-de-drujba-si-ale-utilizatorului-sau-pentru-anul-2026/",
+      "summary": "„Dorintele” unui lant de drujba si ale utilizatorului sau, pentru anul 2026! Daca un lant de drujba ar putea gandi si vorbi, cu siguranta dorintele sale ar fi identice cu ale utilizatorului. [&#8230;] Articolul „Dorintele” unui lant de drujba si ale utilizatorului sau, pentru anul 2026! apare prima dată în Afaceri Romanesti .",
+      "published": "2025-12-23T05:19:52+00:00",
+      "published_human": "2025-12-23T05:19",
+      "source": "https://afaceri-romanesti.ro/"
+    },
     {
       "title": "Mastodon WordPress: cum conectezi site-ul la Fediverse",
       "link": "https://afaceri-romanesti.ro/mastodon-wordpress-cum-conectezi-site-ul-la-fediverse/",
@@ -80,14 +88,6 @@
       "summary": "Sunteți familiarizat cu senzația aceea de frustrare intensă, când o serie de pariuri ratate vă golește contul rapid? Acesta este un ciclu extrem de periculos, prin care trec, din păcate, mulți pariori. [&#8230;] Articolul Psihologia pariorului: cum eviți să „urmărești” pierderile cu mize mari apare prima dată în Afaceri Romanesti .",
       "published": "2025-11-15T10:03:28+00:00",
       "published_human": "2025-11-15T10:03",
-      "source": "https://afaceri-romanesti.ro/"
-    },
-    {
-      "title": "Cazino responsabil: sfaturi practice pentru a păstra jocul doar divertisment",
-      "link": "https://afaceri-romanesti.ro/cazino-responsabil-sfaturi-practice-pentru-a-pastra-jocul-doar-divertisment/",
-      "summary": "Jocurile de noroc oferă emoție și divertisment, fiind o formă populară de petrecere a timpului liber. Totuși, distracția se poate transforma rapid în stres, dacă nu sunt respectate anumite reguli de bază. [&#8230;] Articolul Cazino responsabil: sfaturi practice pentru a păstra jocul doar divertisment apare prima dată în Afaceri Romanesti .",
-      "published": "2025-11-14T09:07:58+00:00",
-      "published_human": "2025-11-14T09:07",
       "source": "https://afaceri-romanesti.ro/"
     }
   ],
