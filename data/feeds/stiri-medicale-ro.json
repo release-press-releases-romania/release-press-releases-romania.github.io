@@ -7,9 +7,25 @@
     "rss": "https://stiri-medicale.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2025-12-23T11:45:51.876955+00:00",
+  "updated_at": "2025-12-23T13:51:04.204140+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Totul despre deficitul de Magneziu și Calciu",
+      "link": "https://stiri-medicale.ro/totul-despre-deficitul-de-magneziu-si-calciu/",
+      "summary": "Un ochi care se &#8222;zbate&#8221; incontrolabil, o crampă musculară dureroasă (cârcel) care te trezește în toiul nopții, o stare de&#8230; Articolul Totul despre deficitul de Magneziu și Calciu apare prima dată în Stiri Medicale .",
+      "published": "2025-12-23T13:39:00+00:00",
+      "published_human": "2025-12-23T13:39",
+      "source": "https://stiri-medicale.ro/"
+    },
+    {
+      "title": "Semne ale modificărilor de vedere la copii pe care părinții nu trebuie să le ignore",
+      "link": "https://stiri-medicale.ro/semne-ale-modificarilor-de-vedere-la-copii-pe-care-parintii-nu-trebuie-sa-le-ignore/",
+      "summary": "Vederea copilului influențează direct modul în care acesta învață, se joacă și interacționează cu lumea din jur. De multe ori,&#8230; Articolul Semne ale modificărilor de vedere la copii pe care părinții nu trebuie să le ignore apare prima dată în Stiri Medicale .",
+      "published": "2025-12-23T13:33:12+00:00",
+      "published_human": "2025-12-23T13:33",
+      "source": "https://stiri-medicale.ro/"
+    },
     {
       "title": "Cum îți promovezi proiectul local în Mastodon România",
       "link": "https://stiri-medicale.ro/cum-iti-promovezi-proiectul-local-in-mastodon-romania/",
@@ -88,22 +104,6 @@
       "summary": "Un swimspa combină perfect funcționalitatea unei piscine cu relaxarea oferită de o cadă cu hidromasaj. Este o soluție modernă, compactă&#8230; Articolul Ce avantaje are un swimspa față de o piscină tradițională apare prima dată în Stiri Medicale .",
       "published": "2025-10-30T08:23:37+00:00",
       "published_human": "2025-10-30T08:23",
-      "source": "https://stiri-medicale.ro/"
-    },
-    {
-      "title": "TMS – tratamentul care redă echilibrul emoțional fără pastile",
-      "link": "https://stiri-medicale.ro/tms-tratamentul-care-reda-echilibrul-emotional-fara-pastile/",
-      "summary": "Stimularea Magnetică Transcraniană sau TMS este o metodă noninvazivă, utilizată în medicina modernă pentru tratarea anumitor afecțiuni neurologice și psihiatrice.&#8230; Articolul TMS – tratamentul care redă echilibrul emoțional fără pastile apare prima dată în Stiri Medicale .",
-      "published": "2025-10-10T22:30:30+00:00",
-      "published_human": "2025-10-10T22:30",
-      "source": "https://stiri-medicale.ro/"
-    },
-    {
-      "title": "Cele mai bune proteine din România le găsești exclusiv la Protein4Life.ro",
-      "link": "https://stiri-medicale.ro/cele-mai-bune-proteine-din-romania-le-gasesti-exclusiv-la-protein4life-ro/",
-      "summary": "Protein4Life.ro redefinește standardul de excelență în nutriția sportivă din România Protein4Life.ro, unul dintre principalii distribuitori de suplimente nutritive din țară,&#8230; Articolul Cele mai bune proteine din România le găsești exclusiv la Protein4Life.ro apare prima dată în Stiri Medicale .",
-      "published": "2025-09-30T04:36:20+00:00",
-      "published_human": "2025-09-30T04:36",
       "source": "https://stiri-medicale.ro/"
     }
   ],

@@ -7,9 +7,17 @@
     "rss": "https://medicina-familie.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2025-12-23T11:45:51.876955+00:00",
+  "updated_at": "2025-12-23T13:51:04.204140+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Știai că frecatul la ochi poate afecta vederea copiilor?",
+      "link": "https://medicina-familie.ro/stiai-ca-frecatul-la-ochi-poate-afecta-vederea-copiilor/",
+      "summary": "Frecarea ochilor este un gest foarte des întâlnit la copii și chiar la bebeluși. De... Articolul Știai că frecatul la ochi poate afecta vederea copiilor? apare prima dată în Medicina de Familie .",
+      "published": "2025-12-23T13:36:44+00:00",
+      "published_human": "2025-12-23T13:36",
+      "source": "https://medicina-familie.ro/"
+    },
     {
       "title": "Aparat dentar invizibil: „discreția” – un atu care îți oferă un plus de încredere în tine Zâmbetul este una dintre primele forme prin care",
       "link": "https://medicina-familie.ro/aparat-dentar-invizibil-discretia-un-atu-care-iti-ofera-un-plus-de-incredere-in-tine-zambetul-este-una-dintre-primele-forme-prin-care/",
@@ -96,14 +104,6 @@
       "summary": "Proctologia a evoluat semnificativ în ultimele decenii, oferind pacienților metode moderne de tratament care pun... Articolul Care este diferența dintre tratamentele proctologice clasice și cele non-invazive apare prima dată în Medicina de Familie .",
       "published": "2025-09-04T16:26:54+00:00",
       "published_human": "2025-09-04T16:26",
-      "source": "https://medicina-familie.ro/"
-    },
-    {
-      "title": "Ce alimente și băuturi să eviți seara pentru a dormi mai bine",
-      "link": "https://medicina-familie.ro/ce-alimente-si-bauturi-sa-eviti-seara-pentru-a-dormi-mai-bine/",
-      "summary": "Somnul de calitate este esențial pentru sănătatea noastră, însă foarte mulți oameni se confruntă cu... Articolul Ce alimente și băuturi să eviți seara pentru a dormi mai bine apare prima dată în Medicina de Familie .",
-      "published": "2025-09-04T11:09:34+00:00",
-      "published_human": "2025-09-04T11:09",
       "source": "https://medicina-familie.ro/"
     }
   ],
