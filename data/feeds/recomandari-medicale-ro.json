@@ -7,9 +7,17 @@
     "rss": "https://recomandari-medicale.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2025-12-30T11:50:51.361107+00:00",
+  "updated_at": "2025-12-30T14:53:47.815786+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Cum să îți creezi o rutină de wellness cu ajutorul saunei uscate",
+      "link": "https://recomandari-medicale.ro/cum-sa-iti-creezi-o-rutina-de-wellness-cu-ajutorul-saunei-uscate/",
+      "summary": "Sauna uscată, cu numeroasele ei beneficii pentru corp și minte, poate deveni un aliat de nădejde în călătoria ta spre&#8230; Articolul Cum să îți creezi o rutină de wellness cu ajutorul saunei uscate apare prima dată în Recomandari Medicale .",
+      "published": "2025-12-30T14:50:55+00:00",
+      "published_human": "2025-12-30T14:50",
+      "source": "https://recomandari-medicale.ro/"
+    },
     {
       "title": "Mastodon România pentru începători: ce să urmărești în prima săptămână",
       "link": "https://recomandari-medicale.ro/mastodon-romania-pentru-incepatori-ce-sa-urmaresti-in-prima-saptamana/",
@@ -96,14 +104,6 @@
       "summary": "Un cabinet medical modern nu înseamnă doar aparatură performantă și personal bine pregătit. Igiena și siguranța pacienților sunt la fel&#8230; Articolul 5 produse de unică folosință esențiale într-un cabinet medical apare prima dată în Recomandari Medicale .",
       "published": "2025-09-18T05:48:49+00:00",
       "published_human": "2025-09-18T05:48",
-      "source": "https://recomandari-medicale.ro/"
-    },
-    {
-      "title": "Aminoacizi: ghid complet pentru energie, recuperare și sănătate",
-      "link": "https://recomandari-medicale.ro/aminoacizi-ghid-complet-pentru-energie-recuperare-si-sanatate/",
-      "summary": "Aminoacizii sunt &#8222;cărămizile&#8221; din care se construiesc proteinele, iar fără ei organismul nu ar putea să‑și &#238;ndeplinească funcțiile. Există 20&#8230; Articolul Aminoacizi: ghid complet pentru energie, recuperare și sănătate apare prima dată în Recomandari Medicale .",
-      "published": "2025-09-11T10:46:26+00:00",
-      "published_human": "2025-09-11T10:46",
       "source": "https://recomandari-medicale.ro/"
     }
   ],

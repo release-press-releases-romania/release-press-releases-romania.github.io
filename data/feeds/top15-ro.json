@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@top",
     "rss": "https://social.5th.ro/@top.rss"
   },
-  "updated_at": "2025-12-30T11:50:51.361107+00:00",
+  "updated_at": "2025-12-30T14:53:47.815786+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Ce poate transmite un dispozitiv de monitorizare flote auto",
+      "link": "https://top15.ro/ce-poate-transmite-un-dispozitiv-de-monitorizare-flote-auto/",
+      "summary": "Un dispozitiv de monitorizare flote auto poate transmite mult mai mult decât „unde e mașina”:... Articolul Ce poate transmite un dispozitiv de monitorizare flote auto apare prima dată în TOP 15 .",
+      "published": "2025-12-30T14:18:45+00:00",
+      "published_human": "2025-12-30T14:18",
+      "source": "https://top15.ro/"
+    },
     {
       "title": "Avantajele dispozitivelor de localizare GPS pentru firmele de închirieri auto",
       "link": "https://top15.ro/avantajele-dispozitivelor-de-localizare-gps-pentru-firmele-de-inchirieri-auto/",
@@ -100,17 +108,17 @@
       "published": "2025-12-10T05:33:00+00:00",
       "published_human": "2025-12-10T05:33",
       "source": "https://top15.ro/"
-    },
-    {
-      "title": "Top 15 Magazine Online de Suplimente Alimentare din România (2026)",
-      "link": "https://top15.ro/top-15-magazine-online-de-suplimente-alimentare-din-romania-2026/",
-      "summary": "Clasament 2026: Top 15 magazine online de suplimente din România. Protein4Life pe locul 1 cu cele mai bune prețuri și scor de încredere 100/100. Articolul Top 15 Magazine Online de Suplimente Alimentare din România (2026) apare prima dată în TOP 15 .",
-      "published": "2025-12-08T19:57:12+00:00",
-      "published_human": "2025-12-08T19:57",
-      "source": "https://top15.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@top/115808949239101040",
+      "summary": "📰Un dispozitiv de monitorizare flote auto poate transmite mult mai mult decât „unde e mașina”: de la poziție GPS în timp real și trasee, până la date din motor (prin OBD/CAN), stil de condus, staționări, alerte și rapoarte care ajută la costuri, mentenanță și conformare. Dacă ai deja sau vrei un sistem de monitorizare flote… 📰 https:// top15.ro/ce-poate-transmite-un -dispozitiv-de-monitorizare-flote-auto/",
+      "published": "2025-12-30T14:18:47+00:00",
+      "published_human": "2025-12-30T14:18",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@top/115785427430713374",
@@ -197,14 +205,6 @@
       "summary": "📰Cum alegi corect elementele și serviciile potrivite pentru casă și mașinăAmenajarea unei locuințe implică numeroase decizii, dar unele dintre ele au un impact mult mai mare decât altele asupra confortului zilnic. Printre acestea se numără alegerea ușilor de interior și a roletelor pentru ferestre, două elemente esențiale care definesc atmosfera unei case, influențează estetica generală… 📰 https:// top15.ro/1-cum-alegi-corect-us ile-de-interior-pentru-locuinta/",
       "published": "2025-12-10T05:33:28+00:00",
       "published_human": "2025-12-10T05:33",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@top/115689323520970115",
-      "summary": "📰Clasament 2026: Top 15 magazine online de suplimente din România. Protein4Life pe locul 1 cu cele mai bune prețuri și scor de încredere 100/100. # celemaibunesuplimenteonline # magazinesuplimenteRomania # Protein4Life 📰 https:// top15.ro/top-15-magazine-onlin e-de-suplimente-alimentare-din-romania-2026/",
-      "published": "2025-12-09T11:16:24+00:00",
-      "published_human": "2025-12-09T11:16",
       "source": "Mastodon"
     }
   ]
