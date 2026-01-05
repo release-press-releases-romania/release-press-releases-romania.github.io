@@ -7,9 +7,17 @@
     "rss": "https://stiri-medicale.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-01-05T11:46:28.066771+00:00",
+  "updated_at": "2026-01-05T14:59:54.650322+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Ce este GABA și cum funcționează în organism?",
+      "link": "https://stiri-medicale.ro/ce-este-gaba-si-cum-functioneaza-in-organism/",
+      "summary": "Ce este GABA și cum funcționează? Descoperă rolul receptorilor GABA, mecanismele nervoase implicate și de ce sunt importanți pentru echilibrul sistemului nervos Articolul Ce este GABA și cum funcționează în organism? apare prima dată în Stiri Medicale .",
+      "published": "2026-01-04T23:15:22+00:00",
+      "published_human": "2026-01-04T23:15",
+      "source": "https://stiri-medicale.ro/"
+    },
     {
       "title": "Totul despre deficitul de Magneziu și Calciu",
       "link": "https://stiri-medicale.ro/totul-despre-deficitul-de-magneziu-si-calciu/",
@@ -96,14 +104,6 @@
       "summary": "In Bucuresti, acolo unde timpul si confortul conteaza mai mult ca oricand, Kirilova Dent s-a impus ca un reper in&#8230; Articolul Cabinet Stomatologic specializat in Urgente Stomatologice – interventii rapide in Bucuresti la Kirilova Dent apare prima dată în Stiri Medicale .",
       "published": "2025-11-03T05:35:41+00:00",
       "published_human": "2025-11-03T05:35",
-      "source": "https://stiri-medicale.ro/"
-    },
-    {
-      "title": "Ce avantaje are un swimspa față de o piscină tradițională",
-      "link": "https://stiri-medicale.ro/ce-avantaje-are-un-swimspa-fata-de-o-piscina-traditionala/",
-      "summary": "Un swimspa combină perfect funcționalitatea unei piscine cu relaxarea oferită de o cadă cu hidromasaj. Este o soluție modernă, compactă&#8230; Articolul Ce avantaje are un swimspa față de o piscină tradițională apare prima dată în Stiri Medicale .",
-      "published": "2025-10-30T08:23:37+00:00",
-      "published_human": "2025-10-30T08:23",
       "source": "https://stiri-medicale.ro/"
     }
   ],
