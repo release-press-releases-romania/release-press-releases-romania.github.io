@@ -7,9 +7,17 @@
     "rss": "https://networkinghub.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-01-06T09:54:21.009781+00:00",
+  "updated_at": "2026-01-06T10:56:02.011316+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Cum poți să alegi cele mai bune scaune de bucătărie",
+      "link": "https://networkinghub.ro/cum-poti-sa-alegi-cele-mai-bune-scaune-de-bucatarie/",
+      "summary": "Să locuiești &#238;ntr-o casă unde nimic pare că nu s-a schimbat de ani de zile,... Articolul Cum poți să alegi cele mai bune scaune de bucătărie apare prima dată în Networking Hub .",
+      "published": "2025-12-30T10:25:00+00:00",
+      "published_human": "2025-12-30T10:25",
+      "source": "https://networkinghub.ro/"
+    },
     {
       "title": "Cum poți controla accesul cu ajutorul unui electromagnet?",
       "link": "https://networkinghub.ro/cum-poti-controla-accesul-cu-ajutorul-unui-electromagnet/",
@@ -96,14 +104,6 @@
       "summary": "ROMANIAN ENERGY WEEK 2025: 5 zile de dezbateri, 5 teme vitale pentru energie Palatul Parlamentului... Articolul ROMANIAN ENERGY WEEK 2025 apare prima dată în Networking Hub .",
       "published": "2025-11-18T07:22:57+00:00",
       "published_human": "2025-11-18T07:22",
-      "source": "https://networkinghub.ro/"
-    },
-    {
-      "title": "Păcănele online pentru începători: cum funcționează sloturile moderne",
-      "link": "https://networkinghub.ro/pacanele-online-pentru-incepatori-cum-functioneaza-sloturile-moderne/",
-      "summary": "Te-ai simțit vreodată copleșit de nenumăratele butoane, simboluri animate și funcții bonus pe care le... Articolul Păcănele online pentru începători: cum funcționează sloturile moderne apare prima dată în Networking Hub .",
-      "published": "2025-11-15T10:03:28+00:00",
-      "published_human": "2025-11-15T10:03",
       "source": "https://networkinghub.ro/"
     }
   ],
