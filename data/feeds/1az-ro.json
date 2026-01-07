@@ -7,9 +7,17 @@
     "rss": "https://1az.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-01-07T17:45:22.551654+00:00",
+  "updated_at": "2026-01-07T19:02:16.087543+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Sărbătoarea Sfântului Ioan Botezătorul",
+      "link": "https://1az.ro/sarbatoarea-sfantului-ioan-botezatorul/",
+      "summary": "Aceasta stire Sărbătoarea Sfântului Ioan Botezătorul apare prima oara pe Primarii de la A la Z . Sărbătoarea Sfântului Ioan Botezătorul 7 ianuarie, comunitatea din Sânnicolau Mare marchează cu pioșenie și bucurie sărbătoarea Sfântului Ioan Botezătorul, o zi cu o profundă semnificație spirituală care încheie perioada festivă a sărbătorilor de iarnă. #ȘtirileSânnicolauTV https://www.youtube.com/watch?v=ekRatkD5G9w Post-ul Sărbătoarea Sfântului Ioan Botezătorul apare prima dată în Primaria Sannicolau Mare. Source Aceasta stire Sărbătoarea Sfântului Ioan Botezătorul apare prima oara pe Primarii de la A la Z .",
+      "published": "2026-01-06T22:15:05+00:00",
+      "published_human": "2026-01-06T22:15",
+      "source": "https://1az.ro/"
+    },
     {
       "title": "#SânnicolauEMare din 02.01.2026",
       "link": "https://1az.ro/sannicolauemare-din-02-01-2026/",
@@ -96,14 +104,6 @@
       "summary": "Aceasta stire Fiii Satului – Generația de 30 de ani apare prima oara pe Primarii de la A la Z . Source Aceasta stire Fiii Satului – Generația de 30 de ani apare prima oara pe Primarii de la A la Z .",
       "published": "2026-01-05T14:47:55+00:00",
       "published_human": "2026-01-05T14:47",
-      "source": "https://1az.ro/"
-    },
-    {
-      "title": "Fiii Satului – Generația de 70 de ani",
-      "link": "https://1az.ro/fiii-satului-generatia-de-70-de-ani/",
-      "summary": "Aceasta stire Fiii Satului – Generația de 70 de ani apare prima oara pe Primarii de la A la Z . Source Aceasta stire Fiii Satului – Generația de 70 de ani apare prima oara pe Primarii de la A la Z .",
-      "published": "2026-01-05T14:31:27+00:00",
-      "published_human": "2026-01-05T14:31",
       "source": "https://1az.ro/"
     }
   ],
