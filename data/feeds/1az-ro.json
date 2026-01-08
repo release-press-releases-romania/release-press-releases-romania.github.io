@@ -7,7 +7,7 @@
     "rss": "https://1az.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-01-08T17:46:33.129251+00:00",
+  "updated_at": "2026-01-08T18:59:49.222387+00:00",
   "status": "ok",
   "items": [
     {
@@ -35,6 +35,14 @@
       "source": "https://1az.ro/"
     },
     {
+      "title": "Avertizare meteo 8 – 9 ianuarie",
+      "link": "https://1az.ro/avertizare-meteo-8-9-ianuarie/",
+      "summary": "Aceasta stire Avertizare meteo 8 – 9 ianuarie apare prima oara pe Primarii de la A la Z . ADMINISTRAȚIA NAȚIONALĂ DE METEOROLOGIE PROGNOZA METEO PENTRU URMĂTOARELE 7 ZILE COD GALBEN Interval de valabilitate: 08 ianuarie, ora 10:00 – 08 ianuarie, ora 23:00 Fenomene vizate: ninsoare viscolită, vizibilitate sub 100 m, intensificări ale vântului și strat de zăpadă Zone afectate: sudul, centrul și estul Transilvaniei, nordul și centrul Moldovei, centrul și sud-estul Munteniei, local [&#8230;] Aceasta stire Avertizare meteo 8 – 9 ianuarie apare prima oara pe Primarii de la A la Z .",
+      "published": "2026-01-08T08:46:02+00:00",
+      "published_human": "2026-01-08T08:46",
+      "source": "https://1az.ro/"
+    },
+    {
       "title": "08.01.2026 – Anunt – PRIVIND ACTUALIZAREA CHIRIEI PENTRU ANUL 2026 – LOCUINTE A.N.L.",
       "link": "https://1az.ro/08-01-2026-anunt-privind-actualizarea-chiriei-pentru-anul-2026-locuinte-a-n-l/",
       "summary": "Aceasta stire 08.01.2026 – Anunt – PRIVIND ACTUALIZAREA CHIRIEI PENTRU ANUL 2026 – LOCUINTE A.N.L. apare prima oara pe Primarii de la A la Z . 08.01.2026 &#8211; Anunt &#8211; PRIVIND ACTUALIZAREA CHIRIEI PENTRU ANUL 2026 &#8211; LOCUINTE A.N.L. Source Aceasta stire 08.01.2026 – Anunt – PRIVIND ACTUALIZAREA CHIRIEI PENTRU ANUL 2026 – LOCUINTE A.N.L. apare prima oara pe Primarii de la A la Z .",
@@ -43,67 +51,59 @@
       "source": "https://1az.ro/"
     },
     {
+      "title": "HCL nr. 37/19.12.2025",
+      "link": "https://1az.ro/hcl-nr-37-19-12-2025/",
+      "summary": "Aceasta stire HCL nr. 37/19.12.2025 apare prima oara pe Primarii de la A la Z . HCL 37Descarcă Source Aceasta stire HCL nr. 37/19.12.2025 apare prima oara pe Primarii de la A la Z .",
+      "published": "2026-01-08T08:03:39+00:00",
+      "published_human": "2026-01-08T08:03",
+      "source": "https://1az.ro/"
+    },
+    {
+      "title": "Anexă HCL nr. 38/19.12.2025",
+      "link": "https://1az.ro/anexa-hcl-nr-38-19-12-2025/",
+      "summary": "Aceasta stire Anexă HCL nr. 38/19.12.2025 apare prima oara pe Primarii de la A la Z . HCL 38 Anexa nr.1 &#8211; Taxe si impoziteDescarcă Source Aceasta stire Anexă HCL nr. 38/19.12.2025 apare prima oara pe Primarii de la A la Z .",
+      "published": "2026-01-08T07:54:55+00:00",
+      "published_human": "2026-01-08T07:54",
+      "source": "https://1az.ro/"
+    },
+    {
+      "title": "HCL. nr. 38/19.12.2025",
+      "link": "https://1az.ro/hcl-nr-38-19-12-2025/",
+      "summary": "Aceasta stire HCL. nr. 38/19.12.2025 apare prima oara pe Primarii de la A la Z . HCLDescarcă Source Aceasta stire HCL. nr. 38/19.12.2025 apare prima oara pe Primarii de la A la Z .",
+      "published": "2026-01-08T07:53:39+00:00",
+      "published_human": "2026-01-08T07:53",
+      "source": "https://1az.ro/"
+    },
+    {
+      "title": "HCL nr. 36/19.12.2025",
+      "link": "https://1az.ro/hcl-nr-36-19-12-2025/",
+      "summary": "Aceasta stire HCL nr. 36/19.12.2025 apare prima oara pe Primarii de la A la Z . HCL StăneștiDescarcă Source Aceasta stire HCL nr. 36/19.12.2025 apare prima oara pe Primarii de la A la Z .",
+      "published": "2026-01-08T07:44:53+00:00",
+      "published_human": "2026-01-08T07:44",
+      "source": "https://1az.ro/"
+    },
+    {
+      "title": "PLAN OPERATIV 2025-2026",
+      "link": "https://1az.ro/plan-operativ-2025-2026/",
+      "summary": "Aceasta stire PLAN OPERATIV 2025-2026 apare prima oara pe Primarii de la A la Z . SVSUDescarcă Source Aceasta stire PLAN OPERATIV 2025-2026 apare prima oara pe Primarii de la A la Z .",
+      "published": "2026-01-08T07:43:27+00:00",
+      "published_human": "2026-01-08T07:43",
+      "source": "https://1az.ro/"
+    },
+    {
+      "title": "HCL nr. 35/19.12.2025",
+      "link": "https://1az.ro/hcl-nr-35-19-12-2025/",
+      "summary": "Aceasta stire HCL nr. 35/19.12.2025 apare prima oara pe Primarii de la A la Z . HCLDescarcă Source Aceasta stire HCL nr. 35/19.12.2025 apare prima oara pe Primarii de la A la Z .",
+      "published": "2026-01-08T07:40:39+00:00",
+      "published_human": "2026-01-08T07:40",
+      "source": "https://1az.ro/"
+    },
+    {
       "title": "Carieră 08.01.2026 – Primăria Municipiului Roman organizează concursul de recrutare în vederea ocupării pe durată nedeterminată a unui post vacant, contractual de execuție, cu norm",
       "link": "https://1az.ro/cariera-08-01-2026-primaria-municipiului-roman-organizeaza-concursul-de-recrutare-in-vederea-ocuparii-pe-durata-nedeterminata-a-unui-post-vacant-contractual-de-executie-cu-norma-intreaga-d/",
       "summary": "Aceasta stire Carieră 08.01.2026 – Primăria Municipiului Roman organizează concursul de recrutare în vederea ocupării pe durată nedeterminată a unui post vacant, contractual de execuție, cu normă întreagă de arhivar I la Serviciul Stare Civilă din cadrul Direcției Locale de Evidență a Persoanelor apare prima oara pe Primarii de la A la Z . Primăria Municipiului Roman organizează concursul de recrutare în vederea ocupării pe durată nedeterminată a unui post vacant, contractual de execuție, cu normă întreagă de arhivar I la Serviciul Stare Civilă din cadrul Direcției Locale de Evidență a Persoanelor Roman în baza art. VII alin. (3), lit. a) din O.U.G. nr. 156/2024 și a H.G nr. [&#8230;] Aceasta stire Carieră 08.01.2026 – Primăria Municipiului Roman organizează concursul de recrutare în veder",
       "published": "2026-01-08T06:46:28+00:00",
       "published_human": "2026-01-08T06:46",
-      "source": "https://1az.ro/"
-    },
-    {
-      "title": "Sărbătoarea Sfântului Ioan Botezătorul",
-      "link": "https://1az.ro/sarbatoarea-sfantului-ioan-botezatorul/",
-      "summary": "Aceasta stire Sărbătoarea Sfântului Ioan Botezătorul apare prima oara pe Primarii de la A la Z . Sărbătoarea Sfântului Ioan Botezătorul 7 ianuarie, comunitatea din Sânnicolau Mare marchează cu pioșenie și bucurie sărbătoarea Sfântului Ioan Botezătorul, o zi cu o profundă semnificație spirituală care încheie perioada festivă a sărbătorilor de iarnă. #ȘtirileSânnicolauTV https://www.youtube.com/watch?v=ekRatkD5G9w Post-ul Sărbătoarea Sfântului Ioan Botezătorul apare prima dată în Primaria Sannicolau Mare. Source Aceasta stire Sărbătoarea Sfântului Ioan Botezătorul apare prima oara pe Primarii de la A la Z .",
-      "published": "2026-01-06T22:15:05+00:00",
-      "published_human": "2026-01-06T22:15",
-      "source": "https://1az.ro/"
-    },
-    {
-      "title": "#SânnicolauEMare din 02.01.2026",
-      "link": "https://1az.ro/sannicolauemare-din-02-01-2026/",
-      "summary": "Aceasta stire #SânnicolauEMare din 02.01.2026 apare prima oara pe Primarii de la A la Z . #SânnicolauEMare din 02.01.2026 Post-ul #SânnicolauEMare din 02.01.2026 apare prima dată în Primaria Sannicolau Mare. Source Aceasta stire #SânnicolauEMare din 02.01.2026 apare prima oara pe Primarii de la A la Z .",
-      "published": "2026-01-05T22:15:09+00:00",
-      "published_human": "2026-01-05T22:15",
-      "source": "https://1az.ro/"
-    },
-    {
-      "title": "Video – Ceata Junilor din Sadu, 24 decembrie 2025",
-      "link": "https://1az.ro/video-ceata-junilor-din-sadu-24-decembrie-2025/",
-      "summary": "Aceasta stire Video – Ceata Junilor din Sadu, 24 decembrie 2025 apare prima oara pe Primarii de la A la Z . Source Aceasta stire Video – Ceata Junilor din Sadu, 24 decembrie 2025 apare prima oara pe Primarii de la A la Z .",
-      "published": "2026-01-05T16:12:30+00:00",
-      "published_human": "2026-01-05T16:12",
-      "source": "https://1az.ro/"
-    },
-    {
-      "title": "Un sfert din totalul locuințelor din România sunt nelocuite: mai exact 2,5 milioane de case. Aproximativ jumătate dintre acestea sunt la țară.",
-      "link": "https://1az.ro/un-sfert-din-totalul-locuintelor-din-romania-sunt-nelocuite-mai-exact-25-milioane-de-case-aproximativ-jumatate-dintre-acestea-sunt-la-tara/",
-      "summary": "Aceasta stire Un sfert din totalul locuințelor din România sunt nelocuite: mai exact 2,5 milioane de case. Aproximativ jumătate dintre acestea sunt la țară. apare prima oara pe Primarii de la A la Z . Satele părăsite nu sunt doar în zone greu accesibile din munți sau Delta Dunării. Sunt comune aflate la doar 50 de kilometri de București care au 25% dintre case neocupate. Europa Liberă a vizitat trei dintre ele https://shorturl.at/deowP *Articol publicat în august 2025 Source Aceasta stire Un sfert din totalul locuințelor din România sunt nelocuite: mai exact 2,5 milioane de case. Aproximativ jumătate dintre acestea sunt la țară. apare prima oara pe Primarii de la A la Z .",
-      "published": "2026-01-05T15:38:28+00:00",
-      "published_human": "2026-01-05T15:38",
-      "source": "https://1az.ro/"
-    },
-    {
-      "title": "Colindul Junilor în a doua zi de Crăciun, 26 decembrie 2025",
-      "link": "https://1az.ro/colindul-junilor-in-a-doua-zi-de-craciun-26-decembrie-2025/",
-      "summary": "Aceasta stire Colindul Junilor în a doua zi de Crăciun, 26 decembrie 2025 apare prima oara pe Primarii de la A la Z . Source Aceasta stire Colindul Junilor în a doua zi de Crăciun, 26 decembrie 2025 apare prima oara pe Primarii de la A la Z .",
-      "published": "2026-01-05T15:34:21+00:00",
-      "published_human": "2026-01-05T15:34",
-      "source": "https://1az.ro/"
-    },
-    {
-      "title": "Ceata Junilor și obiceiul Adusul Fagului și „Ridicatul Fetelor” la Sadu, 24 decembrie 2025",
-      "link": "https://1az.ro/ceata-junilor-si-obiceiul-adusul-fagului-si-ridicatul-fetelor-la-sadu-24-decembrie-2025/",
-      "summary": "Aceasta stire Ceata Junilor și obiceiul Adusul Fagului și „Ridicatul Fetelor” la Sadu, 24 decembrie 2025 apare prima oara pe Primarii de la A la Z . Source Aceasta stire Ceata Junilor și obiceiul Adusul Fagului și „Ridicatul Fetelor” la Sadu, 24 decembrie 2025 apare prima oara pe Primarii de la A la Z .",
-      "published": "2026-01-05T15:31:18+00:00",
-      "published_human": "2026-01-05T15:31",
-      "source": "https://1az.ro/"
-    },
-    {
-      "title": "Concertul de colinde „Hristos Se Naște, Slăviți-l”, decembrie 2025",
-      "link": "https://1az.ro/concertul-de-colinde-hristos-se-naste-slaviti-l-decembrie-2025/",
-      "summary": "Aceasta stire Concertul de colinde „Hristos Se Naște, Slăviți-l”, decembrie 2025 apare prima oara pe Primarii de la A la Z . Source Aceasta stire Concertul de colinde „Hristos Se Naște, Slăviți-l”, decembrie 2025 apare prima oara pe Primarii de la A la Z .",
-      "published": "2026-01-05T15:26:00+00:00",
-      "published_human": "2026-01-05T15:26",
       "source": "https://1az.ro/"
     }
   ],
