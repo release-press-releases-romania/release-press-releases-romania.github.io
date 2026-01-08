@@ -7,7 +7,7 @@
     "rss": "https://1az.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-01-08T21:48:52.267358+00:00",
+  "updated_at": "2026-01-08T22:53:26.944297+00:00",
   "status": "ok",
   "items": [
     {
@@ -32,6 +32,14 @@
       "summary": "Aceasta stire Certificate de Urbanism decembrie 2025 apare prima oara pe Primarii de la A la Z . Certificate de Urbanism decembrie 2025 Source Aceasta stire Certificate de Urbanism decembrie 2025 apare prima oara pe Primarii de la A la Z .",
       "published": "2026-01-08T10:45:07+00:00",
       "published_human": "2026-01-08T10:45",
+      "source": "https://1az.ro/"
+    },
+    {
+      "title": "Anunț examen promovare nr 46 din 08.01.2026",
+      "link": "https://1az.ro/anunt-examen-promovare-nr-46-din-08-01-2026/",
+      "summary": "Aceasta stire Anunț examen promovare nr 46 din 08.01.2026 apare prima oara pe Primarii de la A la Z . Anunț examen promovare nr 46-08.01.2026 Documente necesare Formular de înscriere la etapa de selecție Source Aceasta stire Anunț examen promovare nr 46 din 08.01.2026 apare prima oara pe Primarii de la A la Z .",
+      "published": "2026-01-08T09:59:07+00:00",
+      "published_human": "2026-01-08T09:59",
       "source": "https://1az.ro/"
     },
     {
@@ -96,14 +104,6 @@
       "summary": "Aceasta stire PLAN OPERATIV 2025-2026 apare prima oara pe Primarii de la A la Z . SVSUDescarcă Source Aceasta stire PLAN OPERATIV 2025-2026 apare prima oara pe Primarii de la A la Z .",
       "published": "2026-01-08T07:43:27+00:00",
       "published_human": "2026-01-08T07:43",
-      "source": "https://1az.ro/"
-    },
-    {
-      "title": "HCL nr. 35/19.12.2025",
-      "link": "https://1az.ro/hcl-nr-35-19-12-2025/",
-      "summary": "Aceasta stire HCL nr. 35/19.12.2025 apare prima oara pe Primarii de la A la Z . HCLDescarcă Source Aceasta stire HCL nr. 35/19.12.2025 apare prima oara pe Primarii de la A la Z .",
-      "published": "2026-01-08T07:40:39+00:00",
-      "published_human": "2026-01-08T07:40",
       "source": "https://1az.ro/"
     }
   ],
