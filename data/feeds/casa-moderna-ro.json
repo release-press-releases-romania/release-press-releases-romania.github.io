@@ -7,9 +7,17 @@
     "rss": "https://casa-moderna.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-01-09T11:46:46.831331+00:00",
+  "updated_at": "2026-01-09T15:01:42.180068+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Probleme frecvente care fac ca porțile să nu se închidă corect",
+      "link": "https://casa-moderna.ro/probleme-frecvente-care-fac-ca-portile-sa-nu-se-inchida-corect/",
+      "summary": "Porțile de la intrare, fie că sunt la curte sau la garaj, sunt mai mult decât un simplu element estetic.&#8230; Articolul Probleme frecvente care fac ca porțile să nu se închidă corect apare prima dată în Casa Moderna .",
+      "published": "2026-01-09T13:51:13+00:00",
+      "published_human": "2026-01-09T13:51",
+      "source": "https://casa-moderna.ro/"
+    },
     {
       "title": "Open Graph și preview: cum arată linkurile WordPress pe Mastodon",
       "link": "https://casa-moderna.ro/open-graph-si-preview-cum-arata-linkurile-wordpress-pe-mastodon/",
@@ -96,14 +104,6 @@
       "summary": "Livingul este, fără îndoială, camera din casă în care au loc reuniunile familiale, dar şi întâlnirile cu prietenii. Este o&#8230; Articolul Căldură instant și stil: șemineele electrice la reducere transformă orice living apare prima dată în Casa Moderna .",
       "published": "2025-11-06T14:23:49+00:00",
       "published_human": "2025-11-06T14:23",
-      "source": "https://casa-moderna.ro/"
-    },
-    {
-      "title": "Curățenie la domiciliu în Oradea cu produse ecologice sigur pentru copii și animale",
-      "link": "https://casa-moderna.ro/curatenie-la-domiciliu-in-oradea-cu-produse-ecologice-sigur-pentru-copii-si-animale/",
-      "summary": "Vă simțiți copleșiți de praful persistent și de rutina obositoare a întreținerii casei? Viața modernă în Oradea este dinamică. Timpul&#8230; Articolul Curățenie la domiciliu în Oradea cu produse ecologice sigur pentru copii și animale apare prima dată în Casa Moderna .",
-      "published": "2025-10-01T08:15:26+00:00",
-      "published_human": "2025-10-01T08:15",
       "source": "https://casa-moderna.ro/"
     }
   ],
