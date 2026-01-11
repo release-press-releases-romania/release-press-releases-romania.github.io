@@ -7,8 +7,89 @@
     "rss": "https://5th.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-01-11T10:55:30.854270+00:00",
-  "status": "empty",
-  "items": [],
+  "updated_at": "2026-01-11T14:52:46.673126+00:00",
+  "status": "ok",
+  "items": [
+    {
+      "title": "Mastodon România: ce este, cum funcționează și de unde începi",
+      "link": "https://5th.ro/mastodon-romania/",
+      "summary": "Mastodon România • fediverse • comunitate Pe scurt: Mastodon este o rețea socială decentralizată, formată din multe servere (numite “instanțe”) care comunică între ele. Îți faci cont pe o instanță, dar poți urmări oameni din toată rețeaua. Dacă vrei un punct de start simplu pentru România, poți intra pe social.5th.ro. Feed-ul e, de regulă, mai Articolul Mastodon România: ce este, cum funcționează și de unde începi apare prima dată în 5th.ro – Social Media Mastodon Instance .",
+      "published": "2025-12-16T14:40:19+00:00",
+      "published_human": "2025-12-16T14:40",
+      "source": "https://5th.ro/"
+    },
+    {
+      "title": "Mastodon All-In-One WordPress Plugin has a new release: version 1.7.1",
+      "link": "https://5th.ro/mastodon-all-in-one-wordpress-plugin-has-a-new-release-version-1-7-1/",
+      "summary": "5th Social Bot (also known as the Mastodon All-In-One WordPress Plugin) has a new release: version 1.7.1. This update focuses on what matters most when you automate social distribution from WordPress to the Fediverse: flexibility (any Mastodon instance), visibility (clear connection status + analytics improvements), reliability (dynamic instance handling across API calls), and security (stronger Articolul Mastodon All-In-One WordPress Plugin has a new release: version 1.7.1 apare prima dată în 5th.ro – Social Media Mastodon Instance .",
+      "published": "2025-12-14T15:45:30+00:00",
+      "published_human": "2025-12-14T15:45",
+      "source": "https://5th.ro/"
+    },
+    {
+      "title": "Share on Mastodon – WordPress plugin",
+      "link": "https://5th.ro/share-on-mastodon-wordpress-plugin-en/",
+      "summary": "Share on Mastodon WordPress plugin: how to auto-share your WordPress posts to Mastodon (without copy/paste) If you run a WordPress site, you already know the routine: publish an article, then open your social tabs, write a short teaser, paste the link, add a couple of hashtags… and repeat. It works, but it’s repetitive, easy to Articolul Share on Mastodon &#8211; WordPress plugin apare prima dată în 5th.ro – Social Media Mastodon Instance .",
+      "published": "2025-12-13T10:06:59+00:00",
+      "published_human": "2025-12-13T10:06",
+      "source": "https://5th.ro/"
+    },
+    {
+      "title": "Mastodon All In One WordPress Plugin (5th Social Bot): the “publish once, share everywhere” workflow for Mastodon",
+      "link": "https://5th.ro/mastodon-all-in-one-wordpress-plugin-5th-social-bot-en/",
+      "summary": "Publishing on WordPress is the easy part. The annoying part is what comes right after: opening social tabs, rewriting the same teaser, copying the link, adding hashtags… and doing it again tomorrow. Mastodon All In One WordPress Plugin (also known as 5th Social Bot) is built to remove that friction. It connects your WordPress site Articolul Mastodon All In One WordPress Plugin (5th Social Bot): the “publish once, share everywhere” workflow for Mastodon apare prima dată în 5th.ro – Social Media Mastodon Instance .",
+      "published": "2025-12-13T09:40:02+00:00",
+      "published_human": "2025-12-13T09:40",
+      "source": "https://5th.ro/"
+    },
+    {
+      "title": "Mastodon All In One WordPress Plugin: cum conectezi WordPress cu Mastodon, fără postat manual",
+      "link": "https://5th.ro/mastodon-all-in-one-wordpress-plugin-cum-conectezi-wordpress-cu-mastodon-fara-postat-manual/",
+      "summary": "Dacă publici des pe WordPress, știi rutina: ai apăsat „Publică”, apoi începe turul pe social media. Mai un tab, mai un copy-paste, mai un text scurt, mai niște hashtag-uri. Uneori o faci imediat. Alteori uiți, iar articolul rămâne „doar pe site”. Mastodon All In One WordPress Plugin (cunoscut ca 5th Social Bot) e genul de Articolul Mastodon All In One WordPress Plugin: cum conectezi WordPress cu Mastodon, fără postat manual apare prima dată în 5th.ro – Social Media Mastodon Instance .",
+      "published": "2025-12-13T09:28:37+00:00",
+      "published_human": "2025-12-13T09:28",
+      "source": "https://5th.ro/"
+    },
+    {
+      "title": "Instanță Mastodon publică sau privată? Cum alegi serverul potrivit pentru tine",
+      "link": "https://5th.ro/instanta-mastodon-publica-privata-cum-alegi/",
+      "summary": "Ce este o instanță Mastodon O instanță Mastodon este un server independent care face parte din fediverse. Deși toate folosesc același software, experiența poate fi foarte diferită în funcție de regulile instanței. Ce înseamnă o instanță Mastodon publică O instanță publică permite: Avantaje: Dezavantaje: Ce înseamnă o instanță Mastodon privată O instanță privată sau semi-privată: Articolul Instanță Mastodon publică sau privată? Cum alegi serverul potrivit pentru tine apare prima dată în 5th.ro – Social Media Mastodon Instance .",
+      "published": "2025-12-13T08:59:13+00:00",
+      "published_human": "2025-12-13T08:59",
+      "source": "https://5th.ro/"
+    },
+    {
+      "title": "Ce este Mastodon și cum funcționează fediverse-ul – alternativa reală la rețelele sociale clasice",
+      "link": "https://5th.ro/ce-este-mastodon-cum-functioneaza-fediverse/",
+      "summary": "Ce este Mastodon Mastodon este o rețea socială descentralizată, open-source, care funcționează diferit față de platformele clasice precum Facebook sau X (Twitter). Nu există un server central care controlează tot conținutul. În schimb, Mastodon este format din mii de instanțe independente, fiecare cu propriile reguli, dar interconectate prin fediverse. Ce înseamnă fediverse Fediverse este o Articolul Ce este Mastodon și cum funcționează fediverse-ul – alternativa reală la rețelele sociale clasice apare prima dată în 5th.ro – Social Media Mastodon Instance .",
+      "published": "2025-12-13T08:42:32+00:00",
+      "published_human": "2025-12-13T08:42",
+      "source": "https://5th.ro/"
+    },
+    {
+      "title": "social.5th.ro – Mastodon Instance in Romania for Free Speech, Bots, and Minimal Moderation",
+      "link": "https://5th.ro/mastodon-instance-romania/",
+      "summary": "What is social.5th.ro social.5th.ro is a Mastodon instance hosted in Romania and operated by SC ARC MEDIASOFT SRL. It was created as a free discussion space with no hidden algorithms, no engagement manipulation, and no aggressive tracking. It is part of the fediverse, a decentralized network of thousands of interconnected servers. Why a Mastodon instance Articolul social.5th.ro – Mastodon Instance in Romania for Free Speech, Bots, and Minimal Moderation apare prima dată în 5th.ro – Social Media Mastodon Instance .",
+      "published": "2025-12-13T01:37:02+00:00",
+      "published_human": "2025-12-13T01:37",
+      "source": "https://5th.ro/"
+    },
+    {
+      "title": "social.5th.ro – Instanță Mastodon din România pentru free speech, bots și moderare minimă",
+      "link": "https://5th.ro/instanta-mastodon-romania/",
+      "summary": "Ce este social.5th.ro social.5th.ro este o instanță Mastodon găzduită în România, operată de SC ARC MEDIASOFT SRL, creată ca un spațiu de discuție liber, fără algoritmi ascunși, fără manipulare de engagement și fără tracking agresiv. Spre deosebire de rețelele sociale centralizate, Mastodon funcționează descentralizat, iar social.5th.ro face parte din fediverse, o rețea globală de mii Articolul social.5th.ro – Instanță Mastodon din România pentru free speech, bots și moderare minimă apare prima dată în 5th.ro – Social Media Mastodon Instance .",
+      "published": "2025-12-13T01:32:21+00:00",
+      "published_human": "2025-12-13T01:32",
+      "source": "https://5th.ro/"
+    },
+    {
+      "title": "Mastodon All-in-One Plugin for WordPress Launches Alongside a Romanian Mastodon Instance",
+      "link": "https://5th.ro/mastodon-all-in-one-plugin-for-wordpress-launches-alongside-a-romanian-mastodon-instance/",
+      "summary": "The initiative addresses the growing demand for decentralized communication infrastructure and open-source social media alternatives. Romanian Mastodon Instance Joins the Global Fediverse The newly launched Romanian Mastodon instance&#160;allows users to create accounts, publish content, and interact with other Mastodon servers worldwide through federation. Mastodon operates as a decentralized social network composed of independently hosted servers, Articolul Mastodon All-in-One Plugin for WordPress Launches Alongside a Romanian Mastodon Instance apare prima dată în 5th.ro – Social Media Mastodon Instance .",
+      "published": "2025-12-13T01:06:13+00:00",
+      "published_human": "2025-12-13T01:06",
+      "source": "https://5th.ro/"
+    }
+  ],
   "social": []
 }
