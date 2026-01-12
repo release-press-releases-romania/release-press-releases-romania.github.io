@@ -4,13 +4,13 @@
     "name": "Banat News",
     "url": "https://banat-news.ro/",
     "category": "News & Society",
-    "rss": "https://banat-news.ro/feed/"
+    "rss": "https://banat-news.ro/?feed=rss2"
   },
   "mastodon": {
     "url": "https://social.5th.ro/@banat",
     "rss": "https://social.5th.ro/@banat.rss"
   },
-  "updated_at": "2026-01-12T19:03:05.152185+00:00",
+  "updated_at": "2026-01-12T19:44:39.230561+00:00",
   "status": "ok",
   "items": [
     {
