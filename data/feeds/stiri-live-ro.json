@@ -7,9 +7,17 @@
     "rss": "https://stiri-live.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-01-12T17:03:43.309996+00:00",
+  "updated_at": "2026-01-12T17:48:57.272086+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Ce recomandă psihologii pentru cadourile copiilor",
+      "link": "https://stiri-live.ro/ce-recomanda-psihologii-pentru-cadourile-copiilor/",
+      "summary": "Perioadele de sărbători sau aniversările devin adesea surse de stres pentru părinții care încearcă să navigheze prin oferta copleșitoare. Articolul Ce recomandă psihologii pentru cadourile copiilor apare prima dată în Stiri Live .",
+      "published": "2026-01-12T17:06:48+00:00",
+      "published_human": "2026-01-12T17:06",
+      "source": "https://stiri-live.ro/"
+    },
     {
       "title": "Mastodon România pentru antreprenori: cum comunici autentic",
       "link": "https://stiri-live.ro/mastodon-romania-pentru-antreprenori-cum-comunici-autentic/",
@@ -96,14 +104,6 @@
       "summary": "Răzvan Oprea, actor, regizor și formator, lansează un atelier gratuit, de creație colectivă, dedicat celor care vor să exploreze. Articolul De la quantum training la scenă: Răzvan Oprea, actor și regizor apare prima dată în Stiri Live .",
       "published": "2025-09-24T04:55:53+00:00",
       "published_human": "2025-09-24T04:55",
-      "source": "https://stiri-live.ro/"
-    },
-    {
-      "title": "Excursii cu barca Lunca – plimbări pentru familii cu copii",
-      "link": "https://stiri-live.ro/excursii-cu-barca-lunca-plimbari-pentru-familii-cu-copii/",
-      "summary": "Vrei o aventură de neuitat în inima Deltei Dunării? Imaginează-ți soarele cald pe față, briza mării și peisaje impresionante.. Articolul Excursii cu barca Lunca – plimbări pentru familii cu copii apare prima dată în Stiri Live .",
-      "published": "2025-09-03T23:59:36+00:00",
-      "published_human": "2025-09-03T23:59",
       "source": "https://stiri-live.ro/"
     }
   ],
