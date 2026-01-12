@@ -7,9 +7,17 @@
     "rss": "https://case-verzi.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-01-12T11:47:18.713572+00:00",
+  "updated_at": "2026-01-12T13:57:46.478277+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Certificatul energetic și standardele NZEB pentru clădiri noi",
+      "link": "https://case-verzi.ro/certificatul-energetic-si-standardele-nzeb-pentru-cladiri-noi/",
+      "summary": "Certificatul de performanță energetică a evoluat de la un simplu document administrativ la un instrument esențial în evaluarea și tranzacționarea imobilelor din România. În contextul reglementărilor europene din ce în&#8230; Articolul Certificatul energetic și standardele NZEB pentru clădiri noi apare prima dată în Case Verzi .",
+      "published": "2026-01-12T12:26:23+00:00",
+      "published_human": "2026-01-12T12:26",
+      "source": "https://case-verzi.ro/"
+    },
     {
       "title": "Mastodon WordPress plugin: cum eviți postările duplicate",
       "link": "https://case-verzi.ro/mastodon-wordpress-plugin-cum-eviti-postarile-duplicate/",
@@ -80,14 +88,6 @@
       "summary": "V-ați simțit vreodată stresați în loc să vă relaxați atunci când jucați jocul preferat? Mulți jucători cad în capcana de a miza sume prea mari. Astfel, transformă divertismentul într-o sursă&#8230; Articolul Alegerea jocurilor cu miză mică: mai mult divertisment, mai puțin stres apare prima dată în Case Verzi .",
       "published": "2025-11-14T09:07:58+00:00",
       "published_human": "2025-11-14T09:07",
-      "source": "https://case-verzi.ro/"
-    },
-    {
-      "title": "SEO pentru pagini cu video: cum combini YouTube, embed și textul de susținere",
-      "link": "https://case-verzi.ro/seo-pentru-pagini-cu-video-cum-combini-youtube-embed-si-textul-de-sustinere/",
-      "summary": "Ai creat un material video excelent. Ai investit timp, efort și resurse considerabile în el. Totuși, te confrunți cu o problemă frecventă: de ce nu aduce acest clip trafic organic&#8230; Articolul SEO pentru pagini cu video: cum combini YouTube, embed și textul de susținere apare prima dată în Case Verzi .",
-      "published": "2025-11-14T07:32:14+00:00",
-      "published_human": "2025-11-14T07:32",
       "source": "https://case-verzi.ro/"
     }
   ],
