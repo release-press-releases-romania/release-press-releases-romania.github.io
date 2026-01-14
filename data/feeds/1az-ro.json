@@ -7,7 +7,7 @@
     "rss": "https://1az.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-01-14T22:54:07.658781+00:00",
+  "updated_at": "2026-01-14T23:44:55.595501+00:00",
   "status": "ok",
   "items": [
     {
@@ -16,6 +16,14 @@
       "summary": "Aceasta stire Publicație 14.01.2026 apare prima oara pe Primarii de la A la Z . Source Aceasta stire Publicație 14.01.2026 apare prima oara pe Primarii de la A la Z .",
       "published": "2026-01-14T17:05:16+00:00",
       "published_human": "2026-01-14T17:05",
+      "source": "https://1az.ro/"
+    },
+    {
+      "title": "Vânzări terenuri",
+      "link": "https://1az.ro/vanzari-terenuri/",
+      "summary": "Aceasta stire Vânzări terenuri apare prima oara pe Primarii de la A la Z . Vânzare extravilan &#8211; Stoi Constantin Proces-verbal de afișare pentru preemptorii cu domiciliul sau sediul necunoscut Source Aceasta stire Vânzări terenuri apare prima oara pe Primarii de la A la Z .",
+      "published": "2026-01-14T12:34:17+00:00",
+      "published_human": "2026-01-14T12:34",
       "source": "https://1az.ro/"
     },
     {
@@ -96,14 +104,6 @@
       "summary": "Aceasta stire #SânnicolauEMare din 12.01.2026 apare prima oara pe Primarii de la A la Z . #SânnicolauEMare din 12.01.2026 Post-ul #SânnicolauEMare din 12.01.2026 apare prima dată în Primaria Sannicolau Mare. Source Aceasta stire #SânnicolauEMare din 12.01.2026 apare prima oara pe Primarii de la A la Z .",
       "published": "2026-01-13T22:15:09+00:00",
       "published_human": "2026-01-13T22:15",
-      "source": "https://1az.ro/"
-    },
-    {
-      "title": "Dana Hering : Acesti parlamentari plecati de la AUR/SOS/POT cu rol de a depune motiuni pe banda rulanta impotriva ministrilor USR",
-      "link": "https://1az.ro/dana-hering-acesti-parlamentari-plecati-de-la-aur-sos-pot-cu-rol-de-a-depune-motiuni-pe-banda-rulanta-impotriva-ministrilor-usr/",
-      "summary": "Aceasta stire Dana Hering : Acesti parlamentari plecati de la AUR/SOS/POT cu rol de a depune motiuni pe banda rulanta impotriva ministrilor USR apare prima oara pe Primarii de la A la Z . Am zis sa explicam lumii cine sunt acesti parlamentari plecati de la AUR/SOS/POT si constituie acum grupul PACE, cu rol de a depune motiuni pe banda rulanta, desigur, doar impotriva ministrilor USR. Liderul grupului e Dorin Silviu- Petrea intrat in parlament pe listele SOS si exclus din partid, alături de Nadia-Cosmina Cerva și Clement Sava. [&#8230;] Aceasta stire Dana Hering : Acesti parlamentari plecati de la AUR/SOS/POT cu rol de a depune motiuni pe banda rulanta impotriva ministrilor USR apare prima oara pe Primarii de la A la Z .",
-      "published": "2026-01-13T21:21:53+00:00",
-      "published_human": "2026-01-13T21:21",
       "source": "https://1az.ro/"
     }
   ],
