@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@brasov",
     "rss": "https://social.5th.ro/@brasov.rss"
   },
-  "updated_at": "2026-01-14T11:48:55.526333+00:00",
+  "updated_at": "2026-01-14T13:56:08.761530+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Brașov: Problemele zilnice uitate. Conducerea, obsedată de FOTE. Prioritățile Primăriei în următorii doi ani.",
+      "link": "https://brasov-azi.ro/brasov-problemele-zilnice-uitate-conducerea-obsedata-de-fote-prioritatile-primariei-in-urmatorii-doi-ani/",
+      "summary": "Echilibrul Fragil: Prioritățile Brașovului Între Problemele Curente și FOTE 2027 În timp ce municipiul Brașov se confruntă cu o serie de dificultăți cotidiene tot mai vizibile – de la probleme nerezolvate de gestionare a zăpezii și mizeria persistentă în jurul... Articolul Brașov: Problemele zilnice uitate. Conducerea, obsedată de FOTE. Prioritățile Primăriei în următorii doi ani. apare prima dată în Brasov AZI .",
+      "published": "2026-01-14T13:01:09+00:00",
+      "published_human": "2026-01-14T13:01",
+      "source": "https://brasov-azi.ro/"
+    },
     {
       "title": "Mastodon WordPress: cum adaugi hashtaguri automat din tagurile WP",
       "link": "https://brasov-azi.ro/mastodon-wordpress-cum-adaugi-hashtaguri-automat-din-tagurile-wp/",
@@ -100,17 +108,17 @@
       "published": "2025-09-12T09:56:27+00:00",
       "published_human": "2025-09-12T09:56",
       "source": "https://brasov-azi.ro/"
-    },
-    {
-      "title": "Poarta Ecaterinei – Brașov: istorie completă, acces 2025, cum ajungi, ce vezi",
-      "link": "https://brasov-azi.ro/poarta-ecaterinei-brasov/",
-      "summary": "Poarta Ecaterinei (Catherine’s Gate) este cea mai pitorească intrare medievală păstrată în Brașov – o poartă renascentistă cu patru turnulețe, ridicată la mijlocul secolului al XVI-lea, lângă actuala Poarta Șchei. Azi, treci pe sub ea spre cartierul istoric Șcheii Brașovului,... Articolul Poarta Ecaterinei – Brașov: istorie completă, acces 2025, cum ajungi, ce vezi apare prima dată în Brasov AZI .",
-      "published": "2025-09-12T09:46:27+00:00",
-      "published_human": "2025-09-12T09:46",
-      "source": "https://brasov-azi.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@brasov/115893578624117071",
+      "summary": "Echilibrul Fragil: Prioritățile Brașovului Între Problemele Curente și FOTE 2027 În timp ce municipiul Brașov se confruntă cu o serie de dificultăți cotidiene tot mai vizibile – de la probleme nerezolvate de gestionare a zăpezii și mizeria persistentă în jurul zonelor de colectare a deșeurilor, la nemulțumirile provocate de majorarea taxelor locale – primarul George… https:// brasov-azi.ro/brasov-problemel e-zilnice-uitate-conducerea-obsedata-de-fote-prioritatile-primariei-in-urmatorii-doi-ani/",
+      "published": "2026-01-14T13:01:09+00:00",
+      "published_human": "2026-01-14T13:01",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@brasov/115736902188992716",
