@@ -7,9 +7,17 @@
     "rss": "https://sanatate-mentala.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-01-16T11:48:02.854600+00:00",
+  "updated_at": "2026-01-16T13:53:02.292020+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Pe site-ul psihologului Daniel Ivan găsești susținere când ai probleme emoționale",
+      "link": "https://sanatate-mentala.ro/pe-site-ul-psihologului-daniel-ivan-gasesti-sustinere-cand-ai-probleme-emotionale/",
+      "summary": "În momente dificile ale vieții susținerea familiei și a prietenilor este deosebit de importantă. Aceștia... Articolul Pe site-ul psihologului Daniel Ivan găsești susținere când ai probleme emoționale apare prima dată în Sanatate Mentala .",
+      "published": "2026-01-16T13:23:18+00:00",
+      "published_human": "2026-01-16T13:23",
+      "source": "https://sanatate-mentala.ro/"
+    },
     {
       "title": "Cultura conversației în Mastodon România: cum e diferit față de Facebook",
       "link": "https://sanatate-mentala.ro/cultura-conversatiei-in-mastodon-romania-cum-e-diferit-fata-de-facebook/",
@@ -96,14 +104,6 @@
       "summary": "Vrei să-ți lansezi o campanie de advertoriale și te întrebi cum să-ți planifici bugetul SEO?... Articolul Estimare buget pentru 3 luni de campanii cu advertoriale apare prima dată în Sanatate Mentala .",
       "published": "2025-08-14T07:15:29+00:00",
       "published_human": "2025-08-14T07:15",
-      "source": "https://sanatate-mentala.ro/"
-    },
-    {
-      "title": "Metastaze hepatice",
-      "link": "https://sanatate-mentala.ro/metastaze-hepatice/",
-      "summary": "/tmp/wp_restore_fbe38695.html Articolul Metastaze hepatice apare prima dată în Sanatate Mentala .",
-      "published": "2025-08-13T05:17:06+00:00",
-      "published_human": "2025-08-13T05:17",
       "source": "https://sanatate-mentala.ro/"
     }
   ],
