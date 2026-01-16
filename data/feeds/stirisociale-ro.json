@@ -4,13 +4,13 @@
     "name": "Stirisociale",
     "url": "https://stirisociale.ro/",
     "category": "News & Society",
-    "rss": "https://stirisociale.ro/feed/"
+    "rss": "https://stirisociale.ro/?feed=rss2"
   },
   "mastodon": {
     "url": "https://social.5th.ro/@stiri_sociale",
     "rss": "https://social.5th.ro/@stiri_sociale.rss"
   },
-  "updated_at": "2026-01-16T22:50:54.110620+00:00",
+  "updated_at": "2026-01-16T23:46:24.230755+00:00",
   "status": "ok",
   "items": [
     {
