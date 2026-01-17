@@ -4,10 +4,10 @@
     "name": "Excursie Delta",
     "url": "https://excursie-delta.ro/",
     "category": "Tourism & Delta",
-    "rss": "https://excursie-delta.ro/feed/"
+    "rss": "https://excursie-delta.ro/?feed=rss2"
   },
   "mastodon": null,
-  "updated_at": "2026-01-17T15:37:23.029776+00:00",
+  "updated_at": "2026-01-17T16:42:36.163582+00:00",
   "status": "ok",
   "items": [
     {
