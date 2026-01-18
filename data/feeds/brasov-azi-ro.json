@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@brasov",
     "rss": "https://social.5th.ro/@brasov.rss"
   },
-  "updated_at": "2026-01-18T15:37:46.779077+00:00",
+  "updated_at": "2026-01-18T16:43:48.647625+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Brașovul, paralizat de ger sever. Salvamontiștii cer turiștilor să își planifice deplasările cu maximă prudență",
+      "link": "https://brasov-azi.ro/brasovul-paralizat-de-ger-sever-salvamontistii-cer-turistilor-sa-isi-planifice-deplasarile-cu-maxima-prudenta/",
+      "summary": "Se anunță zile extrem de reci în județul Brașov! Administrația Națională de Meteorologie (ANM) a emis mai multe avertizări Cod Galben, valabile în perioada 18 ianuarie, ora 10:00, până pe 20 ianuarie, ora 10:00, care vizează un val de ger... Articolul Brașovul, paralizat de ger sever. Salvamontiștii cer turiștilor să își planifice deplasările cu maximă prudență apare prima dată în Brasov AZI .",
+      "published": "2026-01-18T15:45:42+00:00",
+      "published_human": "2026-01-18T15:45",
+      "source": "https://brasov-azi.ro/"
+    },
     {
       "title": "Investiție de 1 milion de lei la Spitalul de Copii Brașov pentru reducerea riscului de infecții nosocomiale",
       "link": "https://brasov-azi.ro/investitie-de-1-milion-de-lei-la-spitalul-de-copii-brasov-pentru-reducerea-riscului-de-infectii-nosocomiale/",
@@ -100,17 +108,17 @@
       "published": "2026-01-16T23:34:06+00:00",
       "published_human": "2026-01-16T23:34",
       "source": "https://brasov-azi.ro/"
-    },
-    {
-      "title": "Bent Dahl, noul antrenor al echipei Corona Brașov; Mariana Tîrcă devine director tehnic",
-      "link": "https://brasov-azi.ro/bent-dahl-noul-antrenor-al-echipei-corona-brasov-mariana-tirca-devine-director-tehnic/",
-      "summary": "Clubul de handbal feminin Corona Brașov a anunțat oficial schimbări majore la nivelul băncii tehnice și al conducerii administrative, mutări care vor intra în vigoare începând cu următoarea stagiune competițională. Aceste numiri vizează consolidarea echipei în Liga Națională, aducând la... Articolul Bent Dahl, noul antrenor al echipei Corona Brașov; Mariana Tîrcă devine director tehnic apare prima dată în Brasov AZI .",
-      "published": "2026-01-16T23:16:14+00:00",
-      "published_human": "2026-01-16T23:16",
-      "source": "https://brasov-azi.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@brasov/115916874862421108",
+      "summary": "Se anunță zile extrem de reci în județul Brașov! Administrația Națională de Meteorologie (ANM) a emis mai multe avertizări Cod Galben, valabile în perioada 18 ianuarie, ora 10:00, până pe 20 ianuarie, ora 10:00, care vizează un val de ger sever. Acest episod de vreme deosebit de rece va afecta cel mai mult zona montană… https:// brasov-azi.ro/brasovul-paraliz at-de-ger-sever-salvamontistii-cer-turistilor-sa-isi-planifice-deplasarile-cu-maxima-prudenta/",
+      "published": "2026-01-18T15:45:42+00:00",
+      "published_human": "2026-01-18T15:45",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@brasov/115915300350529876",
@@ -197,14 +205,6 @@
       "summary": "A început un proiect important de modernizare a infrastructurii școlare în zona Brașovul Vechi. Grădinița situată pe strada Câmpului a intrat în faza de lucrări, având ca scop extinderea și mansardarea clădirii existente. Această investiție majoră vine în sprijinul familiilor din zonă, deoarece va permite dublarea numărului de locuri disponibile pentru preșcolari. Necesitatea unui https:// brasov-azi.ro/lucrari-la-gradi nita-din-brasovul-vechi-capacitatea-se-dubleaza-prin-mansardare-si-extindere/",
       "published": "2026-01-16T23:34:06+00:00",
       "published_human": "2026-01-16T23:34",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@brasov/115907321858324024",
-      "summary": "Clubul de handbal feminin Corona Brașov a anunțat oficial schimbări majore la nivelul băncii tehnice și al conducerii administrative, mutări care vor intra în vigoare începând cu următoarea stagiune competițională. Aceste numiri vizează consolidarea echipei în Liga Națională, aducând la Brașov atât experiență internațională, cât și nume emblematice ale handbalului românesc. Printre cele https:// brasov-azi.ro/bent-dahl-noul-a ntrenor-al-echipei-corona-brasov-mariana-tirca-devine-director-tehnic/",
-      "published": "2026-01-16T23:16:15+00:00",
-      "published_human": "2026-01-16T23:16",
       "source": "Mastodon"
     }
   ]
