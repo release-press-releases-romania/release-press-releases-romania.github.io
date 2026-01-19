@@ -7,9 +7,17 @@
     "rss": "https://stiri-live.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-01-19T13:14:43.206205+00:00",
+  "updated_at": "2026-01-19T13:56:54.481219+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "De la mic dejun la gustări",
+      "link": "https://stiri-live.ro/de-la-mic-dejun-la-gustari/",
+      "summary": "Mixit oferă peste 150 de produse vegane pentru un 2026 echilibrat La &#238;nceput de an, tot mai mulți oameni. Articolul De la mic dejun la gustări apare prima dată în Stiri Live .",
+      "published": "2026-01-19T11:46:47+00:00",
+      "published_human": "2026-01-19T11:46",
+      "source": "https://stiri-live.ro/"
+    },
     {
       "title": "Ce recomandă psihologii pentru cadourile copiilor",
       "link": "https://stiri-live.ro/ce-recomanda-psihologii-pentru-cadourile-copiilor/",
@@ -96,14 +104,6 @@
       "summary": "Soluția Premium pentru Curățenie la Domiciliu: De ce Oradea alege Calitatea Atenție: Vă simțiți copleșit de sarcinile zilnice? Vă. Articolul Curățenie la domiciliu în Oradea pachet premium cu detaliere pe camere apare prima dată în Stiri Live .",
       "published": "2025-10-01T08:16:55+00:00",
       "published_human": "2025-10-01T08:16",
-      "source": "https://stiri-live.ro/"
-    },
-    {
-      "title": "De la quantum training la scenă: Răzvan Oprea, actor și regizor",
-      "link": "https://stiri-live.ro/de-la-quantum-training-la-scena-razvan-oprea-actor-si-regizor/",
-      "summary": "Răzvan Oprea, actor, regizor și formator, lansează un atelier gratuit, de creație colectivă, dedicat celor care vor să exploreze. Articolul De la quantum training la scenă: Răzvan Oprea, actor și regizor apare prima dată în Stiri Live .",
-      "published": "2025-09-24T04:55:53+00:00",
-      "published_human": "2025-09-24T04:55",
       "source": "https://stiri-live.ro/"
     }
   ],
