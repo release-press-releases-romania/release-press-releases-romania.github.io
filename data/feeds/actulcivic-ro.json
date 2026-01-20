@@ -7,9 +7,17 @@
     "rss": "https://actulcivic.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-01-20T17:50:22.209848+00:00",
+  "updated_at": "2026-01-20T19:17:40.570184+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Târgul Educațional Mommy HAI revine pe 31 ianuarie, la Sala Palatului",
+      "link": "https://actulcivic.ro/targul-educational-mommy-hai-revine-pe-31-ianuarie-la-sala-palatului/",
+      "summary": "Târgul Educațional Mommy HAI revine pe 31 ianuarie, la Sala Palatului Mai mult Articolul Târgul Educațional Mommy HAI revine pe 31 ianuarie, la Sala Palatului apare prima dată în Actul Civic .",
+      "published": "2026-01-20T15:56:53+00:00",
+      "published_human": "2026-01-20T15:56",
+      "source": "https://actulcivic.ro/"
+    },
     {
       "title": "Mastodon România: ghid pentru moderatori și administratori de instanțe",
       "link": "https://actulcivic.ro/mastodon-romania-ghid-pentru-moderatori-si-administratori-de-instante/",
@@ -80,14 +88,6 @@
       "summary": "Ați simțit vreodată că eforturile dvs. de marketing nu reușesc să convingă clienții indeciși? Într-o piață digitală extrem de aglomerată, simpla prezență nu mai este suficientă. Consumatorii moderni sunt sceptici. Ei nu mai acordă aceeași valoare mesajelor publicitare clasice, oricât de bine ar fi ele realizate. Această neîncredere generalizată pune... Mai mult Articolul Review-uri și testimoniale optimizate SEO: conținut generat de utilizatori care ajută apare prima dată în Actul Civic .",
       "published": "2025-11-14T07:32:14+00:00",
       "published_human": "2025-11-14T07:32",
-      "source": "https://actulcivic.ro/"
-    },
-    {
-      "title": "Începe ROMANIAN ENERGY WEEK 2025!",
-      "link": "https://actulcivic.ro/incepe-romanian-energy-week-2025/",
-      "summary": "Începe ROMANIAN ENERGY WEEK 2025! 5 zile cu 5 teme relevante pentru sectorul energetic românesc Luni, 17 noiembrie, începe ROMANIAN ENERGY WEEK 2025! Descoperă idei, lideri și soluții la masa rotundă a viitorului energetic al României. Înscrie-te acum! Miniștrii Energiei, Economiei, Mediului, reprezentanți ai Cancelariei Prim-Ministrului, ai Departamentului de Dezvoltare... Mai mult Articolul Începe ROMANIAN ENERGY WEEK 2025! apare prima dată în Actul Civic .",
-      "published": "2025-11-13T15:24:24+00:00",
-      "published_human": "2025-11-13T15:24",
       "source": "https://actulcivic.ro/"
     }
   ],

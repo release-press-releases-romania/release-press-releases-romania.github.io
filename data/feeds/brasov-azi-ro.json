@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@brasov",
     "rss": "https://social.5th.ro/@brasov.rss"
   },
-  "updated_at": "2026-01-20T17:50:22.209848+00:00",
+  "updated_at": "2026-01-20T19:17:40.570184+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Schiorii evită Poiana Brașov și Predeal: Noile preferințe ale românilor pentru pârtiile montane",
+      "link": "https://brasov-azi.ro/schiorii-evita-poiana-brasov-si-predeal-noile-preferinte-ale-romanilor-pentru-partiile-montane/",
+      "summary": "Costurile de cazare în stațiunile montane au crescut în 2026, Poiana Brașov ajungând la 164€, determinând turiștii să aleagă destinații mai accesibile. Articolul Schiorii evită Poiana Brașov și Predeal: Noile preferințe ale românilor pentru pârtiile montane apare prima dată în Brasov AZI .",
+      "published": "2026-01-20T16:42:53+00:00",
+      "published_human": "2026-01-20T16:42",
+      "source": "https://brasov-azi.ro/"
+    },
     {
       "title": "Kinga Janurik, portarul de HANDBAL, va juca pentru Corona Brașov începând cu 2026",
       "link": "https://brasov-azi.ro/kinga-janurik-portarul-de-handbal-va-juca-pentru-corona-brasov-incepand-cu-2026/",
@@ -100,17 +108,17 @@
       "published": "2026-01-18T09:04:05+00:00",
       "published_human": "2026-01-18T09:04",
       "source": "https://brasov-azi.ro/"
-    },
-    {
-      "title": "Programul cultural al săptămânii 16–22 ianuarie în Brașov: lista completă de evenimente",
-      "link": "https://brasov-azi.ro/programul-cultural-al-saptamanii-16-22-ianuarie-in-brasov-lista-completa-de-evenimente/",
-      "summary": "Săptămâna aceasta, între 16 și 22 ianuarie 2026, Brașovul se animă cu o mulțime de evenimente culturale menite să ne scoată din rutina de iarnă. Instituțiile de cultură aflate sub tutela Consiliului Județean Brașov au pregătit un program divers, care... Articolul Programul cultural al săptămânii 16–22 ianuarie în Brașov: lista completă de evenimente apare prima dată în Brasov AZI .",
-      "published": "2026-01-18T08:53:54+00:00",
-      "published_human": "2026-01-18T08:53",
-      "source": "https://brasov-azi.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@brasov/115928901190939511",
+      "summary": "Costurile de cazare în stațiunile montane au crescut în 2026, Poiana Brașov ajungând la 164€, determinând turiștii să aleagă destinații mai accesibile. https:// brasov-azi.ro/schiorii-evita-p oiana-brasov-si-predeal-noile-preferinte-ale-romanilor-pentru-partiile-montane/",
+      "published": "2026-01-20T18:44:09+00:00",
+      "published_human": "2026-01-20T18:44",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@brasov/115928400268464831",
@@ -197,14 +205,6 @@
       "summary": "Se anunță zile extrem de reci în județul Brașov! Administrația Națională de Meteorologie (ANM) a emis mai multe avertizări Cod Galben, valabile în perioada 18 ianuarie, ora 10:00, până pe 20 ianuarie, ora 10:00, care vizează un val de ger sever. Acest episod de vreme deosebit de rece va afecta cel mai mult zona montană… https:// brasov-azi.ro/brasovul-paraliz at-de-ger-sever-salvamontistii-cer-turistilor-sa-isi-planifice-deplasarile-cu-maxima-prudenta/",
       "published": "2026-01-18T15:45:42+00:00",
       "published_human": "2026-01-18T15:45",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@brasov/115915300350529876",
-      "summary": "https:// brasov-azi.ro/investitie-de-1- milion-de-lei-la-spitalul-de-copii-brasov-pentru-reducerea-riscului-de-infectii-nosocomiale/",
-      "published": "2026-01-18T09:05:17+00:00",
-      "published_human": "2026-01-18T09:05",
       "source": "Mastodon"
     }
   ]
