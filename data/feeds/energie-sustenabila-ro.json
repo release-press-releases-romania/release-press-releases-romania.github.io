@@ -7,9 +7,17 @@
     "rss": "https://energie-sustenabila.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-01-21T15:52:54.736080+00:00",
+  "updated_at": "2026-01-21T17:32:40.460711+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Executivul elaborează Planul de Pregătire pentru a preveni Riscurile sistemice în sectorul energiei electrice",
+      "link": "https://energie-sustenabila.ro/executivul-elaboreaza-planul-de-pregatire-pentru-a-preveni-riscurile-sistemice-in-sectorul-energiei-electrice/",
+      "summary": "Ministerul Energiei a lansat Planul de Riscuri ce definește măsuri pentru a proteja populația și operatorii economici de impactul crizelor majore. Articolul Executivul elaborează Planul de Pregătire pentru a preveni Riscurile sistemice în sectorul energiei electrice apare prima dată în Energie Sustenabila .",
+      "published": "2026-01-21T14:19:16+00:00",
+      "published_human": "2026-01-21T14:19",
+      "source": "https://energie-sustenabila.ro/"
+    },
     {
       "title": "Strategia Comisiei Europene vizează construcția primelor centrale de fuziune pe continent",
       "link": "https://energie-sustenabila.ro/strategia-comisiei-europene-vizeaza-constructia-primelor-centrale-de-fuziune-pe-continent/",
@@ -80,14 +88,6 @@
       "summary": "Orice investiție în panouri solare începe cu promisiunea unor facturi mai mici. Însă, pentru a le obține, este necesară o instalare solidă și durabilă. Panourile, oricât de performante ar fi, depind de modul în care sunt fixate pe acoperiș sau pe sol, de felul în care rezistă la vânt, zăpadă și trecerea anilor. Structura pe... Mai mult &#8220;Șină aluminiu prinderi panouri solare fotovoltaice: baza oricărui sistem fotovoltaic durabil&#8221; &#187; Articolul Șină aluminiu prinderi panouri solare fotovoltaice: baza oricărui sistem fotovoltaic durabil apare prima dată în Energie Sustenabila .",
       "published": "2025-12-24T11:34:00+00:00",
       "published_human": "2025-12-24T11:34",
-      "source": "https://energie-sustenabila.ro/"
-    },
-    {
-      "title": "Mastodon pe mobil: aplicații recomandate și setări utile",
-      "link": "https://energie-sustenabila.ro/mastodon-pe-mobil-aplicatii-recomandate-si-setari-utile/",
-      "summary": "V-ați săturat de algoritmii agresivi, reclamele invazive și senzația constantă că sunteți manipulat pe rețelele sociale tradiționale? Nu sunteți singuri. Milioane de utilizatori caută o alternativă mai etică și mai orientată către comunitate. Vestea bună este că această alternativă există și funcționează excelent chiar pe dispozitivul dumneavoastră mobil. Această rețea socială descentralizată, cunoscută sub numele... Mai mult &#8220;Mastodon pe mobil: aplicații recomandate și setări utile&#8221; &#187; Articolul Mastodon pe mobil: aplicații recomandate și setări utile apare prima dată în Energie Sustenabila .",
-      "published": "2025-12-17T16:58:54+00:00",
-      "published_human": "2025-12-17T16:58",
       "source": "https://energie-sustenabila.ro/"
     }
   ],

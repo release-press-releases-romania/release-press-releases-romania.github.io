@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@ienergie",
     "rss": "https://social.5th.ro/@ienergie.rss"
   },
-  "updated_at": "2026-01-21T15:52:54.736080+00:00",
+  "updated_at": "2026-01-21T17:32:40.460711+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Executivul definește strategia de gestionare a crizelor și pregătire în domeniul electricității",
+      "link": "https://ienergie.ro/executivul-defineste-strategia-de-gestionare-a-crizelor-si-pregatire-in-domeniul-electricitatii/",
+      "summary": "Ministerul Energiei a inițiat PNPR pentru energie electrică, detaliind măsuri de prevenire a impactului a nouă riscuri majore identificate. Articolul Executivul definește strategia de gestionare a crizelor și pregătire în domeniul electricității apare prima dată în iEnergie .",
+      "published": "2026-01-21T14:19:17+00:00",
+      "published_human": "2026-01-21T14:19",
+      "source": "https://iEnergie.ro/"
+    },
     {
       "title": "Strategia Comisiei Europene vizează construcția primelor centrale de fuziune pe teritoriul Europei",
       "link": "https://ienergie.ro/strategia-comisiei-europene-vizeaza-constructia-primelor-centrale-de-fuziune-pe-teritoriul-europei/",
@@ -100,17 +108,17 @@
       "published": "2025-12-17T16:58:54+00:00",
       "published_human": "2025-12-17T16:58",
       "source": "https://iEnergie.ro/"
-    },
-    {
-      "title": "Republish & refresh: cum actualizezi advertorialele vechi în 2025",
-      "link": "https://ienergie.ro/republish-refresh-cum-actualizezi-advertorialele-vechi-in-2025/",
-      "summary": "Ați investit timp și resurse semnificative în crearea de advertoriale și articole. Aceste piese de conținut, odinioară puternice, stau acum prăfuite în arhivele site-ului dumneavoastră. [Mai mult...] Articolul Republish &#038; refresh: cum actualizezi advertorialele vechi în 2025 apare prima dată în iEnergie .",
-      "published": "2025-12-01T12:07:49+00:00",
-      "published_human": "2025-12-01T12:07",
-      "source": "https://iEnergie.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@ienergie/115934003997145292",
+      "summary": "Ministerul Energiei a inițiat PNPR pentru energie electrică, detaliind măsuri de prevenire a impactului a nouă riscuri majore identificate. https:// ienergie.ro/executivul-defines te-strategia-de-gestionare-a-crizelor-si-pregatire-in-domeniul-electricitatii/",
+      "published": "2026-01-21T16:21:52+00:00",
+      "published_human": "2026-01-21T16:21",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@ienergie/115931839768689163",
@@ -197,14 +205,6 @@
       "summary": "Peisajul rețelelor sociale se schimbă rapid. Multe companii caută alternative la platformele tradiționale, unde algoritmii și regulile sunt imprevizibile. Dacă sunteți în căutarea unui spațiu digital autentic și descentralizat, Mastodon a devenit o opțiune extrem de serioasă pentru profesioniști și afaceri. Diferența dintre succes și eșec pe Fediverse stă în modul în care îți stabilești… https:// ienergie.ro/cont-personal-vs-c ont-business-pe-mastodon-ce-alegi/",
       "published": "2025-12-17T20:18:39+00:00",
       "published_human": "2025-12-17T20:18",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@ienergie/115695034118172105",
-      "summary": "Ați investit timp și resurse semnificative în crearea de advertoriale și articole. Aceste piese de conținut, odinioară puternice, stau acum prăfuite în arhivele site-ului dumneavoastră. Știați că peste 60% din conținutul publicat începe să piardă din vizibilitate după doar un an? (Atenție) Vă confruntați cu scăderea lentă, dar sigură, a pozițiilor în Google și o… https:// ienergie.ro/republish-refresh- cum-actualizezi-advertorialele-vechi-in-2025/",
-      "published": "2025-12-10T11:28:41+00:00",
-      "published_human": "2025-12-10T11:28",
       "source": "Mastodon"
     }
   ]
