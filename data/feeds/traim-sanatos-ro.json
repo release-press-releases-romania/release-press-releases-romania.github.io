@@ -4,10 +4,10 @@
     "name": "Traim Sanatos",
     "url": "https://traim-sanatos.ro/",
     "category": "Health",
-    "rss": "https://traim-sanatos.ro/?feed=rss2"
+    "rss": "https://traim-sanatos.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-01-21T17:32:40.460711+00:00",
+  "updated_at": "2026-01-21T19:03:11.769374+00:00",
   "status": "ok",
   "items": [
     {
