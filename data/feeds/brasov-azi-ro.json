@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@brasov",
     "rss": "https://social.5th.ro/@brasov.rss"
   },
-  "updated_at": "2026-01-21T02:33:32.704524+00:00",
+  "updated_at": "2026-01-21T04:27:39.852631+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Rockstadt Extreme Fest confirmă prezența The Prodigy pe scena din Ghimbav, România",
+      "link": "https://brasov-azi.ro/rockstadt-extreme-fest-confirma-prezenta-the-prodigy-pe-scena-din-ghimbav-romania/",
+      "summary": "Legendarii The Prodigy sunt ultimul headliner Rockstadt Extreme Fest 2026, ediție ce inaugurează o nouă locație: festivalul se mută la Ghimbav. Articolul Rockstadt Extreme Fest confirmă prezența The Prodigy pe scena din Ghimbav, România apare prima dată în Brasov AZI .",
+      "published": "2026-01-21T02:08:53+00:00",
+      "published_human": "2026-01-21T02:08",
+      "source": "https://brasov-azi.ro/"
+    },
     {
       "title": "Schiorii evită Poiana Brașov și Predeal: Noile preferințe ale românilor pentru pârtiile montane",
       "link": "https://brasov-azi.ro/schiorii-evita-poiana-brasov-si-predeal-noile-preferinte-ale-romanilor-pentru-partiile-montane/",
@@ -100,17 +108,17 @@
       "published": "2026-01-18T09:05:16+00:00",
       "published_human": "2026-01-18T09:05",
       "source": "https://brasov-azi.ro/"
-    },
-    {
-      "title": "Un cablu de telecabină a coborât până la nivelul schiorilor pe o pârtie din Poiana Brașov, un bărbat de 40 de ani fiind rănit.",
-      "link": "https://brasov-azi.ro/un-cablu-de-telecabina-a-coborat-pana-la-nivelul-schiorilor-pe-o-partie-din-poiana-brasov-un-barbat-de-40-de-ani-fiind-ranit/",
-      "summary": "Un eveniment serios care ridică semne de întrebare cu privire la siguranța pe pârtiile de schi a avut loc recent în stațiunea montană Poiana Brașov. Pe o pârtie intens circulată, cablul unei instalații de transport pe cablu (telecabină sau telegondolă)... Articolul Un cablu de telecabină a coborât până la nivelul schiorilor pe o pârtie din Poiana Brașov, un bărbat de 40 de ani fiind rănit. apare prima dată în Brasov AZI .",
-      "published": "2026-01-18T09:04:05+00:00",
-      "published_human": "2026-01-18T09:04",
-      "source": "https://brasov-azi.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@brasov/115931126680153566",
+      "summary": "Legendarii The Prodigy sunt ultimul headliner Rockstadt Extreme Fest 2026, ediție ce inaugurează o nouă locație: festivalul se mută la Ghimbav. https:// brasov-azi.ro/rockstadt-extrem e-fest-confirma-prezenta-the-prodigy-pe-scena-din-ghimbav-romania/",
+      "published": "2026-01-21T04:10:07+00:00",
+      "published_human": "2026-01-21T04:10",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@brasov/115928901190939511",
@@ -197,14 +205,6 @@
       "summary": "Cadrul istoric impresionant al Cetății Făgăraș se transformă într-un loc de poveste, special conceput pentru a-i introduce pe cei mici în lumea fascinantă a lecturii. Această inițiativă culturală urmărește să combine istoria și arhitectura medievală cu bucuria descoperirii literare, oferind copiilor o experiență de neuitat. Prin diverse activități interactive și sesiuni de lectură, organizatorii speră… https:// brasov-azi.ro/tacere/",
       "published": "2026-01-19T09:26:15+00:00",
       "published_human": "2026-01-19T09:26",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@brasov/115916874862421108",
-      "summary": "Se anunță zile extrem de reci în județul Brașov! Administrația Națională de Meteorologie (ANM) a emis mai multe avertizări Cod Galben, valabile în perioada 18 ianuarie, ora 10:00, până pe 20 ianuarie, ora 10:00, care vizează un val de ger sever. Acest episod de vreme deosebit de rece va afecta cel mai mult zona montană… https:// brasov-azi.ro/brasovul-paraliz at-de-ger-sever-salvamontistii-cer-turistilor-sa-isi-planifice-deplasarile-cu-maxima-prudenta/",
-      "published": "2026-01-18T15:45:42+00:00",
-      "published_human": "2026-01-18T15:45",
       "source": "Mastodon"
     }
   ]
