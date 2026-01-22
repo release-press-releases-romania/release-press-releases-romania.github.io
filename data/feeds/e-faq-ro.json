@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@efaq",
     "rss": "https://social.5th.ro/@efaq.rss"
   },
-  "updated_at": "2026-01-22T07:44:53.070386+00:00",
+  "updated_at": "2026-01-22T08:53:19.645460+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Parintii aleg si recomanda cresa si gradinita Taramul Cunoasterii din Bucuresti pentru educatia timpurie",
+      "link": "https://e-faq.ro/parintii-aleg-si-recomanda-cresa-si-gradinita-taramul-cunoasterii-din-bucuresti-pentru-educatia-timpurie/",
+      "summary": "Alegerea primei institutii de invatamant pentru cei mici reprezinta una dintre cele mai dificile si [&#8230;] Articolul Parintii aleg si recomanda cresa si gradinita Taramul Cunoasterii din Bucuresti pentru educatia timpurie apare prima dată în FAQ - Intrebari Frecvente .",
+      "published": "2026-01-22T08:08:12+00:00",
+      "published_human": "2026-01-22T08:08",
+      "source": "https://e-faq.ro/"
+    },
     {
       "title": "Liste, filtre și muting: cum îți cureți feed-ul pe Mastodon",
       "link": "https://e-faq.ro/liste-filtre-si-muting-cum-iti-cureti-feed-ul-pe-mastodon/",
@@ -76,17 +84,17 @@
       "published": "2025-11-15T10:03:28+00:00",
       "published_human": "2025-11-15T10:03",
       "source": "https://e-faq.ro/"
-    },
-    {
-      "title": "Top greșeli la păcănele pe care jucătorii le repetă iar și iar",
-      "link": "https://e-faq.ro/top-greseli-la-pacanele-pe-care-jucatorii-le-repeta-iar-si-iar/",
-      "summary": "Atenție: Ai simțit vreodată frustrarea de a pierde rapid întregul depozit, deși intenția ta era [&#8230;] Articolul Top greșeli la păcănele pe care jucătorii le repetă iar și iar apare prima dată în FAQ - Intrebari Frecvente .",
-      "published": "2025-11-14T09:07:58+00:00",
-      "published_human": "2025-11-14T09:07",
-      "source": "https://e-faq.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@efaq/115937725344106306",
+      "summary": "🚀 Alegerea primei institutii de invatamant pentru cei mici reprezinta una dintre cele mai dificile si importante decizii pe care un parinte trebuie sa le ia. In peisajul educational actual, o unitate de tip cresa si gradinita trebuie sa ofere mai mult decat supraveghere; trebuie sa creeze un univers al sigurantei, al explorarii si al dezvoltarii… 🔗 Mai mult: https:// e-faq.ro/parintii-aleg-si-reco manda-cresa-si-gradinita-taramul-cunoasterii-din-bucuresti-pentru-educatia-timpurie/",
+      "published": "2026-01-22T08:08:15+00:00",
+      "published_human": "2026-01-22T08:08",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@efaq/115736748779744516",
