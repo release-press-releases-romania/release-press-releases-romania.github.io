@@ -10,7 +10,7 @@
     "url": "https://social.5th.ro/@brasov",
     "rss": "https://social.5th.ro/@brasov.rss"
   },
-  "updated_at": "2026-01-22T13:58:20.804670+00:00",
+  "updated_at": "2026-01-22T14:53:16.954934+00:00",
   "status": "ok",
   "items": [
     {
@@ -19,6 +19,14 @@
       "summary": "Analiza raportului de activitate al consilierului local PSD Alexandra Crivineanu, consilier local din partea PSD, a prezentat recent ceea ce a numit un „bilanț de activitate”, menționat ca o demonstrație de implicare și deschidere după aproape un deceniu petrecut în... Articolul Alexandra Crivineanu, consilier PSD: Ce face, de fapt? Bilanțul activității și promisiunile neonorate. apare prima dată în Brasov AZI .",
       "published": "2026-01-22T12:57:34+00:00",
       "published_human": "2026-01-22T12:57",
+      "source": "https://brasov-azi.ro/"
+    },
+    {
+      "title": "Poiana Brașov extinde Masivul Postăvaru deschis complet, incluzând pârtie de competiție și Nocturnă funcțională",
+      "link": "https://brasov-azi.ro/poiana-brasov-extinde-masivul-postavaru-deschis-complet-incluzand-partie-de-competitie-si-nocturna-functionala/",
+      "summary": "Poiana Brașov extinde schiul pe nocturnă până la ora 20:00 (Lupului inferior/Bradul), iar pârtia de concurs Subteleferic este deschisă integral. Articolul Poiana Brașov extinde Masivul Postăvaru deschis complet, incluzând pârtie de competiție și Nocturnă funcțională apare prima dată în Brasov AZI .",
+      "published": "2026-01-22T12:05:01+00:00",
+      "published_human": "2026-01-22T12:05",
       "source": "https://brasov-azi.ro/"
     },
     {
@@ -100,17 +108,17 @@
       "published": "2026-01-21T11:07:41+00:00",
       "published_human": "2026-01-21T11:07",
       "source": "https://brasov-azi.ro/"
-    },
-    {
-      "title": "Investigație penală și control intern la Spitalul Județean Brașov, cauzate de decesul prin infarct al unui bărbat de 35 de ani",
-      "link": "https://brasov-azi.ro/investigatie-penala-si-control-intern-la-spitalul-judetean-brasov-cauzate-de-decesul-prin-infarct-al-unui-barbat-de-35-de-ani/",
-      "summary": "Este o veste tristă și șocantă care a zguduit comunitatea din Brașov. Conducerea Spitalului Clinic Județean de Urgență Brașov a transmis oficial un comunicat prin care &#238;și arată regretul profund și compasiunea față de familia unui t&#226;năr care s-a stins... Articolul Investigație penală și control intern la Spitalul Județean Brașov, cauzate de decesul prin infarct al unui bărbat de 35 de ani apare prima dată în Brasov AZI .",
-      "published": "2026-01-21T10:09:09+00:00",
-      "published_human": "2026-01-21T10:09",
-      "source": "https://brasov-azi.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@brasov/115939132899142828",
+      "summary": "Poiana Brașov extinde schiul pe nocturnă până la ora 20:00 (Lupului inferior/Bradul), iar pârtia de concurs Subteleferic este deschisă integral. https:// brasov-azi.ro/poiana-brasov-ex tinde-masivul-postavaru-deschis-complet-incluzand-partie-de-competitie-si-nocturna-functionala/",
+      "published": "2026-01-22T14:06:12+00:00",
+      "published_human": "2026-01-22T14:06",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@brasov/115938863023821748",
@@ -197,14 +205,6 @@
       "summary": "Agenția Băncii Naționale a României (BNR) din Brașov își desfășoară activitatea într-un spațiu cu o valoare istorică deosebită. Este vorba despre unul dintre celebrele Palate Czell, un edificiu care aparține BNR și care este, de asemenea, clasificat pe lista monumentelor istorice ale României. Dat fiind statutul clădirii, BNR, în calitate de https:// brasov-azi.ro/imobilul-repreze ntativ-al-agentiei-bnr-brasov-va-fi-modernizat-complet-prin-lucrari-ample-de-reabilitare-si-renovare-de-durata/",
       "published": "2026-01-21T13:10:04+00:00",
       "published_human": "2026-01-21T13:10",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@brasov/115933014839550702",
-      "summary": "Este o veste tristă și șocantă care a zguduit comunitatea din Brașov. Conducerea Spitalului Clinic Județean de Urgență Brașov a transmis oficial un comunicat prin care își arată regretul profund și compasiunea față de familia unui tânăr care s-a stins din viață la doar 35 de ani, din cauza unui infarct. Tragicul eveniment a avut… https:// brasov-azi.ro/investigatie-pen ala-si-control-intern-la-spitalul-judetean-brasov-cauzate-de-decesul-prin-infarct-al-unui-barbat-de-35-de-ani/",
-      "published": "2026-01-21T12:10:18+00:00",
-      "published_human": "2026-01-21T12:10",
       "source": "Mastodon"
     }
   ]
