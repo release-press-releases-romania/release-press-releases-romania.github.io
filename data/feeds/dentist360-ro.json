@@ -7,9 +7,17 @@
     "rss": "https://dentist360.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-01-24T07:36:35.229055+00:00",
+  "updated_at": "2026-01-24T08:45:22.443645+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Aviz părinților din Suceava: de ce contează prima experiență a copiilor la cabinetul de stomatologie?",
+      "link": "https://dentist360.ro/aviz-parintilor-din-suceava-de-ce-conteaza-prima-experienta-a-copiilor-la-cabinetul-de-stomatologie/",
+      "summary": "Vizita la dentist poate fi un moment delicat pentru orice copil. Frica de „durere”, sunetele... Articolul Aviz părinților din Suceava: de ce contează prima experiență a copiilor la cabinetul de stomatologie? apare prima dată în Dentist 360 .",
+      "published": "2026-01-24T08:21:19+00:00",
+      "published_human": "2026-01-24T08:21",
+      "source": "https://dentist360.ro/"
+    },
     {
       "title": "Ghid rapid: cum alegi instanța potrivită pe Mastodon",
       "link": "https://dentist360.ro/ghid-rapid-cum-alegi-instanta-potrivita-pe-mastodon/",
@@ -80,14 +88,6 @@
       "summary": "Simțiți că timpul nu vă mai ajunge pentru a menține locuința perfectă? Vă doriți o... Articolul Curățenie în Oradea cu produse ecologice sigur pentru copii și animale apare prima dată în Dentist 360 .",
       "published": "2025-10-01T08:16:13+00:00",
       "published_human": "2025-10-01T08:16",
-      "source": "https://dentist360.ro/"
-    },
-    {
-      "title": "Zâmbet natural și sănătos cu soluții adaptate fiecărui pacient",
-      "link": "https://dentist360.ro/zambet-natural-si-sanatos-cu-solutii-adaptate-fiecarui-pacient/",
-      "summary": "Un zâmbet armonios nu se obține doar prin estetica dentară, ci și prin funcționalitatea corectă... Articolul Zâmbet natural și sănătos cu soluții adaptate fiecărui pacient apare prima dată în Dentist 360 .",
-      "published": "2025-09-04T11:36:53+00:00",
-      "published_human": "2025-09-04T11:36",
       "source": "https://dentist360.ro/"
     }
   ],
