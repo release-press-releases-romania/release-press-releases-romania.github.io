@@ -5,8 +5,8 @@
     <link>https://release-press-releases-romania.github.io</link>
     <description>Aggregated RSS feed of press releases from over 100 Romanian publishers. Covering PR &amp; Marketing, Health, News &amp; Society, Technology, Business, Construction, Tourism, and more. Curated selection of quality press releases from trusted Romanian sources.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Jan 2026 01:05:08 +0000</lastBuildDate>
-    <pubDate>Sat, 24 Jan 2026 01:05:08 +0000</pubDate>
+    <lastBuildDate>Sat, 24 Jan 2026 06:22:34 +0000</lastBuildDate>
+    <pubDate>Sat, 24 Jan 2026 06:22:34 +0000</pubDate>
     <generator>Release Press Releases in Romania RSS Aggregator v2.0</generator>
     <webMaster>noreply@release-press-releases-romania.github.io (Release Press Releases)</webMaster>
     <managingEditor>noreply@release-press-releases-romania.github.io (Release Press Releases)</managingEditor>
@@ -28,6 +28,20 @@
     <sy:updateFrequency>1</sy:updateFrequency>
     <copyright>Copyright 2026 Release Press Releases in Romania. Content belongs to respective publishers.</copyright>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Ce trebuie sa stii despre MCT OIL in 2026</title>
+      <link>https://medic360.ro/ce-trebuie-sa-stii-despre-mct-oil-in-2026/</link>
+      <description><![CDATA[From Medic360: În ultimul deceniu, a apărut un ingredient care a revoluționat modul în care ne abordăm dieta și suplimentarea: MCT Oil. Dacă ați auzit de diete ketogenice, de sportivi de performanță sau de „bulletproof coffee”, atunci ați auzit și de acest compus uimitor. Dar ce face de fapt acest ulei special și de ce este considerat un super-combustibil pentru creier? Dincolo de simpla sursă de grăsimi, ule...]]></description>
+      <pubDate>Sat, 24 Jan 2026 00:23:52 +0000</pubDate>
+      <author>Medic360 (https://release-press-releases-romania.github.io/publisher/medic360-ro/)</author>
+      <dc:creator>Medic360</dc:creator>
+      <dc:date>2026-01-24T00:23:52+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">Health</category>
+      <guid isPermaLink="true">https://medic360.ro/ce-trebuie-sa-stii-despre-mct-oil-in-2026/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/medic360-ro/">Medic360</source>
+      <content:encoded><![CDATA[From Medic360: În ultimul deceniu, a apărut un ingredient care a revoluționat modul în care ne abordăm dieta și suplimentarea: MCT Oil. Dacă ați auzit de diete ketogenice, de sportivi de performanță sau de „bulletproof coffee”, atunci ați auzit și de acest compus uimitor. Dar ce face de fapt acest ulei special și de ce este considerat un super-combustibil pentru creier? Dincolo de simpla sursă de grăsimi, ule...]]></content:encoded>
+      <comments>https://medic360.ro/ce-trebuie-sa-stii-despre-mct-oil-in-2026/#comments</comments>
+    </item>
     <item>
       <title>Numele SOHAIL: semnificație, origine, trăsături și personalitate</title>
       <link>https://e-nume.ro/numele-sohail-semnificatie-origine-trasaturi-si-personalitate/</link>
@@ -1371,20 +1385,6 @@
       <source url="https://release-press-releases-romania.github.io/publisher/ifemeie-ro/">iFemeie</source>
       <content:encoded><![CDATA[From iFemeie: Te-ai săturat de algoritmii opaci care îți ascund mesajele? Pe platformele centralizate, efortul depus în crearea de conținut ajunge adesea invizibil. Rata de interacțiune scade, iar frustrarea crește. Această problemă a adus în prim-plan o alternativă puternică. Această alternativă se numește Mastodon. Această rețea socială descentralizată îți oferă un control mult mai mare asupra mesajului tă...]]></content:encoded>
       <comments>https://ifemeie.ro/cum-scrii-postari-care-primesc-boost-uri-pe-mastodon/#comments</comments>
-    </item>
-    <item>
-      <title>Blocare, silențiere, raportare: instrumentele de siguranță pe Mastodon</title>
-      <link>https://medic360.ro/blocare-silentiere-raportare-instrumentele-de-siguranta-pe-mastodon/</link>
-      <description><![CDATA[From Medic360: V-ați simțit vreodată copleșiți de toxicitatea și zgomotul constant al rețelelor sociale centralizate? Mulți utilizatori caută alternative care să le ofere un control real asupra experienței lor online. Mediul digital poate deveni rapid un loc nesigur, unde hărțuirea și dezinformarea par să fie lăsate nesupravegheate. Această căutare a condus la o creștere exponențială a interesului față de pla...]]></description>
-      <pubDate>Wed, 17 Dec 2025 16:58:54 +0000</pubDate>
-      <author>Medic360 (https://release-press-releases-romania.github.io/publisher/medic360-ro/)</author>
-      <dc:creator>Medic360</dc:creator>
-      <dc:date>2025-12-17T16:58:54+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">Health</category>
-      <guid isPermaLink="true">https://medic360.ro/blocare-silentiere-raportare-instrumentele-de-siguranta-pe-mastodon/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/medic360-ro/">Medic360</source>
-      <content:encoded><![CDATA[From Medic360: V-ați simțit vreodată copleșiți de toxicitatea și zgomotul constant al rețelelor sociale centralizate? Mulți utilizatori caută alternative care să le ofere un control real asupra experienței lor online. Mediul digital poate deveni rapid un loc nesigur, unde hărțuirea și dezinformarea par să fie lăsate nesupravegheate. Această căutare a condus la o creștere exponențială a interesului față de pla...]]></content:encoded>
-      <comments>https://medic360.ro/blocare-silentiere-raportare-instrumentele-de-siguranta-pe-mastodon/#comments</comments>
     </item>
     <item>
       <title>Mastodon România pentru freelanceri: networking fără spam</title>
