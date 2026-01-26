@@ -4,10 +4,10 @@
     "name": "Dentist360",
     "url": "https://dentist360.ro/",
     "category": "Health",
-    "rss": "https://dentist360.ro/feed/"
+    "rss": "https://dentist360.ro/?feed=rss2"
   },
   "mastodon": null,
-  "updated_at": "2026-01-26T20:45:54.853880+00:00",
+  "updated_at": "2026-01-26T21:43:01.423947+00:00",
   "status": "ok",
   "items": [
     {
