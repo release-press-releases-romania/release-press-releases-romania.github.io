@@ -4,13 +4,13 @@
     "name": "Clinic Sanatos",
     "url": "https://clinic-sanatos.ro/",
     "category": "Miscellaneous",
-    "rss": "https://clinic-sanatos.ro/feed/"
+    "rss": "https://clinic-sanatos.ro/?feed=rss2"
   },
   "mastodon": {
     "url": "https://social.5th.ro/@clinic_sanatos",
     "rss": "https://social.5th.ro/@clinic_sanatos.rss"
   },
-  "updated_at": "2026-01-27T15:47:27.714741+00:00",
+  "updated_at": "2026-01-27T16:53:15.496944+00:00",
   "status": "ok",
   "items": [
     {
