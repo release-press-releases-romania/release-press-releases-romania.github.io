@@ -4,13 +4,13 @@
     "name": "Noutati24",
     "url": "https://noutati24.ro/",
     "category": "Miscellaneous",
-    "rss": "https://noutati24.ro/?feed=rss2"
+    "rss": "https://noutati24.ro/feed/"
   },
   "mastodon": {
     "url": "https://social.5th.ro/@noutati24",
     "rss": "https://social.5th.ro/@noutati24.rss"
   },
-  "updated_at": "2026-01-27T16:53:15.496944+00:00",
+  "updated_at": "2026-01-27T17:49:20.147509+00:00",
   "status": "ok",
   "items": [
     {

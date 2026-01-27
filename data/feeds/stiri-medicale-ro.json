@@ -4,10 +4,10 @@
     "name": "Stiri Medicale",
     "url": "https://stiri-medicale.ro/",
     "category": "Health",
-    "rss": "https://stiri-medicale.ro/?feed=rss2"
+    "rss": "https://stiri-medicale.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-01-27T16:53:15.496944+00:00",
+  "updated_at": "2026-01-27T17:49:20.147509+00:00",
   "status": "ok",
   "items": [
     {
