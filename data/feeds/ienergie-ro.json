@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@ienergie",
     "rss": "https://social.5th.ro/@ienergie.rss"
   },
-  "updated_at": "2026-01-27T09:51:09.826778+00:00",
+  "updated_at": "2026-01-27T10:51:32.324254+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Zece state europene construiesc un gigant parc eolian comun în Marea Nordului",
+      "link": "https://ienergie.ro/zece-state-europene-construiesc-un-gigant-parc-eolian-comun-in-marea-nordului/",
+      "summary": "Zece națiuni europene au convenit la Hamburg dezvoltarea unei rețele de energie eoliană de 100 GW în Marea Nordului pentru securitatea energetică. Articolul Zece state europene construiesc un gigant parc eolian comun în Marea Nordului apare prima dată în iEnergie .",
+      "published": "2026-01-27T08:15:26+00:00",
+      "published_human": "2026-01-27T08:15",
+      "source": "https://iEnergie.ro/"
+    },
     {
       "title": "Executivul definește strategia de gestionare a crizelor și pregătire în domeniul electricității",
       "link": "https://ienergie.ro/executivul-defineste-strategia-de-gestionare-a-crizelor-si-pregatire-in-domeniul-electricitatii/",
@@ -100,17 +108,17 @@
       "published": "2026-01-08T11:24:34+00:00",
       "published_human": "2026-01-08T11:24",
       "source": "https://iEnergie.ro/"
-    },
-    {
-      "title": "Cont personal vs cont business pe Mastodon: ce alegi",
-      "link": "https://ienergie.ro/cont-personal-vs-cont-business-pe-mastodon-ce-alegi/",
-      "summary": "Peisajul rețelelor sociale se schimbă rapid. Multe companii caută alternative la platformele tradiționale, unde algoritmii și regulile sunt imprevizibile. Dacă sunteți în căutarea unui spațiu [Mai mult...] Articolul Cont personal vs cont business pe Mastodon: ce alegi apare prima dată în iEnergie .",
-      "published": "2025-12-17T16:58:54+00:00",
-      "published_human": "2025-12-17T16:58",
-      "source": "https://iEnergie.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@ienergie/115966545795308329",
+      "summary": "Zece națiuni europene au convenit la Hamburg dezvoltarea unei rețele de energie eoliană de 100 GW în Marea Nordului pentru securitatea energetică. https:// ienergie.ro/zece-state-europen e-construiesc-un-gigant-parc-eolian-comun-in-marea-nordului/",
+      "published": "2026-01-27T10:17:40+00:00",
+      "published_human": "2026-01-27T10:17",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@ienergie/115934003997145292",
@@ -197,14 +205,6 @@
       "summary": "46 speakeri internaționali și peste 180 participanți s-au reunit la ICH2P și IEEES 2025, evenimente organizate de lCMET Craiova și Universitate din Craiova Conferință Internațională privind Producția de Hidrogen – ICH2P 2025 și Simpozionul Internațional de Exergie, Energie și Mediu – IEEES 2025 organizate de lCMET Craiova și Universitate din Craiova au reunit în acest… https:// ienergie.ro/46-speakeri-intern ationali-si-peste-180-participanti-s-au-reunit-la-ich2p-si-ieees-2025/",
       "published": "2026-01-08T13:28:17+00:00",
       "published_human": "2026-01-08T13:28",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@ienergie/115736754243158203",
-      "summary": "Peisajul rețelelor sociale se schimbă rapid. Multe companii caută alternative la platformele tradiționale, unde algoritmii și regulile sunt imprevizibile. Dacă sunteți în căutarea unui spațiu digital autentic și descentralizat, Mastodon a devenit o opțiune extrem de serioasă pentru profesioniști și afaceri. Diferența dintre succes și eșec pe Fediverse stă în modul în care îți stabilești… https:// ienergie.ro/cont-personal-vs-c ont-business-pe-mastodon-ce-alegi/",
-      "published": "2025-12-17T20:18:39+00:00",
-      "published_human": "2025-12-17T20:18",
       "source": "Mastodon"
     }
   ]
