@@ -5,8 +5,8 @@
     <link>https://release-press-releases-romania.github.io</link>
     <description>Aggregated RSS feed of press releases from over 100 Romanian publishers. Covering PR &amp; Marketing, Health, News &amp; Society, Technology, Business, Construction, Tourism, and more. Curated selection of quality press releases from trusted Romanian sources.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Jan 2026 01:11:31 +0000</lastBuildDate>
-    <pubDate>Tue, 27 Jan 2026 01:11:31 +0000</pubDate>
+    <lastBuildDate>Tue, 27 Jan 2026 06:25:23 +0000</lastBuildDate>
+    <pubDate>Tue, 27 Jan 2026 06:25:23 +0000</pubDate>
     <generator>Release Press Releases in Romania RSS Aggregator v2.0</generator>
     <webMaster>noreply@release-press-releases-romania.github.io (Release Press Releases)</webMaster>
     <managingEditor>noreply@release-press-releases-romania.github.io (Release Press Releases)</managingEditor>
@@ -28,6 +28,34 @@
     <sy:updateFrequency>1</sy:updateFrequency>
     <copyright>Copyright 2026 Release Press Releases in Romania. Content belongs to respective publishers.</copyright>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Placare scară interioară cu lemn: top 10 avantaje</title>
+      <link>https://e-faq.ro/placare-scara-interioara-cu-lemn-top-10-avantaje/</link>
+      <description><![CDATA[From E Faq: Alegerea serviciului de placare scară interioară cu lemn e una dintre acele decizii care schimbă radical felul în care se simte casa, nu doar cum arată în poze. O scară din beton sau metal poate fi perfect funcțională, dar lemnul adaugă imediat căldură, confort și un aer mai „de acasă”. Dacă alegi corect esența, finisajul și montajul, placarea scării interioare cu lemn devine o soluție durabilă...]]></description>
+      <pubDate>Tue, 27 Jan 2026 05:14:12 +0000</pubDate>
+      <author>E Faq (https://release-press-releases-romania.github.io/publisher/e-faq-ro/)</author>
+      <dc:creator>E Faq</dc:creator>
+      <dc:date>2026-01-27T05:14:12+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">Miscellaneous</category>
+      <guid isPermaLink="true">https://e-faq.ro/placare-scara-interioara-cu-lemn-top-10-avantaje/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/e-faq-ro/">E Faq</source>
+      <content:encoded><![CDATA[From E Faq: Alegerea serviciului de placare scară interioară cu lemn e una dintre acele decizii care schimbă radical felul în care se simte casa, nu doar cum arată în poze. O scară din beton sau metal poate fi perfect funcțională, dar lemnul adaugă imediat căldură, confort și un aer mai „de acasă”. Dacă alegi corect esența, finisajul și montajul, placarea scării interioare cu lemn devine o soluție durabilă...]]></content:encoded>
+      <comments>https://e-faq.ro/placare-scara-interioara-cu-lemn-top-10-avantaje/#comments</comments>
+    </item>
+    <item>
+      <title>Urmărire GPS auto: Ce date utile poate colecta un sistem modern?</title>
+      <link>https://idezvoltator.ro/2026/01/27/urmarire-gps-auto-ce-date-utile-poate-colecta-un-sistem-modern/</link>
+      <description><![CDATA[From Idezvoltator: Când auzi urmărire GPS auto, probabil te gândești doar la un punct pe hartă care arată unde se află mașina. Dar, în realitate, un sistem modern face mult mai mult de atât. Poziția este doar începutul. În spate se strâng o mulțime de date care te ajută să înțelegi cum este folosit vehiculul, cât de eficient circulă și unde se pierd timp sau bani. Ca să fie simplu și clar, hai să luăm totul sub f...]]></description>
+      <pubDate>Tue, 27 Jan 2026 05:13:16 +0000</pubDate>
+      <author>Idezvoltator (https://release-press-releases-romania.github.io/publisher/idezvoltator-ro/)</author>
+      <dc:creator>Idezvoltator</dc:creator>
+      <dc:date>2026-01-27T05:13:16+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">Business</category>
+      <guid isPermaLink="true">https://idezvoltator.ro/2026/01/27/urmarire-gps-auto-ce-date-utile-poate-colecta-un-sistem-modern/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/idezvoltator-ro/">Idezvoltator</source>
+      <content:encoded><![CDATA[From Idezvoltator: Când auzi urmărire GPS auto, probabil te gândești doar la un punct pe hartă care arată unde se află mașina. Dar, în realitate, un sistem modern face mult mai mult de atât. Poziția este doar începutul. În spate se strâng o mulțime de date care te ajută să înțelegi cum este folosit vehiculul, cât de eficient circulă și unde se pierd timp sau bani. Ca să fie simplu și clar, hai să luăm totul sub f...]]></content:encoded>
+      <comments>https://idezvoltator.ro/2026/01/27/urmarire-gps-auto-ce-date-utile-poate-colecta-un-sistem-modern/#comments</comments>
+    </item>
     <item>
       <title>Numele SULAIMAN: semnificație, origine, trăsături și personalitate</title>
       <link>https://e-nume.ro/numele-sulaiman-semnificatie-origine-trasaturi-si-personalitate/</link>
@@ -1107,20 +1135,6 @@
       <comments>https://solutii-constructii.ro/mastodon-romania-pentru-it-isti-comunitati-proiecte-si-joburi/#comments</comments>
     </item>
     <item>
-      <title>Liste, filtre și muting: cum îți cureți feed-ul pe Mastodon</title>
-      <link>https://e-faq.ro/liste-filtre-si-muting-cum-iti-cureti-feed-ul-pe-mastodon/</link>
-      <description><![CDATA[From E Faq: V-ați săturat de zgomotul constant și de algoritmii agresivi care vă dictează ce vedeți în feed-ul rețelelor sociale? Pe măsură ce migrația către platforme descentralizate, cum ar fi Mastodon, capătă amploare, controlul asupra experienței devine primordial. Această rețea unică vă oferă pârghii puternice pentru a vă modela spațiul digital exact cum doriți. Dacă sunteți în căutarea unei soluții p...]]></description>
-      <pubDate>Wed, 17 Dec 2025 16:58:54 +0000</pubDate>
-      <author>E Faq (https://release-press-releases-romania.github.io/publisher/e-faq-ro/)</author>
-      <dc:creator>E Faq</dc:creator>
-      <dc:date>2025-12-17T16:58:54+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">Miscellaneous</category>
-      <guid isPermaLink="true">https://e-faq.ro/liste-filtre-si-muting-cum-iti-cureti-feed-ul-pe-mastodon/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/e-faq-ro/">E Faq</source>
-      <content:encoded><![CDATA[From E Faq: V-ați săturat de zgomotul constant și de algoritmii agresivi care vă dictează ce vedeți în feed-ul rețelelor sociale? Pe măsură ce migrația către platforme descentralizate, cum ar fi Mastodon, capătă amploare, controlul asupra experienței devine primordial. Această rețea unică vă oferă pârghii puternice pentru a vă modela spațiul digital exact cum doriți. Dacă sunteți în căutarea unei soluții p...]]></content:encoded>
-      <comments>https://e-faq.ro/liste-filtre-si-muting-cum-iti-cureti-feed-ul-pe-mastodon/#comments</comments>
-    </item>
-    <item>
       <title>Cum funcționează federarea pe Mastodon, explicat pe înțelesul tuturor</title>
       <link>https://doctor360.ro/cum-functioneaza-federarea-pe-mastodon-explicat-pe-intelesul-tuturor/</link>
       <description><![CDATA[From Doctor360: Când ne gândim la rețelele sociale, imaginea care ne vine imediat în minte este cea a câtorva companii uriașe care controlează totul: datele, algoritmii și modul în care interacționăm. Ce s-ar întâmpla dacă am putea schimba această paradigmă? Dacă am putea avea control real asupra experienței noastre online? Această viziune este exact ceea ce oferă Mastodon, o platformă socială care nu este deț...]]></description>
@@ -2085,20 +2099,6 @@
       <source url="https://release-press-releases-romania.github.io/publisher/oltenia-news-ro/">Oltenia News</source>
       <content:encoded><![CDATA[From Oltenia News: (Atenție) V-ați întrebat vreodată care este secretul jucătorilor experimentați care reușesc să-și mărească bugetul fără să scoată bani din buzunar? Ei bine, răspunsul stă ascuns în ofertele generoase de rotiri gratuite pe care cazinourile online le pun la dispoziție. (Interes) Sute de mii de români caută zilnic cele mai bune păcănele promoții, dar puțini știu exact cum să le identifice și, mai ...]]></content:encoded>
       <comments>https://oltenia-news.ro/rotiri-gratuite-tipuri-de-bonusuri-la-pacanele-si-cum-le-joci-inteligent/#comments</comments>
-    </item>
-    <item>
-      <title>HUD și trackere de poker: ce sunt și cum te pot ajuta</title>
-      <link>https://idezvoltator.ro/2025/11/15/hud-si-trackere-de-poker-ce-sunt-si-cum-te-pot-ajuta/</link>
-      <description><![CDATA[From Idezvoltator: Vă simțiți frustrat de incertitudinea din timpul sesiunilor de poker online? Vreți să luați decizii perfecte chiar și atunci când jucați prima mână împotriva unui adversar necunoscut? (Attention) Secretul succesului la mesele virtuale nu mai ține doar de intuiție. El depinde de capacitatea de a citi rapid datele și de a exploata slăbiciunile adversarilor. (Interest) Imaginați-vă că aveți acces ...]]></description>
-      <pubDate>Sat, 15 Nov 2025 10:03:28 +0000</pubDate>
-      <author>Idezvoltator (https://release-press-releases-romania.github.io/publisher/idezvoltator-ro/)</author>
-      <dc:creator>Idezvoltator</dc:creator>
-      <dc:date>2025-11-15T10:03:28+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">Business</category>
-      <guid isPermaLink="true">https://idezvoltator.ro/2025/11/15/hud-si-trackere-de-poker-ce-sunt-si-cum-te-pot-ajuta/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/idezvoltator-ro/">Idezvoltator</source>
-      <content:encoded><![CDATA[From Idezvoltator: Vă simțiți frustrat de incertitudinea din timpul sesiunilor de poker online? Vreți să luați decizii perfecte chiar și atunci când jucați prima mână împotriva unui adversar necunoscut? (Attention) Secretul succesului la mesele virtuale nu mai ține doar de intuiție. El depinde de capacitatea de a citi rapid datele și de a exploata slăbiciunile adversarilor. (Interest) Imaginați-vă că aveți acces ...]]></content:encoded>
-      <comments>https://idezvoltator.ro/2025/11/15/hud-si-trackere-de-poker-ce-sunt-si-cum-te-pot-ajuta/#comments</comments>
     </item>
     <item>
       <title>Mese full ring vs 6-max: cum se schimbă dinamica jocului de poker</title>
