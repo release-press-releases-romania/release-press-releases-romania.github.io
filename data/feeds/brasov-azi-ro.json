@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@brasov",
     "rss": "https://social.5th.ro/@brasov.rss"
   },
-  "updated_at": "2026-01-28T13:16:13.956675+00:00",
+  "updated_at": "2026-01-28T13:59:00.995481+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Stomatologie de urgență la Spitalul Județean Brașov, după 17 ani de așteptare.",
+      "link": "https://brasov-azi.ro/stomatologie-de-urgenta-la-spitalul-judetean-brasov-dupa-17-ani-de-asteptare/",
+      "summary": "Serviciul de stomatologie de urgență în cadrul Spitalului Clinic Județean de Urgență Brașov, așteptat de peste un deceniu și jumătate, este pe cale să devină funcțional. Brașovenii se apropie de momentul în care vor beneficia de acest serviciu medical esențial.... Articolul Stomatologie de urgență la Spitalul Județean Brașov, după 17 ani de așteptare. apare prima dată în Brasov AZI .",
+      "published": "2026-01-28T13:36:57+00:00",
+      "published_human": "2026-01-28T13:36",
+      "source": "https://brasov-azi.ro/"
+    },
     {
       "title": "Ministrul Irineu Darău lansează Task Force Digitalizare: Recrutări de specialiști IT.",
       "link": "https://brasov-azi.ro/ministrul-irineu-darau-lanseaza-task-force-digitalizare-recrutari-de-specialisti-it/",
@@ -100,17 +108,17 @@
       "published": "2026-01-22T10:41:31+00:00",
       "published_human": "2026-01-22T10:41",
       "source": "https://brasov-azi.ro/"
-    },
-    {
-      "title": "Luna ianuarie a fost cea mai aspră din ultimii 9 ani, deși recordul de –38,5°C stabilit în Brașov nu a fost atins",
-      "link": "https://brasov-azi.ro/luna-ianuarie-a-fost-cea-mai-aspra-din-ultimii-9-ani-desi-recordul-de-385c-stabilit-in-brasov-nu-a-fost-atins/",
-      "summary": "Administrația Națională de Meteorologie confirmă că ianuarie 2026 a fost cea mai rece lună din ultimii nouă ani, cu 18 zile de frig intens și ger. Articolul Luna ianuarie a fost cea mai aspră din ultimii 9 ani, deși recordul de –38,5°C stabilit în Brașov nu a fost atins apare prima dată în Brasov AZI .",
-      "published": "2026-01-22T10:32:23+00:00",
-      "published_human": "2026-01-22T10:32",
-      "source": "https://brasov-azi.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@brasov/115972991752957805",
+      "summary": "Serviciul de stomatologie de urgență în cadrul Spitalului Clinic Județean de Urgență Brașov, așteptat de peste un deceniu și jumătate, este pe cale să devină funcțional. Brașovenii se apropie de momentul în care vor beneficia de acest serviciu medical esențial. După numeroase întârzieri administrative și o lungă perioadă de inactivitate politică, procedura de concurs pentru… https:// brasov-azi.ro/stomatologie-de- urgenta-la-spitalul-judetean-brasov-dupa-17-ani-de-asteptare/",
+      "published": "2026-01-28T13:36:58+00:00",
+      "published_human": "2026-01-28T13:36",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@brasov/115966010319444410",
@@ -197,14 +205,6 @@
       "summary": "Ziua de 24 ianuarie, când se sărbătorește Unirea Principatelor Române, primește o recunoaștere specială și în Franța, în apropierea capitalei Paris. Manifestarea are loc în localitatea Nogent-sur-Marne, un oraș cu care Brașovul se află în curs de înfrățire. Această inițiativă de stabilire a unei relații de înfrățire a pornit de la primarul francez, https:// brasov-azi.ro/nogent-sur-marne -langa-paris-gazduieste-celebrarea-zilei-unirii-principatelor-romane-junii-brasovului-fiind-oaspeti-speciali/",
       "published": "2026-01-22T12:42:44+00:00",
       "published_human": "2026-01-22T12:42",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@brasov/115938768378715342",
-      "summary": "Administrația Națională de Meteorologie confirmă că ianuarie 2026 a fost cea mai rece lună din ultimii nouă ani, cu 18 zile de frig intens și ger. https:// brasov-azi.ro/luna-ianuarie-a- fost-cea-mai-aspra-din-ultimii-9-ani-desi-recordul-de-385c-stabilit-in-brasov-nu-a-fost-atins/",
-      "published": "2026-01-22T12:33:30+00:00",
-      "published_human": "2026-01-22T12:33",
       "source": "Mastodon"
     }
   ]
