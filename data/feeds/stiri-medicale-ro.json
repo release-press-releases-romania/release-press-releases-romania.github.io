@@ -7,9 +7,17 @@
     "rss": "https://stiri-medicale.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-01-28T11:40:53.373809+00:00",
+  "updated_at": "2026-01-28T13:16:13.956675+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Totul despre Menopauză: Cum îți menții calitatea vieții",
+      "link": "https://stiri-medicale.ro/totul-despre-menopauza-cum-iti-mentii-calitatea-vietii/",
+      "summary": "Menopauza reprezintă o etapă fiziologică firească în existența fiecărei femei, marcând trecerea de la perioada reproductivă la o nouă fază&#8230; Articolul Totul despre Menopauză: Cum îți menții calitatea vieții apare prima dată în Stiri Medicale .",
+      "published": "2026-01-28T12:04:03+00:00",
+      "published_human": "2026-01-28T12:04",
+      "source": "https://stiri-medicale.ro/"
+    },
     {
       "title": "Ce este GABA și cum funcționează în organism?",
       "link": "https://stiri-medicale.ro/ce-este-gaba-si-cum-functioneaza-in-organism/",
@@ -96,14 +104,6 @@
       "summary": "Ai simțit vreodată frustrarea de a pierde un pariu din cauza unui singur meci? Dacă ești pasionat de pariuri fotbal,&#8230; Articolul Biletul zilei vs bilete de weekend: ce abordare ți se potrivește mai bine apare prima dată în Stiri Medicale .",
       "published": "2025-11-13T19:31:26+00:00",
       "published_human": "2025-11-13T19:31",
-      "source": "https://stiri-medicale.ro/"
-    },
-    {
-      "title": "Cabinet Stomatologic specializat in Urgente Stomatologice – interventii rapide in Bucuresti la Kirilova Dent",
-      "link": "https://stiri-medicale.ro/cabinet-stomatologic-specializat-in-urgente-stomatologice-interventii-rapide-in-bucuresti-la-kirilova-dent/",
-      "summary": "In Bucuresti, acolo unde timpul si confortul conteaza mai mult ca oricand, Kirilova Dent s-a impus ca un reper in&#8230; Articolul Cabinet Stomatologic specializat in Urgente Stomatologice – interventii rapide in Bucuresti la Kirilova Dent apare prima dată în Stiri Medicale .",
-      "published": "2025-11-03T05:35:41+00:00",
-      "published_human": "2025-11-03T05:35",
       "source": "https://stiri-medicale.ro/"
     }
   ],
