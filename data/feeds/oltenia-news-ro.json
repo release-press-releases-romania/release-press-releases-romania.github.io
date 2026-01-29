@@ -4,13 +4,13 @@
     "name": "Oltenia News",
     "url": "https://oltenia-news.ro/",
     "category": "News & Society",
-    "rss": "https://oltenia-news.ro/feed/"
+    "rss": "https://oltenia-news.ro/?feed=rss2"
   },
   "mastodon": {
     "url": "https://social.5th.ro/@oltenia",
     "rss": "https://social.5th.ro/@oltenia.rss"
   },
-  "updated_at": "2026-01-29T17:02:31.695204+00:00",
+  "updated_at": "2026-01-29T17:57:24.129947+00:00",
   "status": "ok",
   "items": [
     {
