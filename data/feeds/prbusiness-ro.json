@@ -4,13 +4,13 @@
     "name": "Prbusiness",
     "url": "https://prbusiness.ro/",
     "category": "Business",
-    "rss": "https://prbusiness.ro/feed/"
+    "rss": "https://prbusiness.ro/?feed=rss2"
   },
   "mastodon": {
     "url": "https://social.5th.ro/@prbusiness",
     "rss": "https://social.5th.ro/@prbusiness.rss"
   },
-  "updated_at": "2026-01-29T04:50:47.789873+00:00",
+  "updated_at": "2026-01-29T06:02:57.927203+00:00",
   "status": "ok",
   "items": [
     {
