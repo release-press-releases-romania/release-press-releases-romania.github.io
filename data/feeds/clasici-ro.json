@@ -4,13 +4,13 @@
     "name": "Clasici",
     "url": "https://clasici.ro/",
     "category": "Miscellaneous",
-    "rss": "https://clasici.ro/feed/"
+    "rss": "https://clasici.ro/?feed=rss2"
   },
   "mastodon": {
     "url": "https://social.5th.ro/@clasici",
     "rss": "https://social.5th.ro/@clasici.rss"
   },
-  "updated_at": "2026-01-29T06:02:57.927203+00:00",
+  "updated_at": "2026-01-29T07:09:49.493819+00:00",
   "status": "ok",
   "items": [
     {

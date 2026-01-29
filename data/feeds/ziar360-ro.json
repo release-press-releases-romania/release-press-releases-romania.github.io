@@ -4,13 +4,13 @@
     "name": "Ziar360",
     "url": "https://ziar360.ro/",
     "category": "News & Society",
-    "rss": "https://ziar360.ro/?feed=rss2"
+    "rss": "https://ziar360.ro/feed/"
   },
   "mastodon": {
     "url": "https://social.5th.ro/@ziar360",
     "rss": "https://social.5th.ro/@ziar360.rss"
   },
-  "updated_at": "2026-01-29T06:02:57.927203+00:00",
+  "updated_at": "2026-01-29T07:09:49.493819+00:00",
   "status": "ok",
   "items": [
     {
