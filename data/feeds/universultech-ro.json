@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@UniversulTech",
     "rss": "https://social.5th.ro/@UniversulTech.rss"
   },
-  "updated_at": "2026-01-30T14:58:37.589060+00:00",
+  "updated_at": "2026-01-30T15:54:34.445262+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Greșeli frecvente pe care le faci când gătești și cum le poți evita",
+      "link": "https://universultech.ro/greseli-frecvente-pe-care-le-faci-cand-gatesti-si-cum-le-poti-evita/",
+      "summary": "Gătitul este o activitate care ar trebui să-ți aducă satisfacție, relaxare și bucuria de a crea ceva bun pentru tine&#8230; Articolul Greșeli frecvente pe care le faci când gătești și cum le poți evita apare prima dată în Universul Tech .",
+      "published": "2026-01-30T15:25:12+00:00",
+      "published_human": "2026-01-30T15:25",
+      "source": "https://UniversulTech.ro/"
+    },
     {
       "title": "De ce cauciucul spongios este esențial pentru etanșarea și izolarea industrială",
       "link": "https://universultech.ro/de-ce-cauciucul-spongios-este-esential-pentru-etansarea-si-izolarea-industriala/",
@@ -100,17 +108,17 @@
       "published": "2025-12-12T14:38:42+00:00",
       "published_human": "2025-12-12T14:38",
       "source": "https://UniversulTech.ro/"
-    },
-    {
-      "title": "Ce aduce nou Galaxy Watch8 pentru antrenamentele de alergare",
-      "link": "https://universultech.ro/ce-aduce-nou-galaxy-watch8-pentru-antrenamentele-de-alergare/",
-      "summary": "Antrenamentele de alergare devin mai ușor de monitorizat atunci când informațiile sunt prezentate clar. Galaxy Watch8 introduce funcții dedicate care&#8230; Articolul Ce aduce nou Galaxy Watch8 pentru antrenamentele de alergare apare prima dată în Universul Tech .",
-      "published": "2025-12-10T11:08:04+00:00",
-      "published_human": "2025-12-10T11:08",
-      "source": "https://UniversulTech.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@UniversulTech/115984742222052513",
+      "summary": "💡Gătitul este o activitate care ar trebui să-ți aducă satisfacție, relaxare și bucuria de a crea ceva bun pentru tine și pentru cei dragi. Totuși, de multe ori, rezultatul final nu este cel la care te așteptai, chiar dacă ai urmat o rețetă pas cu pas. De cele mai multe ori, problema nu este lipsa… ✅ https:// universultech.ro/greseli-frecv ente-pe-care-le-faci-cand-gatesti-si-cum-le-poti-evita/",
+      "published": "2026-01-30T15:25:16+00:00",
+      "published_human": "2026-01-30T15:25",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@UniversulTech/115972779178156781",
@@ -197,14 +205,6 @@
       "summary": "💡Un aspirator cu hartă digitală poate planifica și ajusta traseul de curățare în funcție de structura locuinței. Sistemul ajută la o orientare mai eficientă și la evitarea zonelor deja parcurse. 1. Ce înseamnă / Ce este Harta digitală este o reprezentare a locuinței creată de aspirator prin senzori și algoritmi de analiză. Dispozitivul memorează camerele,… ✅ https:// universultech.ro/de-ce-este-ut il-un-aspirator-cu-harta-digitala/",
       "published": "2025-12-12T14:39:03+00:00",
       "published_human": "2025-12-12T14:39",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@UniversulTech/115694953300077579",
-      "summary": "💡Antrenamentele de alergare devin mai ușor de monitorizat atunci când informațiile sunt prezentate clar. Galaxy Watch8 introduce funcții dedicate care simplifică analiza efortului. Galaxy Watch8 este un dispozitiv purtabil care oferă instrumente pentru evaluarea antrenamentelor de alergare. Sistemul integrează senzori adaptați pentru mișcare, ritm cardiac și biomecanică. Acest model urmărește automat ✅ https:// universultech.ro/ce-aduce-nou- galaxy-watch8-pentru-antrenamentele-de-alergare/",
-      "published": "2025-12-10T11:08:08+00:00",
-      "published_human": "2025-12-10T11:08",
       "source": "Mastodon"
     }
   ]
