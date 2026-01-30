@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@brasov",
     "rss": "https://social.5th.ro/@brasov.rss"
   },
-  "updated_at": "2026-01-30T13:33:01.911884+00:00",
+  "updated_at": "2026-01-30T14:58:37.589060+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "USR–FDGR cere dezbatere publică la Brașov pentru decizia majoră din Centrul Civic.",
+      "link": "https://brasov-azi.ro/usr-fdgr-cere-dezbatere-publica-la-brasov-pentru-decizia-majora-din-centrul-civic/",
+      "summary": "Grupul consilierilor locali USR–FDGR din Consiliul Local Brașov a oferit explicații detaliate privind abținerea de la vot referitoare la concesionarea unui teren în Centrul Civic destinat construirii unei catedrale. Poziția lor este prezentată nu ca o opoziție față de credință... Articolul USR–FDGR cere dezbatere publică la Brașov pentru decizia majoră din Centrul Civic. apare prima dată în Brasov AZI .",
+      "published": "2026-01-30T13:38:02+00:00",
+      "published_human": "2026-01-30T13:38",
+      "source": "https://brasov-azi.ro/"
+    },
     {
       "title": "Piața Unirii devine din nou gazda principală a cunoscutului târg de specialități locale „Râșnov cu bun gust”",
       "link": "https://brasov-azi.ro/piata-unirii-devine-din-nou-gazda-principala-a-cunoscutului-targ-de-specialitati-locale-rasnov-cu-bun-gust/",
@@ -100,17 +108,17 @@
       "published": "2026-01-22T12:57:34+00:00",
       "published_human": "2026-01-22T12:57",
       "source": "https://brasov-azi.ro/"
-    },
-    {
-      "title": "Poiana Brașov extinde Masivul Postăvaru deschis complet, incluzând pârtie de competiție și Nocturnă funcțională",
-      "link": "https://brasov-azi.ro/poiana-brasov-extinde-masivul-postavaru-deschis-complet-incluzand-partie-de-competitie-si-nocturna-functionala/",
-      "summary": "Poiana Brașov extinde schiul pe nocturnă până la ora 20:00 (Lupului inferior/Bradul), iar pârtia de concurs Subteleferic este deschisă integral. Articolul Poiana Brașov extinde Masivul Postăvaru deschis complet, incluzând pârtie de competiție și Nocturnă funcțională apare prima dată în Brasov AZI .",
-      "published": "2026-01-22T12:05:01+00:00",
-      "published_human": "2026-01-22T12:05",
-      "source": "https://brasov-azi.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@brasov/115984320624665841",
+      "summary": "Grupul consilierilor locali USR–FDGR din Consiliul Local Brașov a oferit explicații detaliate privind abținerea de la vot referitoare la concesionarea unui teren în Centrul Civic destinat construirii unei catedrale. Poziția lor este prezentată nu ca o opoziție față de credință sau față de Biserică, ci ca un apel ferm la respectarea legalității, la asigurarea transparenței… https:// brasov-azi.ro/usr-fdgr-cere-de zbatere-publica-la-brasov-pentru-decizia-majora-din-centrul-civic/",
+      "published": "2026-01-30T13:38:02+00:00",
+      "published_human": "2026-01-30T13:38",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@brasov/115978069285495137",
@@ -197,14 +205,6 @@
       "summary": "Poiana Brașov extinde schiul pe nocturnă până la ora 20:00 (Lupului inferior/Bradul), iar pârtia de concurs Subteleferic este deschisă integral. https:// brasov-azi.ro/poiana-brasov-ex tinde-masivul-postavaru-deschis-complet-incluzand-partie-de-competitie-si-nocturna-functionala/",
       "published": "2026-01-22T14:06:12+00:00",
       "published_human": "2026-01-22T14:06",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@brasov/115938863023821748",
-      "summary": "Analiza raportului de activitate al consilierului local PSD Alexandra Crivineanu, consilier local din partea PSD, a prezentat recent ceea ce a numit un „bilanț de activitate”, menționat ca o demonstrație de implicare și deschidere după aproape un deceniu petrecut în Consiliul Local Brașov. Cu toate acestea, la o examinare detaliată, documentul generează mai multe nelămuriri… https:// brasov-azi.ro/alexandra-crivin eanu-consilier-psd-ce-face-de-fapt-bilantul-activitatii-si-promisiunile-neonorate/",
-      "published": "2026-01-22T12:57:35+00:00",
-      "published_human": "2026-01-22T12:57",
       "source": "Mastodon"
     }
   ]
