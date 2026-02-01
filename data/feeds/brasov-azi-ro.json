@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@brasov",
     "rss": "https://social.5th.ro/@brasov.rss"
   },
-  "updated_at": "2026-02-01T05:40:57.454719+00:00",
+  "updated_at": "2026-02-01T07:08:40.336700+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Cetatea Rupea: cum o vizitezi eficient + top puncte de belvedere (2026)",
+      "link": "https://brasov-azi.ro/cetatea-rupea-cum-o-vizitezi-eficient-top-puncte-de-belvedere-2026/",
+      "summary": "Cetatea Rupea, monument istoric din Transilvania, este ușor accesibilă lângă E60 și oferă, în doar două ore, priveliști spectaculoase. Articolul Cetatea Rupea: cum o vizitezi eficient + top puncte de belvedere (2026) apare prima dată în Brasov AZI .",
+      "published": "2026-02-01T04:28:53+00:00",
+      "published_human": "2026-02-01T04:28",
+      "source": "https://brasov-azi.ro/"
+    },
     {
       "title": "Cetatea Râșnov 2026: ce e deschis, cum urci și ce merită văzut (update practic)",
       "link": "https://brasov-azi.ro/cetatea-rasnov-2026-ce-e-deschis-cum-urci-si-ce-merita-vazut-update-practic/",
@@ -100,17 +108,17 @@
       "published": "2026-01-27T08:01:29+00:00",
       "published_human": "2026-01-27T08:01",
       "source": "https://brasov-azi.ro/"
-    },
-    {
-      "title": "Accesul la Cetatea Medievală Râșnov va fi fluidizat cu o parcare nouă pe DN1E, investiție de peste 10 milioane de lei",
-      "link": "https://brasov-azi.ro/accesul-la-cetatea-medievala-rasnov-va-fi-fluidizat-cu-o-parcare-noua-pe-dn1e-investitie-de-peste-10-milioane-de-lei/",
-      "summary": "Primăria orașului R&#226;șnov a inițiat un proiect amplu de modernizare și amenajare a parcării situate pe DN1E, zona Valea Cetății. Această parcare reprezintă un punct crucial de acces pentru miile de turiști care vizitează anual Cetatea R&#226;șnov și traseele din... Articolul Accesul la Cetatea Medievală Râșnov va fi fluidizat cu o parcare nouă pe DN1E, investiție de peste 10 milioane de lei apare prima dată în Brasov AZI .",
-      "published": "2026-01-26T08:59:10+00:00",
-      "published_human": "2026-01-26T08:59",
-      "source": "https://brasov-azi.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@brasov/115993962503376535",
+      "summary": "Cetatea Rupea, monument istoric din Transilvania, este ușor accesibilă lângă E60 și oferă, în doar două ore, priveliști spectaculoase. https:// brasov-azi.ro/cetatea-rupea-cu m-o-vizitezi-eficient-top-puncte-de-belvedere-2026/",
+      "published": "2026-02-01T06:30:06+00:00",
+      "published_human": "2026-02-01T06:30",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@brasov/115989147001597328",
@@ -197,14 +205,6 @@
       "summary": "Un pas concret în transformarea digitală a administrației Modernizarea digitală a structurilor guvernamentale reprezintă o provocare majoră și constantă pentru România. În acest context, Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului a inițiat o acțiune substanțială menită să accelereze progresul. Ministrul Economiei, Irineu Darău, a anunțat lansarea unui concurs https:// brasov-azi.ro/ministrul-irineu -darau-lanseaza-task-force-digitalizare-recrutari-de-specialisti-it/",
       "published": "2026-01-27T08:01:29+00:00",
       "published_human": "2026-01-27T08:01",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@brasov/115961088174825163",
-      "summary": "https:// brasov-azi.ro/accesul-la-cetat ea-medievala-rasnov-va-fi-fluidizat-cu-o-parcare-noua-pe-dn1e-investitie-de-peste-10-milioane-de-lei/",
-      "published": "2026-01-26T11:09:43+00:00",
-      "published_human": "2026-01-26T11:09",
       "source": "Mastodon"
     }
   ]
