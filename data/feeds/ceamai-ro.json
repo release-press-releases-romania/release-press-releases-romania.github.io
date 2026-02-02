@@ -4,10 +4,10 @@
     "name": "Ceamai",
     "url": "https://ceamai.ro/",
     "category": "News & Society",
-    "rss": "https://ceamai.ro/feed/"
+    "rss": "https://ceamai.ro/?feed=rss2"
   },
   "mastodon": null,
-  "updated_at": "2026-02-02T13:37:59.644655+00:00",
+  "updated_at": "2026-02-02T15:04:52.869831+00:00",
   "status": "ok",
   "items": [
     {
