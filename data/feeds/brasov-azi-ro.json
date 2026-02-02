@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@brasov",
     "rss": "https://social.5th.ro/@brasov.rss"
   },
-  "updated_at": "2026-02-02T10:09:59.621688+00:00",
+  "updated_at": "2026-02-02T11:09:19.017079+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Predeal în 2026: ce faci într-un weekend (pârtii, drumeții, plimbări)",
+      "link": "https://brasov-azi.ro/predeal-in-2026-ce-faci-intr-un-weekend-partii-drumetii-plimbari/",
+      "summary": "Stațiunea Predeal combină sporturile de iarnă și drumețiile montane cu obiective precum Mănăstirea și Canionul Șapte Scări. Articolul Predeal în 2026: ce faci într-un weekend (pârtii, drumeții, plimbări) apare prima dată în Brasov AZI .",
+      "published": "2026-02-02T08:13:08+00:00",
+      "published_human": "2026-02-02T08:13",
+      "source": "https://brasov-azi.ro/"
+    },
     {
       "title": "Cetatea Rupea: cum o vizitezi eficient + top puncte de belvedere (2026)",
       "link": "https://brasov-azi.ro/cetatea-rupea-cum-o-vizitezi-eficient-top-puncte-de-belvedere-2026/",
@@ -100,17 +108,17 @@
       "published": "2026-01-28T13:36:57+00:00",
       "published_human": "2026-01-28T13:36",
       "source": "https://brasov-azi.ro/"
-    },
-    {
-      "title": "Ministrul Irineu Darău lansează Task Force Digitalizare: Recrutări de specialiști IT.",
-      "link": "https://brasov-azi.ro/ministrul-irineu-darau-lanseaza-task-force-digitalizare-recrutari-de-specialisti-it/",
-      "summary": "Un pas concret în transformarea digitală a administrației Modernizarea digitală a structurilor guvernamentale reprezintă o provocare majoră și constantă pentru România. În acest context, Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului a inițiat o acțiune substanțială menită să accelereze progresul. Ministrul... Articolul Ministrul Irineu Darău lansează Task Force Digitalizare: Recrutări de specialiști IT. apare prima dată în Brasov AZI .",
-      "published": "2026-01-27T08:01:29+00:00",
-      "published_human": "2026-01-27T08:01",
-      "source": "https://brasov-azi.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@brasov/116000510940302890",
+      "summary": "Stațiunea Predeal combină sporturile de iarnă și drumețiile montane cu obiective precum Mănăstirea și Canionul Șapte Scări. https:// brasov-azi.ro/predeal-in-2026- ce-faci-intr-un-weekend-partii-drumetii-plimbari/",
+      "published": "2026-02-02T10:15:27+00:00",
+      "published_human": "2026-02-02T10:15",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@brasov/115993962503376535",
@@ -197,14 +205,6 @@
       "summary": "Serviciul de stomatologie de urgență în cadrul Spitalului Clinic Județean de Urgență Brașov, așteptat de peste un deceniu și jumătate, este pe cale să devină funcțional. Brașovenii se apropie de momentul în care vor beneficia de acest serviciu medical esențial. După numeroase întârzieri administrative și o lungă perioadă de inactivitate politică, procedura de concurs pentru… https:// brasov-azi.ro/stomatologie-de- urgenta-la-spitalul-judetean-brasov-dupa-17-ani-de-asteptare/",
       "published": "2026-01-28T13:36:58+00:00",
       "published_human": "2026-01-28T13:36",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@brasov/115966010319444410",
-      "summary": "Un pas concret în transformarea digitală a administrației Modernizarea digitală a structurilor guvernamentale reprezintă o provocare majoră și constantă pentru România. În acest context, Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului a inițiat o acțiune substanțială menită să accelereze progresul. Ministrul Economiei, Irineu Darău, a anunțat lansarea unui concurs https:// brasov-azi.ro/ministrul-irineu -darau-lanseaza-task-force-digitalizare-recrutari-de-specialisti-it/",
-      "published": "2026-01-27T08:01:29+00:00",
-      "published_human": "2026-01-27T08:01",
       "source": "Mastodon"
     }
   ]
