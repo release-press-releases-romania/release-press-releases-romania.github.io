@@ -4,13 +4,13 @@
     "name": "Pentruoameni",
     "url": "https://pentruoameni.ro/",
     "category": "Miscellaneous",
-    "rss": "https://pentruoameni.ro/feed/"
+    "rss": "https://pentruoameni.ro/?feed=rss2"
   },
   "mastodon": {
     "url": "https://social.5th.ro/@pentruoameni",
     "rss": "https://social.5th.ro/@pentruoameni.rss"
   },
-  "updated_at": "2026-02-03T15:07:15.572054+00:00",
+  "updated_at": "2026-02-03T16:09:19.747723+00:00",
   "status": "ok",
   "items": [
     {

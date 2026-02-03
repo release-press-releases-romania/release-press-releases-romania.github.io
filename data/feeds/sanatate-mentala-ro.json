@@ -4,10 +4,10 @@
     "name": "Sanatate Mentala",
     "url": "https://sanatate-mentala.ro/",
     "category": "Health",
-    "rss": "https://sanatate-mentala.ro/feed/"
+    "rss": "https://sanatate-mentala.ro/?feed=rss2"
   },
   "mastodon": null,
-  "updated_at": "2026-02-03T15:07:15.572054+00:00",
+  "updated_at": "2026-02-03T16:09:19.747723+00:00",
   "status": "ok",
   "items": [
     {
