@@ -7,9 +7,17 @@
     "rss": "https://info-santate.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-02-03T10:02:52.928545+00:00",
+  "updated_at": "2026-02-03T11:04:09.284749+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Ghidul incepatorului in lumea suplimentelor alimentare",
+      "link": "https://info-santate.ro/ghidul-incepatorului-in-lumea-suplimentelor-alimentare/",
+      "summary": "Navigarea în universul vast al suplimentelor alimentare poate părea intimidantă la început. Fie că îți dorești să îmbunătățești sănătatea generală,&#8230; Articolul Ghidul incepatorului in lumea suplimentelor alimentare apare prima dată în Info Sanatate .",
+      "published": "2026-02-03T10:04:06+00:00",
+      "published_human": "2026-02-03T10:04",
+      "source": "https://info-santate.ro/"
+    },
     {
       "title": "Ce să ai în vedere atunci când alegi ochelarii pentru copii",
       "link": "https://info-santate.ro/ce-sa-ai-in-vedere-atunci-cand-alegi-ochelarii-pentru-copii/",
@@ -72,14 +80,6 @@
       "summary": "Alegerea formatului de poker potrivit poate fi la fel de crucială ca și strategia pe care o aplicați la masă.&#8230; Articolul Poker cash vs turnee: avantaje, dezavantaje și tip de jucător apare prima dată în Info Sanatate .",
       "published": "2025-11-14T09:07:58+00:00",
       "published_human": "2025-11-14T09:07",
-      "source": "https://info-santate.ro/"
-    },
-    {
-      "title": "SEO pentru medici și clinici: cum crești numărul de programări din Google",
-      "link": "https://info-santate.ro/seo-pentru-medici-si-clinici-cum-cresti-numarul-de-programari-din-google/",
-      "summary": "Atenție: Sunteți un medic excelent sau dețineți una dintre cele mai performante clinici private din oraș. Totuși, observați că programările&#8230; Articolul SEO pentru medici și clinici: cum crești numărul de programări din Google apare prima dată în Info Sanatate .",
-      "published": "2025-11-14T07:32:14+00:00",
-      "published_human": "2025-11-14T07:32",
       "source": "https://info-santate.ro/"
     }
   ],
