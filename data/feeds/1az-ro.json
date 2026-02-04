@@ -7,7 +7,7 @@
     "rss": "https://1az.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-02-04T06:06:34.365047+00:00",
+  "updated_at": "2026-02-04T07:13:41.435698+00:00",
   "status": "ok",
   "items": [
     {
@@ -48,6 +48,14 @@
       "summary": "Aceasta stire Publicație 03.02.2026 apare prima oara pe Primarii de la A la Z . Source Aceasta stire Publicație 03.02.2026 apare prima oara pe Primarii de la A la Z .",
       "published": "2026-02-03T14:36:27+00:00",
       "published_human": "2026-02-03T14:36",
+      "source": "https://1az.ro/"
+    },
+    {
+      "title": "Comunicat – finalizarea evaluarii tehnice si financiare a proiectului „Cresterea atractivitatii orasului Tg. Neamt… modernizarea statiunii BAILE OGLINZI faza I …”",
+      "link": "https://1az.ro/comunicat-finalizarea-evaluarii-tehnice-si-financiare-a-proiectului-cresterea-atractivitatii-orasului-tg-neamt-modernizarea-statiunii-baile-oglinzi-faza-i/",
+      "summary": "Aceasta stire Comunicat – finalizarea evaluarii tehnice si financiare a proiectului „Cresterea atractivitatii orasului Tg. Neamt… modernizarea statiunii BAILE OGLINZI faza I …” apare prima oara pe Primarii de la A la Z . Deschide Source Aceasta stire Comunicat – finalizarea evaluarii tehnice si financiare a proiectului „Cresterea atractivitatii orasului Tg. Neamt… modernizarea statiunii BAILE OGLINZI faza I …” apare prima oara pe Primarii de la A la Z .",
+      "published": "2026-02-03T14:07:50+00:00",
+      "published_human": "2026-02-03T14:07",
       "source": "https://1az.ro/"
     },
     {
@@ -96,14 +104,6 @@
       "summary": "Aceasta stire H O T Ă R Â R E A NR. 006-2026 apare prima oara pe Primarii de la A la Z . Source Aceasta stire H O T Ă R Â R E A NR. 006-2026 apare prima oara pe Primarii de la A la Z .",
       "published": "2026-02-03T10:40:16+00:00",
       "published_human": "2026-02-03T10:40",
-      "source": "https://1az.ro/"
-    },
-    {
-      "title": "H O T Ă R Â R E A NR. 005-2026",
-      "link": "https://1az.ro/h-o-t-a-r-a-r-e-a-nr-005-2026/",
-      "summary": "Aceasta stire H O T Ă R Â R E A NR. 005-2026 apare prima oara pe Primarii de la A la Z . Source Aceasta stire H O T Ă R Â R E A NR. 005-2026 apare prima oara pe Primarii de la A la Z .",
-      "published": "2026-02-03T10:39:36+00:00",
-      "published_human": "2026-02-03T10:39",
       "source": "https://1az.ro/"
     }
   ],
