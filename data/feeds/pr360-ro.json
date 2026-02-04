@@ -4,13 +4,13 @@
     "name": "Pr360",
     "url": "https://pr360.ro/",
     "category": "PR & Marketing",
-    "rss": "https://pr360.ro/feed/atom/"
+    "rss": "https://pr360.ro/feed/"
   },
   "mastodon": {
     "url": "https://social.5th.ro/@pr360",
     "rss": "https://social.5th.ro/@pr360.rss"
   },
-  "updated_at": "2026-02-04T16:04:12.790625+00:00",
+  "updated_at": "2026-02-04T17:11:08.985915+00:00",
   "status": "ok",
   "items": [
     {

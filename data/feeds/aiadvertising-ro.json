@@ -4,13 +4,13 @@
     "name": "Aiadvertising",
     "url": "https://aiadvertising.ro/",
     "category": "Miscellaneous",
-    "rss": "https://aiadvertising.ro/feed/rss/"
+    "rss": "https://aiadvertising.ro/feed/"
   },
   "mastodon": {
     "url": "https://social.5th.ro/@ai_advertising",
     "rss": "https://social.5th.ro/@ai_advertising.rss"
   },
-  "updated_at": "2026-02-04T16:04:12.790625+00:00",
+  "updated_at": "2026-02-04T17:11:08.985915+00:00",
   "status": "ok",
   "items": [
     {
@@ -94,5 +94,62 @@
       "source": "https://aiadvertising.ro/"
     }
   ],
-  "social": []
+  "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@ai_advertising/115767784299621143",
+      "summary": "Bismut, metalul uimitor care creează opere de artă! Ce este și ce poți face cu el? Metalele rare au mereu ceva aparte, iar bismutul face parte din acea categorie mică de materiale care nu doar fascinează prin aspect, ci atrag atenția imediat ce le vezi. De la modul în care cristalizează până la jocul de… https:// aiadvertising.ro/ce-este-bismu tul-si-de-ce-atrage-atat-de-mult/",
+      "published": "2025-12-23T07:50:00+00:00",
+      "published_human": "2025-12-23T07:50",
+      "source": "Mastodon"
+    },
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@ai_advertising/115736609937188631",
+      "summary": "Ați simțit vreodată că postările dvs. pe rețelele sociale sunt ascunse de algoritmi opaci? Lumea digitală se schimbă rapid, iar descentralizarea prin Fediverse devine esențială. Dacă folosiți WordPress pentru a vă gestiona conținutul, probabil că doriți ca munca dvs. să ajungă direct la publicul de pe platforme alternative, cum ar fi Mastodon. Integrarea dintre platforma… https:// aiadvertising.ro/ghid-cum-cree zi-aplicatie-si-token-pentru-mastodon-pentru-wordpress/",
+      "published": "2025-12-17T19:41:57+00:00",
+      "published_human": "2025-12-17T19:41",
+      "source": "Mastodon"
+    },
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@ai_advertising/115694974337841877",
+      "summary": "Atenție: Observați o scădere a vizibilității magazinului dumneavoastră online? Paginile de produse nu mai ajung în topul rezultatelor Google? Mulți proprietari de magazine simt frustrarea de a investi în publicitate fără a vedea creșterea organică mult dorită. Concurența este acerbă. Simpla listare a produselor nu mai este suficientă. Interes: Secretul succesului pe termen lung în… https:// aiadvertising.ro/2025-articole -seo-pentru-magazine-online-si-fise-de-produs-mai-bune/",
+      "published": "2025-12-10T11:13:29+00:00",
+      "published_human": "2025-12-10T11:13",
+      "source": "Mastodon"
+    },
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@ai_advertising/115694974237640810",
+      "summary": "Mulți utilizatori vor să testeze un telefon sau o interfață nouă înainte de a schimba dispozitivul principal. Aplicația Try Galaxy oferă o variantă de simulare a experienței de utilizare, direct pe telefonul actual. Scopul este familiarizarea cu structura meniurilor și a funcțiilor de bază, fără achiziție. Ce este aplicația Try Galaxy Try Galaxy este o… https:// aiadvertising.ro/de-ce-este-ut ila-aplicatia-try-galaxy-pentru-utilizatori-noi/",
+      "published": "2025-12-10T11:13:27+00:00",
+      "published_human": "2025-12-10T11:13",
+      "source": "Mastodon"
+    },
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@ai_advertising/115694971602464324",
+      "summary": "Analiză Google (Simulare pentru &quot;case pariuri, licență ONJN, bonus bun-venit&quot;) Analiza primelor 10 rezultate arată că utilizatorii caută în principal trei lucruri: legalitate (unde pot paria fără probleme), valoare (cele mai mari bonusuri) și comparații obiective. Conținutul de top: 1. Listează casele de pariuri licențiate, punând accent pe numărul de licență și valabilitatea acesteia. 2.… https:// aiadvertising.ro/cum-alegi-cas a-de-pariuri-licenta-bonusuri-si-oferta-de-meciuri/",
+      "published": "2025-12-10T11:12:47+00:00",
+      "published_human": "2025-12-10T11:12",
+      "source": "Mastodon"
+    },
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@ai_advertising/115694970410226474",
+      "summary": "V-ați simțit vreodată epuizați mental după ore întregi petrecute în fața ecranului sau a mesei de joc? Intensitatea sesiunilor lungi de poker sau de pariuri sportive nu solicită doar resursele financiare, ci și pe cele cognitive. (Attention) Această stare de suprasolicitare, adesea numită &quot;burnout cognitiv&quot;, afectează capacitatea de luare a deciziilor, memoria și, cel mai… https:// aiadvertising.ro/strategii-de- pauza-si-resetare-mentala-dupa-sesiuni-lungi-de-poker-sau-pariuri/",
+      "published": "2025-12-10T11:12:29+00:00",
+      "published_human": "2025-12-10T11:12",
+      "source": "Mastodon"
+    },
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@ai_advertising/115694936655584377",
+      "summary": "Reclame și campanii construite cu ajutorul inteligenței artificiale: strategii, exemple, tool-uri și tactici de optimizare. Pentru branduri care vor advertising mai inteligent, nu doar mai scump. # AI # advertising # marketing # automation https:// aiadvertising.ro",
+      "published": "2025-12-10T11:03:54+00:00",
+      "published_human": "2025-12-10T11:03",
+      "source": "Mastodon"
+    }
+  ]
 }
