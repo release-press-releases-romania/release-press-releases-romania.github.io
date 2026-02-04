@@ -7,9 +7,17 @@
     "rss": "https://1az.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-02-04T09:03:22.427017+00:00",
+  "updated_at": "2026-02-04T10:04:42.013126+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Anunțul Direcției Asistență Socială din cadrul Primăriei Oraș Sovata, privind violența domestică",
+      "link": "https://1az.ro/anuntul-directiei-asistenta-sociala-din-cadrul-primariei-oras-sovata-privind-violenta-domestica/",
+      "summary": "Aceasta stire Anunțul Direcției Asistență Socială din cadrul Primăriei Oraș Sovata, privind violența domestică apare prima oara pe Primarii de la A la Z . Anunț violență domestică Articolul Anunțul Direcției Asistență Socială din cadrul Primăriei Oraș Sovata, privind violența domestică apare prima dată în Primăria Sovata. Source Aceasta stire Anunțul Direcției Asistență Socială din cadrul Primăriei Oraș Sovata, privind violența domestică apare prima oara pe Primarii de la A la Z .",
+      "published": "2026-02-04T07:51:38+00:00",
+      "published_human": "2026-02-04T07:51",
+      "source": "https://1az.ro/"
+    },
     {
       "title": "Proces – verbal de afișare NR.1058/02.02.2026",
       "link": "https://1az.ro/proces-verbal-de-afisare-nr-1058-02-02-2026/",
@@ -96,14 +104,6 @@
       "summary": "Aceasta stire H O T Ă R Â R E A NR. 007-2026 apare prima oara pe Primarii de la A la Z . Source Aceasta stire H O T Ă R Â R E A NR. 007-2026 apare prima oara pe Primarii de la A la Z .",
       "published": "2026-02-03T10:41:01+00:00",
       "published_human": "2026-02-03T10:41",
-      "source": "https://1az.ro/"
-    },
-    {
-      "title": "H O T Ă R Â R E A NR. 006-2026",
-      "link": "https://1az.ro/h-o-t-a-r-a-r-e-a-nr-006-2026/",
-      "summary": "Aceasta stire H O T Ă R Â R E A NR. 006-2026 apare prima oara pe Primarii de la A la Z . Source Aceasta stire H O T Ă R Â R E A NR. 006-2026 apare prima oara pe Primarii de la A la Z .",
-      "published": "2026-02-03T10:40:16+00:00",
-      "published_human": "2026-02-03T10:40",
       "source": "https://1az.ro/"
     }
   ],
