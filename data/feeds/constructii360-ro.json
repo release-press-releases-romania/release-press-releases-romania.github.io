@@ -4,13 +4,13 @@
     "name": "Constructii360",
     "url": "https://constructii360.ro/",
     "category": "Construction & Home",
-    "rss": "https://constructii360.ro/feed/"
+    "rss": "https://constructii360.ro/?feed=rss2"
   },
   "mastodon": {
     "url": "https://social.5th.ro/@constructii360",
     "rss": "https://social.5th.ro/@constructii360.rss"
   },
-  "updated_at": "2026-02-04T15:05:37.112587+00:00",
+  "updated_at": "2026-02-04T16:04:12.790625+00:00",
   "status": "ok",
   "items": [
     {
@@ -94,102 +94,5 @@
       "source": "https://constructii360.ro/"
     }
   ],
-  "social": [
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@constructii360/115972647292109182",
-      "summary": "🆕Locuințele noi sunt proiectate cu alte așteptări decât în urmă cu 10-15 ani: eficiență energetică, suprafețe vitrate mari, lumină naturală, confort acustic și un design minimalist. În acest peisaj, tâmplăria nu mai este un simplu element al închiderii spațiului, ci o componentă care influențează consumul de energie, calitatea aerului din interior și felul în care… https:// constructii360.ro/tamplarie/",
-      "published": "2026-01-28T12:09:22+00:00",
-      "published_human": "2026-01-28T12:09",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@constructii360/115799523631440617",
-      "summary": "🆕/tmp/tmpvp7yrrj3.html https:// constructii360.ro/cum-recunost i-un-infarct-simptome-de-alarma/",
-      "published": "2025-12-28T22:21:44+00:00",
-      "published_human": "2025-12-28T22:21",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@constructii360/115797038663485650",
-      "summary": "🆕/tmp/tmp0m65dqx0.html https:// constructii360.ro/acneea-la-ad olescenti-greseli-frecvente-de-evitat/",
-      "published": "2025-12-28T11:49:47+00:00",
-      "published_human": "2025-12-28T11:49",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@constructii360/115797038552026908",
-      "summary": "🆕/tmp/tmp12x0i71q.html https:// constructii360.ro/implantul-de ntar-tot-ce-trebuie-sa-stii-inainte-sa-decizi/",
-      "published": "2025-12-28T11:49:45+00:00",
-      "published_human": "2025-12-28T11:49",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@constructii360/115797038438248171",
-      "summary": "🆕/tmp/tmpbqk66b1q.html https:// constructii360.ro/dismorfia-co rporala-si-procedurile-estetice-cand-sa-refuzi-pacientul/",
-      "published": "2025-12-28T11:49:43+00:00",
-      "published_human": "2025-12-28T11:49",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@constructii360/115797038321537657",
-      "summary": "🆕/tmp/tmpgt4olds2.html https:// constructii360.ro/frica-de-rad iatii-irationala-sau-justificata/",
-      "published": "2025-12-28T11:49:41+00:00",
-      "published_human": "2025-12-28T11:49",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@constructii360/115736870166353733",
-      "summary": "🆕Trecerea la Fediverse și integrarea platformei Mastodon cu site-urile tradiționale devine o necesitate pentru mulți creatori de conținut. Site-ul tău WordPress este inima prezenței tale online, iar securitatea lui nu trebuie compromisă. Conectarea acestor două lumi implică adesea utilizarea unor plugin-uri specializate. Însă, te-ai întrebat vreodată ce anume permisiuni cere un astfel de instrument https:// constructii360.ro/mastodon-wor dpress-plugin-ce-permisiuni-si-ce-securitate-trebuie-sa-ai/",
-      "published": "2025-12-17T20:48:08+00:00",
-      "published_human": "2025-12-17T20:48",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@constructii360/115695252061110810",
-      "summary": "🆕Orobabil ai observat că multe oferte imobiliare sunt prezentate în stadiul de proiect. Clădirea încă nu există sau e abia la nivel de fundație, iar tu trebuie să iei o decizie bazată pe randări, planuri și promisiuni. Pentru unii cumpărători, acest lucru poate părea riscant. Pentru alții însă, reprezintă o oportunitate de a obține mai… https:// constructii360.ro/merita-sa-cu mperi-apartament-in-faza-de-proiect-avantaje-si-riscuri/",
-      "published": "2025-12-10T12:24:06+00:00",
-      "published_human": "2025-12-10T12:24",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@constructii360/115695251996478110",
-      "summary": "🆕ROMANIAN ENERGY WEEK 2025: 5 zile de dezbateri, 5 teme vitale pentru energie Palatul Parlamentului găzduiește între 17 și 21 noiembrie ROMANIAN ENERGY WEEK [REW 2025], summit organizat în parteneriat strategic cu Ministerul Energiei, Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului, Ministerul Mediului, Apelor și Pădurilor, precum și Departamentul pentru Dezvoltare Durabilă al Guvernului și Cancelaria… https:// constructii360.ro/romanian-ene rgy-week-2025/",
-      "published": "2025-12-10T12:24:05+00:00",
-      "published_human": "2025-12-10T12:24",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@constructii360/115695251922949923",
-      "summary": "🆕(Atenție) Te-ai întrebat vreodată de ce unii pariori par să câștige constant, în timp ce alții depind de noroc? Secretul lor nu stă în ghicirea rezultatelor, ci în aplicarea unor principii preluate dintr-un joc ce necesită o disciplină mentală de fier: Pokerul. (Interes) Mulți văd biletul zilei doar ca pe o combinație rapidă de cote.… https:// constructii360.ro/biletul-zile i-inspirat-din-poker-gandire-strategica-si-risc-calculat/",
-      "published": "2025-12-10T12:24:04+00:00",
-      "published_human": "2025-12-10T12:24",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@constructii360/115695251831824227",
-      "summary": "🆕Ești sătul să pierzi constant bani la pariuri din cauza deciziilor luate în grabă? Mulți pariori se concentrează exclusiv pe adrenalina și câștigul rapid promise de celebrul biletul zilei. Totuși, secretul succesului pe termen lung nu stă neapărat în noroc, ci într-o strategie pariuri bine definită. Adevărata performanță vine dintr-o abordare structurată, mai ales când… https:// constructii360.ro/biletul-zile i-vs-bilete-de-weekend-diferente-de-abordare-si-risc/",
-      "published": "2025-12-10T12:24:03+00:00",
-      "published_human": "2025-12-10T12:24",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@constructii360/115695251711476635",
-      "summary": "🆕Ați investit timp și resurse semnificative în dezvoltarea noului dumneavoastră proiect web. Design-ul este impecabil, codul este curat, iar conținutul este gata să fie publicat. Dar așteptați! Lansarea unui site fără o pregătire SEO adecvată este ca și cum ați organiza o petrecere fără a trimite invitații. Puteți pierde vizibilitate prețioasă, iar munca depusă poate… https:// constructii360.ro/checklist-se o-inainte-de-lansarea-site-ului-ce-verifici-ca-sa-nu-pierzi-trafic/",
-      "published": "2025-12-10T12:24:01+00:00",
-      "published_human": "2025-12-10T12:24",
-      "source": "Mastodon"
-    }
-  ]
+  "social": []
 }

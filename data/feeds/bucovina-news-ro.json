@@ -4,13 +4,13 @@
     "name": "Bucovina News",
     "url": "https://bucovina-news.ro/",
     "category": "News & Society",
-    "rss": "https://bucovina-news.ro/feed/"
+    "rss": "https://bucovina-news.ro/feed/atom/"
   },
   "mastodon": {
     "url": "https://social.5th.ro/@bucovina",
     "rss": "https://social.5th.ro/@bucovina.rss"
   },
-  "updated_at": "2026-02-04T15:05:37.112587+00:00",
+  "updated_at": "2026-02-04T16:04:12.790625+00:00",
   "status": "ok",
   "items": [
     {
@@ -86,7 +86,7 @@
       "source": "https://bucovina-news.ro/"
     },
     {
-      "title": "Servicii SEO Bucovina – Publicare & Redactare Continut",
+      "title": "Servicii SEO Bucovina – Publicare &#038; Redactare Continut",
       "link": "https://bucovina-news.ro/servicii-seo-bucovina/",
       "summary": "Acoperim discret orașele din Bucovina cu servicii SEO complete: redactare și publicare pentru advertoriale, articole SEO și comunicate de presă. Mai jos găsești o hartă simplă pe orașe și, la&#8230; Articolul Servicii SEO Bucovina – Publicare &amp; Redactare Continut apare prima dată în Bucovina News .",
       "published": "2025-08-21T07:32:35+00:00",
@@ -94,54 +94,5 @@
       "source": "https://bucovina-news.ro/"
     }
   ],
-  "social": [
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@bucovina/115736936054127961",
-      "summary": "Când investiți timp în crearea de conținut valoros pe platforma wordpress, doriți ca efortul dumneavoastră să fie răsplătit cu vizibilitate maximă. O problemă frecventă apare la distribuirea automată a postărilor pe rețelele sociale descentralizate, cum ar fi Mastodon. Mai exact, de ce imaginea principală (featured image) nu se afișează corect sau deloc? Acest detaliu vizual… https:// bucovina-news.ro/cum-gestionez i-imagini-featured-in-postarea-mastodon-din-wordpress/",
-      "published": "2025-12-17T21:04:53+00:00",
-      "published_human": "2025-12-17T21:04",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@bucovina/115706346419739326",
-      "summary": "Introducere: Miza conținutului de nișă în era încrederii digitale A (Atenție): V-ați întrebat vreodată cât de mult costă o singură informație eronată într-un domeniu sensibil? Nu vorbim doar de pierderea traficului SEO. Vorbim despre riscuri financiare majore, consecințe legale sau chiar despre impactul asupra sănătății cititorilor dumneavoastră. Pe măsură ce motoarele de căutare devin mai… https:// bucovina-news.ro/2025-articole -seo-pentru-bloguri-de-nisa-medical-juridic-financiar/",
-      "published": "2025-12-12T11:25:33+00:00",
-      "published_human": "2025-12-12T11:25",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@bucovina/115706346304887520",
-      "summary": "Te-ai săturat să cauți formula magică? Fiecare parior visează să descopere acel secret. Toți își doresc să găsească combinația perfectă de meciuri. Acea combinație care să aducă un câștig garantat, fără riscuri. Mulți pariori petrec ore întregi căutând pe internet. Ei speră să descopere un așa-numit bilet sigur, oferit gratuit sau contra cost. Realitatea dură… https:// bucovina-news.ro/de-ce-nu-exis ta-biletul-zilei-100-sigur-si-cum-sa-ti-setezi-asteptarile/",
-      "published": "2025-12-12T11:25:31+00:00",
-      "published_human": "2025-12-12T11:25",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@bucovina/115706346131055691",
-      "summary": "Vă simțiți adesea copleșiți sau regretați timpul petrecut în fața ecranului jucând jocuri de noroc online? (Attention) Mulți jucători se confruntă cu dificultatea de a menține echilibrul între divertisment și responsabilitate. Această lipsă de structură duce rapid la depășirea limitelor financiare sau de timp. (Interest) Soluția nu este neapărat renunțarea totală, ci adoptarea unor strategii… https:// bucovina-news.ro/ghid-pentru-s esiuni-scurte-si-controlate-de-pacanele-poker-si-pariuri/",
-      "published": "2025-12-12T11:25:28+00:00",
-      "published_human": "2025-12-12T11:25",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@bucovina/115706345917579425",
-      "summary": "Ai simțit vreodată că munca depusă în SEO nu dă roadele așteptate? Concurența în mediul online este acerbă, iar a te baza doar pe intuiție nu mai este o opțiune viabilă. Pentru a câștiga vizibilitate și a ajunge în topul căutărilor, nu este suficient să creezi conținut bun. Trebuie să știi exact unde te poziționezi… https:// bucovina-news.ro/cum-monitoriz ezi-concurenta-in-seo-si-gasesti-golurile-din-piata/",
-      "published": "2025-12-12T11:25:25+00:00",
-      "published_human": "2025-12-12T11:25",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@bucovina/115706326309864518",
-      "summary": "Știri și povești din Bucovina: comunități, tradiții, turism, natură, cultură și afaceri locale. Urmărește-ne pentru un flux constant de noutăți din Țara Fagilor. # bucovina # stiri # comunitate # turism # politica https:// bucovina-news.ro/",
-      "published": "2025-12-12T11:20:26+00:00",
-      "published_human": "2025-12-12T11:20",
-      "source": "Mastodon"
-    }
-  ]
+  "social": []
 }

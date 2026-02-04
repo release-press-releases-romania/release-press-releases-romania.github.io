@@ -4,13 +4,13 @@
     "name": "Constanta Azi",
     "url": "https://constanta-azi.ro/",
     "category": "News & Society",
-    "rss": "https://constanta-azi.ro/feed/"
+    "rss": "https://constanta-azi.ro/?feed=rss2"
   },
   "mastodon": {
     "url": "https://social.5th.ro/@constanta",
     "rss": "https://social.5th.ro/@constanta.rss"
   },
-  "updated_at": "2026-02-04T15:05:37.112587+00:00",
+  "updated_at": "2026-02-04T16:04:12.790625+00:00",
   "status": "ok",
   "items": [
     {
@@ -86,54 +86,5 @@
       "source": "https://constanta-azi.ro/"
     }
   ],
-  "social": [
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@constanta/115736907702282513",
-      "summary": "Ați investit timp și energie în crearea unui conținut amplu pe platforma WordPress. Articolele dumneavoastră sunt detaliate, bine documentate și gata să fie împărtășite cu lumea. Dar când vine momentul să le distribuiți pe rețelele sociale descentralizate, vă confruntați brusc cu o barieră tehnică frustrantă: stricta limită caractere impusă de Mastodon. Această discrepanță între conținutul… https:// constanta-azi.ro/cum-setezi-lu ngimea-textului-si-taierea-inteligenta-pentru-mastodon/",
-      "published": "2025-12-17T20:57:41+00:00",
-      "published_human": "2025-12-17T20:57",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@constanta/115706295506053831",
-      "summary": "Introducere: Navigând în Universul Digital al Pariurilor Atenție: Industria de jocuri video a depășit de mult statutul de simplă nișă. Astăzi, turneele eSports atrag milioane de spectatori, umplând stadioane virtuale și fizice. Această audiență masivă nu doar urmărește, ci este și profund implicată. Dar cum se traduce spectacolul digital într-o oportunitate reală de pariere? Interes:… https:// constanta-azi.ro/pariuri-pe-es ports-noul-teren-de-joc-pentru-pariorii-moderni/",
-      "published": "2025-12-12T11:12:36+00:00",
-      "published_human": "2025-12-12T11:12",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@constanta/115706295425831266",
-      "summary": "Analiza preliminară a rezultatelor Google pentru cuvintele cheie &quot;greșeli pariuri, joc impulsiv, pariuri sportive&quot; arată că articolele de succes se concentrează pe trei piloni principali: **Managementul Banilor (Bankroll Management):** Aceasta este unanim considerată cea mai importantă secțiune, unde se discută alocarea unităților și setarea limitelor. **Psihologia și Emoțiile (Tilt/Joc Impulsiv):** https:// constanta-azi.ro/greseli-frecv ente-la-pariuri-sportive-care-iti-pot-consuma-rapid-banca/",
-      "published": "2025-12-12T11:12:35+00:00",
-      "published_human": "2025-12-12T11:12",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@constanta/115706295333148764",
-      "summary": "Introducere AIDA: Cum să obții vizibilitate fără să investești o avere A (Atenție): Vă confruntați cu dilema costurilor mari de marketing? Mulți proprietari de afaceri mici cred că optimizarea pentru motoarele de căutare (SEO) este un lux scump, rezervat companiilor mari. Ei amână investițiile, pierzând astfel vizibilitatea în fața concurenței. Realitatea este că nu trebuie… https:// constanta-azi.ro/seo-cu-buget- mic-tactici-cu-impact-mare-pe-care-le-poti-aplica-singur/",
-      "published": "2025-12-12T11:12:33+00:00",
-      "published_human": "2025-12-12T11:12",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@constanta/115706293946322489",
-      "summary": "Analiză scurtă a rezultatelor Google: Rezultatele de top pentru '&quot;cote moderate, analiză bilet, pariuri responsabile&quot;' arată o tendință clară către conținut educațional care promovează sustenabilitatea pe termen lung. Articolele de succes se concentrează pe diferența dintre pariorii ocazionali și cei disciplinați. Elementele cheie care le diferențiază sunt: **Bankroll Management:** Discuția https:// constanta-azi.ro/biletul-zilei -pentru-jucatori-prudenti-focus-pe-cote-moderate-si-analiza-solida/",
-      "published": "2025-12-12T11:12:12+00:00",
-      "published_human": "2025-12-12T11:12",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@constanta/115706279130082885",
-      "summary": "Știri și povești din Constanța: port, mare, plajă, turism, evenimente, trafic și afaceri locale. Tot ce merită urmărit azi la malul mării. # constanta # stiri # turism # litoral # politica https:// constanta-azi.ro",
-      "published": "2025-12-12T11:08:26+00:00",
-      "published_human": "2025-12-12T11:08",
-      "source": "Mastodon"
-    }
-  ]
+  "social": []
 }
