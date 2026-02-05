@@ -4,13 +4,13 @@
     "name": "Constructii360",
     "url": "https://constructii360.ro/",
     "category": "Construction & Home",
-    "rss": "https://constructii360.ro/feed/"
+    "rss": "https://constructii360.ro/?feed=rss2"
   },
   "mastodon": {
     "url": "https://social.5th.ro/@constructii360",
     "rss": "https://social.5th.ro/@constructii360.rss"
   },
-  "updated_at": "2026-02-05T16:00:41.789082+00:00",
+  "updated_at": "2026-02-05T17:12:43.173379+00:00",
   "status": "ok",
   "items": [
     {
