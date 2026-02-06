@@ -7,9 +7,17 @@
     "rss": "https://energie-sustenabila.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-02-06T09:04:26.414930+00:00",
+  "updated_at": "2026-02-06T10:03:36.395227+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Cum optimizează AI consumul de energie în funcție de utilizare",
+      "link": "https://energie-sustenabila.ro/cum-optimizeaza-ai-consumul-de-energie-in-functie-de-utilizare/",
+      "summary": "AI este folosit tot mai des pentru a regla consumul în electrocasnice. Ideea este să adapteze funcționarea la ce se întâmplă în timp real. 1. Ce înseamnă / Ce este Optimizarea consumului cu AI înseamnă ajustarea automată a setărilor ca să se evite risipa. Sistemul ia decizii pe baza datelor din senzori și a tiparelor... Mai mult &#8220;Cum optimizează AI consumul de energie în funcție de utilizare&#8221; &#187; Articolul Cum optimizează AI consumul de energie în funcție de utilizare apare prima dată în Energie Sustenabila .",
+      "published": "2026-02-06T07:55:40+00:00",
+      "published_human": "2026-02-06T07:55",
+      "source": "https://energie-sustenabila.ro/"
+    },
     {
       "title": "Reziliența alimentară: investiții de 52 milioane lei în sistemele AgriPV și irigații inteligente, susținute de consorțiul Prodfer Construct – PARAPET",
       "link": "https://energie-sustenabila.ro/rezilienta-alimentara-investitii-de-52-milioane-lei-in-sistemele-agripv-si-irigatii-inteligente-sustinute-de-consortiul-prodfer-construct-parapet/",
@@ -80,14 +88,6 @@
       "summary": "Pe măsură ce sectorul energetic global și european se confruntă cu schimbări structurale profunde – de la volatilitatea necontenită a prețurilor și complexitatea reglementărilor, până la imperativele climatice și de sustenabilitate – necesitatea unei consultanțe care depășește sfera teoretică devine vitală. Casa de Consultanță Ciobanu și Asociații (CCCA) răspunde acestei nevoi critice, poziționându-se ca un... Mai mult &#8220;Casa de Consultanță Ciobanu și Asociații (CCCA) lansează un nou model de consultanță&#8221; &#187; Articolul Casa de Consultanță Ciobanu și Asociații (CCCA) lansează un nou model de consultanță apare prima dată în Energie Sustenabila .",
       "published": "2026-01-19T07:32:39+00:00",
       "published_human": "2026-01-19T07:32",
-      "source": "https://energie-sustenabila.ro/"
-    },
-    {
-      "title": "Cum să eviți blocarea motorului din cauza sistemelor de tratare a gazelor de eșapament",
-      "link": "https://energie-sustenabila.ro/cum-sa-eviti-blocarea-motorului-din-cauza-sistemelor-de-tratare-a-gazelor-de-esapament/",
-      "summary": "Motoarele diesel moderne sunt minuni ale ingineriei care îmbină puterea brută cu o eficiență remarcabilă. Ele sunt proiectate să respecte standarde de mediu extrem de stricte prin intermediul unor procese chimice complexe desfășurate în timp real. Nucleul acestei tehnologii de protecție a mediului este sistemul de reducere catalitică selectivă (SCR). Acest sistem folosește o soluție... Mai mult &#8220;Cum să eviți blocarea motorului din cauza sistemelor de tratare a gazelor de eșapament&#8221; &#187; Articolul Cum să eviți blocarea motorului din cauza sistemelor de tratare a gazelor de eșapament apare prima dată în Energie Sustenabila .",
-      "published": "2026-01-14T15:17:08+00:00",
-      "published_human": "2026-01-14T15:17",
       "source": "https://energie-sustenabila.ro/"
     }
   ],

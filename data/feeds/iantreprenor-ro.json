@@ -7,9 +7,17 @@
     "rss": "https://iAntreprenor.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-02-06T09:04:26.414930+00:00",
+  "updated_at": "2026-02-06T10:03:36.395227+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "De la design la impact vizual: de ce contează etichetele personalizate",
+      "link": "https://iantreprenor.ro/de-la-design-la-impact-vizual-de-ce-conteaza-etichetele-personalizate/",
+      "summary": "De la design la impact vizual: de ce contează etichetele personalizate Într-un peisaj comercial în care consumatorii iau decizii rapide,&#8230; Articolul De la design la impact vizual: de ce contează etichetele personalizate apare prima dată în iAntreprenor .",
+      "published": "2026-02-06T07:48:37+00:00",
+      "published_human": "2026-02-06T07:48",
+      "source": "https://iAntreprenor.ro/"
+    },
     {
       "title": "Verificare cont pe Mastodon: ce înseamnă și ce poți face",
       "link": "https://iantreprenor.ro/verificare-cont-pe-mastodon-ce-inseamna-si-ce-poti-face/",
@@ -96,14 +104,6 @@
       "summary": "Piața suplimentelor alimentare din România s-a dublat în ultimii ani, atingând 2,7 miliarde lei. Creșterea TVA-ului la 21% schimbă strategiile industriei Articolul Piața suplimentelor alimentare din România în 2020-2025: efectele TVA 21% și direcțiile de creștere până în 2029 apare prima dată în iAntreprenor .",
       "published": "2025-11-04T15:55:07+00:00",
       "published_human": "2025-11-04T15:55",
-      "source": "https://iAntreprenor.ro/"
-    },
-    {
-      "title": "CONAF lansează seria națională „SupraTAX” Set de măsuri care pot reduce deficitul bugetar",
-      "link": "https://iantreprenor.ro/conaf-lanseaza-seria-nationala-supratax-set-de-masuri-care-pot-reduce-deficitul-bugetar/",
-      "summary": "Brăila, 29 octombrie 2025 &#8211; Peste 200 de antreprenori din toate sectoarele economiei rom&#226;nești au participat la prima ediție a&#8230; Articolul CONAF lansează seria națională „SupraTAX” Set de măsuri care pot reduce deficitul bugetar apare prima dată în iAntreprenor .",
-      "published": "2025-10-30T07:25:46+00:00",
-      "published_human": "2025-10-30T07:25",
       "source": "https://iAntreprenor.ro/"
     }
   ],

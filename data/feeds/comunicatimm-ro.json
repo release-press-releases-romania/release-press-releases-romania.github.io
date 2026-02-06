@@ -7,9 +7,17 @@
     "rss": "https://comunicatimm.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-02-06T09:04:26.414930+00:00",
+  "updated_at": "2026-02-06T10:03:36.395227+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "De ce profesionalismul contează în transportul internațional",
+      "link": "https://comunicatimm.ro/de-ce-profesionalismul-conteaza-in-transportul-international/",
+      "summary": "Într-o economie globalizată, în care granițele comerciale sunt tot mai ușor de traversat, transportul internațional joacă un rol esențial în succesul oricărei afaceri. Fie că vorbim despre mărfuri generale, echipamente industriale &#8230; Articolul De ce profesionalismul contează în transportul internațional apare prima dată în Comunicat IMM .",
+      "published": "2026-02-06T07:31:18+00:00",
+      "published_human": "2026-02-06T07:31",
+      "source": "https://comunicatimm.ro/"
+    },
     {
       "title": "Cum adaugi call-to-action elegant în postările trimise din WordPress pe Mastodon",
       "link": "https://comunicatimm.ro/cum-adaugi-call-to-action-elegant-in-postarile-trimise-din-wordpress-pe-mastodon/",
@@ -80,14 +88,6 @@
       "summary": "Răzvan Oprea, actor, regizor și formator, lansează un atelier gratuit, de creație colectivă, dedicat celor care vor să exploreze profunzimea artei teatrale și să contribuie la un spectacol cu mesaj contemporan:&#160;&#8222;Sacrificiul&#8221;. &#8230; Articolul De la quantum training la scenă: Răzvan Oprea, actor și regizor apare prima dată în Comunicat IMM .",
       "published": "2025-09-24T04:54:29+00:00",
       "published_human": "2025-09-24T04:54",
-      "source": "https://comunicatimm.ro/"
-    },
-    {
-      "title": "Comunicate Iași – redactare & publicare (IMM, PNRR, începere/finalizare proiect)",
-      "link": "https://comunicatimm.ro/comunicate-iasi/",
-      "summary": "Comunicate Comunicate de presă Iași – redactare &#038; publicare Scriem și publicăm comunicate de presă pentru companii și IMM-uri din Iași: începere/lansare proiect, finalizare proiect, PNRR, digitalizare IMM, evenimente &#038; parteneriate. &#8230; Articolul Comunicate Iași – redactare &amp; publicare (IMM, PNRR, începere/finalizare proiect) apare prima dată în Comunicat IMM .",
-      "published": "2025-09-09T12:34:54+00:00",
-      "published_human": "2025-09-09T12:34",
       "source": "https://comunicatimm.ro/"
     }
   ],
