@@ -5,8 +5,8 @@
     <link>https://release-press-releases-romania.github.io</link>
     <description>Aggregated RSS feed of press releases from over 100 Romanian publishers. Covering PR &amp; Marketing, Health, News &amp; Society, Technology, Business, Construction, Tourism, and more. Curated selection of quality press releases from trusted Romanian sources.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Feb 2026 06:33:26 +0000</lastBuildDate>
-    <pubDate>Sat, 07 Feb 2026 06:33:26 +0000</pubDate>
+    <lastBuildDate>Sat, 07 Feb 2026 12:31:06 +0000</lastBuildDate>
+    <pubDate>Sat, 07 Feb 2026 12:31:06 +0000</pubDate>
     <generator>Release Press Releases in Romania RSS Aggregator v2.0</generator>
     <webMaster>noreply@release-press-releases-romania.github.io (Release Press Releases)</webMaster>
     <managingEditor>noreply@release-press-releases-romania.github.io (Release Press Releases)</managingEditor>
@@ -28,6 +28,34 @@
     <sy:updateFrequency>1</sy:updateFrequency>
     <copyright>Copyright 2026 Release Press Releases in Romania. Content belongs to respective publishers.</copyright>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Cum pregătești casa pentru sezonul rece cu tehnologie smart: senzori, automatizări și scenarii</title>
+      <link>https://case-verzi.ro/cum-pregatesti-casa-pentru-sezonul-rece-cu-tehnologie-smart-senzori-automatizari-si-scenarii/</link>
+      <description><![CDATA[From Case Verzi: Tehnologia smart te ajută să controlezi mai bine încălzirea și confortul iarna. Se bazează pe senzori și reguli automate, setate simplu. 1. Ce înseamnă / Ce este O casă pregătită „smart” pentru sezonul rece înseamnă monitorizare și ajustare automată. Scopul este să menții temperatura potrivită, cu eficiență energetică mai bună. Senzorii măsoară temperatură, umiditate și uneori prezență. Automat...]]></description>
+      <pubDate>Sat, 07 Feb 2026 10:01:00 +0000</pubDate>
+      <author>Case Verzi (https://release-press-releases-romania.github.io/publisher/case-verzi-ro/)</author>
+      <dc:creator>Case Verzi</dc:creator>
+      <dc:date>2026-02-07T10:01:00+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">Construction &amp; Home</category>
+      <guid isPermaLink="true">https://case-verzi.ro/cum-pregatesti-casa-pentru-sezonul-rece-cu-tehnologie-smart-senzori-automatizari-si-scenarii/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/case-verzi-ro/">Case Verzi</source>
+      <content:encoded><![CDATA[From Case Verzi: Tehnologia smart te ajută să controlezi mai bine încălzirea și confortul iarna. Se bazează pe senzori și reguli automate, setate simplu. 1. Ce înseamnă / Ce este O casă pregătită „smart” pentru sezonul rece înseamnă monitorizare și ajustare automată. Scopul este să menții temperatura potrivită, cu eficiență energetică mai bună. Senzorii măsoară temperatură, umiditate și uneori prezență. Automat...]]></content:encoded>
+      <comments>https://case-verzi.ro/cum-pregatesti-casa-pentru-sezonul-rece-cu-tehnologie-smart-senzori-automatizari-si-scenarii/#comments</comments>
+    </item>
+    <item>
+      <title>Rolul etichetelor personalizate în construirea unui brand</title>
+      <link>https://iafaceri.ro/rolul-etichetelor-personalizate-in-construirea-unui-brand/</link>
+      <description><![CDATA[From iAfaceri: Etichetele personalizate – un element esențial care diferențiază produsele pe o piață competitivă Într-o piață tot mai competitivă, în care consumatorii sunt bombardați zilnic cu sute de mesaje comerciale, detaliile fac diferența. Unul dintre aceste detalii, adesea subestimat, dar esențial pentru succesul unui produs, este eticheta. Etichetele personalizate nu sunt doar simple suporturi de info...]]></description>
+      <pubDate>Sat, 07 Feb 2026 07:46:00 +0000</pubDate>
+      <author>iAfaceri (https://release-press-releases-romania.github.io/publisher/iafaceri-ro/)</author>
+      <dc:creator>iAfaceri</dc:creator>
+      <dc:date>2026-02-07T07:46:00+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">Business</category>
+      <guid isPermaLink="true">https://iafaceri.ro/rolul-etichetelor-personalizate-in-construirea-unui-brand/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/iafaceri-ro/">iAfaceri</source>
+      <content:encoded><![CDATA[From iAfaceri: Etichetele personalizate – un element esențial care diferențiază produsele pe o piață competitivă Într-o piață tot mai competitivă, în care consumatorii sunt bombardați zilnic cu sute de mesaje comerciale, detaliile fac diferența. Unul dintre aceste detalii, adesea subestimat, dar esențial pentru succesul unui produs, este eticheta. Etichetele personalizate nu sunt doar simple suporturi de info...]]></content:encoded>
+      <comments>https://iafaceri.ro/rolul-etichetelor-personalizate-in-construirea-unui-brand/#comments</comments>
+    </item>
     <item>
       <title>Numele TAYMI: semnificație, origine, trăsături și personalitate</title>
       <link>https://e-nume.ro/numele-taymi-semnificatie-origine-trasaturi-si-personalitate/</link>
@@ -1583,20 +1611,6 @@
       <comments>https://irezidential.ro/2025/12/17/cum-gestionezi-notificarile-pe-mastodon-ca-sa-nu-te-copleseasca/#comments</comments>
     </item>
     <item>
-      <title>Mastodon WordPress plugin: cum eviți postările duplicate</title>
-      <link>https://case-verzi.ro/mastodon-wordpress-plugin-cum-eviti-postarile-duplicate/</link>
-      <description><![CDATA[From Case Verzi: Vrei să îți extinzi audiența din WordPress direct pe Fediverse, fără efort? Automatizarea postărilor către Mastodon este o strategie excelentă, oferind o prezență constantă fără a necesita intervenție manuală continuă. Cu toate acestea, mulți utilizatori se lovesc de o problemă frustrantă: cum să folosești un mastodon wordpress plugin eficient, dar să eviți acele postări multiple sau, mai rău, ...]]></description>
-      <pubDate>Wed, 17 Dec 2025 16:58:54 +0000</pubDate>
-      <author>Case Verzi (https://release-press-releases-romania.github.io/publisher/case-verzi-ro/)</author>
-      <dc:creator>Case Verzi</dc:creator>
-      <dc:date>2025-12-17T16:58:54+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">Construction &amp; Home</category>
-      <guid isPermaLink="true">https://case-verzi.ro/mastodon-wordpress-plugin-cum-eviti-postarile-duplicate/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/case-verzi-ro/">Case Verzi</source>
-      <content:encoded><![CDATA[From Case Verzi: Vrei să îți extinzi audiența din WordPress direct pe Fediverse, fără efort? Automatizarea postărilor către Mastodon este o strategie excelentă, oferind o prezență constantă fără a necesita intervenție manuală continuă. Cu toate acestea, mulți utilizatori se lovesc de o problemă frustrantă: cum să folosești un mastodon wordpress plugin eficient, dar să eviți acele postări multiple sau, mai rău, ...]]></content:encoded>
-      <comments>https://case-verzi.ro/mastodon-wordpress-plugin-cum-eviti-postarile-duplicate/#comments</comments>
-    </item>
-    <item>
       <title>Diferența dintre Local timeline și Federated timeline</title>
       <link>https://lvu.ro/diferenta-dintre-local-timeline-si-federated-timeline/</link>
       <description><![CDATA[From Lvu: V-ați simțit vreodată copleșiți de algoritmii rețelelor sociale centralizate? Lumea online de astăzi este adesea guvernată de inteligența artificială care decide ce merită să vedeți. Din fericire, există alternative care redau controlul utilizatorilor. Dacă ați început să explorați platforma descentralizată Mastodon, probabil ați întâlnit deja termenii care definesc modul în care interacționați...]]></description>
@@ -1665,20 +1679,6 @@
       <source url="https://release-press-releases-romania.github.io/publisher/5th-ro/">5th</source>
       <content:encoded><![CDATA[From 5th: .f-card{border:1px solid rgba(0,0,0,.08); border-radius:16px; padding:16px; background:#fff; box-shadow:0 8px 24px rgba(0,0,0,.06); margin:16px 0;} .f-grid{display:grid; gap:14px; grid-template-columns:repeat(12,1fr);} .f-col-6{grid-column:span 6;} .f-col-12{grid-column:span 12;} .f-muted{opacity:.78;} .f-badge{display:inline-block; padding:6px 10px; border-radius:999px; background:rgba(0,0,0,....]]></content:encoded>
       <comments>https://5th.ro/mastodon-romania/#comments</comments>
-    </item>
-    <item>
-      <title>Edițiile speciale Steelbook: de ce reprezintă alegerea nr. 1 a colecționarilor</title>
-      <link>https://iafaceri.ro/editiile-speciale-steelbook-de-ce-reprezinta-alegerea-nr-1-a-colectionarilor/</link>
-      <description><![CDATA[From iAfaceri: Există momente în care pasiunea pentru film trece dincolo de vizionarea propriu-zisă și se transformă într-o dorință de a păstra ceva mai mult, mai solid, mai personal. Într-o lume în care streamingul a devenit normă, iar fișierele digitale pot dispărea cu un simplu click, edițiile fizice revin în forță, nu doar ca suport media, ci ca obiecte de colecție. Iar dintre toate formatele existente, e...]]></description>
-      <pubDate>Tue, 16 Dec 2025 11:18:26 +0000</pubDate>
-      <author>iAfaceri (https://release-press-releases-romania.github.io/publisher/iafaceri-ro/)</author>
-      <dc:creator>iAfaceri</dc:creator>
-      <dc:date>2025-12-16T11:18:26+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">Business</category>
-      <guid isPermaLink="true">https://iafaceri.ro/editiile-speciale-steelbook-de-ce-reprezinta-alegerea-nr-1-a-colectionarilor/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/iafaceri-ro/">iAfaceri</source>
-      <content:encoded><![CDATA[From iAfaceri: Există momente în care pasiunea pentru film trece dincolo de vizionarea propriu-zisă și se transformă într-o dorință de a păstra ceva mai mult, mai solid, mai personal. Într-o lume în care streamingul a devenit normă, iar fișierele digitale pot dispărea cu un simplu click, edițiile fizice revin în forță, nu doar ca suport media, ci ca obiecte de colecție. Iar dintre toate formatele existente, e...]]></content:encoded>
-      <comments>https://iafaceri.ro/editiile-speciale-steelbook-de-ce-reprezinta-alegerea-nr-1-a-colectionarilor/#comments</comments>
     </item>
     <item>
       <title>Importanța pompei Haldex și service-ul preventiv</title>
