@@ -4,13 +4,13 @@
     "name": "Stiridemocratice",
     "url": "https://stiridemocratice.ro/",
     "category": "News & Society",
-    "rss": "https://stiridemocratice.ro/feed/"
+    "rss": "https://stiridemocratice.ro/?feed=rss2"
   },
   "mastodon": {
     "url": "https://social.5th.ro/@stiri_democratice",
     "rss": "https://social.5th.ro/@stiri_democratice.rss"
   },
-  "updated_at": "2026-02-09T16:28:52.207940+00:00",
+  "updated_at": "2026-02-09T18:08:00.378310+00:00",
   "status": "ok",
   "items": [
     {

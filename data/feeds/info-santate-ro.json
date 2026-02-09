@@ -4,10 +4,10 @@
     "name": "Info Santate",
     "url": "https://info-santate.ro/",
     "category": "Health",
-    "rss": "https://info-santate.ro/feed/"
+    "rss": "https://info-santate.ro/?feed=rss2"
   },
   "mastodon": null,
-  "updated_at": "2026-02-09T16:28:52.207940+00:00",
+  "updated_at": "2026-02-09T18:08:00.378310+00:00",
   "status": "ok",
   "items": [
     {
