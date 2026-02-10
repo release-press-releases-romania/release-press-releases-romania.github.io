@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@clinic_sanatos",
     "rss": "https://social.5th.ro/@clinic_sanatos.rss"
   },
-  "updated_at": "2026-02-10T17:31:29.777066+00:00",
+  "updated_at": "2026-02-10T19:36:05.845153+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Rinita alergica – De ce este mai mult decat o simpla raceala si cand trebuie tratata corect",
+      "link": "https://clinic-sanatos.ro/rinita-alergica-de-ce-este-mai-mult-decat-o-simpla-raceala-si-cand-trebuie-tratata-corect/",
+      "summary": "Rinita alergica este una dintre cele mai frecvente afectiuni respiratorii, dar si una dintre cele... Articolul Rinita alergica – De ce este mai mult decat o simpla raceala si cand trebuie tratata corect apare prima dată în Clinic Sanatos .",
+      "published": "2026-02-10T19:07:17+00:00",
+      "published_human": "2026-02-10T19:07",
+      "source": "https://clinic-sanatos.ro/"
+    },
     {
       "title": "De la mic dejun la gustări",
       "link": "https://clinic-sanatos.ro/de-la-mic-dejun-la-gustari/",
@@ -100,17 +108,17 @@
       "published": "2025-10-13T14:28:34+00:00",
       "published_human": "2025-10-13T14:28",
       "source": "https://clinic-sanatos.ro/"
-    },
-    {
-      "title": "Cardiomiopatia: tipuri, cauze și opțiuni de tratament",
-      "link": "https://clinic-sanatos.ro/cardiomiopatia-tipuri-cauze-si-optiuni-de-tratament/",
-      "summary": "Cardiomiopatia este un termen medical care descrie un grup de afecțiuni ale mușchiului cardiac, miocardul.... Articolul Cardiomiopatia: tipuri, cauze și opțiuni de tratament apare prima dată în Clinic Sanatos .",
-      "published": "2025-09-27T05:58:58+00:00",
-      "published_human": "2025-09-27T05:58",
-      "source": "https://clinic-sanatos.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@clinic_sanatos/116047900883493244",
+      "summary": "Rinita alergica este una dintre cele mai frecvente afectiuni respiratorii, dar si una dintre cele mai subestimate. Multi pacienti o confunda cu o raceala banala sau cu o sensibilitate sezoniera, ignorand impactul real pe care il are asupra calitatii vietii. Congestia nazala persistenta, stranutul repetat, secretiile abundente si senzatia de nas infundat pot deveni probleme… .... https:// clinic-sanatos.ro/rinita-alerg ica-de-ce-este-mai-mult-decat-o-simpla-raceala-si-cand-trebuie-tratata-corect/",
+      "published": "2026-02-10T19:07:20+00:00",
+      "published_human": "2026-02-10T19:07",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@clinic_sanatos/115922095258431641",

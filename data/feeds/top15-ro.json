@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@top",
     "rss": "https://social.5th.ro/@top.rss"
   },
-  "updated_at": "2026-02-10T17:31:29.777066+00:00",
+  "updated_at": "2026-02-10T19:36:05.845153+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Aparate de masura si control: cum alegi instrumentatia corecta pentru siguranta, calitate si eficienta in 2026",
+      "link": "https://top15.ro/aparate-de-masura-si-control-cum-alegi-instrumentatia-corecta-pentru-siguranta-calitate-si-eficienta-in-2026/",
+      "summary": "In industrie, energie, constructii, mentenanta, infrastructura IT sau utilitati, exista o regula simpla: ceea ce... Articolul Aparate de masura si control: cum alegi instrumentatia corecta pentru siguranta, calitate si eficienta in 2026 apare prima dată în TOP 15 .",
+      "published": "2026-02-10T19:04:10+00:00",
+      "published_human": "2026-02-10T19:04",
+      "source": "https://top15.ro/"
+    },
     {
       "title": "Pași siguri încă din copilărie: de ce încălțămintea din piele este cea mai bună alegere pentru cei mici",
       "link": "https://top15.ro/pasi-siguri-inca-din-copilarie-de-ce-incaltamintea-din-piele-este-cea-mai-buna-alegere-pentru-cei-mici/",
@@ -100,17 +108,17 @@
       "published": "2025-12-18T10:04:53+00:00",
       "published_human": "2025-12-18T10:04",
       "source": "https://top15.ro/"
-    },
-    {
-      "title": "Mastodon România: cum te conectezi cu diaspora",
-      "link": "https://top15.ro/mastodon-romania-cum-te-conectezi-cu-diaspora/",
-      "summary": "Ești obosit de algoritmii care îți decid experiența online? Te simți manipulat de platformele sociale... Articolul Mastodon România: cum te conectezi cu diaspora apare prima dată în TOP 15 .",
-      "published": "2025-12-17T16:58:54+00:00",
-      "published_human": "2025-12-17T16:58",
-      "source": "https://top15.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@top/116047888649397380",
+      "summary": "📰In industrie, energie, constructii, mentenanta, infrastructura IT sau utilitati, exista o regula simpla: ceea ce nu masori corect, nu poti controla. Iar ceea ce nu controlezi, devine risc – risc de oprire neplanificata, risc de defect ascuns, risc de neconformitate, risc financiar. Din acest motiv, aparatele de masura si control nu sunt “unelte” in sensul… 📰 https:// top15.ro/aparate-de-masura-si- control-cum-alegi-instrumentatia-corecta-pentru-siguranta-calitate-si-eficienta-in-2026/",
+      "published": "2026-02-10T19:04:14+00:00",
+      "published_human": "2026-02-10T19:04",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@top/116033689334549250",
@@ -197,14 +205,6 @@
       "summary": "📰De ce consultanța HELIOS face diferența Ferestrele nu sunt doar deschiderile din ziduri care lasă lumina să pătrundă în casă. Acestea fac parte din limbajul arhitectural al locuinței tale: modelează estetica, influențează atmosfera interiorului și contribuie la confortul termic și eficiența energetică. Alegerea ferestrelor potrivite nu se face doar printr-un configurator online sau printr-un 📰 https:// top15.ro/stilul-arhitectural-i nfluenteaza-alegerea-ferestrelor-de-la-estetica-la-eficienta/",
       "published": "2025-12-18T10:04:56+00:00",
       "published_human": "2025-12-18T10:04",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@top/115736705227018939",
-      "summary": "📰Ești obosit de algoritmii care îți decid experiența online? Te simți manipulat de platformele sociale centralizate? Pentru mulți români, în special pentru cei care fac parte din diaspora, nevoia de conectare autentică este vitală. Rețelele mari, controlate de corporații, au devenit adesea medii zgomotoase și filtrate. Dar există o alternativă puternică și etică: comunitatea mastodon… 📰 https:// top15.ro/mastodon-romania-cum- te-conectezi-cu-diaspora/",
-      "published": "2025-12-17T20:06:11+00:00",
-      "published_human": "2025-12-17T20:06",
       "source": "Mastodon"
     }
   ]
