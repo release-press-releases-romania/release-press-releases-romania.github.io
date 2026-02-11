@@ -7,7 +7,7 @@
     "rss": "https://stiri-medicale.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-02-11T10:12:49.872375+00:00",
+  "updated_at": "2026-02-11T11:12:37.349791+00:00",
   "status": "ok",
   "items": [
     {
@@ -67,6 +67,14 @@
       "source": "https://stiri-medicale.ro/"
     },
     {
+      "title": "Ce opțiuni de tratament ai dacă ai fost diagnosticat cu maladia Dupuytren?",
+      "link": "https://stiri-medicale.ro/ce-optiuni-de-tratament-ai-daca-ai-fost-diagnosticat-cu-maladia-dupuytren/",
+      "summary": "Dacă ți s-a spus recent că suferi de maladia Dupuytren, probabil te &#238;ntrebi ce urmează. Ce &#238;nseamnă această afecțiune pentru&#8230; Articolul Ce opțiuni de tratament ai dacă ai fost diagnosticat cu maladia Dupuytren? apare prima dată în Stiri Medicale .",
+      "published": "2025-12-07T14:34:00+00:00",
+      "published_human": "2025-12-07T14:34",
+      "source": "https://stiri-medicale.ro/"
+    },
+    {
       "title": "Cum calmezi rapid durerile de gât supărătoare și îți recapeți confortul vocal",
       "link": "https://stiri-medicale.ro/cum-calmezi-rapid-durerile-de-gat-suparatoare-si-iti-recapeti-confortul-vocal/",
       "summary": "Durerea de gât este unul dintre cele mai neplăcute simptome ale sezonului rece. De cele mai multe ori, nu este&#8230; Articolul Cum calmezi rapid durerile de gât supărătoare și îți recapeți confortul vocal apare prima dată în Stiri Medicale .",
@@ -96,14 +104,6 @@
       "summary": "Te-ai săturat să plasezi pariuri tenis bazate doar pe nume și să pierzi constant? (Atenție) Tenisul este unul dintre cele&#8230; Articolul Strategii de bază pentru pariuri pe tenis: seturi, game-uri și cote apare prima dată în Stiri Medicale .",
       "published": "2025-11-14T09:07:58+00:00",
       "published_human": "2025-11-14T09:07",
-      "source": "https://stiri-medicale.ro/"
-    },
-    {
-      "title": "UX și SEO: cum ajută experiența utilizatorului la ranking și conversii",
-      "link": "https://stiri-medicale.ro/ux-si-seo-cum-ajuta-experienta-utilizatorului-la-ranking-si-conversii/",
-      "summary": "Ați investit timp și resurse considerabile în optimizarea site-ului dumneavoastră pentru motoarele de căutare (SEO), iar rezultatele nu întârzie să&#8230; Articolul UX și SEO: cum ajută experiența utilizatorului la ranking și conversii apare prima dată în Stiri Medicale .",
-      "published": "2025-11-14T07:32:14+00:00",
-      "published_human": "2025-11-14T07:32",
       "source": "https://stiri-medicale.ro/"
     }
   ],
