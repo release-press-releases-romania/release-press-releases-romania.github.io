@@ -5,8 +5,8 @@
     <link>https://release-press-releases-romania.github.io</link>
     <description>Aggregated RSS feed of press releases from over 100 Romanian publishers. Covering PR &amp; Marketing, Health, News &amp; Society, Technology, Business, Construction, Tourism, and more. Curated selection of quality press releases from trusted Romanian sources.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Feb 2026 12:45:10 +0000</lastBuildDate>
-    <pubDate>Thu, 12 Feb 2026 12:45:10 +0000</pubDate>
+    <lastBuildDate>Thu, 12 Feb 2026 18:52:35 +0000</lastBuildDate>
+    <pubDate>Thu, 12 Feb 2026 18:52:35 +0000</pubDate>
     <generator>Release Press Releases in Romania RSS Aggregator v2.0</generator>
     <webMaster>noreply@release-press-releases-romania.github.io (Release Press Releases)</webMaster>
     <managingEditor>noreply@release-press-releases-romania.github.io (Release Press Releases)</managingEditor>
@@ -28,6 +28,34 @@
     <sy:updateFrequency>1</sy:updateFrequency>
     <copyright>Copyright 2026 Release Press Releases in Romania. Content belongs to respective publishers.</copyright>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Importanța depistării timpurii a problemelor de vedere la copii</title>
+      <link>https://medic360.ro/importanta-depistarii-timpurii-a-problemelor-de-vedere-la-copii/</link>
+      <description><![CDATA[From Medic360: Depistarea timpurie a problemelor de vedere la copii este un aspect esențial pentru asigurarea unei dezvoltări armonioase și sănătoase. Primele etape ale vieții sunt critice pentru toate domeniile de creștere, iar vederea nu face excepție. Problemele oculare netratate la timp pot influența nu doar capacitatea de a învăța și a se adapta la mediul înconjurător, ci și starea generală de bine a cop...]]></description>
+      <pubDate>Thu, 12 Feb 2026 13:24:29 +0000</pubDate>
+      <author>Medic360 (https://release-press-releases-romania.github.io/publisher/medic360-ro/)</author>
+      <dc:creator>Medic360</dc:creator>
+      <dc:date>2026-02-12T13:24:29+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">Health</category>
+      <guid isPermaLink="true">https://medic360.ro/importanta-depistarii-timpurii-a-problemelor-de-vedere-la-copii/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/medic360-ro/">Medic360</source>
+      <content:encoded><![CDATA[From Medic360: Depistarea timpurie a problemelor de vedere la copii este un aspect esențial pentru asigurarea unei dezvoltări armonioase și sănătoase. Primele etape ale vieții sunt critice pentru toate domeniile de creștere, iar vederea nu face excepție. Problemele oculare netratate la timp pot influența nu doar capacitatea de a învăța și a se adapta la mediul înconjurător, ci și starea generală de bine a cop...]]></content:encoded>
+      <comments>https://medic360.ro/importanta-depistarii-timpurii-a-problemelor-de-vedere-la-copii/#comments</comments>
+    </item>
+    <item>
+      <title>Cum ajută senzorii AI la reducerea consumului de apă: detectare încărcătură și dozare</title>
+      <link>https://casa-sustenabila.ro/cum-ajuta-senzorii-ai-la-reducerea-consumului-de-apa-detectare-incarcatura-si-dozare/</link>
+      <description><![CDATA[From Casa Sustenabila: Consumul de apă la spălare și clătire depinde mult de cât de bine este controlat ciclul. Senzorii și AI pot reduce risipa prin măsurare și reglaj automat. 1. Ce înseamnă / Ce este Senzorii „AI” sunt, în practică, senzori obișnuiți folosiți împreună cu tehnologii AI. Ei măsoară încărcătura, nivelul apei și uneori gradul de murdărie, iar sistemul decide câtă apă să folosească. Detectarea încărcăt...]]></description>
+      <pubDate>Thu, 12 Feb 2026 10:55:58 +0000</pubDate>
+      <author>Casa Sustenabila (https://release-press-releases-romania.github.io/publisher/casa-sustenabila-ro/)</author>
+      <dc:creator>Casa Sustenabila</dc:creator>
+      <dc:date>2026-02-12T10:55:58+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">Construction &amp; Home</category>
+      <guid isPermaLink="true">https://casa-sustenabila.ro/cum-ajuta-senzorii-ai-la-reducerea-consumului-de-apa-detectare-incarcatura-si-dozare/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/casa-sustenabila-ro/">Casa Sustenabila</source>
+      <content:encoded><![CDATA[From Casa Sustenabila: Consumul de apă la spălare și clătire depinde mult de cât de bine este controlat ciclul. Senzorii și AI pot reduce risipa prin măsurare și reglaj automat. 1. Ce înseamnă / Ce este Senzorii „AI” sunt, în practică, senzori obișnuiți folosiți împreună cu tehnologii AI. Ei măsoară încărcătura, nivelul apei și uneori gradul de murdărie, iar sistemul decide câtă apă să folosească. Detectarea încărcăt...]]></content:encoded>
+      <comments>https://casa-sustenabila.ro/cum-ajuta-senzorii-ai-la-reducerea-consumului-de-apa-detectare-incarcatura-si-dozare/#comments</comments>
+    </item>
     <item>
       <title>Numele TUFAIL: semnificație, origine, trăsături și personalitate</title>
       <link>https://e-nume.ro/numele-tufail-semnificatie-origine-trasaturi-si-personalitate/</link>
@@ -671,20 +699,6 @@
       <source url="https://release-press-releases-romania.github.io/publisher/case-verzi-ro/">Case Verzi</source>
       <content:encoded><![CDATA[From Case Verzi: La un sistem fotovoltaic, proiectarea pune invariabil în centrul discuției panourile și invertorul. În teren, însă, diferența dintre un montaj care arată bine în ziua instalării și unul care rămâne stabil ani la rând stă în detalii de fixare: contactul cu acoperișul, modul în care sunt preluate vibrațiile, felul în care este gestionată apa și protecția împotriva umezelii. Un astfel de detaliu e...]]></content:encoded>
       <comments>https://case-verzi.ro/mini-rail/#comments</comments>
-    </item>
-    <item>
-      <title>Treci la energie verde în 2026? Contează pe Comfortex Energy pentru prinderi panouri fotovoltaice</title>
-      <link>https://casa-sustenabila.ro/panouri-fotovoltaice/</link>
-      <description><![CDATA[From Casa Sustenabila: În 2026, energia verde ține de o decizie concretă care să-ți aducă facturi mai predictibile, mai multă independență și un pas important spre eficiență. Dar, dincolo de panouri și invertor, o instalare conformă, care rezistă impecabil în timp, depinde de sistemul de prindere. De aceea, când treci la fotovoltaice, soluțiile de la Comfortex Energy sunt proiectate în funcție de condițiile de pe șan...]]></description>
-      <pubDate>Wed, 28 Jan 2026 12:12:06 +0000</pubDate>
-      <author>Casa Sustenabila (https://release-press-releases-romania.github.io/publisher/casa-sustenabila-ro/)</author>
-      <dc:creator>Casa Sustenabila</dc:creator>
-      <dc:date>2026-01-28T12:12:06+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">Construction &amp; Home</category>
-      <guid isPermaLink="true">https://casa-sustenabila.ro/panouri-fotovoltaice/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/casa-sustenabila-ro/">Casa Sustenabila</source>
-      <content:encoded><![CDATA[From Casa Sustenabila: În 2026, energia verde ține de o decizie concretă care să-ți aducă facturi mai predictibile, mai multă independență și un pas important spre eficiență. Dar, dincolo de panouri și invertor, o instalare conformă, care rezistă impecabil în timp, depinde de sistemul de prindere. De aceea, când treci la fotovoltaice, soluțiile de la Comfortex Energy sunt proiectate în funcție de condițiile de pe șan...]]></content:encoded>
-      <comments>https://casa-sustenabila.ro/panouri-fotovoltaice/#comments</comments>
     </item>
     <item>
       <title>Ce sisteme de prindere panouri solare fotovoltaice sunt recomandate pentru performanță inclusiv iarna</title>
@@ -1371,20 +1385,6 @@
       <source url="https://release-press-releases-romania.github.io/publisher/femeie-antreprenor-ro/">Femeie Antreprenor</source>
       <content:encoded><![CDATA[From Femeie Antreprenor: Fiecare părinte își dorește un singur lucru esențial pentru copilul său: siguranță și confort în fiecare moment al zilei. Deși pare un detaliu minor, modul în care pregătești patul celui mic influențează direct nu doar somnul, ci și starea sa generală de sănătate. În primii ani de viață, copiii petrec foarte multe ore în pat, fie dormind, fie jucându-se sau relaxându-se. De aceea, o lenjerie de...]]></content:encoded>
       <comments>https://femeie-antreprenor.ro/copilul-tau-merita-ce-i-mai-bun-cum-influenteaza-o-lenjerie-de-pat-de-calitate-sanatatea-si-somnul-celor-mici/#comments</comments>
-    </item>
-    <item>
-      <title>Implanturi mamare cu silicon: aspecte medicale esențiale</title>
-      <link>https://medic360.ro/implanturi-mamare-cu-silicon-aspecte-medicale-esentiale/</link>
-      <description><![CDATA[From Medic360: Decizia de a apela la o intervenție estetică nu este niciodată una simplă, mai ales atunci când presupune modificări corporale vizibile și de durată. În ultimii ani, opțiunea pentru implanturi mamare cu silicon a devenit una dintre cele mai discutate în chirurgia estetică, nu doar din perspectiva rezultatelor estetice, ci și din cea a siguranței medicale și a predictibilității pe termen lung. P...]]></description>
-      <pubDate>Fri, 19 Dec 2025 11:05:33 +0000</pubDate>
-      <author>Medic360 (https://release-press-releases-romania.github.io/publisher/medic360-ro/)</author>
-      <dc:creator>Medic360</dc:creator>
-      <dc:date>2025-12-19T11:05:33+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">Health</category>
-      <guid isPermaLink="true">https://medic360.ro/implanturi-mamare-cu-silicon-aspecte-medicale-esentiale/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/medic360-ro/">Medic360</source>
-      <content:encoded><![CDATA[From Medic360: Decizia de a apela la o intervenție estetică nu este niciodată una simplă, mai ales atunci când presupune modificări corporale vizibile și de durată. În ultimii ani, opțiunea pentru implanturi mamare cu silicon a devenit una dintre cele mai discutate în chirurgia estetică, nu doar din perspectiva rezultatelor estetice, ci și din cea a siguranței medicale și a predictibilității pe termen lung. P...]]></content:encoded>
-      <comments>https://medic360.ro/implanturi-mamare-cu-silicon-aspecte-medicale-esentiale/#comments</comments>
     </item>
     <item>
       <title>Rulmenți cu bile – precizie, rezistență și performanță pentru orice aplicație</title>
