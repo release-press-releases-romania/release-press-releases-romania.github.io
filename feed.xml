@@ -5,8 +5,8 @@
     <link>https://release-press-releases-romania.github.io</link>
     <description>Aggregated RSS feed of press releases from over 100 Romanian publishers. Covering PR &amp; Marketing, Health, News &amp; Society, Technology, Business, Construction, Tourism, and more. Curated selection of quality press releases from trusted Romanian sources.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Feb 2026 06:42:10 +0000</lastBuildDate>
-    <pubDate>Sun, 15 Feb 2026 06:42:10 +0000</pubDate>
+    <lastBuildDate>Sun, 15 Feb 2026 12:32:27 +0000</lastBuildDate>
+    <pubDate>Sun, 15 Feb 2026 12:32:27 +0000</pubDate>
     <generator>Release Press Releases in Romania RSS Aggregator v2.0</generator>
     <webMaster>noreply@release-press-releases-romania.github.io (Release Press Releases)</webMaster>
     <managingEditor>noreply@release-press-releases-romania.github.io (Release Press Releases)</managingEditor>
@@ -28,6 +28,34 @@
     <sy:updateFrequency>1</sy:updateFrequency>
     <copyright>Copyright 2026 Release Press Releases in Romania. Content belongs to respective publishers.</copyright>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>De ce este importantă integrarea într-un ecosistem smart</title>
+      <link>https://afaceritop.ro/de-ce-este-importanta-integrarea-intr-un-ecosistem-smart/</link>
+      <description><![CDATA[From Afaceritop: De ce este importantă integrarea într-un ecosistem smart Integrarea într-un ecosistem smart devine relevantă pe măsură ce locuințele folosesc tot mai multe dispozitive conectate. Subiectul ține de funcționalitate, control și eficiență, nu de tendințe. Ce este un ecosistem smart Un ecosistem smart este un ansamblu de dispozitive și servicii conectate între ele. Acestea comunică printr-o platform...]]></description>
+      <pubDate>Sun, 15 Feb 2026 07:12:00 +0000</pubDate>
+      <author>Afaceritop (https://release-press-releases-romania.github.io/publisher/afaceritop-ro/)</author>
+      <dc:creator>Afaceritop</dc:creator>
+      <dc:date>2026-02-15T07:12:00+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">Technology &amp; Energy</category>
+      <guid isPermaLink="true">https://afaceritop.ro/de-ce-este-importanta-integrarea-intr-un-ecosistem-smart/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/afaceritop-ro/">Afaceritop</source>
+      <content:encoded><![CDATA[From Afaceritop: De ce este importantă integrarea într-un ecosistem smart Integrarea într-un ecosistem smart devine relevantă pe măsură ce locuințele folosesc tot mai multe dispozitive conectate. Subiectul ține de funcționalitate, control și eficiență, nu de tendințe. Ce este un ecosistem smart Un ecosistem smart este un ansamblu de dispozitive și servicii conectate între ele. Acestea comunică printr-o platform...]]></content:encoded>
+      <comments>https://afaceritop.ro/de-ce-este-importanta-integrarea-intr-un-ecosistem-smart/#comments</comments>
+    </item>
+    <item>
+      <title>Cum ajută AI la prevenirea risipei alimentare: alerte, recomandări și gestionarea stocurilor</title>
+      <link>https://casa-moderna.ro/cum-ajuta-ai-la-prevenirea-risipei-alimentare-alerte-recomandari-si-gestionarea-stocurilor/</link>
+      <description><![CDATA[From Casa Moderna: Risipa alimentară apare des din lipsă de vizibilitate și planificare. AI poate ajuta prin alerte, inventar mai clar și recomandări de utilizare. 1. Ce înseamnă / Ce este Prevenirea risipei cu AI înseamnă folosirea de tehnologii AI ca să urmărești ce ai în frigider și ce ar trebui consumat primul. Sistemul combină date din senzori, imagini sau introduceri manuale. Gestionarea stocurilor înseamnă...]]></description>
+      <pubDate>Sun, 15 Feb 2026 07:09:00 +0000</pubDate>
+      <author>Casa Moderna (https://release-press-releases-romania.github.io/publisher/casa-moderna-ro/)</author>
+      <dc:creator>Casa Moderna</dc:creator>
+      <dc:date>2026-02-15T07:09:00+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">Construction &amp; Home</category>
+      <guid isPermaLink="true">https://casa-moderna.ro/cum-ajuta-ai-la-prevenirea-risipei-alimentare-alerte-recomandari-si-gestionarea-stocurilor/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/casa-moderna-ro/">Casa Moderna</source>
+      <content:encoded><![CDATA[From Casa Moderna: Risipa alimentară apare des din lipsă de vizibilitate și planificare. AI poate ajuta prin alerte, inventar mai clar și recomandări de utilizare. 1. Ce înseamnă / Ce este Prevenirea risipei cu AI înseamnă folosirea de tehnologii AI ca să urmărești ce ai în frigider și ce ar trebui consumat primul. Sistemul combină date din senzori, imagini sau introduceri manuale. Gestionarea stocurilor înseamnă...]]></content:encoded>
+      <comments>https://casa-moderna.ro/cum-ajuta-ai-la-prevenirea-risipei-alimentare-alerte-recomandari-si-gestionarea-stocurilor/#comments</comments>
+    </item>
     <item>
       <title>Numele URTAAL: semnificație, origine, trăsături și personalitate</title>
       <link>https://e-nume.ro/numele-urtaal-semnificatie-origine-trasaturi-si-personalitate/</link>
@@ -813,20 +841,6 @@
       <comments>https://stiri-live.ro/mai-e-mult-pana-in-2027-de-ce-acum-este-momentul-perfect-sa-alegi-gradinita-potrivita-pentru-copilul-tau/#comments</comments>
     </item>
     <item>
-      <title>De ce prevenirea dăunătorilor ar trebui luată în calcul încă din proiectarea unei case moderne</title>
-      <link>https://casa-moderna.ro/de-ce-prevenirea-daunatorilor-ar-trebui-luata-in-calcul-inca-din-proiectarea-unei-case-moderne/</link>
-      <description><![CDATA[From Casa Moderna: Atunci când vorbim despre o casă modernă, ne gândim automat la design contemporan, eficiență energetică, materiale de calitate și confort pe termen lung. Un aspect mai puțin discutat, dar extrem de important, este prevenirea infestărilor cu insecte și rozătoare, încă din faza de proiectare și construcție. În practică, multe dintre problemele apărute ulterior în locuințe nu țin de lipsa igienei,...]]></description>
-      <pubDate>Fri, 30 Jan 2026 15:25:56 +0000</pubDate>
-      <author>Casa Moderna (https://release-press-releases-romania.github.io/publisher/casa-moderna-ro/)</author>
-      <dc:creator>Casa Moderna</dc:creator>
-      <dc:date>2026-01-30T15:25:56+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">Construction &amp; Home</category>
-      <guid isPermaLink="true">https://casa-moderna.ro/de-ce-prevenirea-daunatorilor-ar-trebui-luata-in-calcul-inca-din-proiectarea-unei-case-moderne/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/casa-moderna-ro/">Casa Moderna</source>
-      <content:encoded><![CDATA[From Casa Moderna: Atunci când vorbim despre o casă modernă, ne gândim automat la design contemporan, eficiență energetică, materiale de calitate și confort pe termen lung. Un aspect mai puțin discutat, dar extrem de important, este prevenirea infestărilor cu insecte și rozătoare, încă din faza de proiectare și construcție. În practică, multe dintre problemele apărute ulterior în locuințe nu țin de lipsa igienei,...]]></content:encoded>
-      <comments>https://casa-moderna.ro/de-ce-prevenirea-daunatorilor-ar-trebui-luata-in-calcul-inca-din-proiectarea-unei-case-moderne/#comments</comments>
-    </item>
-    <item>
       <title>Cum te ajută mini rail cu bandă EPDM la etanșarea și protecția acoperișului</title>
       <link>https://case-verzi.ro/mini-rail/</link>
       <description><![CDATA[From Case Verzi: La un sistem fotovoltaic, proiectarea pune invariabil în centrul discuției panourile și invertorul. În teren, însă, diferența dintre un montaj care arată bine în ziua instalării și unul care rămâne stabil ani la rând stă în detalii de fixare: contactul cu acoperișul, modul în care sunt preluate vibrațiile, felul în care este gestionată apa și protecția împotriva umezelii. Un astfel de detaliu e...]]></description>
@@ -1217,20 +1231,6 @@
       <source url="https://release-press-releases-romania.github.io/publisher/stiri-live-ro/">Stiri Live</source>
       <content:encoded><![CDATA[From Stiri Live: Perioadele de sărbători sau aniversările devin adesea surse de stres pentru părinții care încearcă să navigheze prin oferta copleșitoare de jucării disponibile pe piață. Camerele copiilor moderni tind să devină depozite supraîncărcate de obiecte din plastic care își pierd atractivitatea la scurt timp după despachetare. Psihologii pediatri și specialiștii în dezvoltare infantilă atrag atenția as...]]></content:encoded>
       <comments>https://stiri-live.ro/ce-recomanda-psihologii-pentru-cadourile-copiilor/#comments</comments>
-    </item>
-    <item>
-      <title>Rotile de motocultor pot fi un indicator al unei afaceri agricole de top!</title>
-      <link>https://afaceritop.ro/rotile-de-motocultor-pot-fi-un-indicator-al-unei-afaceri-agricole-de-top/</link>
-      <description><![CDATA[From Afaceritop: Rotile de motocultor pot fi un bun indicator al unei afaceri agricole de top. In agricultura, performanta nu se masoara doar in suprafete cultivate sau recolte obtinute, ci si in modul in care sunt utilizate si intretinute echipamentele. Rotile de motocultor spun o poveste clara despre ritmul de lucru, investitiile facute si seriozitatea unei afaceri. O firma care acorda importanta acestor acce...]]></description>
-      <pubDate>Mon, 12 Jan 2026 05:20:17 +0000</pubDate>
-      <author>Afaceritop (https://release-press-releases-romania.github.io/publisher/afaceritop-ro/)</author>
-      <dc:creator>Afaceritop</dc:creator>
-      <dc:date>2026-01-12T05:20:17+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">Technology &amp; Energy</category>
-      <guid isPermaLink="true">https://afaceritop.ro/rotile-de-motocultor-pot-fi-un-indicator-al-unei-afaceri-agricole-de-top/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/afaceritop-ro/">Afaceritop</source>
-      <content:encoded><![CDATA[From Afaceritop: Rotile de motocultor pot fi un bun indicator al unei afaceri agricole de top. In agricultura, performanta nu se masoara doar in suprafete cultivate sau recolte obtinute, ci si in modul in care sunt utilizate si intretinute echipamentele. Rotile de motocultor spun o poveste clara despre ritmul de lucru, investitiile facute si seriozitatea unei afaceri. O firma care acorda importanta acestor acce...]]></content:encoded>
-      <comments>https://afaceritop.ro/rotile-de-motocultor-pot-fi-un-indicator-al-unei-afaceri-agricole-de-top/#comments</comments>
     </item>
     <item>
       <title>Ce trebuie să faci înainte să pleci de acasă pentru a nu fi ținta spărgătorilor</title>
