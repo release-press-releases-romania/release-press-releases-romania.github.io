@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@top",
     "rss": "https://social.5th.ro/@top.rss"
   },
-  "updated_at": "2026-02-16T06:37:21.139104+00:00",
+  "updated_at": "2026-02-16T08:03:37.824136+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Cum poate aerul condiționat să ajusteze automat temperatura pentru somn",
+      "link": "https://top15.ro/cum-poate-aerul-conditionat-sa-ajusteze-automat-temperatura-pentru-somn/",
+      "summary": "Cum poate aerul condiționat să ajusteze automat temperatura pentru somn Temperatura din dormitor influențează calitatea... Articolul Cum poate aerul condiționat să ajusteze automat temperatura pentru somn apare prima dată în TOP 15 .",
+      "published": "2026-02-16T06:01:37+00:00",
+      "published_human": "2026-02-16T06:01",
+      "source": "https://top15.ro/"
+    },
     {
       "title": "Cât de rezistente sunt paturile din lemn masiv în 2026? – 5 recomandări care rezistă testului timpului",
       "link": "https://top15.ro/cat-de-rezistente-sunt-paturile-din-lemn-masiv-in-2026-5-recomandari-care-rezista-testului-timpului/",
@@ -100,17 +108,17 @@
       "published": "2025-12-30T14:18:45+00:00",
       "published_human": "2025-12-30T14:18",
       "source": "https://top15.ro/"
-    },
-    {
-      "title": "Avantajele dispozitivelor de localizare GPS pentru firmele de închirieri auto",
-      "link": "https://top15.ro/avantajele-dispozitivelor-de-localizare-gps-pentru-firmele-de-inchirieri-auto/",
-      "summary": "Localizare GPS sună, la prima vedere, ca un “extra” tehnic. În realitate, pentru o firmă... Articolul Avantajele dispozitivelor de localizare GPS pentru firmele de închirieri auto apare prima dată în TOP 15 .",
-      "published": "2025-12-26T10:36:51+00:00",
-      "published_human": "2025-12-26T10:36",
-      "source": "https://top15.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@top/116079261853407032",
+      "summary": "📰Cum poate aerul condiționat să ajusteze automat temperatura pentru somnTemperatura din dormitor influențează calitatea somnului. Aerul condiționat poate regla automat acest parametru, fără intervenții repetate.Ce înseamnă ajustarea automată pentru somnAjustarea automată a temperaturii pentru somn înseamnă modificarea treptată a setărilor pe parcursul nopții. Sistemul nu menține o temperatură fixă, ci o 📰 https:// top15.ro/cum-poate-aerul-condi tionat-sa-ajusteze-automat-temperatura-pentru-somn/",
+      "published": "2026-02-16T08:02:51+00:00",
+      "published_human": "2026-02-16T08:02",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@top/116063400398037912",
@@ -197,14 +205,6 @@
       "summary": "📰Un dispozitiv de monitorizare flote auto poate transmite mult mai mult decât „unde e mașina”: de la poziție GPS în timp real și trasee, până la date din motor (prin OBD/CAN), stil de condus, staționări, alerte și rapoarte care ajută la costuri, mentenanță și conformare. Dacă ai deja sau vrei un sistem de monitorizare flote… 📰 https:// top15.ro/ce-poate-transmite-un -dispozitiv-de-monitorizare-flote-auto/",
       "published": "2025-12-30T14:18:47+00:00",
       "published_human": "2025-12-30T14:18",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@top/115785427430713374",
-      "summary": "📰Localizare GPS sună, la prima vedere, ca un “extra” tehnic. În realitate, pentru o firmă de închirieri auto, este una dintre puținele investiții care se simt imediat: mai puține riscuri, mai puține surprize, reacție mai rapidă când apare o problemă și, foarte important, discuții mai clare cu clientul atunci când apar neînțelegeri. Închirierea de mașini… 📰 https:// top15.ro/avantajele-dispozitiv elor-de-localizare-gps-pentru-firmele-de-inchirieri-auto/",
-      "published": "2025-12-26T10:36:53+00:00",
-      "published_human": "2025-12-26T10:36",
       "source": "Mastodon"
     }
   ]
