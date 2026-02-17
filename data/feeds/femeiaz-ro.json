@@ -4,13 +4,13 @@
     "name": "Femeiaz",
     "url": "https://femeiaz.ro/",
     "category": "Miscellaneous",
-    "rss": "https://femeiaz.ro/?feed=rss2"
+    "rss": "https://femeiaz.ro/feed/"
   },
   "mastodon": {
     "url": "https://social.5th.ro/@femeiAZ",
     "rss": "https://social.5th.ro/@femeiAZ.rss"
   },
-  "updated_at": "2026-02-17T15:10:21.218883+00:00",
+  "updated_at": "2026-02-17T16:12:56.796632+00:00",
   "status": "ok",
   "items": [
     {

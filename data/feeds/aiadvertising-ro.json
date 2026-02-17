@@ -4,13 +4,13 @@
     "name": "Aiadvertising",
     "url": "https://aiadvertising.ro/",
     "category": "Miscellaneous",
-    "rss": "https://aiadvertising.ro/?feed=rss2"
+    "rss": "https://aiadvertising.ro/feed/"
   },
   "mastodon": {
     "url": "https://social.5th.ro/@ai_advertising",
     "rss": "https://social.5th.ro/@ai_advertising.rss"
   },
-  "updated_at": "2026-02-17T15:10:21.218883+00:00",
+  "updated_at": "2026-02-17T16:12:56.796632+00:00",
   "status": "ok",
   "items": [
     {
