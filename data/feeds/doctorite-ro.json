@@ -4,13 +4,13 @@
     "name": "Doctorite",
     "url": "https://doctorite.ro/",
     "category": "Health",
-    "rss": "https://doctorite.ro/feed/"
+    "rss": "https://doctorite.ro/?feed=rss2"
   },
   "mastodon": {
     "url": "https://social.5th.ro/@DoctoriteBlog",
     "rss": "https://social.5th.ro/@DoctoriteBlog.rss"
   },
-  "updated_at": "2026-02-17T13:41:42.647681+00:00",
+  "updated_at": "2026-02-17T15:10:21.218883+00:00",
   "status": "ok",
   "items": [
     {
