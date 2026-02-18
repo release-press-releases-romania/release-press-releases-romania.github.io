@@ -4,13 +4,13 @@
     "name": "Afaceri24",
     "url": "https://afaceri24.ro/",
     "category": "Business",
-    "rss": "https://afaceri24.ro/?feed=rss2"
+    "rss": "https://afaceri24.ro/feed/"
   },
   "mastodon": {
     "url": "https://social.5th.ro/@afaceri24",
     "rss": "https://social.5th.ro/@afaceri24.rss"
   },
-  "updated_at": "2026-02-18T17:32:01.533029+00:00",
+  "updated_at": "2026-02-18T19:26:07.326657+00:00",
   "status": "ok",
   "items": [
     {

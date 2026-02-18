@@ -4,13 +4,13 @@
     "name": "Iasi Azi",
     "url": "https://iasi-azi.ro/",
     "category": "News & Society",
-    "rss": "https://iasi-azi.ro/feed/rss/"
+    "rss": "https://iasi-azi.ro/feed/"
   },
   "mastodon": {
     "url": "https://social.5th.ro/@Iasi",
     "rss": "https://social.5th.ro/@Iasi.rss"
   },
-  "updated_at": "2026-02-18T17:32:01.533029+00:00",
+  "updated_at": "2026-02-18T19:26:07.326657+00:00",
   "status": "ok",
   "items": [
     {
