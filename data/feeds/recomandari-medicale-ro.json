@@ -7,9 +7,17 @@
     "rss": "https://recomandari-medicale.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-02-18T05:08:21.270763+00:00",
+  "updated_at": "2026-02-18T06:34:19.971537+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "5 accesorii necesare pentru o uniformă medicală completă",
+      "link": "https://recomandari-medicale.ro/5-accesorii-necesare-pentru-o-uniforma-medicala-completa/",
+      "summary": "O uniformă medicală completă înseamnă ceva mai mult decât un set cu bluză și pantaloni. Un medic sau un asistent&#8230; Articolul 5 accesorii necesare pentru o uniformă medicală completă apare prima dată în Recomandari Medicale .",
+      "published": "2026-02-18T05:41:38+00:00",
+      "published_human": "2026-02-18T05:41",
+      "source": "https://recomandari-medicale.ro/"
+    },
     {
       "title": "Saltea de acupresiune pentru dureri lombare – funcționează cu adevărat?",
       "link": "https://recomandari-medicale.ro/saltea-de-acupresiune-pentru-dureri-lombare-functioneaza-cu-adevarat/",
@@ -96,14 +104,6 @@
       "summary": "M&#226;na umană este un ansamblu complex de oase, tendoane, ligamente, mușchi și nervi. Totul trebuie să funcționeze sincronizat ca să&#8230; Articolul Ce rol are nervul median în funcționarea mâinii tale? apare prima dată în Recomandari Medicale .",
       "published": "2025-12-12T13:06:00+00:00",
       "published_human": "2025-12-12T13:06",
-      "source": "https://recomandari-medicale.ro/"
-    },
-    {
-      "title": "Comunicate de presă și management de criză în 2025",
-      "link": "https://recomandari-medicale.ro/comunicate-de-presa-si-management-de-criza-in-2025/",
-      "summary": "V-ați imaginat vreodată cum ar fi ca reputația pe care ați construit-o în ani de muncă să se prăbușească în&#8230; Articolul Comunicate de presă și management de criză în 2025 apare prima dată în Recomandari Medicale .",
-      "published": "2025-12-01T12:07:49+00:00",
-      "published_human": "2025-12-01T12:07",
       "source": "https://recomandari-medicale.ro/"
     }
   ],
