@@ -7,9 +7,17 @@
     "rss": "https://1az.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-02-22T11:39:51.941641+00:00",
+  "updated_at": "2026-02-22T13:14:43.249527+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "#SânnicolauEMare din 21.02.2026",
+      "link": "https://1az.ro/sannicolauemare-din-21-02-2026/",
+      "summary": "Aceasta stire #SânnicolauEMare din 21.02.2026 apare prima oara pe Primarii de la A la Z . #SânnicolauEMare din 21.02.2026 Post-ul #SânnicolauEMare din 21.02.2026 apare prima dată în Primaria Sannicolau Mare. Source Aceasta stire #SânnicolauEMare din 21.02.2026 apare prima oara pe Primarii de la A la Z .",
+      "published": "2026-02-21T22:15:03+00:00",
+      "published_human": "2026-02-21T22:15",
+      "source": "https://1az.ro/"
+    },
     {
       "title": "DeFapt.ro : Savonea ar pierde cam 11.000 de lei pe lună, din pensie, pe legea Bolojan – calculele judecătorilor",
       "link": "https://1az.ro/defapt-ro-savonea-ar-pierde-cam-11-000-de-lei-pe-luna-din-pensie-pe-legea-bolojan-calculele-judecatorilor/",
@@ -96,14 +104,6 @@
       "summary": "Aceasta stire Autorizații de construire / desființare emise în perioada 05.01.2026 – 16.02.2026 apare prima oara pe Primarii de la A la Z . Registrul AU 05 ian &#8211; 16 febDescarcă Source Aceasta stire Autorizații de construire / desființare emise în perioada 05.01.2026 – 16.02.2026 apare prima oara pe Primarii de la A la Z .",
       "published": "2026-02-20T10:31:08+00:00",
       "published_human": "2026-02-20T10:31",
-      "source": "https://1az.ro/"
-    },
-    {
-      "title": "Certificate de urbanism emise în perioada 05.01.2026 – 13.02.2026",
-      "link": "https://1az.ro/certificate-de-urbanism-emise-in-perioada-05-01-2026-13-02-2026/",
-      "summary": "Aceasta stire Certificate de urbanism emise în perioada 05.01.2026 – 13.02.2026 apare prima oara pe Primarii de la A la Z . Registrul CU 05 ian &#8211; 13 febDescarcă Source Aceasta stire Certificate de urbanism emise în perioada 05.01.2026 – 13.02.2026 apare prima oara pe Primarii de la A la Z .",
-      "published": "2026-02-20T10:28:49+00:00",
-      "published_human": "2026-02-20T10:28",
       "source": "https://1az.ro/"
     }
   ],
