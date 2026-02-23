@@ -7,9 +7,17 @@
     "rss": "https://stiri-live.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-02-23T11:56:26.603121+00:00",
+  "updated_at": "2026-02-23T13:44:45.777188+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "România de facto: realități și perspective 2026",
+      "link": "https://stiri-live.ro/romania-de-facto-realitati-si-perspective-2026/",
+      "summary": "26 februarie 2026 &#124; 9:30 – 14:30 &#124; Arenele BNR Inflație. Deficite. Finanțare. Creștere. Riscuri. Dincolo de discurs, spre realitate. Nu. Articolul România de facto: realități și perspective 2026 apare prima dată în Stiri Live .",
+      "published": "2026-02-23T10:58:31+00:00",
+      "published_human": "2026-02-23T10:58",
+      "source": "https://stiri-live.ro/"
+    },
     {
       "title": "Mai e mult pana in 2027? De ce „acum” este momentul perfect sa alegi gradinita potrivita pentru copilul tau",
       "link": "https://stiri-live.ro/mai-e-mult-pana-in-2027-de-ce-acum-este-momentul-perfect-sa-alegi-gradinita-potrivita-pentru-copilul-tau/",
@@ -96,14 +104,6 @@
       "summary": "Ați simțit vreodată acea frustrare intensă? Ați petrecut ore în șir analizând meciuri, statistici și forma echipelor, doar pentru. Articolul Greșeli fatale când construiești biletul zilei și cum le poți evita apare prima dată în Stiri Live .",
       "published": "2025-11-13T19:31:26+00:00",
       "published_human": "2025-11-13T19:31",
-      "source": "https://stiri-live.ro/"
-    },
-    {
-      "title": "Dincolo de diferențe si cuvinte: sărbătoare la CONIL Fest",
-      "link": "https://stiri-live.ro/dincolo-de-diferente-si-cuvinte-sarbatoare-la-conil-fest/",
-      "summary": "&#206;n iureșul cotidian, CONIL Fest ne forțează, &#238;n cel mai frumos mod, să ne oprim și să ne reamintim. Articolul Dincolo de diferențe si cuvinte: sărbătoare la CONIL Fest apare prima dată în Stiri Live .",
-      "published": "2025-11-11T07:00:38+00:00",
-      "published_human": "2025-11-11T07:00",
       "source": "https://stiri-live.ro/"
     }
   ],
