@@ -4,10 +4,10 @@
     "name": "Stiri Razboi",
     "url": "https://stiri-razboi.ro/",
     "category": "News & Society",
-    "rss": "https://stiri-razboi.ro/?feed=rss2"
+    "rss": "https://stiri-razboi.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-02-23T21:05:25.910221+00:00",
+  "updated_at": "2026-02-23T22:06:10.871206+00:00",
   "status": "ok",
   "items": [
     {
