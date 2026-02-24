@@ -4,10 +4,10 @@
     "name": "Nutritie Sanatate",
     "url": "https://nutritie-sanatate.ro/",
     "category": "Health",
-    "rss": "https://nutritie-sanatate.ro/?feed=rss2"
+    "rss": "https://nutritie-sanatate.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-02-24T18:11:45.356863+00:00",
+  "updated_at": "2026-02-24T19:28:31.932756+00:00",
   "status": "ok",
   "items": [
     {
