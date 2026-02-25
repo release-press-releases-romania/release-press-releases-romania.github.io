@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@top",
     "rss": "https://social.5th.ro/@top.rss"
   },
-  "updated_at": "2026-02-25T06:36:05.794447+00:00",
+  "updated_at": "2026-02-25T08:04:26.332369+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Ce faci dacă ai un accident cu mașina închiriată în Cluj-Napoca: pașii corecți, fără ambiguități",
+      "link": "https://top15.ro/ce-faci-daca-ai-un-accident-cu-masina-inchiriata-in-cluj-napoca-pasii-corecti-fara-ambiguitati/",
+      "summary": "Accidentele se &#238;nt&#226;mplă. Reacția ta contează mai mult dec&#226;t incidentul Indiferent c&#226;t de atent conduci,... Articolul Ce faci dacă ai un accident cu mașina închiriată în Cluj-Napoca: pașii corecți, fără ambiguități apare prima dată în TOP 15 .",
+      "published": "2026-02-17T22:22:00+00:00",
+      "published_human": "2026-02-17T22:22",
+      "source": "https://top15.ro/"
+    },
     {
       "title": "Cum poate aerul condiționat să ajusteze automat temperatura pentru somn",
       "link": "https://top15.ro/cum-poate-aerul-conditionat-sa-ajusteze-automat-temperatura-pentru-somn/",
@@ -43,6 +51,14 @@
       "summary": "Posesia unui vehicul britanic premium, precum Jaguar sau Land Rover, în zona Munteniei aduce cu... Articolul Soluții de mentenanță pentru posesorii de vehicule britanice din Prahova și Argeș apare prima dată în TOP 15 .",
       "published": "2026-02-13T08:31:08+00:00",
       "published_human": "2026-02-13T08:31",
+      "source": "https://top15.ro/"
+    },
+    {
+      "title": "Cum să eviți să pierzi clienți din cauza unui site care nu funcționează",
+      "link": "https://top15.ro/cum-sa-eviti-sa-pierzi-clienti-din-cauza-unui-site-care-nu-functioneaza/",
+      "summary": "Pentru foarte multe afaceri, pierderea clienților este pusă pe seama prețurilor, concurenței sau lipsei de... Articolul Cum să eviți să pierzi clienți din cauza unui site care nu funcționează apare prima dată în TOP 15 .",
+      "published": "2026-02-11T14:22:00+00:00",
+      "published_human": "2026-02-11T14:22",
       "source": "https://top15.ro/"
     },
     {
@@ -92,25 +108,25 @@
       "published": "2026-01-16T04:18:42+00:00",
       "published_human": "2026-01-16T04:18",
       "source": "https://top15.ro/"
-    },
-    {
-      "title": "Cm sa beneficiezi de un abonament de cafea la birou?",
-      "link": "https://top15.ro/cm-sa-beneficiezi-de-un-abonament-de-cafea-la-birou/",
-      "summary": "Alege un abonament cafea personalizat in functie de consum, cu un espressor in comodat! Articolul Cm sa beneficiezi de un abonament de cafea la birou? apare prima dată în TOP 15 .",
-      "published": "2026-01-01T17:45:00+00:00",
-      "published_human": "2026-01-01T17:45",
-      "source": "https://top15.ro/"
-    },
-    {
-      "title": "Ce poate transmite un dispozitiv de monitorizare flote auto",
-      "link": "https://top15.ro/ce-poate-transmite-un-dispozitiv-de-monitorizare-flote-auto/",
-      "summary": "Un dispozitiv de monitorizare flote auto poate transmite mult mai mult decât „unde e mașina”:... Articolul Ce poate transmite un dispozitiv de monitorizare flote auto apare prima dată în TOP 15 .",
-      "published": "2025-12-30T14:18:45+00:00",
-      "published_human": "2025-12-30T14:18",
-      "source": "https://top15.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@top/116130142493882240",
+      "summary": "📰Accidentele se întâmplă. Reacția ta contează mai mult decât incidentul Indiferent cât de atent conduci, există factori pe care nu îi controlezi: trafic aglomerat în Mărăști la ora 8:30, o frânare bruscă în Centru, polei dimineața devreme iarna sau un șofer neatent într-o intersecție.Dacă te afli la volanul unei mașini închiriate în Cluj-Napoca și apare… 📰 https:// top15.ro/ce-faci-daca-ai-un-ac cident-cu-masina-inchiriata-in-cluj-napoca-pasii-corecti-fara-ambiguitati/",
+      "published": "2026-02-25T07:42:28+00:00",
+      "published_human": "2026-02-25T07:42",
+      "source": "Mastodon"
+    },
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@top/116130031166681209",
+      "summary": "📰Pentru foarte multe afaceri, pierderea clienților este pusă pe seama prețurilor, concurenței sau lipsei de promovare. Rareori site-ul este suspectul principal. Și totuși, în mediul online, un site care nu funcționează corect este una dintre cele mai rapide și mai sigure metode de a alunga clienți care erau deja interesați.Un site nu trebuie să fie… 📰 https:// top15.ro/cum-sa-eviti-sa-pierz i-clienti-din-cauza-unui-site-care-nu-functioneaza/",
+      "published": "2026-02-25T07:14:09+00:00",
+      "published_human": "2026-02-25T07:14",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@top/116079261853407032",
@@ -189,22 +205,6 @@
       "summary": "📰Inchiriere espressoare de cafea in custodie pentru orice companie! 📰 https:// top15.ro/inchiriere-espressoar e-de-cafea-in-custodie/",
       "published": "2026-01-16T06:20:00+00:00",
       "published_human": "2026-01-16T06:20",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@top/115842747828400764",
-      "summary": "📰Alege un abonament cafea personalizat in functie de consum, cu un espressor in comodat! 📰 https:// top15.ro/cm-sa-beneficiezi-de- un-abonament-de-cafea-la-birou/",
-      "published": "2026-01-05T13:34:13+00:00",
-      "published_human": "2026-01-05T13:34",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@top/115808949239101040",
-      "summary": "📰Un dispozitiv de monitorizare flote auto poate transmite mult mai mult decât „unde e mașina”: de la poziție GPS în timp real și trasee, până la date din motor (prin OBD/CAN), stil de condus, staționări, alerte și rapoarte care ajută la costuri, mentenanță și conformare. Dacă ai deja sau vrei un sistem de monitorizare flote… 📰 https:// top15.ro/ce-poate-transmite-un -dispozitiv-de-monitorizare-flote-auto/",
-      "published": "2025-12-30T14:18:47+00:00",
-      "published_human": "2025-12-30T14:18",
       "source": "Mastodon"
     }
   ]
