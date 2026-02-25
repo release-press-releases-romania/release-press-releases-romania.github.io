@@ -10,7 +10,7 @@
     "url": "https://social.5th.ro/@top",
     "rss": "https://social.5th.ro/@top.rss"
   },
-  "updated_at": "2026-02-25T09:10:24.607227+00:00",
+  "updated_at": "2026-02-25T10:13:51.625075+00:00",
   "status": "ok",
   "items": [
     {
@@ -70,6 +70,14 @@
       "source": "https://top15.ro/"
     },
     {
+      "title": "De ce noile neoane LED nu pâlpâie și protejează vederea",
+      "link": "https://top15.ro/de-ce-noile-neoane-led-nu-palpaie-si-protejeaza-vederea/",
+      "summary": "Majoritatea dintre noi ne amintim sunetul s&#226;c&#226;itor și lumina care tremura &#238;n vechile birouri, școli... Articolul De ce noile neoane LED nu pâlpâie și protejează vederea apare prima dată în TOP 15 .",
+      "published": "2026-02-09T13:23:00+00:00",
+      "published_human": "2026-02-09T13:23",
+      "source": "https://top15.ro/"
+    },
+    {
       "title": "Pași siguri încă din copilărie: de ce încălțămintea din piele este cea mai bună alegere pentru cei mici",
       "link": "https://top15.ro/pasi-siguri-inca-din-copilarie-de-ce-incaltamintea-din-piele-este-cea-mai-buna-alegere-pentru-cei-mici/",
       "summary": "Alegerea încălțămintei pentru copii este una dintre cele mai importante decizii pe care părinții le... Articolul Pași siguri încă din copilărie: de ce încălțămintea din piele este cea mai bună alegere pentru cei mici apare prima dată în TOP 15 .",
@@ -100,17 +108,17 @@
       "published": "2026-01-16T09:24:50+00:00",
       "published_human": "2026-01-16T09:24",
       "source": "https://top15.ro/"
-    },
-    {
-      "title": "Inchiriere espressoare de cafea in custodie!",
-      "link": "https://top15.ro/inchiriere-espressoare-de-cafea-in-custodie/",
-      "summary": "Inchiriere espressoare de cafea in custodie pentru orice companie! Articolul Inchiriere espressoare de cafea in custodie! apare prima dată în TOP 15 .",
-      "published": "2026-01-16T04:18:42+00:00",
-      "published_human": "2026-01-16T04:18",
-      "source": "https://top15.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@top/116130733874432947",
+      "summary": "📰Majoritatea dintre noi ne amintim sunetul sâcâitor și lumina care tremura în vechile birouri, școli sau spitale. Acea atmosferă apăsătoare era cauzată de tuburile fluorescente clasice, o tehnologie care a dominat iluminatul comercial zeci de ani. Trecerea la iluminatul modern nu este doar un moft sau o măsură de reducere a facturii la energie electrică.… 📰 https:// top15.ro/de-ce-noile-neoane-le d-nu-palpaie-si-protejeaza-vederea/",
+      "published": "2026-02-25T10:12:51+00:00",
+      "published_human": "2026-02-25T10:12",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@top/116130142493882240",
@@ -197,14 +205,6 @@
       "summary": "📰Centralele pe lemne rămân o opțiune de top pentru încălzirea locuințelor și a clădirilor în 2026, în special pe fondul costurilor tot mai ridicate ale energiei și al orientării către soluții cu impact redus asupra mediului.În acest articol analizăm o selecție de centrale pe lemne disponibile pe Romstal.ro, evaluându-le pe baza unor criterii care influențează… 📰 https:// top15.ro/cele-mai-recomandate- centrale-pe-lemne-in-2026-5-variante-de-top/",
       "published": "2026-01-16T09:24:52+00:00",
       "published_human": "2026-01-16T09:24",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@top/115903325847143112",
-      "summary": "📰Inchiriere espressoare de cafea in custodie pentru orice companie! 📰 https:// top15.ro/inchiriere-espressoar e-de-cafea-in-custodie/",
-      "published": "2026-01-16T06:20:00+00:00",
-      "published_human": "2026-01-16T06:20",
       "source": "Mastodon"
     }
   ]
