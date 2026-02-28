@@ -4,10 +4,10 @@
     "name": "Drepturisociale",
     "url": "https://drepturisociale.ro/",
     "category": "News & Society",
-    "rss": "https://drepturisociale.ro/feed/"
+    "rss": "https://drepturisociale.ro/?feed=rss2"
   },
   "mastodon": null,
-  "updated_at": "2026-02-28T15:40:29.667699+00:00",
+  "updated_at": "2026-02-28T16:45:32.892829+00:00",
   "status": "ok",
   "items": [
     {
