@@ -7,9 +7,17 @@
     "rss": "https://casa-moderna.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-03-02T13:37:02.326653+00:00",
+  "updated_at": "2026-03-02T15:04:20.361793+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Ce trebuie să știi înainte să alegi un gard pentru casa ta",
+      "link": "https://casa-moderna.ro/ce-trebuie-sa-stii-inainte-sa-alegi-un-gard-pentru-casa-ta/",
+      "summary": "Alegerea gardului potrivit pentru locuință este o decizie care influențează atât siguranța proprietății, cât și aspectul general al casei. Gardul&#8230; Articolul Ce trebuie să știi înainte să alegi un gard pentru casa ta apare prima dată în Casa Moderna .",
+      "published": "2026-03-02T14:17:24+00:00",
+      "published_human": "2026-03-02T14:17",
+      "source": "https://casa-moderna.ro/"
+    },
     {
       "title": "Ce rol au senzorii de încărcătură și turbiditate la spălare",
       "link": "https://casa-moderna.ro/ce-rol-au-senzorii-de-incarcatura-si-turbiditate-la-spalare/",
@@ -96,14 +104,6 @@
       "summary": "Notificările AI pot organiza informațiile zilnice astfel încât utilizatorul să primească doar alertele relevante, la momentul potrivit. Sistemul analizează tiparele&#8230; Articolul Cum te ajută notificările AI în rutina zilnică apare prima dată în Casa Moderna .",
       "published": "2025-12-12T10:11:00+00:00",
       "published_human": "2025-12-12T10:11",
-      "source": "https://casa-moderna.ro/"
-    },
-    {
-      "title": "Învățare prin joacă: Puzzle-urile educative și beneficiile lor",
-      "link": "https://casa-moderna.ro/invatare-prin-joaca-puzzle-urile-educative-si-beneficiile-lor/",
-      "summary": "Cine a spus că &#238;nvățarea trebuie să fie serioasă, cu fruntea &#238;ncruntată și caiete pline de teme? &#206;n realitate, copiii&#8230; Articolul Învățare prin joacă: Puzzle-urile educative și beneficiile lor apare prima dată în Casa Moderna .",
-      "published": "2025-12-03T10:29:40+00:00",
-      "published_human": "2025-12-03T10:29",
       "source": "https://casa-moderna.ro/"
     }
   ],
