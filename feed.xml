@@ -5,8 +5,8 @@
     <link>https://release-press-releases-romania.github.io</link>
     <description>Aggregated RSS feed of press releases from over 100 Romanian publishers. Covering PR &amp; Marketing, Health, News &amp; Society, Technology, Business, Construction, Tourism, and more. Curated selection of quality press releases from trusted Romanian sources.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Mar 2026 06:47:35 +0000</lastBuildDate>
-    <pubDate>Mon, 02 Mar 2026 06:47:35 +0000</pubDate>
+    <lastBuildDate>Mon, 02 Mar 2026 12:39:22 +0000</lastBuildDate>
+    <pubDate>Mon, 02 Mar 2026 12:39:22 +0000</pubDate>
     <generator>Release Press Releases in Romania RSS Aggregator v2.0</generator>
     <webMaster>noreply@release-press-releases-romania.github.io (Release Press Releases)</webMaster>
     <managingEditor>noreply@release-press-releases-romania.github.io (Release Press Releases)</managingEditor>
@@ -28,6 +28,20 @@
     <sy:updateFrequency>1</sy:updateFrequency>
     <copyright>Copyright 2026 Release Press Releases in Romania. Content belongs to respective publishers.</copyright>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Daunatorii- Probleme invizibile care pot apărea în locuințe la câteva luni după renovare</title>
+      <link>https://constructii360.ro/daunatorii-probleme-invizibile-care-pot-aparea-in-locuinte-la-cateva-luni-dupa-renovare/</link>
+      <description><![CDATA[From Constructii360: Renovarea unei locuințe oferă impresia unui spațiu nou, sigur și lipsit de probleme. Totuși, în numeroase cazuri, anumite deficiențe rămân ascunse în structura clădirii și devin vizibile abia după câteva luni de utilizare. Aceste probleme nu țin doar de calitatea finisajelor, ci și de modul în care au fost verificate și tratate zonele tehnice și spațiile mai puțin accesibile în timpul renovării...]]></description>
+      <pubDate>Mon, 02 Mar 2026 11:33:19 +0000</pubDate>
+      <author>Constructii360 (https://release-press-releases-romania.github.io/publisher/constructii360-ro/)</author>
+      <dc:creator>Constructii360</dc:creator>
+      <dc:date>2026-03-02T11:33:19+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">Construction &amp; Home</category>
+      <guid isPermaLink="true">https://constructii360.ro/daunatorii-probleme-invizibile-care-pot-aparea-in-locuinte-la-cateva-luni-dupa-renovare/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/constructii360-ro/">Constructii360</source>
+      <content:encoded><![CDATA[From Constructii360: Renovarea unei locuințe oferă impresia unui spațiu nou, sigur și lipsit de probleme. Totuși, în numeroase cazuri, anumite deficiențe rămân ascunse în structura clădirii și devin vizibile abia după câteva luni de utilizare. Aceste probleme nu țin doar de calitatea finisajelor, ci și de modul în care au fost verificate și tratate zonele tehnice și spațiile mai puțin accesibile în timpul renovării...]]></content:encoded>
+      <comments>https://constructii360.ro/daunatorii-probleme-invizibile-care-pot-aparea-in-locuinte-la-cateva-luni-dupa-renovare/#comments</comments>
+    </item>
     <item>
       <title>Numele WALID: semnificație, origine, trăsături și personalitate</title>
       <link>https://e-nume.ro/numele-walid-semnificatie-origine-trasaturi-si-personalitate/</link>
@@ -1217,20 +1231,6 @@
       <source url="https://release-press-releases-romania.github.io/publisher/case-verzi-ro/">Case Verzi</source>
       <content:encoded><![CDATA[From Case Verzi: La un sistem fotovoltaic, proiectarea pune invariabil în centrul discuției panourile și invertorul. În teren, însă, diferența dintre un montaj care arată bine în ziua instalării și unul care rămâne stabil ani la rând stă în detalii de fixare: contactul cu acoperișul, modul în care sunt preluate vibrațiile, felul în care este gestionată apa și protecția împotriva umezelii. Un astfel de detaliu e...]]></content:encoded>
       <comments>https://case-verzi.ro/mini-rail/#comments</comments>
-    </item>
-    <item>
-      <title>Eficiență energetică și design modern: Ambient Plast, soluții premium pentru locuințe noi</title>
-      <link>https://constructii360.ro/tamplarie/</link>
-      <description><![CDATA[From Constructii360: Locuințele noi sunt proiectate cu alte așteptări decât în urmă cu 10-15 ani: eficiență energetică, suprafețe vitrate mari, lumină naturală, confort acustic și un design minimalist. În acest peisaj, tâmplăria nu mai este un simplu element al închiderii spațiului, ci o componentă care influențează consumul de energie, calitatea aerului din interior și felul în care se simte casa în fiecare zi. Al...]]></description>
-      <pubDate>Wed, 28 Jan 2026 12:09:21 +0000</pubDate>
-      <author>Constructii360 (https://release-press-releases-romania.github.io/publisher/constructii360-ro/)</author>
-      <dc:creator>Constructii360</dc:creator>
-      <dc:date>2026-01-28T12:09:21+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">Construction &amp; Home</category>
-      <guid isPermaLink="true">https://constructii360.ro/tamplarie/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/constructii360-ro/">Constructii360</source>
-      <content:encoded><![CDATA[From Constructii360: Locuințele noi sunt proiectate cu alte așteptări decât în urmă cu 10-15 ani: eficiență energetică, suprafețe vitrate mari, lumină naturală, confort acustic și un design minimalist. În acest peisaj, tâmplăria nu mai este un simplu element al închiderii spațiului, ci o componentă care influențează consumul de energie, calitatea aerului din interior și felul în care se simte casa în fiecare zi. Al...]]></content:encoded>
-      <comments>https://constructii360.ro/tamplarie/#comments</comments>
     </item>
     <item>
       <title>Proiect de anvergură: Zece state din Europa construiesc o interconectare de energie eoliană în Marea Nordului</title>
