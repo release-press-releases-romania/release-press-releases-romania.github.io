@@ -7,7 +7,7 @@
     "rss": "https://1az.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-03-03T11:49:50.956259+00:00",
+  "updated_at": "2026-03-03T13:35:17.554762+00:00",
   "status": "ok",
   "items": [
     {
@@ -24,6 +24,14 @@
       "summary": "Aceasta stire Publicație 02.03.2026 apare prima oara pe Primarii de la A la Z . Source Aceasta stire Publicație 02.03.2026 apare prima oara pe Primarii de la A la Z .",
       "published": "2026-03-02T13:28:52+00:00",
       "published_human": "2026-03-02T13:28",
+      "source": "https://1az.ro/"
+    },
+    {
+      "title": "Exercitiu de alarmare publica – Miercurea Sirenelor",
+      "link": "https://1az.ro/exercitiu-de-alarmare-publica-miercurea-sirenelor/",
+      "summary": "Aceasta stire Exercitiu de alarmare publica – Miercurea Sirenelor apare prima oara pe Primarii de la A la Z . Source Aceasta stire Exercitiu de alarmare publica – Miercurea Sirenelor apare prima oara pe Primarii de la A la Z .",
+      "published": "2026-03-02T13:08:34+00:00",
+      "published_human": "2026-03-02T13:08",
       "source": "https://1az.ro/"
     },
     {
@@ -96,14 +104,6 @@
       "summary": "Aceasta stire ȘEDINȚA CONSILIULUI LOCAL DELENI – 26 FEBRUARIE 2026 apare prima oara pe Primarii de la A la Z . The post ȘEDINȚA CONSILIULUI LOCAL DELENI – 26 FEBRUARIE 2026 first appeared on Primăria Comunei Deleni &#8211; județul Iași. Source Aceasta stire ȘEDINȚA CONSILIULUI LOCAL DELENI – 26 FEBRUARIE 2026 apare prima oara pe Primarii de la A la Z .",
       "published": "2026-03-02T09:18:04+00:00",
       "published_human": "2026-03-02T09:18",
-      "source": "https://1az.ro/"
-    },
-    {
-      "title": "Anunț din 02.03.2026 – Proiect de hotărâre înregistrat cu nr. 99105/02.03.2026 privind aprobarea Planului de acțiune privind serviciile sociale administrate și finanțate din bugetu",
-      "link": "https://1az.ro/anunt-din-02-03-2026-proiect-de-hotarare-inregistrat-cu-nr-99105-02-03-2026-privind-aprobarea-planului-de-actiune-privind-serviciile-sociale-administrate-si-finantate-din-bugetul-local-pen/",
-      "summary": "Aceasta stire Anunț din 02.03.2026 – Proiect de hotărâre înregistrat cu nr. 99105/02.03.2026 privind aprobarea Planului de acțiune privind serviciile sociale administrate și finanțate din bugetul local, pentru anul 2026 apare prima oara pe Primarii de la A la Z . anunt 3 proiecte bluratDescarcă pr plan de actiuni bluratDescarcă Source Aceasta stire Anunț din 02.03.2026 – Proiect de hotărâre înregistrat cu nr. 99105/02.03.2026 privind aprobarea Planului de acțiune privind serviciile sociale administrate și finanțate din bugetul local, pentru anul 2026 apare prima oara pe Primarii de la A la Z .",
-      "published": "2026-03-02T08:59:59+00:00",
-      "published_human": "2026-03-02T08:59",
       "source": "https://1az.ro/"
     }
   ],
