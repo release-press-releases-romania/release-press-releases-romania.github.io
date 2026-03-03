@@ -7,9 +7,17 @@
     "rss": "https://recomandari-medicale.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-03-03T09:03:18.164681+00:00",
+  "updated_at": "2026-03-03T10:03:10.563448+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Somn bun, nopți liniștite: ce poți schimba ca să te odihnești mai bine",
+      "link": "https://recomandari-medicale.ro/somn-bun-nopti-linistite-ce-poti-schimba-ca-sa-te-odihnesti-mai-bine/",
+      "summary": "Somnul ar trebui să fie momentul în care corpul și mintea se refac, dar pentru mulți oameni nopțile au devenit&#8230; Articolul Somn bun, nopți liniștite: ce poți schimba ca să te odihnești mai bine apare prima dată în Recomandari Medicale .",
+      "published": "2026-03-03T09:55:41+00:00",
+      "published_human": "2026-03-03T09:55",
+      "source": "https://recomandari-medicale.ro/"
+    },
     {
       "title": "5 accesorii necesare pentru o uniformă medicală completă",
       "link": "https://recomandari-medicale.ro/5-accesorii-necesare-pentru-o-uniforma-medicala-completa/",
@@ -96,14 +104,6 @@
       "summary": "Te-ai săturat de algoritmii care decid ce vezi? Vrei să faci parte dintr-o rețea socială care îți pune experiența înapoi&#8230; Articolul Mastodon România pentru începători: ce să urmărești în prima săptămână apare prima dată în Recomandari Medicale .",
       "published": "2025-12-17T16:58:54+00:00",
       "published_human": "2025-12-17T16:58",
-      "source": "https://recomandari-medicale.ro/"
-    },
-    {
-      "title": "Ce rol are nervul median în funcționarea mâinii tale?",
-      "link": "https://recomandari-medicale.ro/ce-rol-are-nervul-median-in-functionarea-mainii-tale/",
-      "summary": "M&#226;na umană este un ansamblu complex de oase, tendoane, ligamente, mușchi și nervi. Totul trebuie să funcționeze sincronizat ca să&#8230; Articolul Ce rol are nervul median în funcționarea mâinii tale? apare prima dată în Recomandari Medicale .",
-      "published": "2025-12-12T13:06:00+00:00",
-      "published_human": "2025-12-12T13:06",
       "source": "https://recomandari-medicale.ro/"
     }
   ],
