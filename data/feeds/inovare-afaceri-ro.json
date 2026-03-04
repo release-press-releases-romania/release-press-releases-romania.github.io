@@ -7,9 +7,17 @@
     "rss": "https://inovare-afaceri.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-03-04T19:09:28.876241+00:00",
+  "updated_at": "2026-03-04T19:53:31.317039+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "MORE Networking – 10 ani printr-o conferință despre puterea conexiunilor și comunităților",
+      "link": "https://inovare-afaceri.ro/more-networking-10-ani-printr-o-conferinta-despre-puterea-conexiunilor-si-comunitatilor/",
+      "summary": "MORE Networking celebrează 10 ani printr-o conferință despre puterea conexiunilor și comunităților O zi intensă de discuții, paneluri și networking dedicată liderilor de comunități, antreprenorilor și managerilor. Pe 26 martie 2026, la Aurrum Palace, are loc Conferința Anuală MORE Networking 2026 &#8211; o ediție specială care marchează 10 ani de la lansarea uneia dintre cele [&#8230;] Articolul MORE Networking &#8211; 10 ani printr-o conferință despre puterea conexiunilor și comunităților apare prima dată în Inovare Afaceri .",
+      "published": "2026-03-04T17:27:18+00:00",
+      "published_human": "2026-03-04T17:27",
+      "source": "https://inovare-afaceri.ro/"
+    },
     {
       "title": "Site-ul tău WordPress este vulnerabil? Cum să-l protejezi simplu, fără să devii expert IT",
       "link": "https://inovare-afaceri.ro/site-ul-tau-wordpress-este-vulnerabil-cum-sa-l-protejezi-simplu-fara-sa-devii-expert-it/",
@@ -96,14 +104,6 @@
       "summary": "Furtul de combustibil nu arată mereu ca în filme, cu cineva prins “în flagrant” lângă rezervor. De cele mai multe ori, furtul de combustibil arată ca niște litri “care dispar” treptat sau ca o scădere bruscă într-un loc unde mașina n-ar fi trebuit să consume nimic. Dacă ai una sau mai multe mașini în teren, [&#8230;] Articolul Cum detectezi furtul de combustibil cu ajutorul unui sistem GPS apare prima dată în Inovare Afaceri .",
       "published": "2025-12-26T10:32:42+00:00",
       "published_human": "2025-12-26T10:32",
-      "source": "https://inovare-afaceri.ro/"
-    },
-    {
-      "title": "Cum folosești Content Warning (CW) corect pe Mastodon",
-      "link": "https://inovare-afaceri.ro/cum-folosesti-content-warning-cw-corect-pe-mastodon/",
-      "summary": "Te-ai săturat de algoritmii agresivi și de conținutul nefiltrat care îți invadează cronologia? Vrei să navighezi pe rețelele sociale într-un mediu mai calm, controlat și respectuos? Platforma descentralizată Mastodon oferă instrumente puternice pentru a îmbunătăți experiența utilizatorului. Diferența majoră față de platformele centralizate constă în accentul pus pe sănătatea comunității. Unul dintre cele mai importante [&#8230;] Articolul Cum folosești Content Warning (CW) corect pe Mastodon apare prima dată în Inovare Afaceri .",
-      "published": "2025-12-17T16:58:54+00:00",
-      "published_human": "2025-12-17T16:58",
       "source": "https://inovare-afaceri.ro/"
     }
   ],

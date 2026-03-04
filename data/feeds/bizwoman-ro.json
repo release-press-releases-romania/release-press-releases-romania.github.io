@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@BIZWoman",
     "rss": "https://social.5th.ro/@BIZWoman.rss"
   },
-  "updated_at": "2026-03-04T19:09:28.876241+00:00",
+  "updated_at": "2026-03-04T19:53:31.317039+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "MORE Networking – 10 ani printr-o conferință despre puterea conexiunilor și comunităților",
+      "link": "https://bizwoman.ro/more-networking-10-ani-printr-o-conferinta-despre-puterea-conexiunilor-si-comunitatilor/",
+      "summary": "MORE Networking celebrează 10 ani printr-o conferință despre puterea conexiunilor și comunităților O zi intensă&#8230; Articolul MORE Networking &#8211; 10 ani printr-o conferință despre puterea conexiunilor și comunităților apare prima dată în Biz Woman .",
+      "published": "2026-03-04T17:25:54+00:00",
+      "published_human": "2026-03-04T17:25",
+      "source": "https://bizwoman.ro/"
+    },
     {
       "title": "Tehnologie cu suflet: Asociatia CONIL a facut pasul spre digitalizare prin PNRR pentru a fi mai aproape de copiii cu nevoi speciale",
       "link": "https://bizwoman.ro/tehnologie-cu-suflet-asociatia-conil-a-facut-pasul-spre-digitalizare-prin-pnrr-pentru-a-fi-mai-aproape-de-copiii-cu-nevoi-speciale/",
@@ -84,17 +92,17 @@
       "published": "2025-12-18T15:42:03+00:00",
       "published_human": "2025-12-18T15:42",
       "source": "https://bizwoman.ro/"
-    },
-    {
-      "title": "Cum postezi pe Mastodon doar când articolul e publicat (nu draft/preview)",
-      "link": "https://bizwoman.ro/cum-postezi-pe-mastodon-doar-cand-articolul-e-publicat-nu-draft-preview/",
-      "summary": "Ați publicat vreodată un articol pe WordPress și, din greșeală, ați văzut că un draft&#8230; Articolul Cum postezi pe Mastodon doar când articolul e publicat (nu draft/preview) apare prima dată în Biz Woman .",
-      "published": "2025-12-17T16:58:54+00:00",
-      "published_human": "2025-12-17T16:58",
-      "source": "https://bizwoman.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@BIZWoman/116172558914152907",
+      "summary": "📄MORE Networking celebrează 10 ani printr-o conferință despre puterea conexiunilor și comunităților O zi intensă de discuții, paneluri și networking dedicată liderilor de comunități, antreprenorilor și managerilor. Pe 26 martie 2026, la Aurrum Palace, are loc Conferința Anuală MORE Networking 2026 – o ediție specială care marchează 10 ani de la lansarea uneia dintre cele… 📄 https:// bizwoman.ro/more-networking-10 -ani-printr-o-conferinta-despre-puterea-conexiunilor-si-comunitatilor/",
+      "published": "2026-03-04T19:29:31+00:00",
+      "published_human": "2026-03-04T19:29",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@BIZWoman/116131320360105923",
@@ -181,14 +189,6 @@
       "summary": "📄Oameni, destine, emoție: Adela Hanafi, a lansat podcastul „Povești Nespuse cu Adela” Într-o lume adesea dominată de superficialitate și știri rapide, Adela Hanafi, Președinta Asociației CONIL și sufletul din spatele CONIL Fest, lansează un proiect special: podcastul „Povești Nespuse cu Adela”. Acest demers curajos transformă experiența personală profundă în lecții de viață universale, oferind o… 📄 https:// bizwoman.ro/oameni-destine-emo tie-adela-hanafi-a-lansat-podcastul-povesti-nespuse-cu-adela/",
       "published": "2025-12-10T11:29:34+00:00",
       "published_human": "2025-12-10T11:29",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@BIZWoman/115690469141657867",
-      "summary": "📄Gala „Women in Economy” ajunge la Paris • 1 decembrie 2025, Hôtel de Ville – Paris: CONAF, alături de Ambasada României în Republica Franceză, Consulatul General al României la Paris și cu sprijinul Delegației Permanente a României pe lângă UNESCO, Institutului Cultural Român din Paris, Cercului profesioniștilor români din Franța, Primăriei Paris, reprezentanței CONAF Franța… 📄 https:// bizwoman.ro/gala-women-in-econ omy-ajunge-la-paris/",
-      "published": "2025-12-09T16:07:45+00:00",
-      "published_human": "2025-12-09T16:07",
       "source": "Mastodon"
     }
   ]

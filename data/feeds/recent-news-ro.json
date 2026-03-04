@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@recent_news",
     "rss": "https://social.5th.ro/@recent_news.rss"
   },
-  "updated_at": "2026-03-04T19:09:28.876241+00:00",
+  "updated_at": "2026-03-04T19:53:31.317039+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "MORE Networking – 10 ani printr-o conferință despre puterea conexiunilor și comunităților",
+      "link": "https://recent-news.ro/more-networking-10-ani-printr-o-conferinta-despre-puterea-conexiunilor-si-comunitatilor/",
+      "summary": "MORE Networking celebrează 10 ani printr-o conferință despre puterea conexiunilor și comunităților O zi intensă de discuții, paneluri și networking&#8230; Articolul MORE Networking &#8211; 10 ani printr-o conferință despre puterea conexiunilor și comunităților apare prima dată în Recent News .",
+      "published": "2026-03-04T17:28:57+00:00",
+      "published_human": "2026-03-04T17:28",
+      "source": "https://recent-news.ro/"
+    },
     {
       "title": "Unde găsești suport pentru vehicule de lux",
       "link": "https://recent-news.ro/unde-gasesti-suport-pentru-vehicule-de-lux/",
@@ -84,17 +92,17 @@
       "published": "2025-12-01T12:07:49+00:00",
       "published_human": "2025-12-01T12:07",
       "source": "https://recent-news.ro/"
-    },
-    {
-      "title": "CONIL Fest 2025: ediția a XXVII-a a Festivalului Integrări",
-      "link": "https://recent-news.ro/conil-fest-2025-editia-a-xxvii-a-a-festivalului-integrari/",
-      "summary": "Zilele de 15 și 16 noiembrie 2025 au adus o emoție pură și o lecție de neuitat la Circul Metropolitan&#8230; Articolul CONIL Fest 2025: ediția a XXVII-a a Festivalului Integrări apare prima dată în Recent News .",
-      "published": "2025-11-25T06:50:40+00:00",
-      "published_human": "2025-11-25T06:50",
-      "source": "https://recent-news.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@recent_news/116172604148073791",
+      "summary": "MORE Networking celebrează 10 ani printr-o conferință despre puterea conexiunilor și comunităților O zi intensă de discuții, paneluri și networking dedicată liderilor de comunități, antreprenorilor și managerilor. Pe 26 martie 2026, la Aurrum Palace, are loc Conferința Anuală MORE Networking 2026 – o ediție specială care marchează 10 ani de la lansarea uneia dintre cele… https:// recent-news.ro/more-networking -10-ani-printr-o-conferinta-despre-puterea-conexiunilor-si-comunitatilor/",
+      "published": "2026-03-04T19:41:01+00:00",
+      "published_human": "2026-03-04T19:41",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@recent_news/116062378932762958",
