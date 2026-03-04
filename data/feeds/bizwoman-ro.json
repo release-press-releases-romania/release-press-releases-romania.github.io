@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@BIZWoman",
     "rss": "https://social.5th.ro/@BIZWoman.rss"
   },
-  "updated_at": "2026-03-04T19:53:31.317039+00:00",
+  "updated_at": "2026-03-04T20:52:36.352183+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Localizare GPS auto: Cum funcționează și ce beneficii ai",
+      "link": "https://bizwoman.ro/localizare-gps-auto-cum-functioneaza-si-ce-beneficii-ai/",
+      "summary": "Cum se face că două mașini care par să facă aceeași treabă scot, la final&#8230; Articolul Localizare GPS auto: Cum funcționează și ce beneficii ai apare prima dată în Biz Woman .",
+      "published": "2026-03-04T20:00:28+00:00",
+      "published_human": "2026-03-04T20:00",
+      "source": "https://bizwoman.ro/"
+    },
     {
       "title": "MORE Networking – 10 ani printr-o conferință despre puterea conexiunilor și comunităților",
       "link": "https://bizwoman.ro/more-networking-10-ani-printr-o-conferinta-despre-puterea-conexiunilor-si-comunitatilor/",
@@ -84,17 +92,17 @@
       "published": "2026-01-06T10:46:24+00:00",
       "published_human": "2026-01-06T10:46",
       "source": "https://bizwoman.ro/"
-    },
-    {
-      "title": "Curierat fără granițe: abordarea Bogo Express pentru livrări naționale și internaționale",
-      "link": "https://bizwoman.ro/curierat-fara-granite-abordarea-bogo-express-pentru-livrari-nationale-si-internationale/",
-      "summary": "Într-un context în care mobilitatea comercială și nevoia de livrare rapidă cresc constant, soluțiile de&#8230; Articolul Curierat fără granițe: abordarea Bogo Express pentru livrări naționale și internaționale apare prima dată în Biz Woman .",
-      "published": "2025-12-18T15:42:03+00:00",
-      "published_human": "2025-12-18T15:42",
-      "source": "https://bizwoman.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@BIZWoman/116172680774556289",
+      "summary": "📄Cum se face că două mașini care par să facă aceeași treabă scot, la final de lună, facturi complet diferite? Sistemul de localizare GPS auto îți dă răspunsul rapid, pentru că nu mai conduci afacerea „după telefon” și presupuneri, ci după date: unde a fost mașina, cât a stat pe loc, ce traseu a urmat… 📄 https:// bizwoman.ro/localizare-gps-aut o-cum-functioneaza-si-ce-beneficii-ai/",
+      "published": "2026-03-04T20:00:30+00:00",
+      "published_human": "2026-03-04T20:00",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@BIZWoman/116172558914152907",
@@ -181,14 +189,6 @@
       "summary": "📄Ați publicat vreodată un articol pe WordPress și, din greșeală, ați văzut că un draft sau o previzualizare a fost trimisă automat pe rețelele sociale? Această frustrare este comună, mai ales când încercați să mențineți o prezență profesională pe platforme descentralizate precum Mastodon. Automatizarea este vitală pentru orice creator de conținut. Totuși, automatizarea necontrolată poate… 📄 https:// bizwoman.ro/cum-postezi-pe-mas todon-doar-cand-articolul-e-publicat-nu-draft-preview/",
       "published": "2025-12-17T19:16:57+00:00",
       "published_human": "2025-12-17T19:16",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@BIZWoman/115695037590534542",
-      "summary": "📄Oameni, destine, emoție: Adela Hanafi, a lansat podcastul „Povești Nespuse cu Adela” Într-o lume adesea dominată de superficialitate și știri rapide, Adela Hanafi, Președinta Asociației CONIL și sufletul din spatele CONIL Fest, lansează un proiect special: podcastul „Povești Nespuse cu Adela”. Acest demers curajos transformă experiența personală profundă în lecții de viață universale, oferind o… 📄 https:// bizwoman.ro/oameni-destine-emo tie-adela-hanafi-a-lansat-podcastul-povesti-nespuse-cu-adela/",
-      "published": "2025-12-10T11:29:34+00:00",
-      "published_human": "2025-12-10T11:29",
       "source": "Mastodon"
     }
   ]
