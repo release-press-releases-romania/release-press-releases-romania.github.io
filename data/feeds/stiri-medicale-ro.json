@@ -7,9 +7,17 @@
     "rss": "https://stiri-medicale.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-03-05T11:04:05.343293+00:00",
+  "updated_at": "2026-03-05T11:51:36.443085+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Masterclass International: chirurgia robotica si laparoscopica in tratamentul herniilor inghinal",
+      "link": "https://stiri-medicale.ro/masterclass-international-chirurgia-robotica-si-laparoscopica-in-tratamentul-herniilor-inghinal/",
+      "summary": "Dr. Bogdan Mihai Serban &#124; Medic primar chirurgie generală, Șef de Secție Chirurgie generală, oncologică și robotică la Spitalul Medicover&#8230; Articolul Masterclass International: chirurgia robotica si laparoscopica in tratamentul herniilor inghinal apare prima dată în Stiri Medicale .",
+      "published": "2026-03-05T09:40:23+00:00",
+      "published_human": "2026-03-05T09:40",
+      "source": "https://stiri-medicale.ro/"
+    },
     {
       "title": "De ce este un motiv bun să apelezi la servicii de consultanță pentru stomatologi",
       "link": "https://stiri-medicale.ro/de-ce-este-un-motiv-bun-sa-apelezi-la-servicii-de-consultanta-pentru-stomatologi/",
@@ -96,14 +104,6 @@
       "summary": "Te-ai întrebat vreodată cum reușesc cei mai constanți jucători să obțină beneficii suplimentare la cazinourile online? Răspunsul stă în sistemul&#8230; Articolul Program VIP pentru jucători de păcănele: cum funcționează recompensele apare prima dată în Stiri Medicale .",
       "published": "2025-11-15T10:03:28+00:00",
       "published_human": "2025-11-15T10:03",
-      "source": "https://stiri-medicale.ro/"
-    },
-    {
-      "title": "Strategii de bază pentru pariuri pe tenis: seturi, game-uri și cote",
-      "link": "https://stiri-medicale.ro/strategii-de-baza-pentru-pariuri-pe-tenis-seturi-game-uri-si-cote/",
-      "summary": "Te-ai săturat să plasezi pariuri tenis bazate doar pe nume și să pierzi constant? (Atenție) Tenisul este unul dintre cele&#8230; Articolul Strategii de bază pentru pariuri pe tenis: seturi, game-uri și cote apare prima dată în Stiri Medicale .",
-      "published": "2025-11-14T09:07:58+00:00",
-      "published_human": "2025-11-14T09:07",
       "source": "https://stiri-medicale.ro/"
     }
   ],
