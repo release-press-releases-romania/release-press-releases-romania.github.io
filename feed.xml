@@ -5,8 +5,8 @@
     <link>https://release-press-releases-romania.github.io</link>
     <description>Aggregated RSS feed of press releases from over 100 Romanian publishers. Covering PR &amp; Marketing, Health, News &amp; Society, Technology, Business, Construction, Tourism, and more. Curated selection of quality press releases from trusted Romanian sources.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Mar 2026 06:53:32 +0000</lastBuildDate>
-    <pubDate>Mon, 09 Mar 2026 06:53:32 +0000</pubDate>
+    <lastBuildDate>Mon, 09 Mar 2026 12:41:58 +0000</lastBuildDate>
+    <pubDate>Mon, 09 Mar 2026 12:41:58 +0000</pubDate>
     <generator>Release Press Releases in Romania RSS Aggregator v2.0</generator>
     <webMaster>noreply@release-press-releases-romania.github.io (Release Press Releases)</webMaster>
     <managingEditor>noreply@release-press-releases-romania.github.io (Release Press Releases)</managingEditor>
@@ -28,6 +28,20 @@
     <sy:updateFrequency>1</sy:updateFrequency>
     <copyright>Copyright 2026 Release Press Releases in Romania. Content belongs to respective publishers.</copyright>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Primăvara începe cu mentenanța: piese de transmisie pentru mașini de tuns, motocultoare și pompe</title>
+      <link>https://amenajari360.ro/primavara-incepe-cu-mentenanta-piese-de-transmisie-pentru-masini-de-tuns-motocultoare-si-pompe/</link>
+      <description><![CDATA[From Amenajari360: Primăvara este momentul în care utilajele de grădină ies din nou din magazie și revin la lucru. În martie și aprilie, exact când iarba începe să crească, solul trebuie pregătit, iar sistemele de irigație și pompare sunt repuse în funcțiune, apar și cele mai multe probleme tehnice. Din experiența mea, cele mai frecvente sunt legate de transmisie: curele îmbătrânite, întinse, crăpate sau montate ...]]></description>
+      <pubDate>Mon, 09 Mar 2026 12:32:34 +0000</pubDate>
+      <author>Amenajari360 (https://release-press-releases-romania.github.io/publisher/amenajari360-ro/)</author>
+      <dc:creator>Amenajari360</dc:creator>
+      <dc:date>2026-03-09T12:32:34+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">Construction &amp; Home</category>
+      <guid isPermaLink="true">https://amenajari360.ro/primavara-incepe-cu-mentenanta-piese-de-transmisie-pentru-masini-de-tuns-motocultoare-si-pompe/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/amenajari360-ro/">Amenajari360</source>
+      <content:encoded><![CDATA[From Amenajari360: Primăvara este momentul în care utilajele de grădină ies din nou din magazie și revin la lucru. În martie și aprilie, exact când iarba începe să crească, solul trebuie pregătit, iar sistemele de irigație și pompare sunt repuse în funcțiune, apar și cele mai multe probleme tehnice. Din experiența mea, cele mai frecvente sunt legate de transmisie: curele îmbătrânite, întinse, crăpate sau montate ...]]></content:encoded>
+      <comments>https://amenajari360.ro/primavara-incepe-cu-mentenanta-piese-de-transmisie-pentru-masini-de-tuns-motocultoare-si-pompe/#comments</comments>
+    </item>
     <item>
       <title>Numele YADAIL-BAYYIN: semnificație, origine, trăsături și personalitate</title>
       <link>https://e-nume.ro/numele-yadail-bayyin-semnificatie-origine-trasaturi-si-personalitate/</link>
@@ -1679,20 +1693,6 @@
       <source url="https://release-press-releases-romania.github.io/publisher/drepturisociale-ro/">Drepturisociale</source>
       <content:encoded><![CDATA[From Drepturisociale: V-ați mutat de curând pe Mastodon și vă simțiți copleșiți de nuanțele interacțiunilor sociale? Spre deosebire de rețelele centralizate, unde „like”-ul și „share”-ul sunt adesea echivalente, pe Fediverse simpla apăsare a unui buton are consecințe distincte și măsurabile. Înțelegerea momentului optim pentru a folosi un boost versus o simplă acțiune de favorite este crucială pentru a naviga eficie...]]></content:encoded>
       <comments>https://drepturisociale.ro/boost-vs-favorite-pe-mastodon-cand-le-folosesti-si-de-ce-conteaza/#comments</comments>
-    </item>
-    <item>
-      <title>Cum adaugi buton „Share on Mastodon” în WordPress</title>
-      <link>https://amenajari360.ro/cum-adaugi-buton-share-on-mastodon-in-wordpress/</link>
-      <description><![CDATA[From Amenajari360: Trăim într-o eră a schimbărilor rapide peisajul digital. Oamenii caută alternative la rețelele sociale centralizate. Mastodon a devenit rapid refugiu pentru cei care prețuiesc confidențialitatea și discuțiile autentice. Atenție: Observați o scădere a traficului social, deși publicați conținut excelent pe WordPress? Este posibil ca publicul dumneavoastră să se fi mutat pe Fediverse. Lumea descen...]]></description>
-      <pubDate>Wed, 17 Dec 2025 16:58:54 +0000</pubDate>
-      <author>Amenajari360 (https://release-press-releases-romania.github.io/publisher/amenajari360-ro/)</author>
-      <dc:creator>Amenajari360</dc:creator>
-      <dc:date>2025-12-17T16:58:54+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">Construction &amp; Home</category>
-      <guid isPermaLink="true">https://amenajari360.ro/cum-adaugi-buton-share-on-mastodon-in-wordpress/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/amenajari360-ro/">Amenajari360</source>
-      <content:encoded><![CDATA[From Amenajari360: Trăim într-o eră a schimbărilor rapide peisajul digital. Oamenii caută alternative la rețelele sociale centralizate. Mastodon a devenit rapid refugiu pentru cei care prețuiesc confidențialitatea și discuțiile autentice. Atenție: Observați o scădere a traficului social, deși publicați conținut excelent pe WordPress? Este posibil ca publicul dumneavoastră să se fi mutat pe Fediverse. Lumea descen...]]></content:encoded>
-      <comments>https://amenajari360.ro/cum-adaugi-buton-share-on-mastodon-in-wordpress/#comments</comments>
     </item>
     <item>
       <title>Mastodon și linkurile: cum le postezi ca să fie ușor de citit</title>
