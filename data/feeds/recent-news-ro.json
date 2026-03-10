@@ -10,7 +10,7 @@
     "url": "https://social.5th.ro/@recent_news",
     "rss": "https://social.5th.ro/@recent_news.rss"
   },
-  "updated_at": "2026-03-10T10:03:11.279621+00:00",
+  "updated_at": "2026-03-10T11:04:04.974570+00:00",
   "status": "ok",
   "items": [
     {
@@ -19,6 +19,14 @@
       "summary": "MORE Networking celebrează 10 ani printr-o conferință despre puterea conexiunilor și comunităților O zi intensă de discuții, paneluri și networking&#8230; Articolul MORE Networking &#8211; 10 ani printr-o conferință despre puterea conexiunilor și comunităților apare prima dată în Recent News .",
       "published": "2026-03-04T17:28:57+00:00",
       "published_human": "2026-03-04T17:28",
+      "source": "https://recent-news.ro/"
+    },
+    {
+      "title": "De la trusou de serie la trusou cu identitate proprie",
+      "link": "https://recent-news.ro/de-la-trusou-de-serie-la-trusou-cu-identitate-proprie/",
+      "summary": "Lovia: Trusourile de botez personalizate, între tradiție și noua estetică a amintirilor de familie Un atelier românesc propune un model&#8230; Articolul De la trusou de serie la trusou cu identitate proprie apare prima dată în Recent News .",
+      "published": "2026-03-04T09:12:34+00:00",
+      "published_human": "2026-03-04T09:12",
       "source": "https://recent-news.ro/"
     },
     {
@@ -84,17 +92,17 @@
       "published": "2025-12-02T09:22:12+00:00",
       "published_human": "2025-12-02T09:22",
       "source": "https://recent-news.ro/"
-    },
-    {
-      "title": "2025: cum scrii comunicate de presă care nu ajung direct în spam",
-      "link": "https://recent-news.ro/2025-cum-scrii-comunicate-de-presa-care-nu-ajung-direct-in-spam/",
-      "summary": "Câte comunicate de presă trimise de compania dumneavoastră ajung cu adevărat pe biroul redactorilor, și nu în dosarul de spam?&#8230; Articolul 2025: cum scrii comunicate de presă care nu ajung direct în spam apare prima dată în Recent News .",
-      "published": "2025-12-01T12:07:49+00:00",
-      "published_human": "2025-12-01T12:07",
-      "source": "https://recent-news.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@recent_news/116204543562443611",
+      "summary": "Lovia: Trusourile de botez personalizate, între tradiție și noua estetică a amintirilor de familieUn atelier românesc propune un model diferit pe piața articolelor de botez: seturi complete din bumbac natural, broderie personalizată cu numele copilului și data botezului, livrate în cutii de lemn masivPiața articolelor de botez din România traversează o schimbare vizibilă de comportament.… https:// recent-news.ro/de-la-trusou-de -serie-la-trusou-cu-identitate-proprie/",
+      "published": "2026-03-10T11:03:38+00:00",
+      "published_human": "2026-03-10T11:03",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@recent_news/116172604148073791",
@@ -181,14 +189,6 @@
       "summary": "Zilele de 15 și 16 noiembrie 2025 au adus o emoție pură și o lecție de neuitat la Circul Metropolitan București, unde a avut loc cea de-a XXVII-a ediție a CONIL Fest – Festivalul Integrării, sub tema profundă: „Dincolo de Diferențe”. Evenimentul nu a fost doar un spectacol, ci o celebrare vibrantă a incluziunii, diversității… https:// recent-news.ro/conil-fest-2025 -editia-a-xxvii-a-a-festivalului-integrari/",
       "published": "2025-12-10T11:59:04+00:00",
       "published_human": "2025-12-10T11:59",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@recent_news/115695118876055700",
-      "summary": "Știri și analize din România și din lume, actualizate constant: actualitate, economie, tech, sport și lifestyle. Informație rapidă, clară și la zi. # stiri # news # actualitate # recentnews https:// recent-news.ro",
-      "published": "2025-12-10T11:50:14+00:00",
-      "published_human": "2025-12-10T11:50",
       "source": "Mastodon"
     }
   ]
