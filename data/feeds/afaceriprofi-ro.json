@@ -4,13 +4,13 @@
     "name": "Afaceriprofi",
     "url": "https://afaceriprofi.ro/",
     "category": "Business",
-    "rss": "https://afaceriprofi.ro/feed/"
+    "rss": "https://afaceriprofi.ro/?feed=rss2"
   },
   "mastodon": {
     "url": "https://social.5th.ro/@AfaceriProfi",
     "rss": "https://social.5th.ro/@AfaceriProfi.rss"
   },
-  "updated_at": "2026-03-11T09:03:23.105500+00:00",
+  "updated_at": "2026-03-11T10:03:35.520510+00:00",
   "status": "ok",
   "items": [
     {
