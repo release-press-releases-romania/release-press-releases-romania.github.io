@@ -7,9 +7,17 @@
     "rss": "https://recomandari-medicale.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-03-12T15:12:40.018760+00:00",
+  "updated_at": "2026-03-12T16:31:51.354055+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Culori potrivite pentru uniforma medicală în sezonul cald",
+      "link": "https://recomandari-medicale.ro/culori-potrivite-pentru-uniforma-medicala-in-sezonul-cald/",
+      "summary": "Sezonul cald aduce cu sine temperaturi ridicate, zile mai lungi și un ritm mai alert în unitățile medicale. În acest&#8230; Articolul Culori potrivite pentru uniforma medicală în sezonul cald apare prima dată în Recomandari Medicale .",
+      "published": "2026-03-12T15:48:07+00:00",
+      "published_human": "2026-03-12T15:48",
+      "source": "https://recomandari-medicale.ro/"
+    },
     {
       "title": "Somn bun, nopți liniștite: ce poți schimba ca să te odihnești mai bine",
       "link": "https://recomandari-medicale.ro/somn-bun-nopti-linistite-ce-poti-schimba-ca-sa-te-odihnesti-mai-bine/",
@@ -96,14 +104,6 @@
       "summary": "Sauna uscată, cu numeroasele ei beneficii pentru corp și minte, poate deveni un aliat de nădejde în călătoria ta spre&#8230; Articolul Cum să îți creezi o rutină de wellness cu ajutorul saunei uscate apare prima dată în Recomandari Medicale .",
       "published": "2025-12-30T14:50:55+00:00",
       "published_human": "2025-12-30T14:50",
-      "source": "https://recomandari-medicale.ro/"
-    },
-    {
-      "title": "Mastodon România pentru începători: ce să urmărești în prima săptămână",
-      "link": "https://recomandari-medicale.ro/mastodon-romania-pentru-incepatori-ce-sa-urmaresti-in-prima-saptamana/",
-      "summary": "Te-ai săturat de algoritmii care decid ce vezi? Vrei să faci parte dintr-o rețea socială care îți pune experiența înapoi&#8230; Articolul Mastodon România pentru începători: ce să urmărești în prima săptămână apare prima dată în Recomandari Medicale .",
-      "published": "2025-12-17T16:58:54+00:00",
-      "published_human": "2025-12-17T16:58",
       "source": "https://recomandari-medicale.ro/"
     }
   ],
