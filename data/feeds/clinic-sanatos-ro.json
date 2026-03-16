@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@clinic_sanatos",
     "rss": "https://social.5th.ro/@clinic_sanatos.rss"
   },
-  "updated_at": "2026-03-16T09:35:50.915289+00:00",
+  "updated_at": "2026-03-16T11:14:53.145458+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Aminoacizii în alimentație: de ce sunt importanți pentru organism",
+      "link": "https://clinic-sanatos.ro/aminoacizii-in-alimentatie-de-ce-sunt-importanti-pentru-organism/",
+      "summary": "Aminoacizii sunt compuși organici esențiali care stau la baza proteinelor din organism. Practic, fiecare celulă,... Articolul Aminoacizii în alimentație: de ce sunt importanți pentru organism apare prima dată în Clinic Sanatos .",
+      "published": "2026-03-16T10:24:37+00:00",
+      "published_human": "2026-03-16T10:24",
+      "source": "https://clinic-sanatos.ro/"
+    },
     {
       "title": "Strategii pentru fortificarea rezistenței celor mici în fața virozelor",
       "link": "https://clinic-sanatos.ro/strategii-pentru-fortificarea-rezistentei-celor-mici-in-fata-virozelor/",
@@ -100,17 +108,17 @@
       "published": "2025-11-14T07:32:14+00:00",
       "published_human": "2025-11-14T07:32",
       "source": "https://clinic-sanatos.ro/"
-    },
-    {
-      "title": "Dincolo de diferențe si cuvinte: sărbătoare la CONIL Fest",
-      "link": "https://clinic-sanatos.ro/dincolo-de-diferente-si-cuvinte-sarbatoare-la-conil-fest/",
-      "summary": "&#206;n iureșul cotidian, CONIL Fest ne forțează, &#238;n cel mai frumos mod, să ne oprim... Articolul Dincolo de diferențe si cuvinte: sărbătoare la CONIL Fest apare prima dată în Clinic Sanatos .",
-      "published": "2025-11-11T07:01:51+00:00",
-      "published_human": "2025-11-11T07:01",
-      "source": "https://clinic-sanatos.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@clinic_sanatos/116238364211396800",
+      "summary": "Aminoacizii sunt compuși organici esențiali care stau la baza proteinelor din organism. Practic, fiecare celulă, țesut sau organ depinde de prezența acestor molecule pentru a funcționa corect. Proteinele formate din aminoacizi participă la procese fundamentale precum regenerarea celulară, producerea enzimelor și hormonilor sau menținerea structurii musculare. De aceea, aportul adecvat de aminoacizi .... https:// clinic-sanatos.ro/aminoacizii- in-alimentatie-de-ce-sunt-importanti-pentru-organism/",
+      "published": "2026-03-16T10:24:40+00:00",
+      "published_human": "2026-03-16T10:24",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@clinic_sanatos/116085972225143871",

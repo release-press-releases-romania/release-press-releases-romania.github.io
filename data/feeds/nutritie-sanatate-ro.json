@@ -7,9 +7,17 @@
     "rss": "https://nutritie-sanatate.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-03-16T09:35:50.915289+00:00",
+  "updated_at": "2026-03-16T11:14:53.145458+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Rolul vitaminelor și mineralelor în menținerea echilibrului organismului",
+      "link": "https://nutritie-sanatate.ro/rolul-vitaminelor-si-mineralelor-in-mentinerea-echilibrului-organismului/",
+      "summary": "Menținerea echilibrului organismului depinde de numeroși factori, iar alimentația joacă un rol esențial în acest... Articolul Rolul vitaminelor și mineralelor în menținerea echilibrului organismului apare prima dată în Nutritie &amp; Sanatate .",
+      "published": "2026-03-16T10:13:55+00:00",
+      "published_human": "2026-03-16T10:13",
+      "source": "https://nutritie-sanatate.ro/"
+    },
     {
       "title": "Mastodon pentru ONG-uri: comunicare transparentă și implicare",
       "link": "https://nutritie-sanatate.ro/mastodon-pentru-ong-uri-comunicare-transparenta-si-implicare/",
@@ -96,14 +104,6 @@
       "summary": "Vrei o casă mai inteligentă, mai confortabilă și mai eficientă energetic? Îți dorești automatizare, dar... Articolul Smart home la renovare: cablare și scenarii de bază apare prima dată în Nutritie &amp; Sanatate .",
       "published": "2025-09-03T22:13:42+00:00",
       "published_human": "2025-09-03T22:13",
-      "source": "https://nutritie-sanatate.ro/"
-    },
-    {
-      "title": "Testul genetic: un răspuns clar. Când să îl faci și ce tratamente poate recomanda",
-      "link": "https://nutritie-sanatate.ro/testul-genetic-un-raspuns-clar-cand-sa-il-faci-si-ce-tratamente-poate-recomanda/",
-      "summary": "În ziua de azi, medicina oferă tehnici şi alternative precise care pot veni şi mai... Articolul Testul genetic: un răspuns clar. Când să îl faci și ce tratamente poate recomanda apare prima dată în Nutritie &amp; Sanatate .",
-      "published": "2025-08-29T17:04:52+00:00",
-      "published_human": "2025-08-29T17:04",
       "source": "https://nutritie-sanatate.ro/"
     }
   ],
