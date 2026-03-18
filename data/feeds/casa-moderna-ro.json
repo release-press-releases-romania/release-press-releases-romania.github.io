@@ -7,7 +7,7 @@
     "rss": "https://casa-moderna.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-03-18T13:56:23.746862+00:00",
+  "updated_at": "2026-03-18T15:42:06.718219+00:00",
   "status": "ok",
   "items": [
     {
@@ -16,6 +16,14 @@
       "summary": "Alegerea gardului potrivit pentru locuință este o decizie care influențează atât siguranța proprietății, cât și aspectul general al casei. Gardul&#8230; Articolul Ce trebuie să știi înainte să alegi un gard pentru casa ta apare prima dată în Casa Moderna .",
       "published": "2026-03-02T14:17:24+00:00",
       "published_human": "2026-03-02T14:17",
+      "source": "https://casa-moderna.ro/"
+    },
+    {
+      "title": "Importanța unei locuințe curate și bine întreținute",
+      "link": "https://casa-moderna.ro/importanta-unei-locuinte-curate-si-bine-intretinute/",
+      "summary": "Importanța unei locuințe curate și bine întreținute Curățenia în locuință nu este doar o chestiune de estetică ci și un&#8230; Articolul Importanța unei locuințe curate și bine întreținute apare prima dată în Casa Moderna .",
+      "published": "2026-02-23T15:07:00+00:00",
+      "published_human": "2026-02-23T15:07",
       "source": "https://casa-moderna.ro/"
     },
     {
@@ -96,14 +104,6 @@
       "summary": "Locuirea &#238;ntr-un spațiu compact reprezintă o realitate pentru mulți tineri profesioniști sau studenți din marile orașe. O suprafață de 35&#8230; Articolul Cum maximizezi spațiul într-un studio de 35 mp? apare prima dată în Casa Moderna .",
       "published": "2025-12-15T00:22:00+00:00",
       "published_human": "2025-12-15T00:22",
-      "source": "https://casa-moderna.ro/"
-    },
-    {
-      "title": "Cum te ajută notificările AI în rutina zilnică",
-      "link": "https://casa-moderna.ro/cum-te-ajuta-notificarile-ai-in-rutina-zilnica/",
-      "summary": "Notificările AI pot organiza informațiile zilnice astfel încât utilizatorul să primească doar alertele relevante, la momentul potrivit. Sistemul analizează tiparele&#8230; Articolul Cum te ajută notificările AI în rutina zilnică apare prima dată în Casa Moderna .",
-      "published": "2025-12-12T10:11:00+00:00",
-      "published_human": "2025-12-12T10:11",
       "source": "https://casa-moderna.ro/"
     }
   ],
