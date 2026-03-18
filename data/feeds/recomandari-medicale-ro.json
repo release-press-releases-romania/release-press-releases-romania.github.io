@@ -7,9 +7,17 @@
     "rss": "https://recomandari-medicale.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-03-18T15:42:06.718219+00:00",
+  "updated_at": "2026-03-18T17:33:16.055409+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Sfaturi pentru a rămâne în formă și plin de vitalitate",
+      "link": "https://recomandari-medicale.ro/sfaturi-pentru-a-ramane-in-forma-si-plin-de-vitalitate/",
+      "summary": "A rămâne în formă nu este o destinație finală, un număr de kilograme pe cântar sau o imagine retușată în oglindă.&#8230; Articolul Sfaturi pentru a rămâne în formă și plin de vitalitate apare prima dată în Recomandari Medicale .",
+      "published": "2026-03-18T16:12:51+00:00",
+      "published_human": "2026-03-18T16:12",
+      "source": "https://recomandari-medicale.ro/"
+    },
     {
       "title": "Culori potrivite pentru uniforma medicală în sezonul cald",
       "link": "https://recomandari-medicale.ro/culori-potrivite-pentru-uniforma-medicala-in-sezonul-cald/",
@@ -96,14 +104,6 @@
       "summary": "Îngrijirea corporală nu mai este de mult un lux rezervat exclusiv centrelor spa sau saloanelor de specialitate. Tot mai multe&#8230; Articolul Rutina de îngrijire corporală acasă: soluții moderne pentru confort și relaxare apare prima dată în Recomandari Medicale .",
       "published": "2026-01-09T10:29:21+00:00",
       "published_human": "2026-01-09T10:29",
-      "source": "https://recomandari-medicale.ro/"
-    },
-    {
-      "title": "Cum să îți creezi o rutină de wellness cu ajutorul saunei uscate",
-      "link": "https://recomandari-medicale.ro/cum-sa-iti-creezi-o-rutina-de-wellness-cu-ajutorul-saunei-uscate/",
-      "summary": "Sauna uscată, cu numeroasele ei beneficii pentru corp și minte, poate deveni un aliat de nădejde în călătoria ta spre&#8230; Articolul Cum să îți creezi o rutină de wellness cu ajutorul saunei uscate apare prima dată în Recomandari Medicale .",
-      "published": "2025-12-30T14:50:55+00:00",
-      "published_human": "2025-12-30T14:50",
       "source": "https://recomandari-medicale.ro/"
     }
   ],
