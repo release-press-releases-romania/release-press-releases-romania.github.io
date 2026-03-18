@@ -5,8 +5,8 @@
     <link>https://release-press-releases-romania.github.io</link>
     <description>Aggregated RSS feed of press releases from over 100 Romanian publishers. Covering PR &amp; Marketing, Health, News &amp; Society, Technology, Business, Construction, Tourism, and more. Curated selection of quality press releases from trusted Romanian sources.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Mar 2026 12:52:28 +0000</lastBuildDate>
-    <pubDate>Wed, 18 Mar 2026 12:52:28 +0000</pubDate>
+    <lastBuildDate>Wed, 18 Mar 2026 18:49:47 +0000</lastBuildDate>
+    <pubDate>Wed, 18 Mar 2026 18:49:47 +0000</pubDate>
     <generator>Release Press Releases in Romania RSS Aggregator v2.0</generator>
     <webMaster>noreply@release-press-releases-romania.github.io (Release Press Releases)</webMaster>
     <managingEditor>noreply@release-press-releases-romania.github.io (Release Press Releases)</managingEditor>
@@ -28,6 +28,20 @@
     <sy:updateFrequency>1</sy:updateFrequency>
     <copyright>Copyright 2026 Release Press Releases in Romania. Content belongs to respective publishers.</copyright>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Rolul pompelor de apă moderne în gestionarea sustenabilă a apei</title>
+      <link>https://e-faq.ro/rolul-pompelor-de-apa-moderne-in-gestionarea-sustenabila-a-apei/</link>
+      <description><![CDATA[From E Faq: Gestionarea sustenabilă a apei capătă o importanță tot mai mare la nivel global, deoarece schimbările climatice, deficitul de apă și creșterea cererii populației necesită soluții eficiente și durabile. Utilizarea unei pompe de apă moderne nu mai este doar o chestiune de confort, ci o condiție esențială pentru ca sistemele de tratare a apei să fie eficiente energetic, fiabile și prietenoase cu m...]]></description>
+      <pubDate>Wed, 18 Mar 2026 16:17:45 +0000</pubDate>
+      <author>E Faq (https://release-press-releases-romania.github.io/publisher/e-faq-ro/)</author>
+      <dc:creator>E Faq</dc:creator>
+      <dc:date>2026-03-18T16:17:45+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">Miscellaneous</category>
+      <guid isPermaLink="true">https://e-faq.ro/rolul-pompelor-de-apa-moderne-in-gestionarea-sustenabila-a-apei/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/e-faq-ro/">E Faq</source>
+      <content:encoded><![CDATA[From E Faq: Gestionarea sustenabilă a apei capătă o importanță tot mai mare la nivel global, deoarece schimbările climatice, deficitul de apă și creșterea cererii populației necesită soluții eficiente și durabile. Utilizarea unei pompe de apă moderne nu mai este doar o chestiune de confort, ci o condiție esențială pentru ca sistemele de tratare a apei să fie eficiente energetic, fiabile și prietenoase cu m...]]></content:encoded>
+      <comments>https://e-faq.ro/rolul-pompelor-de-apa-moderne-in-gestionarea-sustenabila-a-apei/#comments</comments>
+    </item>
     <item>
       <title>Top 10 Sfaturi pentru Fotografii Reușite la Botez — de la un Fotograf de Botez din București)</title>
       <link>https://femeie-antreprenor.ro/top-10-sfaturi-pentru-fotografii-reusite-la-botez-de-la-un-fotograf-de-botez-din-bucuresti/</link>
@@ -99,6 +113,34 @@
       <comments>https://arta-constructiilor.ro/contactori-modulare-4p-componente-esentiale-in-automatizarea-moderna/#comments</comments>
     </item>
     <item>
+      <title>Fotbalul românesc și presa</title>
+      <link>https://pr.1az.ro/fotbalul-romanesc-si-presa/</link>
+      <description><![CDATA[From Pr.1az: The post Fotbalul românesc și presa appeared first on PR de la A la Z. Un fost ministru al Apărării Naționale a spus, cu subiect și predicat, că cea mai titrată echipă din istoria fotbalului românesc nu poate promova din cauza “combinațiilor politice și financiare ale unor oameni de afaceri din România“. Și totuși, dacă intri azi pe site-urile marilor publicații sportive din România, nu găsești...]]></description>
+      <pubDate>Tue, 17 Mar 2026 17:35:15 +0000</pubDate>
+      <author>Pr.1az (https://release-press-releases-romania.github.io/publisher/pr-1az-ro/)</author>
+      <dc:creator>Pr.1az</dc:creator>
+      <dc:date>2026-03-17T17:35:15+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">PR &amp; Marketing</category>
+      <guid isPermaLink="true">https://pr.1az.ro/fotbalul-romanesc-si-presa/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/pr-1az-ro/">Pr.1az</source>
+      <content:encoded><![CDATA[From Pr.1az: The post Fotbalul românesc și presa appeared first on PR de la A la Z. Un fost ministru al Apărării Naționale a spus, cu subiect și predicat, că cea mai titrată echipă din istoria fotbalului românesc nu poate promova din cauza “combinațiilor politice și financiare ale unor oameni de afaceri din România“. Și totuși, dacă intri azi pe site-urile marilor publicații sportive din România, nu găsești...]]></content:encoded>
+      <comments>https://pr.1az.ro/fotbalul-romanesc-si-presa/#comments</comments>
+    </item>
+    <item>
+      <title>Cum ajută Galaxy AI la organizarea activităților zilnice</title>
+      <link>https://mama-antreprenor.ro/cum-ajuta-galaxy-ai-la-organizarea-activitatilor-zilnice/</link>
+      <description><![CDATA[From Mama Antreprenor: Un ritm alert care cere soluții inteligenteViața de zi cu zi a devenit tot mai aglomerată, iar gestionarea timpului este o provocare pentru mulți utilizatori. Între întâlniri, mesaje, sarcini profesionale și activități personale, organizarea eficientă este esențială. Smartphone-ul joacă un rol central în acest proces, însă fără funcții inteligente, poate deveni rapid o sursă de haos digital. Ai...]]></description>
+      <pubDate>Tue, 17 Mar 2026 15:05:00 +0000</pubDate>
+      <author>Mama Antreprenor (https://release-press-releases-romania.github.io/publisher/mama-antreprenor-ro/)</author>
+      <dc:creator>Mama Antreprenor</dc:creator>
+      <dc:date>2026-03-17T15:05:00+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">Business</category>
+      <guid isPermaLink="true">https://mama-antreprenor.ro/cum-ajuta-galaxy-ai-la-organizarea-activitatilor-zilnice/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/mama-antreprenor-ro/">Mama Antreprenor</source>
+      <content:encoded><![CDATA[From Mama Antreprenor: Un ritm alert care cere soluții inteligenteViața de zi cu zi a devenit tot mai aglomerată, iar gestionarea timpului este o provocare pentru mulți utilizatori. Între întâlniri, mesaje, sarcini profesionale și activități personale, organizarea eficientă este esențială. Smartphone-ul joacă un rol central în acest proces, însă fără funcții inteligente, poate deveni rapid o sursă de haos digital. Ai...]]></content:encoded>
+      <comments>https://mama-antreprenor.ro/cum-ajuta-galaxy-ai-la-organizarea-activitatilor-zilnice/#comments</comments>
+    </item>
+    <item>
       <title>Numele YAKRAB-MALIK-WATR: semnificație, origine, trăsături și personalitate</title>
       <link>https://e-nume.ro/numele-yakrab-malik-watr-semnificatie-origine-trasaturi-si-personalitate/</link>
       <description><![CDATA[From E Nume: Cunoașterea originii și semnificației numelor proprii ne poate dezvălui aspecte fascinante despre istorie, cultură și chiar despre personalitatea indivizilor care le poartă. Astăzi ne vom concentra asupra unui nume arab cu rădăcini adânci în istorie: YAKRAB-MALIK-WATR. Vom explora semnificația YAKRAB-MALIK-WATR, originea YAKRAB-MALIK-WATR, și vom încerca să înțelegem cum ar putea influența pers...]]></description>
@@ -139,6 +181,20 @@
       <source url="https://release-press-releases-romania.github.io/publisher/partizani-ro/">Partizani</source>
       <content:encoded><![CDATA[From Partizani: În ultimii ani, modul în care companiile gestionează relația cu clienții s-a schimbat semnificativ. Consumatorii se așteaptă la răspunsuri rapide, suport profesionist și soluții eficiente, indiferent de canalul de comunicare folosit. Pentru multe organizații, gestionarea internă a tuturor interacțiunilor cu clienții poate deveni costisitoare și dificil de scalat. Din acest motiv, tot mai multe ...]]></content:encoded>
       <comments>https://partizani.ro/de-ce-aleg-tot-mai-multe-companii-sa-externalizeze-serviciile-de-relatii-cu-clientii/#comments</comments>
+    </item>
+    <item>
+      <title>De ce telefoanele AI devin noul standard în industrie</title>
+      <link>https://afaceritop.ro/de-ce-telefoanele-ai-devin-noul-standard-in-industrie/</link>
+      <description><![CDATA[From Afaceritop: Tehnologia mobilă evoluează constant, iar smartphone-ul nu mai este de mult doar un dispozitiv pentru apeluri și mesaje. Astăzi, utilizatorii își doresc telefoane care să îi ajute activ, să le simplifice viața și să le ofere soluții rapide. În acest context, inteligența artificială a devenit un element central în dezvoltarea noilor generații de dispozitive, transformând complet experiența de ut...]]></description>
+      <pubDate>Mon, 16 Mar 2026 15:01:00 +0000</pubDate>
+      <author>Afaceritop (https://release-press-releases-romania.github.io/publisher/afaceritop-ro/)</author>
+      <dc:creator>Afaceritop</dc:creator>
+      <dc:date>2026-03-16T15:01:00+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">Technology &amp; Energy</category>
+      <guid isPermaLink="true">https://afaceritop.ro/de-ce-telefoanele-ai-devin-noul-standard-in-industrie/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/afaceritop-ro/">Afaceritop</source>
+      <content:encoded><![CDATA[From Afaceritop: Tehnologia mobilă evoluează constant, iar smartphone-ul nu mai este de mult doar un dispozitiv pentru apeluri și mesaje. Astăzi, utilizatorii își doresc telefoane care să îi ajute activ, să le simplifice viața și să le ofere soluții rapide. În acest context, inteligența artificială a devenit un element central în dezvoltarea noilor generații de dispozitive, transformând complet experiența de ut...]]></content:encoded>
+      <comments>https://afaceritop.ro/de-ce-telefoanele-ai-devin-noul-standard-in-industrie/#comments</comments>
     </item>
     <item>
       <title>Cum să plătești mai puțin pe asigurarea RCA</title>
@@ -335,20 +391,6 @@
       <source url="https://release-press-releases-romania.github.io/publisher/iantreprenor-ro/">iAntreprenor</source>
       <content:encoded><![CDATA[From iAntreprenor: Într-o epocă marcată de viteză și de dorința obținerii unor rezultate imediate, riscăm adesea să pierdem din vedere esența succesului durabil. Proiectul „Împreună pentru tinerii din Regiunea Sud-Muntenia” pornește de la o premisă curajoasă: un profesionist adevărat nu este doar cel care deține cunoștințe tehnice avansate, ci acela care își exercită meseria cu integritate, responsabilitate și re...]]></content:encoded>
       <comments>https://iantreprenor.ro/mai-mult-decat-un-loc-de-munca-integritate-si-sustenabilitate-pentru-tinerii-romani/#comments</comments>
-    </item>
-    <item>
-      <title>Etapa a XXI-a: Steaua Bucureşti – Politehnica Iaşi</title>
-      <link>https://pr.1az.ro/etapa-a-xxi-a-steaua-bucuresti-politehnica-iasi/</link>
-      <description><![CDATA[From Pr.1az: The post Etapa a XXI-a: Steaua Bucureşti – Politehnica Iaşi appeared first on PR de la A la Z. Etapa 21: Steaua Bucureşti – Politehnica Iaşi Sâmbătă, 14 martie, de la ora 11:00 Stadionul Steaua Bilete TBA Meciul este transmis de TBA Aici, albumul de meci. Source The post Etapa a XXI-a: Steaua Bucureşti – Politehnica Iaşi appeared first on PR de la A la Z.]]></description>
-      <pubDate>Sun, 08 Mar 2026 07:54:42 +0000</pubDate>
-      <author>Pr.1az (https://release-press-releases-romania.github.io/publisher/pr-1az-ro/)</author>
-      <dc:creator>Pr.1az</dc:creator>
-      <dc:date>2026-03-08T07:54:42+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">PR &amp; Marketing</category>
-      <guid isPermaLink="true">https://pr.1az.ro/etapa-a-xxi-a-steaua-bucuresti-politehnica-iasi/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/pr-1az-ro/">Pr.1az</source>
-      <content:encoded><![CDATA[From Pr.1az: The post Etapa a XXI-a: Steaua Bucureşti – Politehnica Iaşi appeared first on PR de la A la Z. Etapa 21: Steaua Bucureşti – Politehnica Iaşi Sâmbătă, 14 martie, de la ora 11:00 Stadionul Steaua Bilete TBA Meciul este transmis de TBA Aici, albumul de meci. Source The post Etapa a XXI-a: Steaua Bucureşti – Politehnica Iaşi appeared first on PR de la A la Z.]]></content:encoded>
-      <comments>https://pr.1az.ro/etapa-a-xxi-a-steaua-bucuresti-politehnica-iasi/#comments</comments>
     </item>
     <item>
       <title>Strategii de retenție digitală în 2026: cum faci din site-ul tău un instrument care aduce venituri recurente</title>
@@ -617,20 +659,6 @@
       <comments>https://iafaceri.ro/inchirieri-auto-in-cluj-napoca-segmentul-corporate-cum-standardizezi-inchirierile-pentru-echipa-ta/#comments</comments>
     </item>
     <item>
-      <title>Alegerea practică a pieselor de schimb pentru motoblocuri: ce trebuie luat în considerare înainte de cumpărare</title>
-      <link>https://afaceritop.ro/alegerea-practica-a-pieselor-de-schimb-pentru-motoblocuri-ce-trebuie-luat-in-considerare-inainte-de-cumparare/</link>
-      <description><![CDATA[From Afaceritop: Lucrul cu solul necesită tehnică fiabilă și întreținere regulată. Sarcina asupra transmisiei și motorului se acumulează treptat, în special la prelucrarea solurilor dense sau la utilizarea treptelor de viteză reduse. În astfel de momente, este important să alegeți în mod corect piese pentru motoblocuri, pentru a restabili puterea și resursele fără costuri inutile și perioade de inactivitate în ...]]></description>
-      <pubDate>Tue, 03 Mar 2026 18:49:24 +0000</pubDate>
-      <author>Afaceritop (https://release-press-releases-romania.github.io/publisher/afaceritop-ro/)</author>
-      <dc:creator>Afaceritop</dc:creator>
-      <dc:date>2026-03-03T18:49:24+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">Technology &amp; Energy</category>
-      <guid isPermaLink="true">https://afaceritop.ro/alegerea-practica-a-pieselor-de-schimb-pentru-motoblocuri-ce-trebuie-luat-in-considerare-inainte-de-cumparare/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/afaceritop-ro/">Afaceritop</source>
-      <content:encoded><![CDATA[From Afaceritop: Lucrul cu solul necesită tehnică fiabilă și întreținere regulată. Sarcina asupra transmisiei și motorului se acumulează treptat, în special la prelucrarea solurilor dense sau la utilizarea treptelor de viteză reduse. În astfel de momente, este important să alegeți în mod corect piese pentru motoblocuri, pentru a restabili puterea și resursele fără costuri inutile și perioade de inactivitate în ...]]></content:encoded>
-      <comments>https://afaceritop.ro/alegerea-practica-a-pieselor-de-schimb-pentru-motoblocuri-ce-trebuie-luat-in-considerare-inainte-de-cumparare/#comments</comments>
-    </item>
-    <item>
       <title>Fațete ceramice în România: Ghid medical complet pentru pacienți și clinici</title>
       <link>https://info-santate.ro/fatete-ceramice-in-romania-ghid-medical-complet-pentru-pacienti-si-clinici/</link>
       <description><![CDATA[From Info Santate: Fațetele ceramice reprezintă una dintre cele mai performante soluții de estetică dentară disponibile în prezent. Ele permit corectarea discrepanțelor de culoare, formă sau aliniere ale dinților frontali, fără a compromite structura dentară naturală. În România, procedura a câștigat popularitate datorită clinicilor moderne, echipate cu tehnologie CAD/CAM, laboratoare digitale și echipe de medici...]]></description>
@@ -897,6 +925,20 @@
       <comments>https://energie-sustenabila.ro/ce-inseamna-senzori-multipli-intr-un-aspirator-fara-fir-presiune-debit-particule-si-autonomie/#comments</comments>
     </item>
     <item>
+      <title>Importanța unei locuințe curate și bine întreținute</title>
+      <link>https://casa-moderna.ro/importanta-unei-locuinte-curate-si-bine-intretinute/</link>
+      <description><![CDATA[From Casa Moderna: Importanța unei locuințe curate și bine întreținute Curățenia în locuință nu este doar o chestiune de estetică ci și un element esențial pentru sănătate și confort. Un spațiu curat contribuie la reducerea bacteriilor, a alergenilor și a prafului, creând un mediu mai sigur pentru toți membrii familiei. De asemenea, o casă bine întreținută oferă o stare de liniște și relaxare, fiind locul în care...]]></description>
+      <pubDate>Mon, 23 Feb 2026 15:07:00 +0000</pubDate>
+      <author>Casa Moderna (https://release-press-releases-romania.github.io/publisher/casa-moderna-ro/)</author>
+      <dc:creator>Casa Moderna</dc:creator>
+      <dc:date>2026-02-23T15:07:00+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">Construction &amp; Home</category>
+      <guid isPermaLink="true">https://casa-moderna.ro/importanta-unei-locuinte-curate-si-bine-intretinute/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/casa-moderna-ro/">Casa Moderna</source>
+      <content:encoded><![CDATA[From Casa Moderna: Importanța unei locuințe curate și bine întreținute Curățenia în locuință nu este doar o chestiune de estetică ci și un element esențial pentru sănătate și confort. Un spațiu curat contribuie la reducerea bacteriilor, a alergenilor și a prafului, creând un mediu mai sigur pentru toți membrii familiei. De asemenea, o casă bine întreținută oferă o stare de liniște și relaxare, fiind locul în care...]]></content:encoded>
+      <comments>https://casa-moderna.ro/importanta-unei-locuinte-curate-si-bine-intretinute/#comments</comments>
+    </item>
+    <item>
       <title>România de facto: realități și perspective 2026</title>
       <link>https://stiri-live.ro/romania-de-facto-realitati-si-perspective-2026/</link>
       <description><![CDATA[From Stiri Live: 26 februarie 2026 | 9:30 – 14:30 | Arenele BNR Inflație. Deficite. Finanțare. Creștere. Riscuri. Dincolo de discurs, spre realitate. Nu vom vorbi despre România declarată, ci despre România de facto.Despre cifre — și, mai ales, despre ce spun ele atunci când sunt puse în context. Inflația, deficitele, finanțarea economiei și perspectivele pentru 2026 nu sunt teme izolate.Ele se întâlnesc într-o...]]></description>
@@ -1051,20 +1093,6 @@
       <comments>https://energie-sustenabila.ro/cum-detecteaza-un-aspirator-vertical-cu-ai-tipul-de-suprafata-si-isi-ajusteaza-puterea-in-mers/#comments</comments>
     </item>
     <item>
-      <title>De ce site-ul tău WordPress are nevoie de îngrijire constantă</title>
-      <link>https://e-faq.ro/de-ce-site-ul-tau-wordpress-are-nevoie-de-ingrijire-constanta/</link>
-      <description><![CDATA[From E Faq: Una dintre cele mai costisitoare iluzii din mediul online este ideea că un site este un proiect care se termină la lansare. Mulți antreprenori privesc site-ul ca pe un obiect static: îl construiești, îl publici și apoi îl lași să „lucreze singur”. Din păcate, în cazul WordPress – și al oricărui site modern – această abordare este rețeta sigură pentru probleme. Un site WordPress nu este o broșur...]]></description>
-      <pubDate>Tue, 17 Feb 2026 14:23:00 +0000</pubDate>
-      <author>E Faq (https://release-press-releases-romania.github.io/publisher/e-faq-ro/)</author>
-      <dc:creator>E Faq</dc:creator>
-      <dc:date>2026-02-17T14:23:00+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">Miscellaneous</category>
-      <guid isPermaLink="true">https://e-faq.ro/de-ce-site-ul-tau-wordpress-are-nevoie-de-ingrijire-constanta/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/e-faq-ro/">E Faq</source>
-      <content:encoded><![CDATA[From E Faq: Una dintre cele mai costisitoare iluzii din mediul online este ideea că un site este un proiect care se termină la lansare. Mulți antreprenori privesc site-ul ca pe un obiect static: îl construiești, îl publici și apoi îl lași să „lucreze singur”. Din păcate, în cazul WordPress – și al oricărui site modern – această abordare este rețeta sigură pentru probleme. Un site WordPress nu este o broșur...]]></content:encoded>
-      <comments>https://e-faq.ro/de-ce-site-ul-tau-wordpress-are-nevoie-de-ingrijire-constanta/#comments</comments>
-    </item>
-    <item>
       <title>Cotul tenismenului și al jucătorului de golf – cum poate ajuta bandajarea?</title>
       <link>https://medic360.ro/cotul-tenismenului-si-al-jucatorului-de-golf-cum-poate-ajuta-bandajarea/</link>
       <description><![CDATA[From Medic360: Ce este cotul tenismenului și al jucătorului de golf? Cotul tenismenului (epicondilita laterală) și cotul jucătorului de golf (epicondilita medială) sunt afecțiuni cauzate de suprasolicitarea mușchilor și tendoanelor din zona cotului. Prima afectează partea exterioară a cotului, în timp ce a doua se referă la partea sa interioară. Ambele apar ca urmare a microtraumatismelor repetate, care duc l...]]></description>
@@ -1133,20 +1161,6 @@
       <source url="https://release-press-releases-romania.github.io/publisher/arta-constructiilor-ro/">Arta Constructiilor</source>
       <content:encoded><![CDATA[From Arta Constructiilor: Renovarea unei locuințe sau mutarea într-un spațiu recent reamenajat nu elimină automat riscul apariției dăunătorilor. Din contră, anumite greșeli făcute în timpul lucrărilor pot favoriza infestări cu insecte precum gândaci sau ploșnițe, dar și cu rozătoare, probleme care devin vizibile abia după ocuparea locuinței. În lipsa unor verificări corecte, spațiile ascunse, materialele reutilizate sau...]]></content:encoded>
       <comments>https://arta-constructiilor.ro/greseli-frecvente-in-renovarea-locuintelor-care-pot-favoriza-aparitia-daunatorilor/#comments</comments>
-    </item>
-    <item>
-      <title>Cum ajută AI la prevenirea risipei alimentare: alerte, recomandări și gestionarea stocurilor</title>
-      <link>https://casa-moderna.ro/cum-ajuta-ai-la-prevenirea-risipei-alimentare-alerte-recomandari-si-gestionarea-stocurilor/</link>
-      <description><![CDATA[From Casa Moderna: Risipa alimentară apare des din lipsă de vizibilitate și planificare. AI poate ajuta prin alerte, inventar mai clar și recomandări de utilizare. 1. Ce înseamnă / Ce este Prevenirea risipei cu AI înseamnă folosirea de tehnologii AI ca să urmărești ce ai în frigider și ce ar trebui consumat primul. Sistemul combină date din senzori, imagini sau introduceri manuale. Gestionarea stocurilor înseamnă...]]></description>
-      <pubDate>Sun, 15 Feb 2026 07:09:00 +0000</pubDate>
-      <author>Casa Moderna (https://release-press-releases-romania.github.io/publisher/casa-moderna-ro/)</author>
-      <dc:creator>Casa Moderna</dc:creator>
-      <dc:date>2026-02-15T07:09:00+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">Construction &amp; Home</category>
-      <guid isPermaLink="true">https://casa-moderna.ro/cum-ajuta-ai-la-prevenirea-risipei-alimentare-alerte-recomandari-si-gestionarea-stocurilor/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/casa-moderna-ro/">Casa Moderna</source>
-      <content:encoded><![CDATA[From Casa Moderna: Risipa alimentară apare des din lipsă de vizibilitate și planificare. AI poate ajuta prin alerte, inventar mai clar și recomandări de utilizare. 1. Ce înseamnă / Ce este Prevenirea risipei cu AI înseamnă folosirea de tehnologii AI ca să urmărești ce ai în frigider și ce ar trebui consumat primul. Sistemul combină date din senzori, imagini sau introduceri manuale. Gestionarea stocurilor înseamnă...]]></content:encoded>
-      <comments>https://casa-moderna.ro/cum-ajuta-ai-la-prevenirea-risipei-alimentare-alerte-recomandari-si-gestionarea-stocurilor/#comments</comments>
     </item>
     <item>
       <title>Cum poate ajuta blocarea de la distanță dacă pierzi telefonul</title>
@@ -1371,20 +1385,6 @@
       <source url="https://release-press-releases-romania.github.io/publisher/case-verzi-ro/">Case Verzi</source>
       <content:encoded><![CDATA[From Case Verzi: Tehnologia smart te ajută să controlezi mai bine încălzirea și confortul iarna. Se bazează pe senzori și reguli automate, setate simplu. 1. Ce înseamnă / Ce este O casă pregătită „smart” pentru sezonul rece înseamnă monitorizare și ajustare automată. Scopul este să menții temperatura potrivită, cu eficiență energetică mai bună. Senzorii măsoară temperatură, umiditate și uneori prezență. Automat...]]></content:encoded>
       <comments>https://case-verzi.ro/cum-pregatesti-casa-pentru-sezonul-rece-cu-tehnologie-smart-senzori-automatizari-si-scenarii/#comments</comments>
-    </item>
-    <item>
-      <title>Ghetele perfecte pentru sezonul rece: confort, stil și siguranță la fiecare pas</title>
-      <link>https://mama-antreprenor.ro/ghetele-perfecte-pentru-sezonul-rece-confort-stil-si-siguranta-la-fiecare-pas/</link>
-      <description><![CDATA[From Mama Antreprenor: Sezonul rece vine cu farmecul lui, dar și cu provocări reale atunci când vorbim despre încălțăminte. Temperaturile scăzute, ploaia, zăpada sau gheața ne obligă să fim mult mai atenți la alegerile pe care le facem. Ghetele nu mai sunt doar un accesoriu de stil, ci devin o necesitate care trebuie să îmbine funcționalitatea cu aspectul estetic. Alegerea potrivită poate face diferența dintre o iarn...]]></description>
-      <pubDate>Fri, 06 Feb 2026 07:37:43 +0000</pubDate>
-      <author>Mama Antreprenor (https://release-press-releases-romania.github.io/publisher/mama-antreprenor-ro/)</author>
-      <dc:creator>Mama Antreprenor</dc:creator>
-      <dc:date>2026-02-06T07:37:43+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">Business</category>
-      <guid isPermaLink="true">https://mama-antreprenor.ro/ghetele-perfecte-pentru-sezonul-rece-confort-stil-si-siguranta-la-fiecare-pas/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/mama-antreprenor-ro/">Mama Antreprenor</source>
-      <content:encoded><![CDATA[From Mama Antreprenor: Sezonul rece vine cu farmecul lui, dar și cu provocări reale atunci când vorbim despre încălțăminte. Temperaturile scăzute, ploaia, zăpada sau gheața ne obligă să fim mult mai atenți la alegerile pe care le facem. Ghetele nu mai sunt doar un accesoriu de stil, ci devin o necesitate care trebuie să îmbine funcționalitatea cu aspectul estetic. Alegerea potrivită poate face diferența dintre o iarn...]]></content:encoded>
-      <comments>https://mama-antreprenor.ro/ghetele-perfecte-pentru-sezonul-rece-confort-stil-si-siguranta-la-fiecare-pas/#comments</comments>
     </item>
     <item>
       <title>Reducerile de iarnă la încălțăminte: momentul perfect pentru alegeri inspirate și economii reale</title>
