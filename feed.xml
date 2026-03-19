@@ -5,8 +5,8 @@
     <link>https://release-press-releases-romania.github.io</link>
     <description>Aggregated RSS feed of press releases from over 100 Romanian publishers. Covering PR &amp; Marketing, Health, News &amp; Society, Technology, Business, Construction, Tourism, and more. Curated selection of quality press releases from trusted Romanian sources.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Mar 2026 12:43:11 +0000</lastBuildDate>
-    <pubDate>Thu, 19 Mar 2026 12:43:11 +0000</pubDate>
+    <lastBuildDate>Thu, 19 Mar 2026 18:45:34 +0000</lastBuildDate>
+    <pubDate>Thu, 19 Mar 2026 18:45:34 +0000</pubDate>
     <generator>Release Press Releases in Romania RSS Aggregator v2.0</generator>
     <webMaster>noreply@release-press-releases-romania.github.io (Release Press Releases)</webMaster>
     <managingEditor>noreply@release-press-releases-romania.github.io (Release Press Releases)</managingEditor>
@@ -28,6 +28,34 @@
     <sy:updateFrequency>1</sy:updateFrequency>
     <copyright>Copyright 2026 Release Press Releases in Romania. Content belongs to respective publishers.</copyright>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>De la idee la linie funcțională sau ce înseamnă modernizarea producției industriale</title>
+      <link>https://inovare-afaceri.ro/de-la-idee-la-linie-functionala-sau-ce-inseamna-modernizarea-productiei-industriale/</link>
+      <description><![CDATA[From Inovare Afaceri: Modernizarea producției industriale nu înseamnă doar achiziția de echipamente noi. Înseamnă reproiectarea fluxului tehnologic, alegerea unor componente potrivite, integrarea lor într-un sistem coerent și asigurarea unei exploatări sigure și eficiente pe termen lung. Pentru multe companii, diferența între o investiție reușită și una care nu își atinge obiectivele este dată de partenerul tehnic a...]]></description>
+      <pubDate>Thu, 19 Mar 2026 12:59:12 +0000</pubDate>
+      <author>Inovare Afaceri (https://release-press-releases-romania.github.io/publisher/inovare-afaceri-ro/)</author>
+      <dc:creator>Inovare Afaceri</dc:creator>
+      <dc:date>2026-03-19T12:59:12+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">Business</category>
+      <guid isPermaLink="true">https://inovare-afaceri.ro/de-la-idee-la-linie-functionala-sau-ce-inseamna-modernizarea-productiei-industriale/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/inovare-afaceri-ro/">Inovare Afaceri</source>
+      <content:encoded><![CDATA[From Inovare Afaceri: Modernizarea producției industriale nu înseamnă doar achiziția de echipamente noi. Înseamnă reproiectarea fluxului tehnologic, alegerea unor componente potrivite, integrarea lor într-un sistem coerent și asigurarea unei exploatări sigure și eficiente pe termen lung. Pentru multe companii, diferența între o investiție reușită și una care nu își atinge obiectivele este dată de partenerul tehnic a...]]></content:encoded>
+      <comments>https://inovare-afaceri.ro/de-la-idee-la-linie-functionala-sau-ce-inseamna-modernizarea-productiei-industriale/#comments</comments>
+    </item>
+    <item>
+      <title>Operatii de amigdale: amigdalectomie si amigdalotomie. Cum alegi corect interventia potrivita</title>
+      <link>https://e-faq.ro/operatii-de-amigdale-amigdalectomie-si-amigdalotomie-cum-alegi-corect-interventia-potrivita/</link>
+      <description><![CDATA[From E Faq: Decizia de a interveni chirurgical asupra amigdalelor nu este niciodata una superficiala. Pentru multi parinti, dar si pentru pacientii adulti, termenii medicali pot crea confuzie: Amigdalectomia sau Amigdalotomia? Care este diferenta? Care este mai sigura? Care are recuperare mai usoara? Care este indicata in cazul copilului meu? Acest ghid explica in detaliu diferentele dintre cele doua proce...]]></description>
+      <pubDate>Thu, 19 Mar 2026 12:58:30 +0000</pubDate>
+      <author>E Faq (https://release-press-releases-romania.github.io/publisher/e-faq-ro/)</author>
+      <dc:creator>E Faq</dc:creator>
+      <dc:date>2026-03-19T12:58:30+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">Miscellaneous</category>
+      <guid isPermaLink="true">https://e-faq.ro/operatii-de-amigdale-amigdalectomie-si-amigdalotomie-cum-alegi-corect-interventia-potrivita/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/e-faq-ro/">E Faq</source>
+      <content:encoded><![CDATA[From E Faq: Decizia de a interveni chirurgical asupra amigdalelor nu este niciodata una superficiala. Pentru multi parinti, dar si pentru pacientii adulti, termenii medicali pot crea confuzie: Amigdalectomia sau Amigdalotomia? Care este diferenta? Care este mai sigura? Care are recuperare mai usoara? Care este indicata in cazul copilului meu? Acest ghid explica in detaliu diferentele dintre cele doua proce...]]></content:encoded>
+      <comments>https://e-faq.ro/operatii-de-amigdale-amigdalectomie-si-amigdalotomie-cum-alegi-corect-interventia-potrivita/#comments</comments>
+    </item>
     <item>
       <title>Numele YAMIN: semnificație, origine, trăsături și personalitate</title>
       <link>https://e-nume.ro/numele-yamin-semnificatie-origine-trasaturi-si-personalitate/</link>
@@ -475,20 +503,6 @@
       <source url="https://release-press-releases-romania.github.io/publisher/pr360-ro/">Pr360</source>
       <content:encoded><![CDATA[From Pr360: De ce vânzarea unui serviciu premium nu funcționează cu logica unui produs ieftin Există o greșeală pe care o fac sistematic mulți furnizori de servicii premium din România și care îi costă clienți valoroși în fiecare lună. Încearcă să vândă servicii de câteva mii sau zeci de mii de euro exact ca și cum ar vinde un produs de treizeci de lei de pe un site de marketplace. Pun prețul pe site, adau...]]></content:encoded>
       <comments>https://pr360.ro/cum-vinzi-servicii-scumpe-online-in-2026-funnel-uri-care-respecta-procesul-uman-de-decizie/#comments</comments>
-    </item>
-    <item>
-      <title>Rolul unui soft de gestiune hotelieră în fidelizarea clienților</title>
-      <link>https://e-faq.ro/rolul-unui-soft-de-gestiune-hoteliera-in-fidelizarea-clientilor/</link>
-      <description><![CDATA[From E Faq: Un soft de gestiune hotelieră nu înlocuiește rolul personalului și nici nu acoperă integral toate procesele operaționale sau de marketing, însă poate facilita anumite activități importante. De la centralizarea rezervărilor și urmărirea istoricului oaspeților, până la crearea de oferte sau promoții, aceste soluții sprijină gestionarea anumitor aspecte și oferă mai multă claritate în evidența inf...]]></description>
-      <pubDate>Fri, 06 Mar 2026 15:24:52 +0000</pubDate>
-      <author>E Faq (https://release-press-releases-romania.github.io/publisher/e-faq-ro/)</author>
-      <dc:creator>E Faq</dc:creator>
-      <dc:date>2026-03-06T15:24:52+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">Miscellaneous</category>
-      <guid isPermaLink="true">https://e-faq.ro/rolul-unui-soft-de-gestiune-hoteliera-in-fidelizarea-clientilor/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/e-faq-ro/">E Faq</source>
-      <content:encoded><![CDATA[From E Faq: Un soft de gestiune hotelieră nu înlocuiește rolul personalului și nici nu acoperă integral toate procesele operaționale sau de marketing, însă poate facilita anumite activități importante. De la centralizarea rezervărilor și urmărirea istoricului oaspeților, până la crearea de oferte sau promoții, aceste soluții sprijină gestionarea anumitor aspecte și oferă mai multă claritate în evidența inf...]]></content:encoded>
-      <comments>https://e-faq.ro/rolul-unui-soft-de-gestiune-hoteliera-in-fidelizarea-clientilor/#comments</comments>
     </item>
     <item>
       <title>De ce evaluarea unei locuințe înainte de mutare este esențială pentru prevenirea problemelor ascunse precum dăunatorii</title>
@@ -1119,20 +1133,6 @@
       <source url="https://release-press-releases-romania.github.io/publisher/doctor360-ro/">Doctor360</source>
       <content:encoded><![CDATA[From Doctor360: Dragobete și 8 Martie: cum transformi această perioadă într-un festival al răsfățului Februarie și începutul lunii martie marchează, an de an, sezonul dedicat iubirii și aprecierii. Dragobetele aduce tradiția locală în prim-plan, în timp ce 1 și 8 Martie devin ocazii perfecte pentru a celebra femeile importante din viața noastră. În această perioadă, gesturile mici, dar atent alese, pot transfo...]]></content:encoded>
       <comments>https://doctor360.ro/dragobete-si-8-martie-cum-transformi-aceasta-perioada-intr-un-festival-al-rasfatuluifebruarie-si-inceputul-lunii-martie-marcheaza-an-de-an/#comments</comments>
-    </item>
-    <item>
-      <title>Dragobete și 8 Martie: cum transformi această perioadă într-un festival al răsfățuluiFebruarie și începutul lunii martie marchează, an de an</title>
-      <link>https://inovare-afaceri.ro/dragobete-si-8-martie-cum-transformi-aceasta-perioada-intr-un-festival-al-rasfatuluifebruarie-si-inceputul-lunii-martie-marcheaza-an-de-an/</link>
-      <description><![CDATA[From Inovare Afaceri: Dragobete și 8 Martie: cum transformi această perioadă într-un festival al răsfățului Februarie și începutul lunii martie marchează, an de an, sezonul dedicat iubirii și aprecierii. Dragobetele aduce tradiția locală în prim-plan, în timp ce 1 și 8 Martie devin ocazii perfecte pentru a celebra femeile importante din viața noastră. În această perioadă, gesturile mici, dar atent alese, pot transfo...]]></description>
-      <pubDate>Tue, 17 Feb 2026 09:13:47 +0000</pubDate>
-      <author>Inovare Afaceri (https://release-press-releases-romania.github.io/publisher/inovare-afaceri-ro/)</author>
-      <dc:creator>Inovare Afaceri</dc:creator>
-      <dc:date>2026-02-17T09:13:47+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">Business</category>
-      <guid isPermaLink="true">https://inovare-afaceri.ro/dragobete-si-8-martie-cum-transformi-aceasta-perioada-intr-un-festival-al-rasfatuluifebruarie-si-inceputul-lunii-martie-marcheaza-an-de-an/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/inovare-afaceri-ro/">Inovare Afaceri</source>
-      <content:encoded><![CDATA[From Inovare Afaceri: Dragobete și 8 Martie: cum transformi această perioadă într-un festival al răsfățului Februarie și începutul lunii martie marchează, an de an, sezonul dedicat iubirii și aprecierii. Dragobetele aduce tradiția locală în prim-plan, în timp ce 1 și 8 Martie devin ocazii perfecte pentru a celebra femeile importante din viața noastră. În această perioadă, gesturile mici, dar atent alese, pot transfo...]]></content:encoded>
-      <comments>https://inovare-afaceri.ro/dragobete-si-8-martie-cum-transformi-aceasta-perioada-intr-un-festival-al-rasfatuluifebruarie-si-inceputul-lunii-martie-marcheaza-an-de-an/#comments</comments>
     </item>
     <item>
       <title>Cum ajută AI Vision Inside la inventarul din frigider</title>
