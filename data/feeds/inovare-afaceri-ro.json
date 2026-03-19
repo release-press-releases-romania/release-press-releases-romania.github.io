@@ -7,9 +7,17 @@
     "rss": "https://inovare-afaceri.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-03-19T11:53:33.752729+00:00",
+  "updated_at": "2026-03-19T13:44:47.745080+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "De la idee la linie funcțională sau ce înseamnă modernizarea producției industriale",
+      "link": "https://inovare-afaceri.ro/de-la-idee-la-linie-functionala-sau-ce-inseamna-modernizarea-productiei-industriale/",
+      "summary": "Modernizarea producției industriale nu înseamnă doar achiziția de echipamente noi. Înseamnă reproiectarea fluxului tehnologic, alegerea unor componente potrivite, integrarea lor într-un sistem coerent și asigurarea unei exploatări sigure și eficiente pe termen lung. Pentru multe companii, diferența între o investiție reușită și una care nu își atinge obiectivele este dată de partenerul tehnic ales. Dynamic [&#8230;] Articolul De la idee la linie funcțională sau ce înseamnă modernizarea producției industriale apare prima dată în Inovare Afaceri .",
+      "published": "2026-03-19T12:59:12+00:00",
+      "published_human": "2026-03-19T12:59",
+      "source": "https://inovare-afaceri.ro/"
+    },
     {
       "title": "MORE Networking – 10 ani printr-o conferință despre puterea conexiunilor și comunităților",
       "link": "https://inovare-afaceri.ro/more-networking-10-ani-printr-o-conferinta-despre-puterea-conexiunilor-si-comunitatilor/",
@@ -96,14 +104,6 @@
       "summary": "Furtul de combustibil nu arată mereu ca în filme, cu cineva prins “în flagrant” lângă rezervor. De cele mai multe ori, furtul de combustibil arată ca niște litri “care dispar” treptat sau ca o scădere bruscă într-un loc unde mașina n-ar fi trebuit să consume nimic. Dacă ai una sau mai multe mașini în teren, [&#8230;] Articolul Cum detectezi furtul de combustibil cu ajutorul unui sistem GPS apare prima dată în Inovare Afaceri .",
       "published": "2025-12-26T10:35:15+00:00",
       "published_human": "2025-12-26T10:35",
-      "source": "https://inovare-afaceri.ro/"
-    },
-    {
-      "title": "Cum detectezi furtul de combustibil cu ajutorul unui sistem GPS",
-      "link": "https://inovare-afaceri.ro/cum-detectezi-furtul-de-combustibil-cu-ajutorul-unui-sistem-gps/",
-      "summary": "Furtul de combustibil nu arată mereu ca în filme, cu cineva prins “în flagrant” lângă rezervor. De cele mai multe ori, furtul de combustibil arată ca niște litri “care dispar” treptat sau ca o scădere bruscă într-un loc unde mașina n-ar fi trebuit să consume nimic. Dacă ai una sau mai multe mașini în teren, [&#8230;] Articolul Cum detectezi furtul de combustibil cu ajutorul unui sistem GPS apare prima dată în Inovare Afaceri .",
-      "published": "2025-12-26T10:32:42+00:00",
-      "published_human": "2025-12-26T10:32",
       "source": "https://inovare-afaceri.ro/"
     }
   ],
