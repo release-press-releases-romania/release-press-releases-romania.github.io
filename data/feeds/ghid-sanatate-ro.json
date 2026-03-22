@@ -7,9 +7,17 @@
     "rss": "https://ghid-sanatate.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-03-22T18:57:48.085752+00:00",
+  "updated_at": "2026-03-22T19:42:50.551746+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Energie și detoxifiere: Chia, micile rezervoare de nutrienți",
+      "link": "https://ghid-sanatate.ro/energie-si-detoxifiere-chia-micile-rezervoare-de-nutrienti/",
+      "summary": "Semințele de chia nu mai sunt demult o noutate exotică, ci un ingredient esențial pentru... Articolul Energie și detoxifiere: Chia, micile rezervoare de nutrienți apare prima dată în Ghid Sanatate .",
+      "published": "2026-03-21T19:25:00+00:00",
+      "published_human": "2026-03-21T19:25",
+      "source": "https://ghid-sanatate.ro/"
+    },
     {
       "title": "Cum alegem corect suplimentele naturale în funcție de nevoile organismului",
       "link": "https://ghid-sanatate.ro/cum-alegem-corect-suplimentele-naturale-in-functie-de-nevoile-organismului/",
@@ -96,14 +104,6 @@
       "summary": "Radiografiile dentare nu sunt doar „poze cu dinții”. Ele oferă informații esențiale pe care medicul... Articolul 3 tipuri de radiografii dentare și când ai nevoie de fiecare apare prima dată în Ghid Sanatate .",
       "published": "2025-11-25T09:04:53+00:00",
       "published_human": "2025-11-25T09:04",
-      "source": "https://ghid-sanatate.ro/"
-    },
-    {
-      "title": "Turbo vs deep stack: cum îți adaptezi strategia de poker la structură",
-      "link": "https://ghid-sanatate.ro/turbo-vs-deep-stack-cum-iti-adaptezi-strategia-de-poker-la-structura/",
-      "summary": "Ați simțit vreodată că strategia voastră de poker nu funcționează la fel de bine în... Articolul Turbo vs deep stack: cum îți adaptezi strategia de poker la structură apare prima dată în Ghid Sanatate .",
-      "published": "2025-11-15T10:03:28+00:00",
-      "published_human": "2025-11-15T10:03",
       "source": "https://ghid-sanatate.ro/"
     }
   ],

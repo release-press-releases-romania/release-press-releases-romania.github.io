@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@top",
     "rss": "https://social.5th.ro/@top.rss"
   },
-  "updated_at": "2026-03-22T18:57:48.085752+00:00",
+  "updated_at": "2026-03-22T19:42:50.551746+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "De ce asistenții vocali devin mai inteligenți",
+      "link": "https://top15.ro/de-ce-asistentii-vocali-devin-mai-inteligenti/",
+      "summary": "O evoluție dictată de nevoile utilizatorilor Asistenții vocali au pornit ca instrumente simple, capabile să... Articolul De ce asistenții vocali devin mai inteligenți apare prima dată în TOP 15 .",
+      "published": "2026-03-22T19:34:00+00:00",
+      "published_human": "2026-03-22T19:34",
+      "source": "https://top15.ro/"
+    },
     {
       "title": "De ce televizoarele premium devin tot mai inteligente",
       "link": "https://top15.ro/de-ce-televizoarele-premium-devin-tot-mai-inteligente/",
@@ -100,17 +108,17 @@
       "published": "2026-02-17T22:22:00+00:00",
       "published_human": "2026-02-17T22:22",
       "source": "https://top15.ro/"
-    },
-    {
-      "title": "Cum poate aerul condiționat să ajusteze automat temperatura pentru somn",
-      "link": "https://top15.ro/cum-poate-aerul-conditionat-sa-ajusteze-automat-temperatura-pentru-somn/",
-      "summary": "Cum poate aerul condiționat să ajusteze automat temperatura pentru somn Temperatura din dormitor influențează calitatea... Articolul Cum poate aerul condiționat să ajusteze automat temperatura pentru somn apare prima dată în TOP 15 .",
-      "published": "2026-02-16T06:01:37+00:00",
-      "published_human": "2026-02-16T06:01",
-      "source": "https://top15.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@top/116274506403965856",
+      "summary": "📰O evoluție dictată de nevoile utilizatorilorAsistenții vocali au pornit ca instrumente simple, capabile să execute comenzi de bază. Astăzi, însă, evoluția lor este determinată de cerințele tot mai complexe ale utilizatorilor. Oamenii nu mai vor doar să pornească un dispozitiv sau să seteze o alarmă, ci să interacționeze natural cu tehnologia, fără pași complicați.Această schimbare… 📰 https:// top15.ro/de-ce-asistentii-voca li-devin-mai-inteligenti/",
+      "published": "2026-03-22T19:36:06+00:00",
+      "published_human": "2026-03-22T19:36",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@top/116260205613586786",
@@ -197,14 +205,6 @@
       "summary": "📰Majoritatea dintre noi ne amintim sunetul sâcâitor și lumina care tremura în vechile birouri, școli sau spitale. Acea atmosferă apăsătoare era cauzată de tuburile fluorescente clasice, o tehnologie care a dominat iluminatul comercial zeci de ani. Trecerea la iluminatul modern nu este doar un moft sau o măsură de reducere a facturii la energie electrică.… 📰 https:// top15.ro/de-ce-noile-neoane-le d-nu-palpaie-si-protejeaza-vederea/",
       "published": "2026-02-25T10:12:51+00:00",
       "published_human": "2026-02-25T10:12",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@top/116130142493882240",
-      "summary": "📰Accidentele se întâmplă. Reacția ta contează mai mult decât incidentul Indiferent cât de atent conduci, există factori pe care nu îi controlezi: trafic aglomerat în Mărăști la ora 8:30, o frânare bruscă în Centru, polei dimineața devreme iarna sau un șofer neatent într-o intersecție.Dacă te afli la volanul unei mașini închiriate în Cluj-Napoca și apare… 📰 https:// top15.ro/ce-faci-daca-ai-un-ac cident-cu-masina-inchiriata-in-cluj-napoca-pasii-corecti-fara-ambiguitati/",
-      "published": "2026-02-25T07:42:28+00:00",
-      "published_human": "2026-02-25T07:42",
       "source": "Mastodon"
     }
   ]
