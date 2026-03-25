@@ -7,9 +7,17 @@
     "rss": "https://networkinghub.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-03-25T13:52:26.074782+00:00",
+  "updated_at": "2026-03-25T15:39:32.622219+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Cum a evoluat tehnologia display în ultimii 20 ani",
+      "link": "https://networkinghub.ro/cum-a-evoluat-tehnologia-display-in-ultimii-20-ani/",
+      "summary": "De la ecrane simple la experiențe vizuale complexe În urmă cu două decenii, tehnologia display... Articolul Cum a evoluat tehnologia display în ultimii 20 ani apare prima dată în Networking Hub .",
+      "published": "2026-03-23T15:03:00+00:00",
+      "published_human": "2026-03-23T15:03",
+      "source": "https://networkinghub.ro/"
+    },
     {
       "title": "Cum se integrează Galaxy S26 într-un ecosistem smart",
       "link": "https://networkinghub.ro/cum-se-integreaza-galaxy-s26-intr-un-ecosistem-smart/",
@@ -96,14 +104,6 @@
       "summary": "Oameni, destine, emoție: Adela Hanafi, a lansat podcastul „Povești Nespuse cu Adela” Într-o lume adesea... Articolul Oameni, destine, emoție: Adela Hanafi, a lansat podcastul „Povești Nespuse cu Adela” apare prima dată în Networking Hub .",
       "published": "2025-12-10T09:13:51+00:00",
       "published_human": "2025-12-10T09:13",
-      "source": "https://networkinghub.ro/"
-    },
-    {
-      "title": "Dubla impunere: Cum funcționează convenția dintre România și Bulgaria",
-      "link": "https://networkinghub.ro/dubla-impunere-cum-functioneaza-conventia-dintre-romania-si-bulgaria/",
-      "summary": "Termenul de &#8222;dublă impunere&#8221; provoacă fiori reci oricărui antreprenor care ia &#238;n calcul extinderea activității... Articolul Dubla impunere: Cum funcționează convenția dintre România și Bulgaria apare prima dată în Networking Hub .",
-      "published": "2025-12-06T12:22:00+00:00",
-      "published_human": "2025-12-06T12:22",
       "source": "https://networkinghub.ro/"
     }
   ],
