@@ -4,13 +4,13 @@
     "name": "Universultech",
     "url": "https://UniversulTech.ro/",
     "category": "Technology & Energy",
-    "rss": "https://UniversulTech.ro/feed/"
+    "rss": "https://UniversulTech.ro/feed/rss/"
   },
   "mastodon": {
     "url": "https://social.5th.ro/@UniversulTech",
     "rss": "https://social.5th.ro/@UniversulTech.rss"
   },
-  "updated_at": "2026-03-28T15:50:08.137912+00:00",
+  "updated_at": "2026-03-28T16:54:51.333249+00:00",
   "status": "ok",
   "items": [
     {
