@@ -7,9 +7,17 @@
     "rss": "https://casa-sustenabila.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-03-30T03:45:11.300036+00:00",
+  "updated_at": "2026-03-30T06:12:05.277369+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Chiuvete de bucătărie multifuncționale. Care sunt avantajele aduse?",
+      "link": "https://casa-sustenabila.ro/chiuvete-de-bucatarie-multifunctionale-care-sunt-avantajele-aduse/",
+      "summary": "Bucătăria modernă este un loc în care funcționalitatea și designul se îmbină pentru a crea o experiență practică Articolul Chiuvete de bucătărie multifuncționale. Care sunt avantajele aduse? apare prima dată în Casa Sustenabila .",
+      "published": "2026-03-30T04:34:08+00:00",
+      "published_human": "2026-03-30T04:34",
+      "source": "https://casa-sustenabila.ro/"
+    },
     {
       "title": "Ce tip de gard să alegi pentru curte în 2026? Soluții moderne și rezistente",
       "link": "https://casa-sustenabila.ro/ce-tip-de-gard-sa-alegi-pentru-curte-in-2026-solutii-moderne-si-rezistente/",
@@ -96,14 +104,6 @@
       "summary": "46 speakeri internaționali și peste 180 participanți s-au reunit la ICH2P și IEEES 2025, evenimente organizate de lCMET Articolul 46 speakeri internaționali și peste 180 participanți s-au reunit la ICH2P și IEEES 2025 apare prima dată în Casa Sustenabila .",
       "published": "2026-01-08T11:24:34+00:00",
       "published_human": "2026-01-08T11:24",
-      "source": "https://casa-sustenabila.ro/"
-    },
-    {
-      "title": "UTM-uri și tracking: cum măsori traficul din Mastodon către WordPress",
-      "link": "https://casa-sustenabila.ro/utm-uri-si-tracking-cum-masori-traficul-din-mastodon-catre-wordpress/",
-      "summary": "Mulți marketeri și creatori de conținut se confruntă cu o întrebare critică atunci când își extind prezența digitală: Articolul UTM-uri și tracking: cum măsori traficul din Mastodon către WordPress apare prima dată în Casa Sustenabila .",
-      "published": "2025-12-17T16:58:54+00:00",
-      "published_human": "2025-12-17T16:58",
       "source": "https://casa-sustenabila.ro/"
     }
   ],
