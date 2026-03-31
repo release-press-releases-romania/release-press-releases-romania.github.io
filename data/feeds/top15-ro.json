@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@top",
     "rss": "https://social.5th.ro/@top.rss"
   },
-  "updated_at": "2026-03-31T05:57:10.260198+00:00",
+  "updated_at": "2026-03-31T07:47:29.593160+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Cum va evolua ecosistemul Galaxy în următorii ani",
+      "link": "https://top15.ro/cum-va-evolua-ecosistemul-galaxy-in-urmatorii-ani/",
+      "summary": "Un sistem care devine tot mai inteligent Ecosistemele digitale au trecut de la simple conexiuni... Articolul Cum va evolua ecosistemul Galaxy în următorii ani apare prima dată în TOP 15 .",
+      "published": "2026-03-26T08:10:00+00:00",
+      "published_human": "2026-03-26T08:10",
+      "source": "https://top15.ro/"
+    },
     {
       "title": "Curele dințate și Poly-V: când merită upgrade-ul față de curelele clasice",
       "link": "https://top15.ro/curele-dintate-si-poly-v-cand-merita-upgrade-ul-fata-de-curelele-clasice/",
@@ -100,17 +108,17 @@
       "published": "2026-02-26T13:36:44+00:00",
       "published_human": "2026-02-26T13:36",
       "source": "https://top15.ro/"
-    },
-    {
-      "title": "Ghid pentru comandarea anvelopelor de vară în sezonul rece",
-      "link": "https://top15.ro/ghid-pentru-comandarea-anvelopelor-de-vara-in-sezonul-rece/",
-      "summary": "Comandarea anvelopelor de vară în sezonul rece poate părea un pas neobișnuit, dar are beneficii... Articolul Ghid pentru comandarea anvelopelor de vară în sezonul rece apare prima dată în TOP 15 .",
-      "published": "2026-02-26T13:04:30+00:00",
-      "published_human": "2026-02-26T13:04",
-      "source": "https://top15.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@top/116322542077584705",
+      "summary": "📰Un sistem care devine tot mai inteligentEcosistemele digitale au trecut de la simple conexiuni între dispozitive la sisteme complexe care se adaptează utilizatorului. În următorii ani, această evoluție va accelera, iar ecosistemul Galaxy va deveni din ce în ce mai inteligent, mai autonom și mai integrat în viața de zi cu zi.Utilizatorii nu vor mai… 📰 https:// top15.ro/cum-va-evolua-ecosist emul-galaxy-in-urmatorii-ani/",
+      "published": "2026-03-31T07:12:12+00:00",
+      "published_human": "2026-03-31T07:12",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@top/116317380699031670",
@@ -197,14 +205,6 @@
       "summary": "📰Stresul și stilul de viață haotic își pun amprenta asupra sănătății tale, iar găsirea unor metode eficiente de relaxare și îngrijire personală devine esențială. Sauna, cunoscută de secole pentru proprietățile sale benefice, pare să fie cheia spre o viață mai lungă și mai sănătoasă. Acest articol explorează motivele pentru care saunele sunt din ce în… 📰 https:// top15.ro/sauna-secretul-longev itatii-intr-o-societate-moderna/",
       "published": "2026-02-26T13:36:47+00:00",
       "published_human": "2026-02-26T13:36",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@top/116137071358070043",
-      "summary": "📰Comandarea anvelopelor de vară în sezonul rece poate părea un pas neobișnuit, dar are beneficii semnificative. Planificând din timp, te poți bucura de o gamă largă de oferte și discounturi, evitând stresul achizițiilor în ultimul moment.Sursa foto: pexels.comÎn acest ghid, vei descoperi sfaturi practice și recomandări utile care te vor ajuta să faci cele mai… 📰 https:// top15.ro/ghid-pentru-comandare a-anvelopelor-de-vara-in-sezonul-rece/",
-      "published": "2026-02-26T13:04:34+00:00",
-      "published_human": "2026-02-26T13:04",
       "source": "Mastodon"
     }
   ]

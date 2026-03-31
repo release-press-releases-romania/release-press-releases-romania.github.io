@@ -7,9 +7,17 @@
     "rss": "https://iPresa.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-03-31T05:57:10.260198+00:00",
+  "updated_at": "2026-03-31T07:47:29.593160+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Cum schimbă AI modul în care folosim telefonul",
+      "link": "https://ipresa.ro/cum-schimba-ai-modul-in-care-folosim-telefonul/",
+      "summary": "De la reacție la anticipare Modul în care folosim telefonul s-a schimbat radical în ultimii ani. Dacă înainte interacțiunea era bazată pe comenzi directe, astăzi inteligența artificială permite dispozitivelor să anticipeze nevoile utilizatorului. Telefonul nu mai este doar un instrument pasiv, ci un sistem care învață și se adaptează constant. Această transformare redefinește experiența mobilă. [&#8230;] Articolul Cum schimbă AI modul în care folosim telefonul apare prima dată în iPresa .",
+      "published": "2026-03-26T08:09:00+00:00",
+      "published_human": "2026-03-26T08:09",
+      "source": "https://iPresa.ro/"
+    },
     {
       "title": "Cum conectează Samsung electrocasnicele din casă",
       "link": "https://ipresa.ro/cum-conecteaza-samsung-electrocasnicele-din-casa/",
@@ -80,14 +88,6 @@
       "summary": "Ecranele moderne nu mai afișează doar imaginea primită de la sursă. Tot mai multe modele includ module de inteligență artificială (AI) care analizează conținutul în timp real. Scopul este o afișare mai clară, mai adaptată contextului și mai ușor de controlat. Ce sunt ecranele bazate pe AI Ecranele bazate pe AI sunt televizoare, monitoare sau [&#8230;] Articolul Ce beneficii aduc ecranele bazate pe AI în viața de zi cu zi apare prima dată în iPresa .",
       "published": "2025-11-28T11:19:39+00:00",
       "published_human": "2025-11-28T11:19",
-      "source": "https://iPresa.ro/"
-    },
-    {
-      "title": "CONIL Fest 2025: ediția a XXVII-a a Festivalului Integrări",
-      "link": "https://ipresa.ro/conil-fest-2025-editia-a-xxvii-a-a-festivalului-integrari/",
-      "summary": "Zilele de 15 și 16 noiembrie 2025 au adus o emoție pură și o lecție de neuitat la Circul Metropolitan București, unde a avut loc cea de-a XXVII-a ediție a CONIL Fest &#8211; Festivalul Integrării, sub tema profundă: &#8222;Dincolo de Diferențe&#8221;. Evenimentul nu a fost doar un spectacol, ci o celebrare vibrantă a incluziunii, diversității [&#8230;] Articolul CONIL Fest 2025: ediția a XXVII-a a Festivalului Integrări apare prima dată în iPresa .",
-      "published": "2025-11-25T06:50:40+00:00",
-      "published_human": "2025-11-25T06:50",
       "source": "https://iPresa.ro/"
     }
   ],

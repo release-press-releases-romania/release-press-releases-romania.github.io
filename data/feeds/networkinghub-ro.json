@@ -7,9 +7,17 @@
     "rss": "https://networkinghub.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-03-31T05:57:10.260198+00:00",
+  "updated_at": "2026-03-31T07:47:29.593160+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Cum arată viitorul caselor smart",
+      "link": "https://networkinghub.ro/cum-arata-viitorul-caselor-smart/",
+      "summary": "Conceptul de casă smart a evoluat rapid în ultimii ani. Dacă la început era vorba... Articolul Cum arată viitorul caselor smart apare prima dată în Networking Hub .",
+      "published": "2026-03-27T08:13:00+00:00",
+      "published_human": "2026-03-27T08:13",
+      "source": "https://networkinghub.ro/"
+    },
     {
       "title": "Cum a evoluat tehnologia display în ultimii 20 ani",
       "link": "https://networkinghub.ro/cum-a-evoluat-tehnologia-display-in-ultimii-20-ani/",
@@ -96,14 +104,6 @@
       "summary": "Optimizarea încălzirii devine mai simplă atunci când sunt folosiți senzori care analizează mediul și adaptează... Articolul Cum optimizezi încălzirea locuinței cu ajutorul senzorilor apare prima dată în Networking Hub .",
       "published": "2025-12-12T10:03:00+00:00",
       "published_human": "2025-12-12T10:03",
-      "source": "https://networkinghub.ro/"
-    },
-    {
-      "title": "Oameni, destine, emoție: Adela Hanafi, a lansat podcastul „Povești Nespuse cu Adela”",
-      "link": "https://networkinghub.ro/oameni-destine-emotie-adela-hanafi-a-lansat-podcastul-povesti-nespuse-cu-adela/",
-      "summary": "Oameni, destine, emoție: Adela Hanafi, a lansat podcastul „Povești Nespuse cu Adela” Într-o lume adesea... Articolul Oameni, destine, emoție: Adela Hanafi, a lansat podcastul „Povești Nespuse cu Adela” apare prima dată în Networking Hub .",
-      "published": "2025-12-10T09:13:51+00:00",
-      "published_human": "2025-12-10T09:13",
       "source": "https://networkinghub.ro/"
     }
   ],
