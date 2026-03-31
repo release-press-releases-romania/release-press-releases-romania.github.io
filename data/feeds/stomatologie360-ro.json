@@ -7,9 +7,17 @@
     "rss": "https://stomatologie360.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-03-31T14:04:55.310710+00:00",
+  "updated_at": "2026-03-31T15:40:56.042942+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Zâmbetul „de revistă”: Mituri și adevăruri despre fațetele dentare în 2026",
+      "link": "https://stomatologie360.ro/zambetul-de-revista-mituri-si-adevaruri-despre-fatetele-dentare-in-2026/",
+      "summary": "Te-ai uitat vreodată în oglindă și ai simțit că zâmbetul tău nu reflectă exact cine... Articolul Zâmbetul „de revistă”: Mituri și adevăruri despre fațetele dentare în 2026 apare prima dată în Stomatologie 360 .",
+      "published": "2026-03-31T15:37:44+00:00",
+      "published_human": "2026-03-31T15:37",
+      "source": "https://stomatologie360.ro/"
+    },
     {
       "title": "Cum îți faci un profil bilingv pe Mastodon România",
       "link": "https://stomatologie360.ro/cum-iti-faci-un-profil-bilingv-pe-mastodon-romania/",
@@ -95,14 +103,6 @@
       "link": "https://stomatologie360.ro/sarcina-ectopica/",
       "summary": "Știați că o sarcină ectopică poate fi o urgență medicală? Simptomele pot fi subtile la... Articolul Sarcina ectopică apare prima dată în Stomatologie 360 .",
       "published": "2025-08-18T21:30:21+00:00",
-      "published_human": "2025-08-18T21:30",
-      "source": "https://stomatologie360.ro/"
-    },
-    {
-      "title": "Sindromul Ehlers-Danlos: când pielea se rupe la atingere",
-      "link": "https://stomatologie360.ro/sindromul-ehlers-danlos-cand-pielea-se-rupe-la-atingere/",
-      "summary": "Ați observat vreodată o fragilitate neobișnuită a pielii? S&#226;ngerări ușoare după mici răni sau v&#226;nătăi... Articolul Sindromul Ehlers-Danlos: când pielea se rupe la atingere apare prima dată în Stomatologie 360 .",
-      "published": "2025-08-18T21:30:10+00:00",
       "published_human": "2025-08-18T21:30",
       "source": "https://stomatologie360.ro/"
     }
