@@ -5,8 +5,8 @@
     <link>https://release-press-releases-romania.github.io</link>
     <description>Aggregated RSS feed of press releases from over 100 Romanian publishers. Covering PR &amp; Marketing, Health, News &amp; Society, Technology, Business, Construction, Tourism, and more. Curated selection of quality press releases from trusted Romanian sources.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 31 Mar 2026 07:04:30 +0000</lastBuildDate>
-    <pubDate>Tue, 31 Mar 2026 07:04:30 +0000</pubDate>
+    <lastBuildDate>Tue, 31 Mar 2026 12:58:22 +0000</lastBuildDate>
+    <pubDate>Tue, 31 Mar 2026 12:58:22 +0000</pubDate>
     <generator>Release Press Releases in Romania RSS Aggregator v2.0</generator>
     <webMaster>noreply@release-press-releases-romania.github.io (Release Press Releases)</webMaster>
     <managingEditor>noreply@release-press-releases-romania.github.io (Release Press Releases)</managingEditor>
@@ -167,6 +167,34 @@
       <source url="https://release-press-releases-romania.github.io/publisher/ienergie-ro/">iEnergie</source>
       <content:encoded><![CDATA[From iEnergie: Un subiect tehnic cu miză practică În aparență, discuția despre un separator de sarcină pare strict „pentru electricieni”. Deși denumirea „Separator de sarcina 4P tetrapolar” pare un fragment dintr-o fișă tehnică, întrebarea din spate e foarte practică: cum oprești energia în siguranță? În realitate, subiectul a devenit relevant pentru oricine are un tablou modern: fotovoltaice, UPS, automatiză...]]></content:encoded>
       <comments>https://ienergie.ro/separator-de-sarcina-4p-tetrapolar-cum-a-ajuns-un-aparat-de-tablou-sa-conteze-in-siguranta-de-zi-cu-zi/#comments</comments>
+    </item>
+    <item>
+      <title>Cum schimbă AI modul în care folosim telefonul</title>
+      <link>https://ipresa.ro/cum-schimba-ai-modul-in-care-folosim-telefonul/</link>
+      <description><![CDATA[From iPresa: De la reacție la anticipare Modul în care folosim telefonul s-a schimbat radical în ultimii ani. Dacă înainte interacțiunea era bazată pe comenzi directe, astăzi inteligența artificială permite dispozitivelor să anticipeze nevoile utilizatorului. Telefonul nu mai este doar un instrument pasiv, ci un sistem care învață și se adaptează constant. Această transformare redefinește experiența mobilă....]]></description>
+      <pubDate>Thu, 26 Mar 2026 08:09:00 +0000</pubDate>
+      <author>iPresa (https://release-press-releases-romania.github.io/publisher/ipresa-ro/)</author>
+      <dc:creator>iPresa</dc:creator>
+      <dc:date>2026-03-26T08:09:00+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">PR &amp; Marketing</category>
+      <guid isPermaLink="true">https://ipresa.ro/cum-schimba-ai-modul-in-care-folosim-telefonul/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/ipresa-ro/">iPresa</source>
+      <content:encoded><![CDATA[From iPresa: De la reacție la anticipare Modul în care folosim telefonul s-a schimbat radical în ultimii ani. Dacă înainte interacțiunea era bazată pe comenzi directe, astăzi inteligența artificială permite dispozitivelor să anticipeze nevoile utilizatorului. Telefonul nu mai este doar un instrument pasiv, ci un sistem care învață și se adaptează constant. Această transformare redefinește experiența mobilă....]]></content:encoded>
+      <comments>https://ipresa.ro/cum-schimba-ai-modul-in-care-folosim-telefonul/#comments</comments>
+    </item>
+    <item>
+      <title>Ce rol joacă AI în ecosistemul Galaxy</title>
+      <link>https://femeie-antreprenor.ro/ce-rol-joaca-ai-in-ecosistemul-galaxy/</link>
+      <description><![CDATA[From Femeie Antreprenor: Inteligența care leagă dispozitivele Într-un ecosistem digital modern, inteligența artificială nu este doar o funcție suplimentară, ci un element central care coordonează întreaga experiență. În cazul Galaxy, AI acționează ca un „liant” între dispozitive, facilitând comunicarea, automatizarea și adaptarea la nevoile utilizatorului. Această abordare transformă modul în care tehnologia este perce...]]></description>
+      <pubDate>Thu, 26 Mar 2026 08:03:00 +0000</pubDate>
+      <author>Femeie Antreprenor (https://release-press-releases-romania.github.io/publisher/femeie-antreprenor-ro/)</author>
+      <dc:creator>Femeie Antreprenor</dc:creator>
+      <dc:date>2026-03-26T08:03:00+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">Business</category>
+      <guid isPermaLink="true">https://femeie-antreprenor.ro/ce-rol-joaca-ai-in-ecosistemul-galaxy/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/femeie-antreprenor-ro/">Femeie Antreprenor</source>
+      <content:encoded><![CDATA[From Femeie Antreprenor: Inteligența care leagă dispozitivele Într-un ecosistem digital modern, inteligența artificială nu este doar o funcție suplimentară, ci un element central care coordonează întreaga experiență. În cazul Galaxy, AI acționează ca un „liant” între dispozitive, facilitând comunicarea, automatizarea și adaptarea la nevoile utilizatorului. Această abordare transformă modul în care tehnologia este perce...]]></content:encoded>
+      <comments>https://femeie-antreprenor.ro/ce-rol-joaca-ai-in-ecosistemul-galaxy/#comments</comments>
     </item>
     <item>
       <title>Releul termic: dispozitivul discret care protejează motoarele din fabrici și locuințe</title>
@@ -503,20 +531,6 @@
       <source url="https://release-press-releases-romania.github.io/publisher/ipresa-ro/">iPresa</source>
       <content:encoded><![CDATA[From iPresa: De la hardware puternic la inteligență contextualăEvoluția smartphone-urilor nu mai este definită doar de specificații tehnice precum procesorul sau camera. În prezent, inteligența artificială devine elementul central care influențează modul în care aceste dispozitive funcționează. Utilizatorii nu mai caută doar performanță brută, ci experiențe fluide, personalizate și adaptate stilului lor de ...]]></content:encoded>
       <comments>https://ipresa.ro/cum-evolueaza-smartphone-urile-odata-cu-ai/#comments</comments>
-    </item>
-    <item>
-      <title>Ce rol are AI în electrocasnicele moderne</title>
-      <link>https://femeie-antreprenor.ro/ce-rol-are-ai-in-electrocasnicele-moderne/</link>
-      <description><![CDATA[From Femeie Antreprenor: Locuința inteligentă nu mai este un concept futuristÎn ultimii ani, electrocasnicele au trecut printr-o transformare majoră, devenind mai mult decât simple aparate care execută comenzi. Astăzi, inteligența artificială le permite să învețe din comportamentul utilizatorului și să optimizeze modul în care funcționează. Astfel, locuința modernă începe să fie definită de eficiență, automatizare și c...]]></description>
-      <pubDate>Wed, 18 Mar 2026 06:53:00 +0000</pubDate>
-      <author>Femeie Antreprenor (https://release-press-releases-romania.github.io/publisher/femeie-antreprenor-ro/)</author>
-      <dc:creator>Femeie Antreprenor</dc:creator>
-      <dc:date>2026-03-18T06:53:00+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">Business</category>
-      <guid isPermaLink="true">https://femeie-antreprenor.ro/ce-rol-are-ai-in-electrocasnicele-moderne/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/femeie-antreprenor-ro/">Femeie Antreprenor</source>
-      <content:encoded><![CDATA[From Femeie Antreprenor: Locuința inteligentă nu mai este un concept futuristÎn ultimii ani, electrocasnicele au trecut printr-o transformare majoră, devenind mai mult decât simple aparate care execută comenzi. Astăzi, inteligența artificială le permite să învețe din comportamentul utilizatorului și să optimizeze modul în care funcționează. Astfel, locuința modernă începe să fie definită de eficiență, automatizare și c...]]></content:encoded>
-      <comments>https://femeie-antreprenor.ro/ce-rol-are-ai-in-electrocasnicele-moderne/#comments</comments>
     </item>
     <item>
       <title>Tablă perforată vs. materiale clasice: ce alegi când vrei durabilitate și design modern</title>
@@ -1651,20 +1665,6 @@
       <source url="https://release-press-releases-romania.github.io/publisher/femeiaz-ro/">Femeiaz</source>
       <content:encoded><![CDATA[From Femeiaz: You know what? Puține lucruri sunt mai satisfăcătoare decât să-ți prepari singură crema preferată sau să simți cum pielea „dansează” după un scrub creat chiar de tine. Rețetele cosmetice, mai ales atunci când sunt simple, naturale și gândite cu suflet, nu sunt doar un hobby, ci un mod de a avea grijă de tine într-un mod conștient și creativ. Dacă ți-ai dorit vreodată să iei frâiele propriei fru...]]></content:encoded>
       <comments>https://femeiaz.ro/2026/01/16/retete-cosmetice-bucuria-de-a-ti-crea-frumusetea-cu-mainile-tale/#comments</comments>
-    </item>
-    <item>
-      <title>Cum sa alegi un abonament de cafea pentru birou?</title>
-      <link>https://ipresa.ro/cum-sa-alegi-un-abonament-de-cafea-pentru-birou/</link>
-      <description><![CDATA[From iPresa: Cafeaua Proastă Omoară Productivitatea: Cum Să Îți Transformi Biroul într-un Spațiu de Excelență Îți ai dat seama vreodată că, după ce termini cu munca, te uiți la ceainic și te întrebi de ce nu ai cafea?Sau, mai rău, beii o cafea arsă și observi cum moralul echipelor scade imprejurul tău? Dacă răspunsul este da, știi exact cât de importantă este calitatea cafelei pentru productivitatea zilnică...]]></description>
-      <pubDate>Tue, 30 Dec 2025 18:16:24 +0000</pubDate>
-      <author>iPresa (https://release-press-releases-romania.github.io/publisher/ipresa-ro/)</author>
-      <dc:creator>iPresa</dc:creator>
-      <dc:date>2025-12-30T18:16:24+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">PR &amp; Marketing</category>
-      <guid isPermaLink="true">https://ipresa.ro/cum-sa-alegi-un-abonament-de-cafea-pentru-birou/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/ipresa-ro/">iPresa</source>
-      <content:encoded><![CDATA[From iPresa: Cafeaua Proastă Omoară Productivitatea: Cum Să Îți Transformi Biroul într-un Spațiu de Excelență Îți ai dat seama vreodată că, după ce termini cu munca, te uiți la ceainic și te întrebi de ce nu ai cafea?Sau, mai rău, beii o cafea arsă și observi cum moralul echipelor scade imprejurul tău? Dacă răspunsul este da, știi exact cât de importantă este calitatea cafelei pentru productivitatea zilnică...]]></content:encoded>
-      <comments>https://ipresa.ro/cum-sa-alegi-un-abonament-de-cafea-pentru-birou/#comments</comments>
     </item>
     <item>
       <title>Animatorii pentru petreceri copii: distracție, emoție și amintiri de neuitat</title>
