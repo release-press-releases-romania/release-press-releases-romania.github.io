@@ -7,9 +7,17 @@
     "rss": "https://stiri-live.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-04-09T15:58:05.489943+00:00",
+  "updated_at": "2026-04-09T17:34:05.195805+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Contorul electric monofazat, mic aparat cu rol uriaș în gospodăriile românești",
+      "link": "https://stiri-live.ro/contorul-electric-monofazat-mic-aparat-cu-rol-urias-in-gospodariile-romanesti/",
+      "summary": "Într-o epocă în care factura la energie a devenit subiect de discuție la fiecare masă de familie, un aparat. Articolul Contorul electric monofazat, mic aparat cu rol uriaș în gospodăriile românești apare prima dată în Stiri Live .",
+      "published": "2026-04-09T16:58:13+00:00",
+      "published_human": "2026-04-09T16:58",
+      "source": "https://stiri-live.ro/"
+    },
     {
       "title": "De la trusou de serie la trusou cu identitate proprie",
       "link": "https://stiri-live.ro/de-la-trusou-de-serie-la-trusou-cu-identitate-proprie/",
@@ -96,14 +104,6 @@
       "summary": "Mulți jucători se confruntă cu aceeași problemă: banii dispar mai repede decât și-ar dori, iar senzația de a pierde. Articolul Cum îți urmărești istoricul de joc la păcănele și tragi concluzii sănătoase apare prima dată în Stiri Live .",
       "published": "2025-11-15T10:03:28+00:00",
       "published_human": "2025-11-15T10:03",
-      "source": "https://stiri-live.ro/"
-    },
-    {
-      "title": "Cum verifici dacă o casă de pariuri este licențiată și sigură",
-      "link": "https://stiri-live.ro/cum-verifici-daca-o-casa-de-pariuri-este-licentiata-si-sigura/",
-      "summary": "Jocul la pariuri online a devenit o activitate populară, dar, odată cu extinderea pieței, a crescut și riscul de. Articolul Cum verifici dacă o casă de pariuri este licențiată și sigură apare prima dată în Stiri Live .",
-      "published": "2025-11-14T09:07:58+00:00",
-      "published_human": "2025-11-14T09:07",
       "source": "https://stiri-live.ro/"
     }
   ],
