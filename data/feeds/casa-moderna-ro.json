@@ -7,9 +7,17 @@
     "rss": "https://casa-moderna.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-04-10T13:52:34.628788+00:00",
+  "updated_at": "2026-04-10T15:09:55.395073+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Chiuvetele moderne pentru băi, un must-have în tendințele anului 2026",
+      "link": "https://casa-moderna.ro/chiuvetele-moderne-pentru-bai-un-must-have-in-tendintele-anului-2026/",
+      "summary": "Chiuveta de baie a fost multă vreme piesa cea mai neglijată dintr-o renovare. Se alegea la final, rapid, după ce&#8230; Articolul Chiuvetele moderne pentru băi, un must-have în tendințele anului 2026 apare prima dată în Casa Moderna .",
+      "published": "2026-04-10T13:57:06+00:00",
+      "published_human": "2026-04-10T13:57",
+      "source": "https://casa-moderna.ro/"
+    },
     {
       "title": "Ce trebuie să știi înainte să alegi un gard pentru casa ta",
       "link": "https://casa-moderna.ro/ce-trebuie-sa-stii-inainte-sa-alegi-un-gard-pentru-casa-ta/",
@@ -96,14 +104,6 @@
       "summary": "V-ați postat vreodată un link de pe site-ul vostru WordPress pe o rețea socială, doar pentru a descoperi că imaginea&#8230; Articolul Open Graph și preview: cum arată linkurile WordPress pe Mastodon apare prima dată în Casa Moderna .",
       "published": "2025-12-17T16:58:54+00:00",
       "published_human": "2025-12-17T16:58",
-      "source": "https://casa-moderna.ro/"
-    },
-    {
-      "title": "Cum maximizezi spațiul într-un studio de 35 mp?",
-      "link": "https://casa-moderna.ro/cum-maximizezi-spatiul-intr-un-studio-de-35-mp/",
-      "summary": "Locuirea &#238;ntr-un spațiu compact reprezintă o realitate pentru mulți tineri profesioniști sau studenți din marile orașe. O suprafață de 35&#8230; Articolul Cum maximizezi spațiul într-un studio de 35 mp? apare prima dată în Casa Moderna .",
-      "published": "2025-12-15T00:22:00+00:00",
-      "published_human": "2025-12-15T00:22",
       "source": "https://casa-moderna.ro/"
     }
   ],
