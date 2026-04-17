@@ -5,8 +5,8 @@
     <link>https://release-press-releases-romania.github.io</link>
     <description>Aggregated RSS feed of press releases from over 100 Romanian publishers. Covering PR &amp; Marketing, Health, News &amp; Society, Technology, Business, Construction, Tourism, and more. Curated selection of quality press releases from trusted Romanian sources.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Apr 2026 01:50:20 +0000</lastBuildDate>
-    <pubDate>Fri, 17 Apr 2026 01:50:20 +0000</pubDate>
+    <lastBuildDate>Fri, 17 Apr 2026 07:22:36 +0000</lastBuildDate>
+    <pubDate>Fri, 17 Apr 2026 07:22:36 +0000</pubDate>
     <generator>Release Press Releases in Romania RSS Aggregator v2.0</generator>
     <webMaster>noreply@release-press-releases-romania.github.io (Release Press Releases)</webMaster>
     <managingEditor>noreply@release-press-releases-romania.github.io (Release Press Releases)</managingEditor>
@@ -28,6 +28,20 @@
     <sy:updateFrequency>1</sy:updateFrequency>
     <copyright>Copyright 2026 Release Press Releases in Romania. Content belongs to respective publishers.</copyright>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Incapacitatea de plată – primul semn al riscului de insolvență. Cum poți anticipa dificultățile financiare ale unui partener?</title>
+      <link>https://5th.ro/incapacitatea-de-plata-primul-semn-al-riscului-de-insolventa-cum-poti-anticipa-dificultatile-financiare-ale-unui-partener/</link>
+      <description><![CDATA[From 5th: Dificultățile financiare ale clienților și partenerilor îți pot pune în pericol afacerea dacă nu iei măsuri din timp. Dacă ai colaborări cu anumite firme, iar acestea prezintă risc de insolvență, impactul nu se limitează doar la întârzieri de plată – poate genera un efect de domino care îți afectează lichiditatea, capacitatea de a-ți onora propriile obligații și chiar reputația în piață. Ce est...]]></description>
+      <pubDate>Fri, 17 Apr 2026 06:26:38 +0000</pubDate>
+      <author>5th (https://release-press-releases-romania.github.io/publisher/5th-ro/)</author>
+      <dc:creator>5th</dc:creator>
+      <dc:date>2026-04-17T06:26:38+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">PR &amp; Marketing</category>
+      <guid isPermaLink="true">https://5th.ro/incapacitatea-de-plata-primul-semn-al-riscului-de-insolventa-cum-poti-anticipa-dificultatile-financiare-ale-unui-partener/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/5th-ro/">5th</source>
+      <content:encoded><![CDATA[From 5th: Dificultățile financiare ale clienților și partenerilor îți pot pune în pericol afacerea dacă nu iei măsuri din timp. Dacă ai colaborări cu anumite firme, iar acestea prezintă risc de insolvență, impactul nu se limitează doar la întârzieri de plată – poate genera un efect de domino care îți afectează lichiditatea, capacitatea de a-ți onora propriile obligații și chiar reputația în piață. Ce est...]]></content:encoded>
+      <comments>https://5th.ro/incapacitatea-de-plata-primul-semn-al-riscului-de-insolventa-cum-poti-anticipa-dificultatile-financiare-ale-unui-partener/#comments</comments>
+    </item>
     <item>
       <title>Mini contactoarele, eroii discreți din spatele instalațiilor moderne</title>
       <link>https://excursie-delta.ro/mini-contactoarele-eroii-discreti-din-spatele-instalatiilor-moderne/</link>
@@ -1973,20 +1987,6 @@
       <source url="https://release-press-releases-romania.github.io/publisher/5th-ro/">5th</source>
       <content:encoded><![CDATA[From 5th: 5th Social Bot (also known as the Mastodon All-In-One WordPress Plugin) has a new release: version 1.7.1. This update focuses on what matters most when you automate social distribution from WordPress to the Fediverse: flexibility (any Mastodon instance), visibility (clear connection status + analytics improvements), reliability (dynamic instance handling across API calls), and security (stronge...]]></content:encoded>
       <comments>https://5th.ro/mastodon-all-in-one-wordpress-plugin-has-a-new-release-version-1-7-1/#comments</comments>
-    </item>
-    <item>
-      <title>Share on Mastodon – WordPress plugin</title>
-      <link>https://5th.ro/share-on-mastodon-wordpress-plugin-en/</link>
-      <description><![CDATA[From 5th: Share on Mastodon WordPress plugin: how to auto-share your WordPress posts to Mastodon (without copy/paste) If you run a WordPress site, you already know the routine: publish an article, then open your social tabs, write a short teaser, paste the link, add a couple of hashtags… and repeat. It works, but it’s repetitive, easy to forget, and hard to keep consistent. A proper Share on Mastodon Wor...]]></description>
-      <pubDate>Sat, 13 Dec 2025 10:06:59 +0000</pubDate>
-      <author>5th (https://release-press-releases-romania.github.io/publisher/5th-ro/)</author>
-      <dc:creator>5th</dc:creator>
-      <dc:date>2025-12-13T10:06:59+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">PR &amp; Marketing</category>
-      <guid isPermaLink="true">https://5th.ro/share-on-mastodon-wordpress-plugin-en/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/5th-ro/">5th</source>
-      <content:encoded><![CDATA[From 5th: Share on Mastodon WordPress plugin: how to auto-share your WordPress posts to Mastodon (without copy/paste) If you run a WordPress site, you already know the routine: publish an article, then open your social tabs, write a short teaser, paste the link, add a couple of hashtags… and repeat. It works, but it’s repetitive, easy to forget, and hard to keep consistent. A proper Share on Mastodon Wor...]]></content:encoded>
-      <comments>https://5th.ro/share-on-mastodon-wordpress-plugin-en/#comments</comments>
     </item>
     <item>
       <title>Descoperă cele mai spectaculoase plaje din Algarve</title>
