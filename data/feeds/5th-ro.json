@@ -7,9 +7,17 @@
     "rss": "https://5th.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-04-17T06:16:33.091794+00:00",
+  "updated_at": "2026-04-17T08:08:28.226945+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Incapacitatea de plată – primul semn al riscului de insolvență. Cum poți anticipa dificultățile financiare ale unui partener?",
+      "link": "https://5th.ro/incapacitatea-de-plata-primul-semn-al-riscului-de-insolventa-cum-poti-anticipa-dificultatile-financiare-ale-unui-partener/",
+      "summary": "Dificultățile financiare ale clienților și partenerilor îți pot pune în pericol afacerea dacă nu iei măsuri din timp. Dacă ai colaborări cu anumite firme, iar acestea prezintă risc de insolvență, impactul nu se limitează doar la întârzieri de plată &#8211; poate genera un efect de domino care îți afectează lichiditatea, capacitatea de a-ți onora propriile Articolul Incapacitatea de plată &#8211; primul semn al riscului de insolvență. Cum poți anticipa dificultățile financiare ale unui partener? apare prima dată în 5th.ro – Social Media Mastodon Instance .",
+      "published": "2026-04-17T06:26:38+00:00",
+      "published_human": "2026-04-17T06:26",
+      "source": "https://5th.ro/"
+    },
     {
       "title": "Mastodon România: ce este, cum funcționează și de unde începi",
       "link": "https://5th.ro/mastodon-romania/",
@@ -80,14 +88,6 @@
       "summary": "Ce este social.5th.ro social.5th.ro este o instanță Mastodon găzduită în România, operată de SC ARC MEDIASOFT SRL, creată ca un spațiu de discuție liber, fără algoritmi ascunși, fără manipulare de engagement și fără tracking agresiv. Spre deosebire de rețelele sociale centralizate, Mastodon funcționează descentralizat, iar social.5th.ro face parte din fediverse, o rețea globală de mii Articolul social.5th.ro – Instanță Mastodon din România pentru free speech, bots și moderare minimă apare prima dată în 5th.ro – Social Media Mastodon Instance .",
       "published": "2025-12-13T01:32:21+00:00",
       "published_human": "2025-12-13T01:32",
-      "source": "https://5th.ro/"
-    },
-    {
-      "title": "Mastodon All-in-One Plugin for WordPress Launches Alongside a Romanian Mastodon Instance",
-      "link": "https://5th.ro/mastodon-all-in-one-plugin-for-wordpress-launches-alongside-a-romanian-mastodon-instance/",
-      "summary": "The initiative addresses the growing demand for decentralized communication infrastructure and open-source social media alternatives. Romanian Mastodon Instance Joins the Global Fediverse The newly launched Romanian Mastodon instance&#160;allows users to create accounts, publish content, and interact with other Mastodon servers worldwide through federation. Mastodon operates as a decentralized social network composed of independently hosted servers, Articolul Mastodon All-in-One Plugin for WordPress Launches Alongside a Romanian Mastodon Instance apare prima dată în 5th.ro – Social Media Mastodon Instance .",
-      "published": "2025-12-13T01:06:13+00:00",
-      "published_human": "2025-12-13T01:06",
       "source": "https://5th.ro/"
     }
   ],
