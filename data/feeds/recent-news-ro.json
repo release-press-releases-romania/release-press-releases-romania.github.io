@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@recent_news",
     "rss": "https://social.5th.ro/@recent_news.rss"
   },
-  "updated_at": "2026-04-17T09:50:55.598121+00:00",
+  "updated_at": "2026-04-17T11:15:28.204614+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Torturi de nuntă și candy bar în 2026",
+      "link": "https://recent-news.ro/torturi-de-nunta-si-candy-bar-in-2026/",
+      "summary": "Sezonul de nunți 2026 se anunță mai creativ, mai personal și mai atent la detalii ca niciodată. Cuplurile nu mai&#8230; Articolul Torturi de nuntă și candy bar în 2026 apare prima dată în Recent News .",
+      "published": "2026-04-17T08:06:04+00:00",
+      "published_human": "2026-04-17T08:06",
+      "source": "https://recent-news.ro/"
+    },
     {
       "title": "Vrei să începi în videochat în Iași? Află pe Forumvideochat.ro ce nu îți spun reclamele Viva Diva!",
       "link": "https://recent-news.ro/vrei-sa-incepi-in-videochat-in-iasi-afla-pe-forumvideochat-ro-ce-nu-iti-spun-reclamele-viva-diva/",
@@ -84,17 +92,17 @@
       "published": "2026-02-02T05:59:33+00:00",
       "published_human": "2026-02-02T05:59",
       "source": "https://recent-news.ro/"
-    },
-    {
-      "title": "Ghid: cum îți faci cont pe Mastodon România pas cu pas",
-      "link": "https://recent-news.ro/ghid-cum-iti-faci-cont-pe-mastodon-romania-pas-cu-pas/",
-      "summary": "Sunteți obosit de algoritmii care decid ce merită să vedeți? Vă simțiți urmărit la fiecare click și manipulat de știri&#8230; Articolul Ghid: cum îți faci cont pe Mastodon România pas cu pas apare prima dată în Recent News .",
-      "published": "2025-12-17T16:58:54+00:00",
-      "published_human": "2025-12-17T16:58",
-      "source": "https://recent-news.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@recent_news/116419726408311330",
+      "summary": "Sezonul de nunți 2026 se anunță mai creativ, mai personal și mai atent la detalii ca niciodată. Cuplurile nu mai caută doar un tort de nuntă frumos, ci o experiență completă – iar aici intervin elemente esențiale precum tortul de nuntă personalizat și candy bar-ul pentru eveniment. Brandul Mai Mult Decât Un Dulce vine în… https:// recent-news.ro/torturi-de-nunt a-si-candy-bar-in-2026/",
+      "published": "2026-04-17T11:07:27+00:00",
+      "published_human": "2026-04-17T11:07",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@recent_news/116324542548151833",
@@ -181,14 +189,6 @@
       "summary": "Revelionul înseamnă mese festive, întâlniri cu prietenii și seri care se prelungesc mult după miezul nopții, iar gustările joacă un rol tot mai important în completarea meniului clasic. Pentru cei care caută alternative ușor de servit și potrivite pentru preferințe diferite, Mixit propune selecția „Gustări festive” – o colecție de texturi crocante și… https:// recent-news.ro/mixit-aduce-gus tari-festive-pentru-petrecerea-de-revelion/",
       "published": "2025-12-17T09:31:28+00:00",
       "published_human": "2025-12-17T09:31",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@recent_news/115695156734789813",
-      "summary": "https:// recent-news.ro/oameni-destine- emotie-adela-hanafi-a-lansat-podcastul-povesti-nespuse-cu-adela/",
-      "published": "2025-12-10T11:59:52+00:00",
-      "published_human": "2025-12-10T11:59",
       "source": "Mastodon"
     }
   ]

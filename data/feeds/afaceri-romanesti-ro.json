@@ -7,7 +7,7 @@
     "rss": "https://afaceri-romanesti.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-04-17T09:50:55.598121+00:00",
+  "updated_at": "2026-04-17T11:15:28.204614+00:00",
   "status": "ok",
   "items": [
     {
@@ -16,6 +16,14 @@
       "summary": "Căutarea unei locuințe este, pentru multe persoane, un proces care necesită timp, răbdare și multă documentare. Fie că vorbim despre cumpărarea unui apartament sau despre găsirea unei locuințe pentru &#238;nchiriere, decizia finală [&#8230;] Articolul Cum să găsești rapid locuința potrivită folosind o platformă imobiliară modernă apare prima dată în Afaceri Romanesti .",
       "published": "2026-04-17T09:44:00+00:00",
       "published_human": "2026-04-17T09:44",
+      "source": "https://afaceri-romanesti.ro/"
+    },
+    {
+      "title": "S-a deschis băcănia „Mai Mult Decât Tradiție” în Pantelimon – produse autentice, aproape de tine",
+      "link": "https://afaceri-romanesti.ro/s-a-deschis-bacania-mai-mult-decat-traditie-in-pantelimon-produse-autentice-aproape-de-tine/",
+      "summary": "La începutul lunii aprilie, în București, a avut loc deschiderea unei noi locații dedicate gustului autentic românesc: băcănia „Mai Mult Decât Tradiție”, situată pe Șoseaua Pantelimon nr. 243. Această deschidere marchează un [&#8230;] Articolul S-a deschis băcănia „Mai Mult Decât Tradiție” în Pantelimon – produse autentice, aproape de tine apare prima dată în Afaceri Romanesti .",
+      "published": "2026-04-17T07:59:36+00:00",
+      "published_human": "2026-04-17T07:59",
       "source": "https://afaceri-romanesti.ro/"
     },
     {
@@ -80,14 +88,6 @@
       "summary": "S-a săturat site-ul tău WordPress să fie un simplu siloz de conținut, ignorat de algoritmii rețelelor sociale mari? Vrei să îți păstrezi audiența, controlul datelor și libertatea de exprimare? Această frustrare este [&#8230;] Articolul Mastodon WordPress: cum conectezi site-ul la Fediverse apare prima dată în Afaceri Romanesti .",
       "published": "2025-12-17T16:58:54+00:00",
       "published_human": "2025-12-17T16:58",
-      "source": "https://afaceri-romanesti.ro/"
-    },
-    {
-      "title": "Detergentii fara inalbitori optici. Alegerea sigura, pentru piele sensibila",
-      "link": "https://afaceri-romanesti.ro/detergentii-fara-inalbitori-optici-alegerea-sigura-pentru-piele-sensibila/",
-      "summary": "Spalarea rufelor este o necesitate cotidiana in orice gospodarie, insa pentru cei cu piele sensibila sau alergii, alegerea detergentului potrivit poate face diferenta intre confort si iritatii. Detergentii traditionali contin adesea inalbitori [&#8230;] Articolul Detergentii fara inalbitori optici. Alegerea sigura, pentru piele sensibila apare prima dată în Afaceri Romanesti .",
-      "published": "2025-12-16T08:46:12+00:00",
-      "published_human": "2025-12-16T08:46",
       "source": "https://afaceri-romanesti.ro/"
     }
   ],
