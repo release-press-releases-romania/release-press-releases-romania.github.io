@@ -4,13 +4,13 @@
     "name": "Cutremurul",
     "url": "https://cutremurul.ro/",
     "category": "Miscellaneous",
-    "rss": "https://cutremurul.ro/feed/rss/"
+    "rss": "https://cutremurul.ro/feed/"
   },
   "mastodon": {
     "url": "https://social.5th.ro/@cutremur",
     "rss": "https://social.5th.ro/@cutremur.rss"
   },
-  "updated_at": "2026-04-18T03:32:29.680463+00:00",
+  "updated_at": "2026-04-18T05:53:40.014466+00:00",
   "status": "ok",
   "items": [
     {
