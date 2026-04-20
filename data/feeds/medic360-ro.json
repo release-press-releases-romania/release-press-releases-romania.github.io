@@ -4,10 +4,10 @@
     "name": "Medic360",
     "url": "https://medic360.ro/",
     "category": "Health",
-    "rss": "https://medic360.ro/?feed=rss2"
+    "rss": "https://medic360.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-04-20T17:32:36.620681+00:00",
+  "updated_at": "2026-04-20T19:37:06.322005+00:00",
   "status": "ok",
   "items": [
     {
