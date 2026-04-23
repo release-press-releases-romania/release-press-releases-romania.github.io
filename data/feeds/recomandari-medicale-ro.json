@@ -7,9 +7,17 @@
     "rss": "https://recomandari-medicale.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-04-23T08:14:35.006196+00:00",
+  "updated_at": "2026-04-23T09:59:59.557137+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Scrisoare deschisă privind accesul pacienților oncologici la servicii de radioterapie și utilizarea capacităților disponibile",
+      "link": "https://recomandari-medicale.ro/scrisoare-deschisa-privind-accesul-pacientilor-oncologici-la-servicii-de-radioterapie-si-utilizarea-capacitatilor-disponibile/",
+      "summary": "Către: Ministerul Sanatatii Casa Națională de Asigurări de Sănătate Stimate Domnule Ministru / Secretar De Stat, Dr. Stela Firu Stimate&#8230; Articolul Scrisoare deschisă privind accesul pacienților oncologici la servicii de radioterapie și utilizarea capacităților disponibile apare prima dată în Recomandari Medicale .",
+      "published": "2026-04-23T06:13:29+00:00",
+      "published_human": "2026-04-23T06:13",
+      "source": "https://recomandari-medicale.ro/"
+    },
     {
       "title": "Consumabile de bază necesare pentru funcționarea eficientă a unui laborator de analize",
       "link": "https://recomandari-medicale.ro/consumabile-de-baza-necesare-pentru-functionarea-eficienta-a-unui-laborator-de-analize/",
@@ -96,14 +104,6 @@
       "summary": "Sarcina este o calatorie fiziologica remarcabila, caracterizata prin schimbari metabolice si nutritionale profunde. Printre numeroasele elemente esentiale care sustin aceasta&#8230; Articolul Rolul vital al fierului in perioada sarcinii: Cum sa previi anemia si sa asiguri dezvoltarea optima a bebelusului apare prima dată în Recomandari Medicale .",
       "published": "2026-02-10T19:02:31+00:00",
       "published_human": "2026-02-10T19:02",
-      "source": "https://recomandari-medicale.ro/"
-    },
-    {
-      "title": "Află Cum TUDCA NAC Îți Poate Schimba Viața!",
-      "link": "https://recomandari-medicale.ro/afla-cum-tudca-nac-iti-poate-schimba-viata/",
-      "summary": "TUDCA NAC combină acid tauroursodeoxicolic și N-acetilcisteină pentru protecție hepatică maximă și detoxifiere celulară. Ghid complet 2026 cu dozaj și beneficii Articolul Află Cum TUDCA NAC Îți Poate Schimba Viața! apare prima dată în Recomandari Medicale .",
-      "published": "2026-01-28T07:36:20+00:00",
-      "published_human": "2026-01-28T07:36",
       "source": "https://recomandari-medicale.ro/"
     }
   ],

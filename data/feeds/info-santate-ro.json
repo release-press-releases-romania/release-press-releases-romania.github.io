@@ -7,9 +7,17 @@
     "rss": "https://info-santate.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-04-23T08:14:35.006196+00:00",
+  "updated_at": "2026-04-23T09:59:59.557137+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Scrisoare deschisă privind accesul pacienților oncologici la servicii de radioterapie și utilizarea capacităților disponibile",
+      "link": "https://info-santate.ro/scrisoare-deschisa-privind-accesul-pacientilor-oncologici-la-servicii-de-radioterapie-si-utilizarea-capacitatilor-disponibile/",
+      "summary": "Către: Ministerul Sanatatii Casa Națională de Asigurări de Sănătate Stimate Domnule Ministru / Secretar De Stat, Dr. Stela Firu Stimate&#8230; Articolul Scrisoare deschisă privind accesul pacienților oncologici la servicii de radioterapie și utilizarea capacităților disponibile apare prima dată în Info Sanatate .",
+      "published": "2026-04-23T06:09:15+00:00",
+      "published_human": "2026-04-23T06:09",
+      "source": "https://info-santate.ro/"
+    },
     {
       "title": "Mixit lansează colecția de Paște 2026 – cadouri inspirate",
       "link": "https://info-santate.ro/mixit-lanseaza-colectia-de-paste-2026-cadouri-inspirate/",
@@ -72,14 +80,6 @@
       "summary": "Introducere: Arta de a Construi o Narațiune Amplă pe Mastodon V-ați simțit vreodată limitați de spațiul restrâns pe platformele sociale&#8230; Articolul Thread-uri pe Mastodon: cum spui o poveste în mai multe postări apare prima dată în Info Sanatate .",
       "published": "2025-12-17T16:58:54+00:00",
       "published_human": "2025-12-17T16:58",
-      "source": "https://info-santate.ro/"
-    },
-    {
-      "title": "De ce au nevoie gravidele de DHA Omega-3. Cum te ajuta Oligobs Prenatal cu Omega 3",
-      "link": "https://info-santate.ro/de-ce-au-nevoie-gravidele-de-dha-omega-3-cum-te-ajuta-oligobs-prenatal-cu-omega-3/",
-      "summary": "Sarcina este una dintre cele mai intense si pline de transformari perioade din viata unei femei. Corpul se adapteaza continuu,&#8230; Articolul De ce au nevoie gravidele de DHA Omega-3. Cum te ajuta Oligobs Prenatal cu Omega 3 apare prima dată în Info Sanatate .",
-      "published": "2025-12-15T15:23:21+00:00",
-      "published_human": "2025-12-15T15:23",
       "source": "https://info-santate.ro/"
     }
   ],

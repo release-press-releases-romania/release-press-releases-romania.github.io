@@ -7,9 +7,17 @@
     "rss": "https://stiri-medicale.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-04-23T08:14:35.006196+00:00",
+  "updated_at": "2026-04-23T09:59:59.557137+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Scrisoare deschisă privind accesul pacienților oncologici la servicii de radioterapie și utilizarea capacităților disponibile",
+      "link": "https://stiri-medicale.ro/scrisoare-deschisa-privind-accesul-pacientilor-oncologici-la-servicii-de-radioterapie-si-utilizarea-capacitatilor-disponibile/",
+      "summary": "Către: Ministerul Sanatatii Casa Națională de Asigurări de Sănătate Stimate Domnule Ministru / Secretar De Stat, Dr. Stela Firu Stimate&#8230; Articolul Scrisoare deschisă privind accesul pacienților oncologici la servicii de radioterapie și utilizarea capacităților disponibile apare prima dată în Stiri Medicale .",
+      "published": "2026-04-22T08:55:00+00:00",
+      "published_human": "2026-04-22T08:55",
+      "source": "https://stiri-medicale.ro/"
+    },
     {
       "title": "Masterclass International: chirurgia robotica si laparoscopica in tratamentul herniilor inghinal",
       "link": "https://stiri-medicale.ro/masterclass-international-chirurgia-robotica-si-laparoscopica-in-tratamentul-herniilor-inghinal/",
@@ -96,14 +104,6 @@
       "summary": "Introducere: De Ce Comunicatul de Presă nu mai este doar o Știre? Atenție: Vă amintiți de perioada în care comunicatele&#8230; Articolul 2025: comunicate de presă cu call-to-action clar pentru potențiali clienți apare prima dată în Stiri Medicale .",
       "published": "2025-12-01T12:07:49+00:00",
       "published_human": "2025-12-01T12:07",
-      "source": "https://stiri-medicale.ro/"
-    },
-    {
-      "title": "Program VIP pentru jucători de păcănele: cum funcționează recompensele",
-      "link": "https://stiri-medicale.ro/program-vip-pentru-jucatori-de-pacanele-cum-functioneaza-recompensele/",
-      "summary": "Te-ai întrebat vreodată cum reușesc cei mai constanți jucători să obțină beneficii suplimentare la cazinourile online? Răspunsul stă în sistemul&#8230; Articolul Program VIP pentru jucători de păcănele: cum funcționează recompensele apare prima dată în Stiri Medicale .",
-      "published": "2025-11-15T10:03:28+00:00",
-      "published_human": "2025-11-15T10:03",
       "source": "https://stiri-medicale.ro/"
     }
   ],
