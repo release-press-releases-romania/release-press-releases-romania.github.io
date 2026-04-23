@@ -7,9 +7,17 @@
     "rss": "https://networkinghub.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-04-23T06:19:28.728791+00:00",
+  "updated_at": "2026-04-23T08:14:35.006196+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Productivitatea la Birou și Cafeaua: Ce Arată Studiile și Ce Poți Face Concret",
+      "link": "https://networkinghub.ro/productivitatea-la-birou-si-cafeaua-ce-arata-studiile-si-ce-poti-face-concret/",
+      "summary": "Testează un espressor cafea în custodie la birou! Echipament profesional gratuit, cafea proaspăt prăjită și mentenanță inclusă. Fără costuri ascunse. Articolul Productivitatea la Birou și Cafeaua: Ce Arată Studiile și Ce Poți Face Concret apare prima dată în Networking Hub .",
+      "published": "2026-04-22T15:27:45+00:00",
+      "published_human": "2026-04-22T15:27",
+      "source": "https://networkinghub.ro/"
+    },
     {
       "title": "Cum arată viitorul caselor smart",
       "link": "https://networkinghub.ro/cum-arata-viitorul-caselor-smart/",
@@ -96,14 +104,6 @@
       "summary": "Ce este un clampmetru digital? Un clampmetru digital (sau cleste ampermetric) este un instrument care... Articolul Nu Doar Amperi: Functiile Ascunse ale unui Clampmetru Digital pe Care Nu Le Stiai apare prima dată în Networking Hub .",
       "published": "2025-12-15T15:24:58+00:00",
       "published_human": "2025-12-15T15:24",
-      "source": "https://networkinghub.ro/"
-    },
-    {
-      "title": "Cum optimizezi încălzirea locuinței cu ajutorul senzorilor",
-      "link": "https://networkinghub.ro/cum-optimizezi-incalzirea-locuintei-cu-ajutorul-senzorilor/",
-      "summary": "Optimizarea încălzirii devine mai simplă atunci când sunt folosiți senzori care analizează mediul și adaptează... Articolul Cum optimizezi încălzirea locuinței cu ajutorul senzorilor apare prima dată în Networking Hub .",
-      "published": "2025-12-12T10:03:00+00:00",
-      "published_human": "2025-12-12T10:03",
       "source": "https://networkinghub.ro/"
     }
   ],
