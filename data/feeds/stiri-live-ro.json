@@ -7,9 +7,17 @@
     "rss": "https://stiri-live.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-04-25T15:58:52.183113+00:00",
+  "updated_at": "2026-04-25T17:04:14.532698+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Gard din șipcă metalică: costuri, montaj, întreținere",
+      "link": "https://stiri-live.ro/gard-din-sipca-metalica-costuri-montaj-intretinere/",
+      "summary": "Un gard bine ales protejează proprietatea, oferă intimitate și completează aspectul casei. Din acest motiv, tot mai mulți proprietari. Articolul Gard din șipcă metalică: costuri, montaj, întreținere apare prima dată în Stiri Live .",
+      "published": "2026-04-25T16:12:49+00:00",
+      "published_human": "2026-04-25T16:12",
+      "source": "https://stiri-live.ro/"
+    },
     {
       "title": "Contorul electric monofazat, mic aparat cu rol uriaș în gospodăriile românești",
       "link": "https://stiri-live.ro/contorul-electric-monofazat-mic-aparat-cu-rol-urias-in-gospodariile-romanesti/",
@@ -96,14 +104,6 @@
       "summary": "ROMANIAN ENERGY WEEK 2025: 5 zile de dezbateri, 5 teme vitale pentru energie Palatul Parlamentului găzduiește &#238;ntre 17 și. Articolul ROMANIAN ENERGY WEEK 2025 apare prima dată în Stiri Live .",
       "published": "2025-11-18T07:22:57+00:00",
       "published_human": "2025-11-18T07:22",
-      "source": "https://stiri-live.ro/"
-    },
-    {
-      "title": "Cum îți urmărești istoricul de joc la păcănele și tragi concluzii sănătoase",
-      "link": "https://stiri-live.ro/cum-iti-urmaresti-istoricul-de-joc-la-pacanele-si-tragi-concluzii-sanatoase/",
-      "summary": "Mulți jucători se confruntă cu aceeași problemă: banii dispar mai repede decât și-ar dori, iar senzația de a pierde. Articolul Cum îți urmărești istoricul de joc la păcănele și tragi concluzii sănătoase apare prima dată în Stiri Live .",
-      "published": "2025-11-15T10:03:28+00:00",
-      "published_human": "2025-11-15T10:03",
       "source": "https://stiri-live.ro/"
     }
   ],
