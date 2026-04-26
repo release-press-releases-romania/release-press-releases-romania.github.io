@@ -5,8 +5,8 @@
     <link>https://release-press-releases-romania.github.io</link>
     <description>Aggregated RSS feed of press releases from over 100 Romanian publishers. Covering PR &amp; Marketing, Health, News &amp; Society, Technology, Business, Construction, Tourism, and more. Curated selection of quality press releases from trusted Romanian sources.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Apr 2026 07:19:25 +0000</lastBuildDate>
-    <pubDate>Sun, 26 Apr 2026 07:19:25 +0000</pubDate>
+    <lastBuildDate>Sun, 26 Apr 2026 12:46:15 +0000</lastBuildDate>
+    <pubDate>Sun, 26 Apr 2026 12:46:15 +0000</pubDate>
     <generator>Release Press Releases in Romania RSS Aggregator v2.0</generator>
     <webMaster>noreply@release-press-releases-romania.github.io (Release Press Releases)</webMaster>
     <managingEditor>noreply@release-press-releases-romania.github.io (Release Press Releases)</managingEditor>
@@ -28,6 +28,20 @@
     <sy:updateFrequency>1</sy:updateFrequency>
     <copyright>Copyright 2026 Release Press Releases in Romania. Content belongs to respective publishers.</copyright>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Rulmenți: ghid de identificare după cod, dimensiuni și utilizare (industriale și auto)</title>
+      <link>https://oltenia-news.ro/rulmenti-ghid-de-identificare-dupa-cod-dimensiuni-si-utilizare-industriale-si-auto/</link>
+      <description><![CDATA[From Oltenia News: Identificarea corectă a unui rulment pare simplă doar până în momentul în care trebuie să înlocuiești unul uzat și descoperi că marcajul este șters, dimensiunile nu sunt notate nicăieri, iar aplicația în care lucrează are condiții speciale. În practică, mulți utilizatori pornesc de la ideea că orice rulment „de aceeași mărime” ar trebui să funcționeze. Realitatea este mai nuanțată. Codul, seria...]]></description>
+      <pubDate>Sun, 26 Apr 2026 09:25:35 +0000</pubDate>
+      <author>Oltenia News (https://release-press-releases-romania.github.io/publisher/oltenia-news-ro/)</author>
+      <dc:creator>Oltenia News</dc:creator>
+      <dc:date>2026-04-26T09:25:35+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">News &amp; Society</category>
+      <guid isPermaLink="true">https://oltenia-news.ro/rulmenti-ghid-de-identificare-dupa-cod-dimensiuni-si-utilizare-industriale-si-auto/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/oltenia-news-ro/">Oltenia News</source>
+      <content:encoded><![CDATA[From Oltenia News: Identificarea corectă a unui rulment pare simplă doar până în momentul în care trebuie să înlocuiești unul uzat și descoperi că marcajul este șters, dimensiunile nu sunt notate nicăieri, iar aplicația în care lucrează are condiții speciale. În practică, mulți utilizatori pornesc de la ideea că orice rulment „de aceeași mărime” ar trebui să funcționeze. Realitatea este mai nuanțată. Codul, seria...]]></content:encoded>
+      <comments>https://oltenia-news.ro/rulmenti-ghid-de-identificare-dupa-cod-dimensiuni-si-utilizare-industriale-si-auto/#comments</comments>
+    </item>
     <item>
       <title>Gard din șipcă metalică: costuri, montaj, întreținere</title>
       <link>https://stiri-live.ro/gard-din-sipca-metalica-costuri-montaj-intretinere/</link>
@@ -2043,20 +2057,6 @@
       <source url="https://release-press-releases-romania.github.io/publisher/iasi-azi-ro/">Iasi Azi</source>
       <content:encoded><![CDATA[From Iasi Azi: Atenție: Observați o scădere constantă a vizibilității în căutările locale, chiar dacă serviciile sau produsele dumneavoastră sunt superioare? Vă confruntați cu o concurență acerbă în orașul dumneavoastră, iar metodele clasice de promovare nu mai dau rezultatele așteptate? Interes: În peisajul digital actual, simpla prezență online nu mai este suficientă. Căutările bazate pe intenție și proximi...]]></content:encoded>
       <comments>https://iasi-azi.ro/2025-advertoriale-pentru-seo-local-si-cum-atragi-clienti-din-orasul-tau/#comments</comments>
-    </item>
-    <item>
-      <title>2025: comunicate de presă pentru startup-uri cu buget limitat</title>
-      <link>https://oltenia-news.ro/2025-comunicate-de-presa-pentru-startup-uri-cu-buget-limitat/</link>
-      <description><![CDATA[From Oltenia News: Sunteți un startup promițător, gata să schimbați regulile jocului, dar bugetul de marketing este aproape inexistent? Competiția este acerbă. Fără expunere eficientă, nimeni nu va afla despre inovația pe care o aduceți. Mulți antreprenori cred că relațiile publice (PR) necesită mii de euro. Aceasta este o eroare comună. Soluția nu este să cheltuiți o avere pe agenții scumpe. Aveți nevoie de o st...]]></description>
-      <pubDate>Mon, 01 Dec 2025 12:07:49 +0000</pubDate>
-      <author>Oltenia News (https://release-press-releases-romania.github.io/publisher/oltenia-news-ro/)</author>
-      <dc:creator>Oltenia News</dc:creator>
-      <dc:date>2025-12-01T12:07:49+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">News &amp; Society</category>
-      <guid isPermaLink="true">https://oltenia-news.ro/2025-comunicate-de-presa-pentru-startup-uri-cu-buget-limitat/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/oltenia-news-ro/">Oltenia News</source>
-      <content:encoded><![CDATA[From Oltenia News: Sunteți un startup promițător, gata să schimbați regulile jocului, dar bugetul de marketing este aproape inexistent? Competiția este acerbă. Fără expunere eficientă, nimeni nu va afla despre inovația pe care o aduceți. Mulți antreprenori cred că relațiile publice (PR) necesită mii de euro. Aceasta este o eroare comună. Soluția nu este să cheltuiți o avere pe agenții scumpe. Aveți nevoie de o st...]]></content:encoded>
-      <comments>https://oltenia-news.ro/2025-comunicate-de-presa-pentru-startup-uri-cu-buget-limitat/#comments</comments>
     </item>
     <item>
       <title>2025: advertoriale pentru lansări de produse și servicii noi</title>
