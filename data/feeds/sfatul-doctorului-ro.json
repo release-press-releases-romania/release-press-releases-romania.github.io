@@ -7,9 +7,17 @@
     "rss": "https://sfatul-doctorului.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-04-27T12:01:32.669507+00:00",
+  "updated_at": "2026-04-27T14:30:54.064719+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Când comportamentul copilului ridică semne de întrebare: rolul psihiatriei pediatrice",
+      "link": "https://sfatul-doctorului.ro/cand-comportamentul-copilului-ridica-semne-de-intrebare-rolul-psihiatriei-pediatrice/",
+      "summary": "Observi că micuțul tău este mai agresiv decât alți copii de vârsta lui, nu doarme bine, are frici intense care nu dispar, refuză să meargă la școală și are crize emoționale care depășesc orice ai mai văzut la alți copii. Întrebarea firească este dacă e nevoie de un specialist sau mai poți aștepta. Psihiatria pediatrică [&#8230;] Articolul Când comportamentul copilului ridică semne de întrebare: rolul psihiatriei pediatrice apare prima dată în Sfatul Doctorului .",
+      "published": "2026-04-27T14:21:17+00:00",
+      "published_human": "2026-04-27T14:21",
+      "source": "https://sfatul-doctorului.ro/"
+    },
     {
       "title": "Scrisoare deschisă privind accesul pacienților oncologici la servicii de radioterapie și utilizarea capacităților disponibile",
       "link": "https://sfatul-doctorului.ro/scrisoare-deschisa-privind-accesul-pacientilor-oncologici-la-servicii-de-radioterapie-si-utilizarea-capacitatilor-disponibile/",
@@ -72,14 +80,6 @@
       "summary": "Punctele negre sunt una dintre cele mai comune și frustrante probleme ale pielii. Indiferent de vârstă sau tipul tenului, aceste mici imperfecțiuni pot afecta aspectul general al feței și pot reduce încrederea în sine. Vestea bună este că există soluții moderne, eficiente și mult mai blânde decât metodele clasice de stoarcere sau scruburile abrazive. Avem [&#8230;] Articolul Adevărul despre punctele negre: Cum să îți recapeți luminozitatea tenului cu un tratament care chiar funcționează apare prima dată în Sfatul Doctorului .",
       "published": "2025-12-17T08:31:12+00:00",
       "published_human": "2025-12-17T08:31",
-      "source": "https://sfatul-doctorului.ro/"
-    },
-    {
-      "title": "În ce săptămână dispar simptomele neplăcute ale primului trimestru?",
-      "link": "https://sfatul-doctorului.ro/in-ce-saptamana-dispar-simptomele-neplacute-ale-primului-trimestru/",
-      "summary": "Sarcina este adesea descrisă în termeni magici: o perioadă de strălucire, anticipare și bucurie pură. Totuși, realitatea primelor săptămâni poate fi complet diferită pentru multe viitoare mămici. Trezitul cu o stare de rău persistentă, aversiunea față de alimentele preferate și oboseala copleșitoare sunt &#8222;oaspeții nepoftiți&#8221; ai primului trimestru. Dacă citești acest articol, probabil că te [&#8230;] Articolul În ce săptămână dispar simptomele neplăcute ale primului trimestru? apare prima dată în Sfatul Doctorului .",
-      "published": "2025-12-05T16:47:50+00:00",
-      "published_human": "2025-12-05T16:47",
       "source": "https://sfatul-doctorului.ro/"
     }
   ],
