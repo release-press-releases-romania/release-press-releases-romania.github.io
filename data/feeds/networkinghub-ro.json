@@ -7,9 +7,17 @@
     "rss": "https://networkinghub.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-04-27T04:02:56.466617+00:00",
+  "updated_at": "2026-04-27T06:43:23.096321+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Cum funcționează căștile wireless pe mai multe dispozitive simultan?",
+      "link": "https://networkinghub.ro/cum-functioneaza-castile-wireless-pe-mai-multe-dispozitive-simultan/",
+      "summary": "Căștile wireless pot funcționa pe mai multe dispozitive simultan prin tehnologii precum multipoint sau comutare... Articolul Cum funcționează căștile wireless pe mai multe dispozitive simultan? apare prima dată în Networking Hub .",
+      "published": "2026-04-25T05:39:00+00:00",
+      "published_human": "2026-04-25T05:39",
+      "source": "https://networkinghub.ro/"
+    },
     {
       "title": "Productivitatea la Birou și Cafeaua: Ce Arată Studiile și Ce Poți Face Concret",
       "link": "https://networkinghub.ro/productivitatea-la-birou-si-cafeaua-ce-arata-studiile-si-ce-poti-face-concret/",
@@ -96,14 +104,6 @@
       "summary": "Te-ai săturat de algoritmii opaci care decid ce știri ajung la publicul tău? Ești frustrat... Articolul Mastodon pentru jurnaliști: distribuție, surse și conversații apare prima dată în Networking Hub .",
       "published": "2025-12-17T16:58:54+00:00",
       "published_human": "2025-12-17T16:58",
-      "source": "https://networkinghub.ro/"
-    },
-    {
-      "title": "Nu Doar Amperi: Functiile Ascunse ale unui Clampmetru Digital pe Care Nu Le Stiai",
-      "link": "https://networkinghub.ro/nu-doar-amperi-functiile-ascunse-ale-unui-clampmetru-digital-pe-care-nu-le-stiai/",
-      "summary": "Ce este un clampmetru digital? Un clampmetru digital (sau cleste ampermetric) este un instrument care... Articolul Nu Doar Amperi: Functiile Ascunse ale unui Clampmetru Digital pe Care Nu Le Stiai apare prima dată în Networking Hub .",
-      "published": "2025-12-15T15:24:58+00:00",
-      "published_human": "2025-12-15T15:24",
       "source": "https://networkinghub.ro/"
     }
   ],
