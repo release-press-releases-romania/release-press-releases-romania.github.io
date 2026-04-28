@@ -7,9 +7,17 @@
     "rss": "https://medic360.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-04-28T04:09:49.564608+00:00",
+  "updated_at": "2026-04-28T07:10:32.006271+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Cum funcționează monitorizarea stresului pe smartwatch?",
+      "link": "https://medic360.ro/cum-functioneaza-monitorizarea-stresului-pe-smartwatch/",
+      "summary": "Monitorizarea stresului pe smartwatch funcționează prin analizarea ritmului cardiac și a variațiilor acestuia (HRV), folosind senzori și algoritmi inteligenți, iar&#8230; Articolul Cum funcționează monitorizarea stresului pe smartwatch? apare prima dată în Medic 360 .",
+      "published": "2026-04-25T06:57:00+00:00",
+      "published_human": "2026-04-25T06:57",
+      "source": "https://medic360.ro/"
+    },
     {
       "title": "Tehnologie cu suflet: Asociatia CONIL a facut pasul spre digitalizare prin PNRR pentru a fi mai aproape de copiii cu nevoi speciale",
       "link": "https://medic360.ro/tehnologie-cu-suflet-asociatia-conil-a-facut-pasul-spre-digitalizare-prin-pnrr-pentru-a-fi-mai-aproape-de-copiii-cu-nevoi-speciale/",
@@ -72,14 +80,6 @@
       "summary": "V-ați simțit vreodată copleșiți de toxicitatea și zgomotul constant al rețelelor sociale centralizate? Mulți utilizatori caută alternative care să le&#8230; Articolul Blocare, silențiere, raportare: instrumentele de siguranță pe Mastodon apare prima dată în Medic 360 .",
       "published": "2025-12-17T16:58:54+00:00",
       "published_human": "2025-12-17T16:58",
-      "source": "https://medic360.ro/"
-    },
-    {
-      "title": "Salteaua – suportul esențial pentru un somn cu adevărat sănătos",
-      "link": "https://medic360.ro/salteaua-suportul-esential-pentru-un-somn-cu-adevarat-sanatos/",
-      "summary": "Somnul influențează fiecare funcție a organismului, de la energie și concentrare, până la imunitate și echilibru emoțional. În centrul acestui&#8230; Articolul Salteaua – suportul esențial pentru un somn cu adevărat sănătos apare prima dată în Medic 360 .",
-      "published": "2025-12-09T23:40:23+00:00",
-      "published_human": "2025-12-09T23:40",
       "source": "https://medic360.ro/"
     }
   ],

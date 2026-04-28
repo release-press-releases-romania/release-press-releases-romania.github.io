@@ -7,9 +7,17 @@
     "rss": "https://nutritie-sanatate.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-04-28T04:09:49.564608+00:00",
+  "updated_at": "2026-04-28T07:10:32.006271+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Ce smartwatch te ajută să dormi și să te recuperezi mai bine?",
+      "link": "https://nutritie-sanatate.ro/ce-smartwatch-te-ajuta-sa-dormi-si-sa-te-recuperezi-mai-bine/",
+      "summary": "Un smartwatch care te ajută să dormi și să te recuperezi mai bine este cel... Articolul Ce smartwatch te ajută să dormi și să te recuperezi mai bine? apare prima dată în Nutritie &amp; Sanatate .",
+      "published": "2026-04-28T07:02:00+00:00",
+      "published_human": "2026-04-28T07:02",
+      "source": "https://nutritie-sanatate.ro/"
+    },
     {
       "title": "Rolul vitaminelor și mineralelor în menținerea echilibrului organismului",
       "link": "https://nutritie-sanatate.ro/rolul-vitaminelor-si-mineralelor-in-mentinerea-echilibrului-organismului/",
@@ -96,14 +104,6 @@
       "summary": "Magneziu lichid &#8211; de ce este important pentru sănătate De ce este esenţial magneziul Magneziul... Articolul Magneziu lichid – de ce este important pentru sănătate apare prima dată în Nutritie &amp; Sanatate .",
       "published": "2025-09-11T12:18:33+00:00",
       "published_human": "2025-09-11T12:18",
-      "source": "https://nutritie-sanatate.ro/"
-    },
-    {
-      "title": "Smart home la renovare: cablare și scenarii de bază",
-      "link": "https://nutritie-sanatate.ro/smart-home-la-renovare-cablare-si-scenarii-de-baza/",
-      "summary": "Vrei o casă mai inteligentă, mai confortabilă și mai eficientă energetic? Îți dorești automatizare, dar... Articolul Smart home la renovare: cablare și scenarii de bază apare prima dată în Nutritie &amp; Sanatate .",
-      "published": "2025-09-03T22:13:42+00:00",
-      "published_human": "2025-09-03T22:13",
       "source": "https://nutritie-sanatate.ro/"
     }
   ],
