@@ -7,9 +7,17 @@
     "rss": "https://irezidential.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-04-28T07:10:32.006271+00:00",
+  "updated_at": "2026-04-28T09:37:14.672762+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Modernizarea unui hidrofor vechi: cum actualizezi sistemul fără să-l refaci complet",
+      "link": "https://irezidential.ro/2026/04/28/modernizarea-unui-hidrofor-vechi-cum-actualizezi-sistemul-fara-sa-l-refaci-complet/",
+      "summary": "Mulți români se regăsesc, la un moment dat, în poziția de a prelua o casă construită acum 20-30 de ani&#8230; Articolul Modernizarea unui hidrofor vechi: cum actualizezi sistemul fără să-l refaci complet apare prima dată în Complex Rezidential .",
+      "published": "2026-04-28T07:38:48+00:00",
+      "published_human": "2026-04-28T07:38",
+      "source": "https://irezidential.ro/"
+    },
     {
       "title": "Cum gestionezi notificările pe Mastodon ca să nu te copleșească",
       "link": "https://irezidential.ro/2025/12/17/cum-gestionezi-notificarile-pe-mastodon-ca-sa-nu-te-copleseasca/",
@@ -96,14 +104,6 @@
       "summary": "Iluminatul cu LED a evoluat rapid, iar una dintre componentele care fac diferența &#238;ntr-un proiect bine realizat este profilul bandă&#8230; Articolul Ce este un profil bandă LED și când merită să îl folosești? apare prima dată în Complex Rezidential .",
       "published": "2025-08-26T17:55:39+00:00",
       "published_human": "2025-08-26T17:55",
-      "source": "https://irezidential.ro/"
-    },
-    {
-      "title": "Cum evaluezi un domeniu: dincolo de DR și DA",
-      "link": "https://irezidential.ro/2025/08/14/cum-evaluezi-un-domeniu-dincolo-de-dr-si-da/",
-      "summary": "Ai investit timp și resurse într-un site web, dar rezultatele nu sunt pe măsura așteptărilor? Poate că e momentul să&#8230; Articolul Cum evaluezi un domeniu: dincolo de DR și DA apare prima dată în Complex Rezidential .",
-      "published": "2025-08-14T07:19:00+00:00",
-      "published_human": "2025-08-14T07:19",
       "source": "https://irezidential.ro/"
     }
   ],

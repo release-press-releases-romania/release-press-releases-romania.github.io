@@ -7,9 +7,17 @@
     "rss": "https://afaceri-romanesti.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-04-28T07:10:32.006271+00:00",
+  "updated_at": "2026-04-28T09:37:14.672762+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Studiile Sectoriale – instrument de analiză pentru consolidarea strategiei în business",
+      "link": "https://afaceri-romanesti.ro/studiile-sectoriale-instrument-de-analiza-pentru-consolidarea-strategiei-in-business/",
+      "summary": "Studiile sectoriale te ajută să înțelegi dinamica domeniului și a industriei în care activezi. Acestea sunt disponibile în format PDF și pot fi generate în câteva momente de pe platforma de analiză [&#8230;] Articolul Studiile Sectoriale &#8211; instrument de analiză pentru consolidarea strategiei în business apare prima dată în Afaceri Romanesti .",
+      "published": "2026-04-28T09:35:28+00:00",
+      "published_human": "2026-04-28T09:35",
+      "source": "https://afaceri-romanesti.ro/"
+    },
     {
       "title": "Cum să găsești rapid locuința potrivită folosind o platformă imobiliară modernă",
       "link": "https://afaceri-romanesti.ro/cum-sa-gasesti-rapid-locuinta-potrivita-folosind-o-platforma-imobiliara-moderna/",
@@ -80,14 +88,6 @@
       "summary": "„Dorintele” unui lant de drujba si ale utilizatorului sau, pentru anul 2026! Daca un lant de drujba ar putea gandi si vorbi, cu siguranta dorintele sale ar fi identice cu ale utilizatorului. [&#8230;] Articolul „Dorintele” unui lant de drujba si ale utilizatorului sau, pentru anul 2026! apare prima dată în Afaceri Romanesti .",
       "published": "2025-12-23T05:19:52+00:00",
       "published_human": "2025-12-23T05:19",
-      "source": "https://afaceri-romanesti.ro/"
-    },
-    {
-      "title": "Mastodon WordPress: cum conectezi site-ul la Fediverse",
-      "link": "https://afaceri-romanesti.ro/mastodon-wordpress-cum-conectezi-site-ul-la-fediverse/",
-      "summary": "S-a săturat site-ul tău WordPress să fie un simplu siloz de conținut, ignorat de algoritmii rețelelor sociale mari? Vrei să îți păstrezi audiența, controlul datelor și libertatea de exprimare? Această frustrare este [&#8230;] Articolul Mastodon WordPress: cum conectezi site-ul la Fediverse apare prima dată în Afaceri Romanesti .",
-      "published": "2025-12-17T16:58:54+00:00",
-      "published_human": "2025-12-17T16:58",
       "source": "https://afaceri-romanesti.ro/"
     }
   ],

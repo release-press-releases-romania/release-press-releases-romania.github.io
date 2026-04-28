@@ -7,7 +7,7 @@
     "rss": "https://recomandari-medicale.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-04-28T07:10:32.006271+00:00",
+  "updated_at": "2026-04-28T09:37:14.672762+00:00",
   "status": "ok",
   "items": [
     {
@@ -16,6 +16,14 @@
       "summary": "Recovery tracking la smartwatch înseamnă monitorizarea nivelului de recuperare al corpului după efort, folosind date precum ritmul cardiac, variabilitatea acestuia&#8230; Articolul Ce înseamnă recovery tracking la smartwatch? apare prima dată în Recomandari Medicale .",
       "published": "2026-04-26T06:59:00+00:00",
       "published_human": "2026-04-26T06:59",
+      "source": "https://recomandari-medicale.ro/"
+    },
+    {
+      "title": "Cum îți îmbunătățești somnul cu un smartwatch?",
+      "link": "https://recomandari-medicale.ro/cum-iti-imbunatatesti-somnul-cu-un-smartwatch/",
+      "summary": "Îți poți îmbunătăți somnul cu un smartwatch prin monitorizarea etapelor de odihnă, identificarea obiceiurilor care îți afectează rutina și aplicarea&#8230; Articolul Cum îți îmbunătățești somnul cu un smartwatch? apare prima dată în Recomandari Medicale .",
+      "published": "2026-04-25T07:14:00+00:00",
+      "published_human": "2026-04-25T07:14",
       "source": "https://recomandari-medicale.ro/"
     },
     {
@@ -96,14 +104,6 @@
       "summary": "Ce este salteaua de acupresiune și cum funcționează? Salteaua de acupresiune este un instrument care sprijină terapia durerii și relaxarea,&#8230; Articolul Saltea de acupresiune pentru dureri lombare – funcționează cu adevărat? apare prima dată în Recomandari Medicale .",
       "published": "2026-02-17T12:39:21+00:00",
       "published_human": "2026-02-17T12:39",
-      "source": "https://recomandari-medicale.ro/"
-    },
-    {
-      "title": "Vertijul la persoanele de varsta a treia – semnal de alarma, cauze frecvente si solutii pentru mentinerea echilibrului",
-      "link": "https://recomandari-medicale.ro/vertijul-la-persoanele-de-varsta-a-treia-semnal-de-alarma-cauze-frecvente-si-solutii-pentru-mentinerea-echilibrului/",
-      "summary": "Vertijul la varstnici reprezinta una dintre cele mai frecvente probleme care afecteaza calitatea vietii dupa varsta de 60–65 de ani.&#8230; Articolul Vertijul la persoanele de varsta a treia – semnal de alarma, cauze frecvente si solutii pentru mentinerea echilibrului apare prima dată în Recomandari Medicale .",
-      "published": "2026-02-10T19:10:13+00:00",
-      "published_human": "2026-02-10T19:10",
       "source": "https://recomandari-medicale.ro/"
     }
   ],
