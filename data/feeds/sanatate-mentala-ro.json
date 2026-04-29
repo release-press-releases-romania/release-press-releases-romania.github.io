@@ -7,9 +7,17 @@
     "rss": "https://sanatate-mentala.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-04-29T06:40:32.652180+00:00",
+  "updated_at": "2026-04-29T09:29:09.511524+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Ce smartwatch are cea mai bună monitorizare a somnului?",
+      "link": "https://sanatate-mentala.ro/ce-smartwatch-are-cea-mai-buna-monitorizare-a-somnului/",
+      "summary": "Cele mai bune smartwatch-uri pentru monitorizarea somnului sunt cele care pot analiza etapele somnului (REM,... Articolul Ce smartwatch are cea mai bună monitorizare a somnului? apare prima dată în Sanatate Mentala .",
+      "published": "2026-04-29T07:10:00+00:00",
+      "published_human": "2026-04-29T07:10",
+      "source": "https://sanatate-mentala.ro/"
+    },
     {
       "title": "Echilibrul mental în era vitezei: Avantajele terapiei pe termen lung",
       "link": "https://sanatate-mentala.ro/echilibrul-mental-in-era-vitezei-avantajele-terapiei-pe-termen-lung/",
@@ -96,14 +104,6 @@
       "summary": "Universul copiilor poate fi uneori greu de descifrat. Spre deosebire de adulți, care preferă să... Articolul Cum îi ajută psihoterapia pe copii să-și spună povestea apare prima dată în Sanatate Mentala .",
       "published": "2025-10-30T11:38:56+00:00",
       "published_human": "2025-10-30T11:38",
-      "source": "https://sanatate-mentala.ro/"
-    },
-    {
-      "title": "De ce relațiile instabile pot ascunde o tulburare emoțională",
-      "link": "https://sanatate-mentala.ro/de-ce-relatiile-instabile-pot-ascunde-o-tulburare-emotionala/",
-      "summary": "Orice relație are parte de suișuri și coborâșuri, însă sunt unele care se remarcă prin... Articolul De ce relațiile instabile pot ascunde o tulburare emoțională apare prima dată în Sanatate Mentala .",
-      "published": "2025-10-17T05:56:49+00:00",
-      "published_human": "2025-10-17T05:56",
       "source": "https://sanatate-mentala.ro/"
     }
   ],
