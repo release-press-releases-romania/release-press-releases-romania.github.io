@@ -7,9 +7,17 @@
     "rss": "https://stiri-medicale.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-04-29T14:34:24.721479+00:00",
+  "updated_at": "2026-04-29T16:56:35.052222+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Ce spune cu adevărat personalitatea ta despre tine",
+      "link": "https://stiri-medicale.ro/ce-spune-cu-adevarat-personalitatea-ta-despre-tine/",
+      "summary": "Probabil ai făcut cel puțin un test de personalitate în viața ta, precum MBTI, Enneagram sau altceva de pe internet&#8230; Articolul Ce spune cu adevărat personalitatea ta despre tine apare prima dată în Stiri Medicale .",
+      "published": "2026-04-29T15:56:24+00:00",
+      "published_human": "2026-04-29T15:56",
+      "source": "https://stiri-medicale.ro/"
+    },
     {
       "title": "Scrisoare deschisă privind accesul pacienților oncologici la servicii de radioterapie și utilizarea capacităților disponibile",
       "link": "https://stiri-medicale.ro/scrisoare-deschisa-privind-accesul-pacientilor-oncologici-la-servicii-de-radioterapie-si-utilizarea-capacitatilor-disponibile/",
@@ -96,14 +104,6 @@
       "summary": "Durerea de gât este unul dintre cele mai neplăcute simptome ale sezonului rece. De cele mai multe ori, nu este&#8230; Articolul Cum calmezi rapid durerile de gât supărătoare și îți recapeți confortul vocal apare prima dată în Stiri Medicale .",
       "published": "2025-12-05T07:21:46+00:00",
       "published_human": "2025-12-05T07:21",
-      "source": "https://stiri-medicale.ro/"
-    },
-    {
-      "title": "2025: comunicate de presă cu call-to-action clar pentru potențiali clienți",
-      "link": "https://stiri-medicale.ro/2025-comunicate-de-presa-cu-call-to-action-clar-pentru-potentiali-clienti/",
-      "summary": "Introducere: De Ce Comunicatul de Presă nu mai este doar o Știre? Atenție: Vă amintiți de perioada în care comunicatele&#8230; Articolul 2025: comunicate de presă cu call-to-action clar pentru potențiali clienți apare prima dată în Stiri Medicale .",
-      "published": "2025-12-01T12:07:49+00:00",
-      "published_human": "2025-12-01T12:07",
       "source": "https://stiri-medicale.ro/"
     }
   ],
