@@ -7,9 +7,17 @@
     "rss": "https://casa-moderna.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-04-29T12:00:06.748824+00:00",
+  "updated_at": "2026-04-29T14:34:24.721479+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Cum îți transformi casa într-una inteligentă?",
+      "link": "https://casa-moderna.ro/cum-iti-transformi-casa-intr-una-inteligenta/",
+      "summary": "&#206;ți transformi casa &#238;ntr-una inteligentă aleg&#226;nd dispozitive conectate, integr&#226;ndu-le &#238;ntr-un ecosistem comun și folosind o aplicație pentru control și automatizare.&#8230; Articolul Cum îți transformi casa într-una inteligentă? apare prima dată în Casa Moderna .",
+      "published": "2026-04-29T10:08:04+00:00",
+      "published_human": "2026-04-29T10:08",
+      "source": "https://casa-moderna.ro/"
+    },
     {
       "title": "De ce pornește greu motocoasa și ce rol are o bujie motocoasă",
       "link": "https://casa-moderna.ro/de-ce-porneste-greu-motocoasa-si-ce-rol-are-o-bujie-motocoasa/",
@@ -24,6 +32,14 @@
       "summary": "Un hidrofor sănătos nu e tăcut. Face zgomot — asta e natura lui. Are un motor electric, o pompă mecanică&#8230; Articolul De ce face zgomot hidroforul și când trebuie să-ți faci griji apare prima dată în Casa Moderna .",
       "published": "2026-04-28T07:39:58+00:00",
       "published_human": "2026-04-28T07:39",
+      "source": "https://casa-moderna.ro/"
+    },
+    {
+      "title": "Ce aspirator fără fir merită în 2026?",
+      "link": "https://casa-moderna.ro/ce-aspirator-fara-fir-merita-in-2026/",
+      "summary": "Un aspirator fără fir care merită &#238;n 2026 este unul cu autonomie mare, putere de aspirare ridicată și filtrare eficientă,&#8230; Articolul Ce aspirator fără fir merită în 2026? apare prima dată în Casa Moderna .",
+      "published": "2026-04-24T12:50:00+00:00",
+      "published_human": "2026-04-24T12:50",
       "source": "https://casa-moderna.ro/"
     },
     {
@@ -88,22 +104,6 @@
       "summary": "Un uscător bun se alege mai ușor dacă te uiți la câteva criterii clare. Cele mai importante sunt capacitatea, senzorii&#8230; Articolul Cum alegi un uscător potrivit: capacitate, senzori de umiditate și consum de energie apare prima dată în Casa Moderna .",
       "published": "2026-02-08T10:10:00+00:00",
       "published_human": "2026-02-08T10:10",
-      "source": "https://casa-moderna.ro/"
-    },
-    {
-      "title": "De ce prevenirea dăunătorilor ar trebui luată în calcul încă din proiectarea unei case moderne",
-      "link": "https://casa-moderna.ro/de-ce-prevenirea-daunatorilor-ar-trebui-luata-in-calcul-inca-din-proiectarea-unei-case-moderne/",
-      "summary": "Atunci când vorbim despre o casă modernă, ne gândim automat la design contemporan, eficiență energetică, materiale de calitate și confort&#8230; Articolul De ce prevenirea dăunătorilor ar trebui luată în calcul încă din proiectarea unei case moderne apare prima dată în Casa Moderna .",
-      "published": "2026-01-30T15:25:56+00:00",
-      "published_human": "2026-01-30T15:25",
-      "source": "https://casa-moderna.ro/"
-    },
-    {
-      "title": "Ce sisteme de prindere panouri solare fotovoltaice sunt recomandate pentru performanță inclusiv iarna",
-      "link": "https://casa-moderna.ro/sisteme-prindere-panouri/",
-      "summary": "Iarna aduce provocări pentru orice instalație de panouri solare. Zăpada, gerul și rafalele de vânt pot pune presiune asupra acoperișurilor.&#8230; Articolul Ce sisteme de prindere panouri solare fotovoltaice sunt recomandate pentru performanță inclusiv iarna apare prima dată în Casa Moderna .",
-      "published": "2026-01-28T12:10:28+00:00",
-      "published_human": "2026-01-28T12:10",
       "source": "https://casa-moderna.ro/"
     }
   ],
