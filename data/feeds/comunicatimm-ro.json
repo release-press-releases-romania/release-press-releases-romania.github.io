@@ -4,10 +4,10 @@
     "name": "Comunicatimm",
     "url": "https://comunicatimm.ro/",
     "category": "Business",
-    "rss": "https://comunicatimm.ro/?feed=rss2"
+    "rss": "https://comunicatimm.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-04-29T18:52:02.596482+00:00",
+  "updated_at": "2026-04-29T20:36:53.449175+00:00",
   "status": "ok",
   "items": [
     {
