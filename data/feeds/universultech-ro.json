@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@UniversulTech",
     "rss": "https://social.5th.ro/@UniversulTech.rss"
   },
-  "updated_at": "2026-04-29T09:29:09.511524+00:00",
+  "updated_at": "2026-04-29T12:00:06.748824+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Ce înseamnă low latency la căști wireless?",
+      "link": "https://universultech.ro/ce-inseamna-low-latency-la-casti-wireless/",
+      "summary": "Low latency la căști wireless înseamnă o întârziere foarte mică între momentul în care sunetul este generat pe telefon și&#8230; Articolul Ce înseamnă low latency la căști wireless? apare prima dată în Universul Tech .",
+      "published": "2026-04-29T11:17:00+00:00",
+      "published_human": "2026-04-29T11:17",
+      "source": "https://UniversulTech.ro/"
+    },
     {
       "title": "Cum alegi un televizor cu sunet bun?",
       "link": "https://universultech.ro/cum-alegi-un-televizor-cu-sunet-bun/",
@@ -100,17 +108,17 @@
       "published": "2026-03-16T13:55:00+00:00",
       "published_human": "2026-03-16T13:55",
       "source": "https://UniversulTech.ro/"
-    },
-    {
-      "title": "Cum alegi fertilizantul potrivit pentru gazon + 6 soluții recomandate pentru un teren verde sănătos",
-      "link": "https://universultech.ro/cum-alegi-fertilizantul-potrivit-pentru-gazon-6-solutii-recomandate-pentru-un-teren-verde-sanatos/",
-      "summary": "Un gazon sănătos și verde transformă orice grădină într-un spațiu plăcut și îngrijit, însă alegerea fertilizantului potrivit poate fi uneori&#8230; Articolul Cum alegi fertilizantul potrivit pentru gazon + 6 soluții recomandate pentru un teren verde sănătos apare prima dată în Universul Tech .",
-      "published": "2026-03-16T09:20:09+00:00",
-      "published_human": "2026-03-16T09:20",
-      "source": "https://UniversulTech.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@UniversulTech/116487719922608050",
+      "summary": "💡Low latency la căști wireless înseamnă o întârziere foarte mică între momentul în care sunetul este generat pe telefon și momentul în care îl auzi în căști, iar cele mai bune modele în 2026, precum Samsung Galaxy Buds, sunt optimizate pentru a reduce acest decalaj și a oferi o experiență sincronizată în jocuri și conținut… ✅ https:// universultech.ro/ce-inseamna-l ow-latency-la-casti-wireless/",
+      "published": "2026-04-29T11:19:06+00:00",
+      "published_human": "2026-04-29T11:19",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@UniversulTech/116481560979641607",
@@ -197,14 +205,6 @@
       "summary": "💡În 2026, chiar și magazinele mici se confruntă cu provocări tot mai complexe: stocuri, vânzări, clienți și raportare fiscală pot deveni copleșitoare. Mulți proprietari se întreabă: „Am nevoie de un soft de gestiune pentru magazin?” Răspunsul depășește confortul - tehnologia potrivită transformă un magazin mic într-o afacere agilă, capabilă să răspundă rapid ✅ https:// universultech.ro/are-nevoie-un -magazin-mic-de-un-soft-de-gestiune-in-2026-tehnologia-care-asigura-eficienta-si-competitivitate/",
       "published": "2026-03-13T08:43:20+00:00",
       "published_human": "2026-03-13T08:43",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@UniversulTech/116204441847048625",
-      "summary": "💡Iluminatul are un impact mult mai mare asupra atmosferei din living decât pare la prima vedere. De multe ori alegerea corpurilor de iluminat se face rapid, în funcție de design sau de preț, fără să te gândești la modul în care lumina influențează confortul, funcționalitatea sau estetica încăperii.Livingul este, în general, spațiul în care petreci cel… ✅ https:// universultech.ro/livingul-prin de-viata-tipuri-de-corpuri-de-iluminat-si-cum-le-alegi-inteligent/",
-      "published": "2026-03-10T10:37:46+00:00",
-      "published_human": "2026-03-10T10:37",
       "source": "Mastodon"
     }
   ]

@@ -4,13 +4,13 @@
     "name": "Cluj Azi",
     "url": "https://cluj-azi.ro/",
     "category": "News & Society",
-    "rss": "https://cluj-azi.ro/?feed=rss2"
+    "rss": "https://cluj-azi.ro/feed/"
   },
   "mastodon": {
     "url": "https://social.5th.ro/@cluj",
     "rss": "https://social.5th.ro/@cluj.rss"
   },
-  "updated_at": "2026-04-29T09:29:09.511524+00:00",
+  "updated_at": "2026-04-29T12:00:06.748824+00:00",
   "status": "ok",
   "items": [
     {
