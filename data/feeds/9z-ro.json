@@ -4,13 +4,13 @@
     "name": "9z",
     "url": "https://9z.ro/",
     "category": "Miscellaneous",
-    "rss": "https://9z.ro/?feed=rss2"
+    "rss": "https://9z.ro/feed/"
   },
   "mastodon": {
     "url": "https://social.5th.ro/@9z",
     "rss": "https://social.5th.ro/@9z.rss"
   },
-  "updated_at": "2026-04-29T23:14:52.798567+00:00",
+  "updated_at": "2026-04-30T00:11:54.443887+00:00",
   "status": "ok",
   "items": [
     {
