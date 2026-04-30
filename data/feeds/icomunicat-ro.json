@@ -7,9 +7,17 @@
     "rss": "https://iComunicat.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-04-30T09:30:34.098273+00:00",
+  "updated_at": "2026-04-30T11:55:15.818003+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "De ce preturile locuintelor din Bucuresti nu vor scadea: Adevarul despre piata imobiliara in 2026",
+      "link": "https://icomunicat.ro/2026/04/13/de-ce-preturile-locuintelor-din-bucuresti-nu-vor-scadea-adevarul-despre-piata-imobiliara-in-2026/",
+      "summary": "Daca astepti momentul in care preturile apartamentelor din Bucuresti „se vor sparge” ca un balon de sapun, s-ar putea sa astepti in fata unei usi care nu se va deschide niciodata. In timp ce titlurile alarmiste vorbesc despre stagnari, realitatea din teren — de la depozitele de materiale pana la santierele active — ne spune [&#8230;] Articolul De ce preturile locuintelor din Bucuresti nu vor scadea: Adevarul despre piata imobiliara in 2026 apare prima dată în iComunicat .",
+      "published": "2026-04-13T12:02:00+00:00",
+      "published_human": "2026-04-13T12:02",
+      "source": "https://iComunicat.ro/"
+    },
     {
       "title": "Solid Residence Skyline Mamaia – proiectul care transformă vacanța la mare într-o investiție pe termen lung",
       "link": "https://icomunicat.ro/2026/04/12/solid-residence-skyline-mamaia-proiectul-care-transforma-vacanta-la-mare-intr-o-investitie-pe-termen-lung/",
@@ -80,14 +88,6 @@
       "summary": "Dimensiunea pieței locale de web hosting pentru 2025 este evaluată la aproximativ 500 milioane lei, pe baza raportărilor Cognitive Market Research privind piața globală și europeană de profil și a ponderii estimate a României în acest ecosistem. Potrivit datelor IBISWorld pentru sectorul RO-J631, creșterea anuală medie este de 10,3% în perioada 2020–2025. Un studiu realizat [&#8230;] Articolul Piața de hosting crește cu peste 10% pe an. Studiu – aproape 40% dintre deținătorii de site-uri și magazine online din România caută viteză, stabilitate și suport apare prima dată în iComunicat .",
       "published": "2025-12-18T08:59:39+00:00",
       "published_human": "2025-12-18T08:59",
-      "source": "https://iComunicat.ro/"
-    },
-    {
-      "title": "Ce este ActivityPub și de ce contează pentru Mastodon",
-      "link": "https://icomunicat.ro/2025/12/17/ce-este-activitypub-si-de-ce-conteaza-pentru-mastodon/",
-      "summary": "Te-ai săturat de algoritmii opaci ai rețelelor sociale tradiționale? Ești frustrat de faptul că datele tale sunt folosite pentru manipulare, iar interacțiunile tale sunt controlate de o singură corporație? (Atenție) Există o alternativă viabilă care promite control total asupra experienței tale online. Această mișcare este condusă de o platformă de microblogging numită Mastodon, care nu [&#8230;] Articolul Ce este ActivityPub și de ce contează pentru Mastodon apare prima dată în iComunicat .",
-      "published": "2025-12-17T16:58:54+00:00",
-      "published_human": "2025-12-17T16:58",
       "source": "https://iComunicat.ro/"
     }
   ],
