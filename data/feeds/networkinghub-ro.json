@@ -7,7 +7,7 @@
     "rss": "https://networkinghub.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-04-30T06:44:15.303046+00:00",
+  "updated_at": "2026-04-30T09:30:34.098273+00:00",
   "status": "ok",
   "items": [
     {
@@ -24,6 +24,14 @@
       "summary": "Testează un espressor cafea în custodie la birou! Echipament profesional gratuit, cafea proaspăt prăjită și mentenanță inclusă. Fără costuri ascunse. Articolul Productivitatea la Birou și Cafeaua: Ce Arată Studiile și Ce Poți Face Concret apare prima dată în Networking Hub .",
       "published": "2026-04-22T15:27:45+00:00",
       "published_human": "2026-04-22T15:27",
+      "source": "https://networkinghub.ro/"
+    },
+    {
+      "title": "Cauți un apartament pentru investiție în București? Ce criterii contează mai mult decât prețul?",
+      "link": "https://networkinghub.ro/cauti-un-apartament-pentru-investitie-in-bucuresti-ce-criterii-conteaza-mai-mult-decat-pretul/",
+      "summary": "Când te decizi să investești în piața imobiliară, tentația de a alege cel mai mic... Articolul Cauți un apartament pentru investiție în București? Ce criterii contează mai mult decât prețul? apare prima dată în Networking Hub .",
+      "published": "2026-04-11T21:11:00+00:00",
+      "published_human": "2026-04-11T21:11",
       "source": "https://networkinghub.ro/"
     },
     {
@@ -96,14 +104,6 @@
       "summary": "Ce face mai exact un electromagnet? Dacă vrei să securizezi o locație, să limitezi intrările... Articolul Cum poți controla accesul cu ajutorul unui electromagnet? apare prima dată în Networking Hub .",
       "published": "2025-12-23T05:35:32+00:00",
       "published_human": "2025-12-23T05:35",
-      "source": "https://networkinghub.ro/"
-    },
-    {
-      "title": "Mastodon pentru jurnaliști: distribuție, surse și conversații",
-      "link": "https://networkinghub.ro/mastodon-pentru-jurnalisti-distributie-surse-si-conversatii/",
-      "summary": "Te-ai săturat de algoritmii opaci care decid ce știri ajung la publicul tău? Ești frustrat... Articolul Mastodon pentru jurnaliști: distribuție, surse și conversații apare prima dată în Networking Hub .",
-      "published": "2025-12-17T16:58:54+00:00",
-      "published_human": "2025-12-17T16:58",
       "source": "https://networkinghub.ro/"
     }
   ],

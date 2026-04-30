@@ -7,9 +7,17 @@
     "rss": "https://sanatate-mentala.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-04-30T06:44:15.303046+00:00",
+  "updated_at": "2026-04-30T09:30:34.098273+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Cum te ajută un smartwatch să îți monitorizezi stresul?",
+      "link": "https://sanatate-mentala.ro/cum-te-ajuta-un-smartwatch-sa-iti-monitorizezi-stresul/",
+      "summary": "Un smartwatch te ajută să îți monitorizezi stresul prin analizarea ritmului cardiac, a variației acestuia... Articolul Cum te ajută un smartwatch să îți monitorizezi stresul? apare prima dată în Sanatate Mentala .",
+      "published": "2026-04-30T06:54:00+00:00",
+      "published_human": "2026-04-30T06:54",
+      "source": "https://sanatate-mentala.ro/"
+    },
     {
       "title": "Ce smartwatch are cea mai bună monitorizare a somnului?",
       "link": "https://sanatate-mentala.ro/ce-smartwatch-are-cea-mai-buna-monitorizare-a-somnului/",
@@ -96,14 +104,6 @@
       "summary": "Atenție (Attention): V-ați săturat să urmăriți meciuri considerate &#8222;sigure&#8221; doar pentru a vedea cum un... Articolul Biletul zilei la cote mici: are sens să cauți „sigurul zilei”? apare prima dată în Sanatate Mentala .",
       "published": "2025-11-13T19:31:26+00:00",
       "published_human": "2025-11-13T19:31",
-      "source": "https://sanatate-mentala.ro/"
-    },
-    {
-      "title": "Cum îi ajută psihoterapia pe copii să-și spună povestea",
-      "link": "https://sanatate-mentala.ro/cum-ii-ajuta-psihoterapia-pe-copii-sa-si-spuna-povestea/",
-      "summary": "Universul copiilor poate fi uneori greu de descifrat. Spre deosebire de adulți, care preferă să... Articolul Cum îi ajută psihoterapia pe copii să-și spună povestea apare prima dată în Sanatate Mentala .",
-      "published": "2025-10-30T11:38:56+00:00",
-      "published_human": "2025-10-30T11:38",
       "source": "https://sanatate-mentala.ro/"
     }
   ],

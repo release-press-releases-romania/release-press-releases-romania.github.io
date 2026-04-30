@@ -7,9 +7,17 @@
     "rss": "https://medic360.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-04-30T06:44:15.303046+00:00",
+  "updated_at": "2026-04-30T09:30:34.098273+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Cum îți analizează smartwatch-ul somnul?",
+      "link": "https://medic360.ro/cum-iti-analizeaza-smartwatch-ul-somnul/",
+      "summary": "Un smartwatch îți analizează somnul folosind senzori care monitorizează ritmul cardiac, mișcarea și nivelul de oxigen, iar în 2026 cele&#8230; Articolul Cum îți analizează smartwatch-ul somnul? apare prima dată în Medic 360 .",
+      "published": "2026-04-30T07:12:00+00:00",
+      "published_human": "2026-04-30T07:12",
+      "source": "https://medic360.ro/"
+    },
     {
       "title": "Cum funcționează monitorizarea stresului pe smartwatch?",
       "link": "https://medic360.ro/cum-functioneaza-monitorizarea-stresului-pe-smartwatch/",
@@ -72,14 +80,6 @@
       "summary": "Decizia de a apela la o intervenție estetică nu este niciodată una simplă, mai ales atunci când presupune modificări corporale&#8230; Articolul Implanturi mamare cu silicon: aspecte medicale esențiale apare prima dată în Medic 360 .",
       "published": "2025-12-19T11:05:33+00:00",
       "published_human": "2025-12-19T11:05",
-      "source": "https://medic360.ro/"
-    },
-    {
-      "title": "Blocare, silențiere, raportare: instrumentele de siguranță pe Mastodon",
-      "link": "https://medic360.ro/blocare-silentiere-raportare-instrumentele-de-siguranta-pe-mastodon/",
-      "summary": "V-ați simțit vreodată copleșiți de toxicitatea și zgomotul constant al rețelelor sociale centralizate? Mulți utilizatori caută alternative care să le&#8230; Articolul Blocare, silențiere, raportare: instrumentele de siguranță pe Mastodon apare prima dată în Medic 360 .",
-      "published": "2025-12-17T16:58:54+00:00",
-      "published_human": "2025-12-17T16:58",
       "source": "https://medic360.ro/"
     }
   ],
