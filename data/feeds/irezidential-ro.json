@@ -7,9 +7,17 @@
     "rss": "https://irezidential.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-05-01T04:32:31.822885+00:00",
+  "updated_at": "2026-05-01T07:38:50.269762+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Cum au schimbat releele de timp logica instalațiilor electrice moderne",
+      "link": "https://irezidential.ro/2026/05/01/cum-au-schimbat-releele-de-timp-logica-instalatiilor-electrice-moderne/",
+      "summary": "Într-o eră în care automatizarea pătrunde în fiecare colț al locuinței și al spațiului industrial, există componente discrete care lucrează&#8230; Articolul Cum au schimbat releele de timp logica instalațiilor electrice moderne apare prima dată în Complex Rezidential .",
+      "published": "2026-05-01T06:47:24+00:00",
+      "published_human": "2026-05-01T06:47",
+      "source": "https://irezidential.ro/"
+    },
     {
       "title": "Modernizarea unui hidrofor vechi: cum actualizezi sistemul fără să-l refaci complet",
       "link": "https://irezidential.ro/2026/04/28/modernizarea-unui-hidrofor-vechi-cum-actualizezi-sistemul-fara-sa-l-refaci-complet/",
@@ -96,14 +104,6 @@
       "summary": "Profilul pentru bandă LED nu este doar un „suport” frumos. El asigură disiparea termică, protecția benzii, uniformizarea luminii și un&#8230; Articolul Banda led &#8211; Cand sa o folosesti? apare prima dată în Complex Rezidential .",
       "published": "2025-09-03T21:26:10+00:00",
       "published_human": "2025-09-03T21:26",
-      "source": "https://irezidential.ro/"
-    },
-    {
-      "title": "Ce este un profil bandă LED și când merită să îl folosești?",
-      "link": "https://irezidential.ro/2025/08/26/ce-este-un-profil-banda-led-si-cand-merita-sa-il-folosesti/",
-      "summary": "Iluminatul cu LED a evoluat rapid, iar una dintre componentele care fac diferența &#238;ntr-un proiect bine realizat este profilul bandă&#8230; Articolul Ce este un profil bandă LED și când merită să îl folosești? apare prima dată în Complex Rezidential .",
-      "published": "2025-08-26T17:55:39+00:00",
-      "published_human": "2025-08-26T17:55",
       "source": "https://irezidential.ro/"
     }
   ],
