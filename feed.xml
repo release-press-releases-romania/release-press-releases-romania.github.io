@@ -5,8 +5,8 @@
     <link>https://release-press-releases-romania.github.io</link>
     <description>Aggregated RSS feed of press releases from over 100 Romanian publishers. Covering PR &amp; Marketing, Health, News &amp; Society, Technology, Business, Construction, Tourism, and more. Curated selection of quality press releases from trusted Romanian sources.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 02 May 2026 12:51:39 +0000</lastBuildDate>
-    <pubDate>Sat, 02 May 2026 12:51:39 +0000</pubDate>
+    <lastBuildDate>Sat, 02 May 2026 18:46:06 +0000</lastBuildDate>
+    <pubDate>Sat, 02 May 2026 18:46:06 +0000</pubDate>
     <generator>Release Press Releases in Romania RSS Aggregator v2.0</generator>
     <webMaster>noreply@release-press-releases-romania.github.io (Release Press Releases)</webMaster>
     <managingEditor>noreply@release-press-releases-romania.github.io (Release Press Releases)</managingEditor>
@@ -28,6 +28,20 @@
     <sy:updateFrequency>1</sy:updateFrequency>
     <copyright>Copyright 2026 Release Press Releases in Romania. Content belongs to respective publishers.</copyright>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Ai fost mereu „distrat”? Când e mai mult decât un stil de viață</title>
+      <link>https://ghid-sanatate.ro/ai-fost-mereu-distrat-cand-e-mai-mult-decat-un-stil-de-viata/</link>
+      <description><![CDATA[From Ghid Sanatate: Mulți adulți și-au construit o întreagă imagine despre sine în jurul unor trăsături pe care le consideră parte din personalitatea lor, când, de fapt, ar putea fi simptome ale unei condiții nediagnosticate. ADHD la adulți trece adesea neobservat, pentru că simptomele pot fi subtile sau confundate cu alte trăsături de personalitate. Comportamente precum vorbitul excesiv pot fi etichetate drept o ...]]></description>
+      <pubDate>Sat, 02 May 2026 16:28:35 +0000</pubDate>
+      <author>Ghid Sanatate (https://release-press-releases-romania.github.io/publisher/ghid-sanatate-ro/)</author>
+      <dc:creator>Ghid Sanatate</dc:creator>
+      <dc:date>2026-05-02T16:28:35+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">Health</category>
+      <guid isPermaLink="true">https://ghid-sanatate.ro/ai-fost-mereu-distrat-cand-e-mai-mult-decat-un-stil-de-viata/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/ghid-sanatate-ro/">Ghid Sanatate</source>
+      <content:encoded><![CDATA[From Ghid Sanatate: Mulți adulți și-au construit o întreagă imagine despre sine în jurul unor trăsături pe care le consideră parte din personalitatea lor, când, de fapt, ar putea fi simptome ale unei condiții nediagnosticate. ADHD la adulți trece adesea neobservat, pentru că simptomele pot fi subtile sau confundate cu alte trăsături de personalitate. Comportamente precum vorbitul excesiv pot fi etichetate drept o ...]]></content:encoded>
+      <comments>https://ghid-sanatate.ro/ai-fost-mereu-distrat-cand-e-mai-mult-decat-un-stil-de-viata/#comments</comments>
+    </item>
     <item>
       <title>Cum au schimbat releele de timp logica instalațiilor electrice moderne</title>
       <link>https://irezidential.ro/2026/05/01/cum-au-schimbat-releele-de-timp-logica-instalatiilor-electrice-moderne/</link>
@@ -1525,20 +1539,6 @@
       <source url="https://release-press-releases-romania.github.io/publisher/doctor360-ro/">Doctor360</source>
       <content:encoded><![CDATA[From Doctor360: Durerile menstruale severe și sângerările care par să nu se mai oprească sunt adesea etichetate, în mod eronat și superficial, ca fiind „normale” sau „o parte inerentă a vieții de femeie”. Multe paciente ajung la medicul ginecolog convinse că suferă de fibroame uterine, acele tumori benigne arhicunoscute. Însă, surpriza apare la ecografie: medicul nu găsește niciun nodul distinct, ci doar un ut...]]></content:encoded>
       <comments>https://doctor360.ro/adenomioza-de-ce-uterul-devine-dureros-marit-si-inflamat/#comments</comments>
-    </item>
-    <item>
-      <title>Cum alegem corect suplimentele naturale în funcție de nevoile organismului</title>
-      <link>https://ghid-sanatate.ro/cum-alegem-corect-suplimentele-naturale-in-functie-de-nevoile-organismului/</link>
-      <description><![CDATA[From Ghid Sanatate: Într-un context în care stilul de viață modern presupune stres, alimentație dezechilibrată și perioade frecvente de oboseală, tot mai multe persoane iau în considerare suplimentele alimentare ca sprijin pentru starea de bine. Cu toate acestea, alegerea corectă a produselor nu ar trebui făcută la întâmplare, ci în funcție de nevoile reale ale organismului și de obiectivele personale. Primul pas ...]]></description>
-      <pubDate>Thu, 26 Feb 2026 09:32:24 +0000</pubDate>
-      <author>Ghid Sanatate (https://release-press-releases-romania.github.io/publisher/ghid-sanatate-ro/)</author>
-      <dc:creator>Ghid Sanatate</dc:creator>
-      <dc:date>2026-02-26T09:32:24+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">Health</category>
-      <guid isPermaLink="true">https://ghid-sanatate.ro/cum-alegem-corect-suplimentele-naturale-in-functie-de-nevoile-organismului/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/ghid-sanatate-ro/">Ghid Sanatate</source>
-      <content:encoded><![CDATA[From Ghid Sanatate: Într-un context în care stilul de viață modern presupune stres, alimentație dezechilibrată și perioade frecvente de oboseală, tot mai multe persoane iau în considerare suplimentele alimentare ca sprijin pentru starea de bine. Cu toate acestea, alegerea corectă a produselor nu ar trebui făcută la întâmplare, ci în funcție de nevoile reale ale organismului și de obiectivele personale. Primul pas ...]]></content:encoded>
-      <comments>https://ghid-sanatate.ro/cum-alegem-corect-suplimentele-naturale-in-functie-de-nevoile-organismului/#comments</comments>
     </item>
     <item>
       <title>Cum funcționează reparațiile pentru daune accidentale la telefoane, fără stres</title>
