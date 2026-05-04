@@ -7,7 +7,7 @@
     "rss": "https://1az.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-05-04T21:33:58.040709+00:00",
+  "updated_at": "2026-05-04T23:14:11.061099+00:00",
   "status": "ok",
   "items": [
     {
@@ -24,6 +24,22 @@
       "summary": "Aceasta stire Publicație 04.05.2026 apare prima oara pe Primarii de la A la Z . Source Aceasta stire Publicație 04.05.2026 apare prima oara pe Primarii de la A la Z .",
       "published": "2026-05-04T13:33:28+00:00",
       "published_human": "2026-05-04T13:33",
+      "source": "https://1az.ro/"
+    },
+    {
+      "title": "Campanie de verificare a vederii gratuită- 5 Mai 2026",
+      "link": "https://1az.ro/campanie-de-verificare-a-vederii-gratuita-5-mai-2026/",
+      "summary": "Aceasta stire Campanie de verificare a vederii gratuită- 5 Mai 2026 apare prima oara pe Primarii de la A la Z . Source Aceasta stire Campanie de verificare a vederii gratuită- 5 Mai 2026 apare prima oara pe Primarii de la A la Z .",
+      "published": "2026-05-04T13:15:42+00:00",
+      "published_human": "2026-05-04T13:15",
+      "source": "https://1az.ro/"
+    },
+    {
+      "title": "Proiect de Hotărâre nr. 22/2026 privind aprobarea bugetului general al comunei Sântămăria-Orlea pe anul 2026",
+      "link": "https://1az.ro/proiect-de-hotarare-nr-22-2026-privind-aprobarea-bugetului-general-al-comunei-santamaria-orlea-pe-anul-2026/",
+      "summary": "Aceasta stire Proiect de Hotărâre nr. 22/2026 privind aprobarea bugetului general al comunei Sântămăria-Orlea pe anul 2026 apare prima oara pe Primarii de la A la Z . PH 22 Articolul Proiect de Hotărâre nr. 22/2026 privind aprobarea bugetului general al comunei Sântămăria-Orlea pe anul 2026 apare prima dată în Primăria comunei Sântămăria Orlea, județul Hunedoara. Source Aceasta stire Proiect de Hotărâre nr. 22/2026 privind aprobarea bugetului general al comunei Sântămăria-Orlea pe anul 2026 apare prima oara pe Primarii de la A la Z .",
+      "published": "2026-05-04T12:55:29+00:00",
+      "published_human": "2026-05-04T12:55",
       "source": "https://1az.ro/"
     },
     {
@@ -88,22 +104,6 @@
       "summary": "Aceasta stire Certificate de Urbanism aprilie 2026 apare prima oara pe Primarii de la A la Z . Certificate de Urbanism aprilie 2026 Source Aceasta stire Certificate de Urbanism aprilie 2026 apare prima oara pe Primarii de la A la Z .",
       "published": "2026-05-04T11:09:41+00:00",
       "published_human": "2026-05-04T11:09",
-      "source": "https://1az.ro/"
-    },
-    {
-      "title": "Raport de Evaluare",
-      "link": "https://1az.ro/raport-de-evaluare/",
-      "summary": "Aceasta stire Raport de Evaluare apare prima oara pe Primarii de la A la Z . implementare Legea 52/2003 în anul 2025 raportDescarcă Source Aceasta stire Raport de Evaluare apare prima oara pe Primarii de la A la Z .",
-      "published": "2026-05-04T10:55:16+00:00",
-      "published_human": "2026-05-04T10:55",
-      "source": "https://1az.ro/"
-    },
-    {
-      "title": "Proces-Verval nr.2",
-      "link": "https://1az.ro/proces-verval-nr-2/",
-      "summary": "Aceasta stire Proces-Verval nr.2 apare prima oara pe Primarii de la A la Z . FEb Ordinara 2026Descarcă Source Aceasta stire Proces-Verval nr.2 apare prima oara pe Primarii de la A la Z .",
-      "published": "2026-05-04T10:32:20+00:00",
-      "published_human": "2026-05-04T10:32",
       "source": "https://1az.ro/"
     }
   ],
