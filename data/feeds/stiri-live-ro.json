@@ -7,9 +7,17 @@
     "rss": "https://stiri-live.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-05-05T06:31:14.201043+00:00",
+  "updated_at": "2026-05-05T09:23:59.256042+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Experiențe la Viva Diva studio – Am creat Forumvideochat.com ca să vezi realitatea din spatele reclamelor",
+      "link": "https://stiri-live.ro/experiente-la-viva-diva-studio-am-creat-forumvideochat-com-ca-sa-vezi-realitatea-din-spatele-reclamelor/",
+      "summary": "Mă numesc Diana și sunt fost model de videochat în Iași. Am trecut prin mai multe studiouri, am văzut. Articolul Experiențe la Viva Diva studio – Am creat Forumvideochat.com ca să vezi realitatea din spatele reclamelor apare prima dată în Stiri Live .",
+      "published": "2026-05-05T06:48:05+00:00",
+      "published_human": "2026-05-05T06:48",
+      "source": "https://stiri-live.ro/"
+    },
     {
       "title": "Gard din șipcă metalică: costuri, montaj, întreținere",
       "link": "https://stiri-live.ro/gard-din-sipca-metalica-costuri-montaj-intretinere/",
@@ -96,14 +104,6 @@
       "summary": "Zilele de 15 și 16 noiembrie 2025 au adus o emoție pură și o lecție de neuitat la Circul. Articolul CONIL Fest 2025: ediția a XXVII-a a Festivalului Integrări apare prima dată în Stiri Live .",
       "published": "2025-11-25T06:50:40+00:00",
       "published_human": "2025-11-25T06:50",
-      "source": "https://stiri-live.ro/"
-    },
-    {
-      "title": "ROMANIAN ENERGY WEEK 2025",
-      "link": "https://stiri-live.ro/romanian-energy-week-2025/",
-      "summary": "ROMANIAN ENERGY WEEK 2025: 5 zile de dezbateri, 5 teme vitale pentru energie Palatul Parlamentului găzduiește &#238;ntre 17 și. Articolul ROMANIAN ENERGY WEEK 2025 apare prima dată în Stiri Live .",
-      "published": "2025-11-18T07:22:57+00:00",
-      "published_human": "2025-11-18T07:22",
       "source": "https://stiri-live.ro/"
     }
   ],
