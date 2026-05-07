@@ -7,9 +7,17 @@
     "rss": "https://stomatologie360.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-05-07T04:08:49.909420+00:00",
+  "updated_at": "2026-05-07T07:21:41.915549+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Cum să-ți crești performanța clinicii folosind echipamente stomatologice de ultimă generație",
+      "link": "https://stomatologie360.ro/cum-sa-ti-cresti-performanta-clinicii-folosind-echipamente-stomatologice-de-ultima-generatie/",
+      "summary": "Felul în care alegi să-ți dotezi cabinetul stomatologic poate face diferența între progres și stagnare.... Articolul Cum să-ți crești performanța clinicii folosind echipamente stomatologice de ultimă generație apare prima dată în Stomatologie 360 .",
+      "published": "2026-05-07T05:58:55+00:00",
+      "published_human": "2026-05-07T05:58",
+      "source": "https://stomatologie360.ro/"
+    },
     {
       "title": "Zâmbetul „de revistă”: Mituri și adevăruri despre fațetele dentare în 2026",
       "link": "https://stomatologie360.ro/zambetul-de-revista-mituri-si-adevaruri-despre-fatetele-dentare-in-2026/",
@@ -96,14 +104,6 @@
       "summary": "Vrei să reduci facturile la energie și să contribui la un mediu mai curat? Instalarea... Articolul Panouri solare pe acoperiș: structură, greutate, siguranță apare prima dată în Stomatologie 360 .",
       "published": "2025-09-03T22:14:00+00:00",
       "published_human": "2025-09-03T22:14",
-      "source": "https://stomatologie360.ro/"
-    },
-    {
-      "title": "Sarcina ectopică",
-      "link": "https://stomatologie360.ro/sarcina-ectopica/",
-      "summary": "Știați că o sarcină ectopică poate fi o urgență medicală? Simptomele pot fi subtile la... Articolul Sarcina ectopică apare prima dată în Stomatologie 360 .",
-      "published": "2025-08-18T21:30:21+00:00",
-      "published_human": "2025-08-18T21:30",
       "source": "https://stomatologie360.ro/"
     }
   ],
