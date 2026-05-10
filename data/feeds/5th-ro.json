@@ -7,9 +7,17 @@
     "rss": "https://5th.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-05-10T09:50:01.834325+00:00",
+  "updated_at": "2026-05-10T11:25:52.997766+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Diferența dintre consult chirurgical și intervenție chirurgicală",
+      "link": "https://5th.ro/diferenta-dintre-consult-chirurgical-si-interventie-chirurgicala/",
+      "summary": "Te-ai întrebat vreodată ce se întâmplă exact atunci când primești o trimitere către chirurgie? Mulți pacienți simt o stare de neliniște doar la auzul acestui cuvânt. Este important să înțelegi că drumul către vindecare începe cu un prim pas esențial. Acesta este reprezentat de un consult chirurgical amănunțit. Înțelegerea etapelor medicale îți poate oferi liniștea Articolul Diferența dintre consult chirurgical și intervenție chirurgicală apare prima dată în 5th.ro – Social Media Mastodon Instance .",
+      "published": "2026-05-10T06:30:00+00:00",
+      "published_human": "2026-05-10T06:30",
+      "source": "https://5th.ro/"
+    },
     {
       "title": "Incapacitatea de plată – primul semn al riscului de insolvență. Cum poți anticipa dificultățile financiare ale unui partener?",
       "link": "https://5th.ro/incapacitatea-de-plata-primul-semn-al-riscului-de-insolventa-cum-poti-anticipa-dificultatile-financiare-ale-unui-partener/",
@@ -80,14 +88,6 @@
       "summary": "What is social.5th.ro social.5th.ro is a Mastodon instance hosted in Romania and operated by SC ARC MEDIASOFT SRL. It was created as a free discussion space with no hidden algorithms, no engagement manipulation, and no aggressive tracking. It is part of the fediverse, a decentralized network of thousands of interconnected servers. Why a Mastodon instance Articolul social.5th.ro – Mastodon Instance in Romania for Free Speech, Bots, and Minimal Moderation apare prima dată în 5th.ro – Social Media Mastodon Instance .",
       "published": "2025-12-13T01:37:02+00:00",
       "published_human": "2025-12-13T01:37",
-      "source": "https://5th.ro/"
-    },
-    {
-      "title": "social.5th.ro – Instanță Mastodon din România pentru free speech, bots și moderare minimă",
-      "link": "https://5th.ro/instanta-mastodon-romania/",
-      "summary": "Ce este social.5th.ro social.5th.ro este o instanță Mastodon găzduită în România, operată de SC ARC MEDIASOFT SRL, creată ca un spațiu de discuție liber, fără algoritmi ascunși, fără manipulare de engagement și fără tracking agresiv. Spre deosebire de rețelele sociale centralizate, Mastodon funcționează descentralizat, iar social.5th.ro face parte din fediverse, o rețea globală de mii Articolul social.5th.ro – Instanță Mastodon din România pentru free speech, bots și moderare minimă apare prima dată în 5th.ro – Social Media Mastodon Instance .",
-      "published": "2025-12-13T01:32:21+00:00",
-      "published_human": "2025-12-13T01:32",
       "source": "https://5th.ro/"
     }
   ],
