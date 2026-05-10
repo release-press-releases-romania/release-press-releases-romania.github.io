@@ -7,9 +7,17 @@
     "rss": "https://comunicatimm.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-05-10T07:36:41.630706+00:00",
+  "updated_at": "2026-05-10T09:50:01.834325+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Recuperarea după operația de cancer de colon",
+      "link": "https://comunicatimm.ro/recuperarea-dupa-operatia-de-cancer-de-colon/",
+      "summary": "Introducere Te-ai întrebat vreodată cum arată drumul spre vindecare după un diagnostic oncologic dificil? Aflați că progresele medicale actuale transformă radical experiența pacienților care trec printr-o intervenție chirurgicală complexă. Diagnosticul de &#8230; Articolul Recuperarea după operația de cancer de colon apare prima dată în Comunicat IMM .",
+      "published": "2026-05-10T06:30:00+00:00",
+      "published_human": "2026-05-10T06:30",
+      "source": "https://comunicatimm.ro/"
+    },
     {
       "title": "România de facto: realități și perspective 2026",
       "link": "https://comunicatimm.ro/romania-de-facto-realitati-si-perspective-2026/",
@@ -80,14 +88,6 @@
       "summary": "Începe ROMANIAN ENERGY WEEK 2025! 5 zile cu 5 teme relevante pentru sectorul energetic românesc Luni, 17 noiembrie, începe ROMANIAN ENERGY WEEK 2025! Descoperă idei, lideri și soluții la masa rotundă &#8230; Articolul Începe ROMANIAN ENERGY WEEK 2025! apare prima dată în Comunicat IMM .",
       "published": "2025-11-13T13:24:24+00:00",
       "published_human": "2025-11-13T13:24",
-      "source": "https://comunicatimm.ro/"
-    },
-    {
-      "title": "CONAF lansează seria națională „SupraTAX” Set de măsuri care pot reduce deficitul bugetar",
-      "link": "https://comunicatimm.ro/conaf-lanseaza-seria-nationala-supratax-set-de-masuri-care-pot-reduce-deficitul-bugetar/",
-      "summary": "Brăila, 29 octombrie 2025 &#8211; Peste 200 de antreprenori din toate sectoarele economiei rom&#226;nești au participat la prima ediție a conferinței naționale &#8222;SupraTAX&#8221;, organizată de Confederația Națională pentru Antreprenoriat Feminin (CONAF). &#8230; Articolul CONAF lansează seria națională „SupraTAX” Set de măsuri care pot reduce deficitul bugetar apare prima dată în Comunicat IMM .",
-      "published": "2025-10-30T07:24:04+00:00",
-      "published_human": "2025-10-30T07:24",
       "source": "https://comunicatimm.ro/"
     }
   ],
