@@ -5,8 +5,8 @@
     <link>https://release-press-releases-romania.github.io</link>
     <description>Aggregated RSS feed of press releases from over 100 Romanian publishers. Covering PR &amp; Marketing, Health, News &amp; Society, Technology, Business, Construction, Tourism, and more. Curated selection of quality press releases from trusted Romanian sources.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 10 May 2026 12:59:20 +0000</lastBuildDate>
-    <pubDate>Sun, 10 May 2026 12:59:20 +0000</pubDate>
+    <lastBuildDate>Sun, 10 May 2026 18:49:59 +0000</lastBuildDate>
+    <pubDate>Sun, 10 May 2026 18:49:59 +0000</pubDate>
     <generator>Release Press Releases in Romania RSS Aggregator v2.0</generator>
     <webMaster>noreply@release-press-releases-romania.github.io (Release Press Releases)</webMaster>
     <managingEditor>noreply@release-press-releases-romania.github.io (Release Press Releases)</managingEditor>
@@ -28,6 +28,20 @@
     <sy:updateFrequency>1</sy:updateFrequency>
     <copyright>Copyright 2026 Release Press Releases in Romania. Content belongs to respective publishers.</copyright>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Unde merită să investești în București: zonele care îți oferă randament și confort</title>
+      <link>https://doctorite.ro/unde-merita-sa-investesti-in-bucuresti-zonele-care-iti-ofera-randament-si-confort/</link>
+      <description><![CDATA[From Doctorite: Piața imobiliară din București continuă să atragă tot mai mulți cumpărători interesați de locuințe moderne, bine poziționate și cu potențial ridicat de creștere. Fie că vorbim despre o locuință personală sau o investiție, alegerea zonei potrivite este esențială. Pipera – dezvoltare rapidă și oportunități multiple Zona Pipera este una dintre cele mai dinamice din București, cunoscută pentru dezv...]]></description>
+      <pubDate>Sun, 10 May 2026 18:10:00 +0000</pubDate>
+      <author>Doctorite (https://release-press-releases-romania.github.io/publisher/doctorite-ro/)</author>
+      <dc:creator>Doctorite</dc:creator>
+      <dc:date>2026-05-10T18:10:00+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">Health</category>
+      <guid isPermaLink="true">https://doctorite.ro/unde-merita-sa-investesti-in-bucuresti-zonele-care-iti-ofera-randament-si-confort/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/doctorite-ro/">Doctorite</source>
+      <content:encoded><![CDATA[From Doctorite: Piața imobiliară din București continuă să atragă tot mai mulți cumpărători interesați de locuințe moderne, bine poziționate și cu potențial ridicat de creștere. Fie că vorbim despre o locuință personală sau o investiție, alegerea zonei potrivite este esențială. Pipera – dezvoltare rapidă și oportunități multiple Zona Pipera este una dintre cele mai dinamice din București, cunoscută pentru dezv...]]></content:encoded>
+      <comments>https://doctorite.ro/unde-merita-sa-investesti-in-bucuresti-zonele-care-iti-ofera-randament-si-confort/#comments</comments>
+    </item>
     <item>
       <title>Chirurgie urgență București pentru dureri abdominale severe</title>
       <link>https://contentai.ro/chirurgie-urgenta-bucuresti-pentru-dureri-abdominale-severe/</link>
@@ -965,20 +979,6 @@
       <source url="https://release-press-releases-romania.github.io/publisher/ghid-sanatate-ro/">Ghid Sanatate</source>
       <content:encoded><![CDATA[From Ghid Sanatate: Dacă simțiți că aveți nevoie de un control la ochi sau vreți doar să vedeți mai bine, cei de la EXPERTOPTIC din Suceava sunt exact echipa la care trebuie să mergeți. Nu e doar un simplu magazin de optică medicală, ci un loc unde chiar se pune preț pe confortul dumneavoastră, într-o atmosferă relaxată și prietenoasă. Indiferent că aveți nevoie de un consult optometric sau doar vreți să vă reglaț...]]></content:encoded>
       <comments>https://ghid-sanatate.ro/descoperiti-claritatea-vizuala-la-expertoptic-suceava-oferte-speciale-inclusiv-la-lentile-heliomate/#comments</comments>
-    </item>
-    <item>
-      <title>Te simți mereu tensionată fără motiv? Semnele anxietății pe care mulți le ignoră</title>
-      <link>https://doctorite.ro/te-simti-mereu-tensionata-fara-motiv-semnele-anxietatii-pe-care-multi-le-ignora/</link>
-      <description><![CDATA[From Doctorite: Cu toții recunoaștem o versiune a anxietății care are, în general, aceste semnale: inima bătând rapid înainte de o prezentare, stomacul strâns când aștepți un rezultat important, îngrijorarea care te ține trează noaptea înainte de o zi dificilă. Aceasta este o anxietate normală, funcțională, care trece. Dar există și o altă versiune mai greu de descris în cuvinte. Tensiunea care e mereu acolo, ...]]></description>
-      <pubDate>Wed, 22 Apr 2026 15:50:19 +0000</pubDate>
-      <author>Doctorite (https://release-press-releases-romania.github.io/publisher/doctorite-ro/)</author>
-      <dc:creator>Doctorite</dc:creator>
-      <dc:date>2026-04-22T15:50:19+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">Health</category>
-      <guid isPermaLink="true">https://doctorite.ro/te-simti-mereu-tensionata-fara-motiv-semnele-anxietatii-pe-care-multi-le-ignora/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/doctorite-ro/">Doctorite</source>
-      <content:encoded><![CDATA[From Doctorite: Cu toții recunoaștem o versiune a anxietății care are, în general, aceste semnale: inima bătând rapid înainte de o prezentare, stomacul strâns când aștepți un rezultat important, îngrijorarea care te ține trează noaptea înainte de o zi dificilă. Aceasta este o anxietate normală, funcțională, care trece. Dar există și o altă versiune mai greu de descris în cuvinte. Tensiunea care e mereu acolo, ...]]></content:encoded>
-      <comments>https://doctorite.ro/te-simti-mereu-tensionata-fara-motiv-semnele-anxietatii-pe-care-multi-le-ignora/#comments</comments>
     </item>
     <item>
       <title>Torturi de nuntă și candy bar în 2026</title>
