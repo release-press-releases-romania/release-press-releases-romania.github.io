@@ -7,9 +7,17 @@
     "rss": "https://nutritie-sanatate.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-05-12T10:02:29.716518+00:00",
+  "updated_at": "2026-05-12T12:21:46.975599+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "De ce evită românii medicul dentist: bariere psihologice și cum pot fi depășite",
+      "link": "https://nutritie-sanatate.ro/de-ce-evita-romanii-medicul-dentist-bariere-psihologice-si-cum-pot-fi-depasite/",
+      "summary": "Statisticile europene plasează România printre țările cu cel mai scăzut procent de vizite regulate la... Articolul De ce evită românii medicul dentist: bariere psihologice și cum pot fi depășite apare prima dată în Nutritie &amp; Sanatate .",
+      "published": "2026-05-12T11:45:31+00:00",
+      "published_human": "2026-05-12T11:45",
+      "source": "https://nutritie-sanatate.ro/"
+    },
     {
       "title": "Ce smartwatch te ajută să dormi și să te recuperezi mai bine?",
       "link": "https://nutritie-sanatate.ro/ce-smartwatch-te-ajuta-sa-dormi-si-sa-te-recuperezi-mai-bine/",
@@ -96,14 +104,6 @@
       "summary": "BUCUREȘTI, ROM&#194;NIA &#8211; 5 Septembrie 2024 Protein4Life.ro Devine Referința Supremă Pentru Calitatea Suplimentelor &#238;n Piața... Articolul Cel mai de încredere magazin de proteine din România: Analiza Protein4Life.ro apare prima dată în Nutritie &amp; Sanatate .",
       "published": "2025-09-30T04:35:54+00:00",
       "published_human": "2025-09-30T04:35",
-      "source": "https://nutritie-sanatate.ro/"
-    },
-    {
-      "title": "Magneziu lichid – de ce este important pentru sănătate",
-      "link": "https://nutritie-sanatate.ro/magneziu-lichid-de-ce-este-important-pentru-sanatate/",
-      "summary": "Magneziu lichid &#8211; de ce este important pentru sănătate De ce este esenţial magneziul Magneziul... Articolul Magneziu lichid – de ce este important pentru sănătate apare prima dată în Nutritie &amp; Sanatate .",
-      "published": "2025-09-11T12:18:33+00:00",
-      "published_human": "2025-09-11T12:18",
       "source": "https://nutritie-sanatate.ro/"
     }
   ],
