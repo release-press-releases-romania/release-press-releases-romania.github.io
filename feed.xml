@@ -5,8 +5,8 @@
     <link>https://release-press-releases-romania.github.io</link>
     <description>Aggregated RSS feed of press releases from over 100 Romanian publishers. Covering PR &amp; Marketing, Health, News &amp; Society, Technology, Business, Construction, Tourism, and more. Curated selection of quality press releases from trusted Romanian sources.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 12 May 2026 13:59:33 +0000</lastBuildDate>
-    <pubDate>Tue, 12 May 2026 13:59:33 +0000</pubDate>
+    <lastBuildDate>Tue, 12 May 2026 19:31:07 +0000</lastBuildDate>
+    <pubDate>Tue, 12 May 2026 19:31:07 +0000</pubDate>
     <generator>Release Press Releases in Romania RSS Aggregator v2.0</generator>
     <webMaster>noreply@release-press-releases-romania.github.io (Release Press Releases)</webMaster>
     <managingEditor>noreply@release-press-releases-romania.github.io (Release Press Releases)</managingEditor>
@@ -365,18 +365,18 @@
       <comments>https://5th.ro/diferenta-dintre-consult-chirurgical-si-interventie-chirurgicala/#comments</comments>
     </item>
     <item>
-      <title>Ce afecțiuni poate evalua un medic chirurg la Medicover Pipera</title>
-      <link>https://afaceritop.ro/ce-afectiuni-poate-evalua-un-medic-chirurg-la-medicover-pipera/</link>
-      <description><![CDATA[From Afaceritop: { &quot;@context&quot;: &quot;https://schema.org&quot;, &quot;@type&quot;: &quot;FAQPage&quot;, &quot;mainEntity&quot;: [ { &quot;@type&quot;: &quot;Question&quot;, &quot;name&quot;: &quot;Ce afecțiuni tratează un medic chirurg la Medicover Pipera?&quot;, &quot;acceptedAnswer&quot;: { &quot;@type&quot;: &quot;Answer&quot;, &quot;text&quot;: &quot;Un medic chirurg la Medicover Pipera evaluează și tratează o gamă largă de afecțiuni, inclusiv hernii abdominale, calculi biliari (pietre la fiere), afecțiuni proctologice precum hemo...]]></description>
+      <title>Cele mai frecvente situații care pot necesita chirurgie de urgență</title>
+      <link>https://constructii360.ro/cele-mai-frecvente-situatii-care-pot-necesita-chirurgie-de-urgenta/</link>
+      <description><![CDATA[From Constructii360: { &quot;@context&quot;: &quot;https://schema.org&quot;, &quot;@type&quot;: &quot;FAQPage&quot;, &quot;mainEntity&quot;: [ { &quot;@type&quot;: &quot;Question&quot;, &quot;name&quot;: &quot;Care sunt semnele principale pentru apendicita acută?&quot;, &quot;acceptedAnswer&quot;: { &quot;@type&quot;: &quot;Answer&quot;, &quot;text&quot;: &quot;Semnele includ durere bruscă în partea dreaptă jos a abdomenului, greață, vărsături și febră moderată.&quot; } }, { &quot;@type&quot;: &quot;Question&quot;, &quot;name&quot;: &quot;Ce este o hernie strangulată și de ce este peric...]]></description>
       <pubDate>Sun, 10 May 2026 06:30:00 +0000</pubDate>
-      <author>Afaceritop (https://release-press-releases-romania.github.io/publisher/afaceritop-ro/)</author>
-      <dc:creator>Afaceritop</dc:creator>
+      <author>Constructii360 (https://release-press-releases-romania.github.io/publisher/constructii360-ro/)</author>
+      <dc:creator>Constructii360</dc:creator>
       <dc:date>2026-05-10T06:30:00+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">Technology &amp; Energy</category>
-      <guid isPermaLink="true">https://afaceritop.ro/ce-afectiuni-poate-evalua-un-medic-chirurg-la-medicover-pipera/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/afaceritop-ro/">Afaceritop</source>
-      <content:encoded><![CDATA[From Afaceritop: { &quot;@context&quot;: &quot;https://schema.org&quot;, &quot;@type&quot;: &quot;FAQPage&quot;, &quot;mainEntity&quot;: [ { &quot;@type&quot;: &quot;Question&quot;, &quot;name&quot;: &quot;Ce afecțiuni tratează un medic chirurg la Medicover Pipera?&quot;, &quot;acceptedAnswer&quot;: { &quot;@type&quot;: &quot;Answer&quot;, &quot;text&quot;: &quot;Un medic chirurg la Medicover Pipera evaluează și tratează o gamă largă de afecțiuni, inclusiv hernii abdominale, calculi biliari (pietre la fiere), afecțiuni proctologice precum hemo...]]></content:encoded>
-      <comments>https://afaceritop.ro/ce-afectiuni-poate-evalua-un-medic-chirurg-la-medicover-pipera/#comments</comments>
+      <category domain="https://release-press-releases-romania.github.io/category/">Construction &amp; Home</category>
+      <guid isPermaLink="true">https://constructii360.ro/cele-mai-frecvente-situatii-care-pot-necesita-chirurgie-de-urgenta/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/constructii360-ro/">Constructii360</source>
+      <content:encoded><![CDATA[From Constructii360: { &quot;@context&quot;: &quot;https://schema.org&quot;, &quot;@type&quot;: &quot;FAQPage&quot;, &quot;mainEntity&quot;: [ { &quot;@type&quot;: &quot;Question&quot;, &quot;name&quot;: &quot;Care sunt semnele principale pentru apendicita acută?&quot;, &quot;acceptedAnswer&quot;: { &quot;@type&quot;: &quot;Answer&quot;, &quot;text&quot;: &quot;Semnele includ durere bruscă în partea dreaptă jos a abdomenului, greață, vărsături și febră moderată.&quot; } }, { &quot;@type&quot;: &quot;Question&quot;, &quot;name&quot;: &quot;Ce este o hernie strangulată și de ce este peric...]]></content:encoded>
+      <comments>https://constructii360.ro/cele-mai-frecvente-situatii-care-pot-necesita-chirurgie-de-urgenta/#comments</comments>
     </item>
     <item>
       <title>Etapa a IX-a, play-off: FC Bihor Oradea – Steaua Bucureşti</title>
@@ -447,6 +447,20 @@
       <source url="https://release-press-releases-romania.github.io/publisher/solutii-constructii-ro/">Solutii Constructii</source>
       <content:encoded><![CDATA[From Solutii Constructii: Spațiile exterioare nu mai sunt privite de mult ca zone folosite doar vara, în zilele perfecte. Tot mai mulți proprietari vor să își poată folosi terasa mai des, să aibă umbră când soarele devine prea puternic și protecție atunci când vremea se schimbă brusc. Din acest motiv, soluțiile mobile de acoperire au început să ocupe un loc important în amenajările rezidențiale și comerciale. Pergola re...]]></content:encoded>
       <comments>https://solutii-constructii.ro/pergola-retractabila/#comments</comments>
+    </item>
+    <item>
+      <title>De ce să comanzi ferestrele și ușile de la fabrica de tâmplărie PVC Ambient Plast</title>
+      <link>https://constructii360.ro/tamplarie-pvc/</link>
+      <description><![CDATA[From Constructii360: Ferestrele și ușile influențează direct confortul din casă, nivelul de izolare termică și fonică, consumul de energie și chiar aspectul general al locuinței. Tocmai de aceea, tot mai mulți clienți preferă să discute direct cu un producător care poate explica diferențele dintre sisteme și poate propune o soluție adaptată proiectului. Când comanzi direct de la fabrica de tâmplărie PVC Ambient Pla...]]></description>
+      <pubDate>Wed, 06 May 2026 07:24:35 +0000</pubDate>
+      <author>Constructii360 (https://release-press-releases-romania.github.io/publisher/constructii360-ro/)</author>
+      <dc:creator>Constructii360</dc:creator>
+      <dc:date>2026-05-06T07:24:35+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">Construction &amp; Home</category>
+      <guid isPermaLink="true">https://constructii360.ro/tamplarie-pvc/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/constructii360-ro/">Constructii360</source>
+      <content:encoded><![CDATA[From Constructii360: Ferestrele și ușile influențează direct confortul din casă, nivelul de izolare termică și fonică, consumul de energie și chiar aspectul general al locuinței. Tocmai de aceea, tot mai mulți clienți preferă să discute direct cu un producător care poate explica diferențele dintre sisteme și poate propune o soluție adaptată proiectului. Când comanzi direct de la fabrica de tâmplărie PVC Ambient Pla...]]></content:encoded>
+      <comments>https://constructii360.ro/tamplarie-pvc/#comments</comments>
     </item>
     <item>
       <title>De la balcon simplu la spațiu util cu sticlă glisantă Ambient Plast</title>
@@ -615,20 +629,6 @@
       <source url="https://release-press-releases-romania.github.io/publisher/medic360-ro/">Medic360</source>
       <content:encoded><![CDATA[From Medic360: Un smartwatch îți analizează somnul folosind senzori care monitorizează ritmul cardiac, mișcarea și nivelul de oxigen, iar în 2026 cele mai bune modele, precum Samsung Galaxy Watch, transformă aceste date în informații clare despre calitatea odihnei și nivelul de recuperare. Ce se întâmplă în timpul nopții, fără să îți dai seama În timp ce dormi, corpul tău trece prin mai multe etape: somn ușor...]]></content:encoded>
       <comments>https://medic360.ro/cum-iti-analizeaza-smartwatch-ul-somnul/#comments</comments>
-    </item>
-    <item>
-      <title>Cum alegi căști wireless pentru muncă și relaxare?</title>
-      <link>https://afaceritop.ro/cum-alegi-casti-wireless-pentru-munca-si-relaxare/</link>
-      <description><![CDATA[From Afaceritop: Alegerea unor căști wireless potrivite pentru muncă și relaxare ține de echilibrul dintre calitatea sunetului, confort și stabilitatea conexiunii Bluetooth. În 2026, cele mai bune căști wireless sunt cele care pot face față atât apelurilor profesionale, cât și momentelor de relaxare, fără întreruperi sau compromisuri. De ce contează versatilitatea O pereche de căști nu mai este folosită doar pe...]]></description>
-      <pubDate>Thu, 30 Apr 2026 05:47:00 +0000</pubDate>
-      <author>Afaceritop (https://release-press-releases-romania.github.io/publisher/afaceritop-ro/)</author>
-      <dc:creator>Afaceritop</dc:creator>
-      <dc:date>2026-04-30T05:47:00+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">Technology &amp; Energy</category>
-      <guid isPermaLink="true">https://afaceritop.ro/cum-alegi-casti-wireless-pentru-munca-si-relaxare/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/afaceritop-ro/">Afaceritop</source>
-      <content:encoded><![CDATA[From Afaceritop: Alegerea unor căști wireless potrivite pentru muncă și relaxare ține de echilibrul dintre calitatea sunetului, confort și stabilitatea conexiunii Bluetooth. În 2026, cele mai bune căști wireless sunt cele care pot face față atât apelurilor profesionale, cât și momentelor de relaxare, fără întreruperi sau compromisuri. De ce contează versatilitatea O pereche de căști nu mai este folosită doar pe...]]></content:encoded>
-      <comments>https://afaceritop.ro/cum-alegi-casti-wireless-pentru-munca-si-relaxare/#comments</comments>
     </item>
     <item>
       <title>Ce înseamnă low latency la căști wireless?</title>
@@ -1177,20 +1177,6 @@
       <comments>https://stiri-live.ro/contorul-electric-monofazat-mic-aparat-cu-rol-urias-in-gospodariile-romanesti/#comments</comments>
     </item>
     <item>
-      <title>Care este cel mai bun sistem de monitorizare GPS pentru flote auto</title>
-      <link>https://afaceritop.ro/care-este-cel-mai-bun-sistem-de-monitorizare-gps-pentru-flote-auto/</link>
-      <description><![CDATA[From Afaceritop: Pe scurt, cel mai bun sistem de monitorizare GPS pentru flote auto este cel care îți oferă localizare în timp real, analize detaliate de consum și comportament al șoferilor, plus rapoarte automate care te ajută să reduci costurile cu până la 30% lunar. Nu există o soluție universală, dar cele care se integrează perfect cu nevoile tale de business fac diferența dintre o flotă haotică și una prof...]]></description>
-      <pubDate>Thu, 09 Apr 2026 09:13:51 +0000</pubDate>
-      <author>Afaceritop (https://release-press-releases-romania.github.io/publisher/afaceritop-ro/)</author>
-      <dc:creator>Afaceritop</dc:creator>
-      <dc:date>2026-04-09T09:13:51+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">Technology &amp; Energy</category>
-      <guid isPermaLink="true">https://afaceritop.ro/care-este-cel-mai-bun-sistem-de-monitorizare-gps-pentru-flote-auto/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/afaceritop-ro/">Afaceritop</source>
-      <content:encoded><![CDATA[From Afaceritop: Pe scurt, cel mai bun sistem de monitorizare GPS pentru flote auto este cel care îți oferă localizare în timp real, analize detaliate de consum și comportament al șoferilor, plus rapoarte automate care te ajută să reduci costurile cu până la 30% lunar. Nu există o soluție universală, dar cele care se integrează perfect cu nevoile tale de business fac diferența dintre o flotă haotică și una prof...]]></content:encoded>
-      <comments>https://afaceritop.ro/care-este-cel-mai-bun-sistem-de-monitorizare-gps-pentru-flote-auto/#comments</comments>
-    </item>
-    <item>
       <title>Materiale promoționale personalizate pentru companii: ce alegi în funcție de campanie și buget</title>
       <link>https://dobrogea-news.ro/materiale-promotionale-personalizate-pentru-companii-ce-alegi-in-functie-de-campanie-si-buget/</link>
       <description><![CDATA[From Dobrogea News: Analiza rezultatelor actuale din Google pentru cuvintele cheie vizate arată că primele poziții sunt ocupate de agenții de publicitate și tipografii care oferă cataloage vaste de produse. Elementul de diferențiere major este dat de capacitatea de a oferi consultanță în alegerea produsului corect, nu doar vânzarea acestuia. Articolele de succes pun accent pe utilitatea obiectelor, metodele modern...]]></description>
@@ -1721,6 +1707,20 @@
       <source url="https://release-press-releases-romania.github.io/publisher/societatecivila-ro/">Societatecivila</source>
       <content:encoded><![CDATA[From Societatecivila: Transfăgărășanul nu este doar un drum. Este o experiență, un test al abilităților și un spectacol natural care îți rămâne în memorie mult timp după ce ai oprit motorul. Pentru mulți motocicliști din Europa, această șosea din inima României reprezintă un adevărat pelerinaj pe două roți. Serpentine strânse, urcări abrupte, diferențe mari de nivel și panorame care îți taie respirația – toate se în...]]></content:encoded>
       <comments>https://societatecivila.ro/transfagarasan-cea-mai-iconica-sosea-din-europa-din-perspectiva-unui-motociclist/#comments</comments>
+    </item>
+    <item>
+      <title>Daunatorii- Probleme invizibile care pot apărea în locuințe la câteva luni după renovare</title>
+      <link>https://constructii360.ro/daunatorii-probleme-invizibile-care-pot-aparea-in-locuinte-la-cateva-luni-dupa-renovare/</link>
+      <description><![CDATA[From Constructii360: Renovarea unei locuințe oferă impresia unui spațiu nou, sigur și lipsit de probleme. Totuși, în numeroase cazuri, anumite deficiențe rămân ascunse în structura clădirii și devin vizibile abia după câteva luni de utilizare. Aceste probleme nu țin doar de calitatea finisajelor, ci și de modul în care au fost verificate și tratate zonele tehnice și spațiile mai puțin accesibile în timpul renovării...]]></description>
+      <pubDate>Mon, 02 Mar 2026 11:33:19 +0000</pubDate>
+      <author>Constructii360 (https://release-press-releases-romania.github.io/publisher/constructii360-ro/)</author>
+      <dc:creator>Constructii360</dc:creator>
+      <dc:date>2026-03-02T11:33:19+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">Construction &amp; Home</category>
+      <guid isPermaLink="true">https://constructii360.ro/daunatorii-probleme-invizibile-care-pot-aparea-in-locuinte-la-cateva-luni-dupa-renovare/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/constructii360-ro/">Constructii360</source>
+      <content:encoded><![CDATA[From Constructii360: Renovarea unei locuințe oferă impresia unui spațiu nou, sigur și lipsit de probleme. Totuși, în numeroase cazuri, anumite deficiențe rămân ascunse în structura clădirii și devin vizibile abia după câteva luni de utilizare. Aceste probleme nu țin doar de calitatea finisajelor, ci și de modul în care au fost verificate și tratate zonele tehnice și spațiile mai puțin accesibile în timpul renovării...]]></content:encoded>
+      <comments>https://constructii360.ro/daunatorii-probleme-invizibile-care-pot-aparea-in-locuinte-la-cateva-luni-dupa-renovare/#comments</comments>
     </item>
     <item>
       <title>Adenomioza: De ce uterul devine dureros, mărit și inflamat</title>
