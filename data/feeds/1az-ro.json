@@ -7,7 +7,7 @@
     "rss": "https://1az.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-05-14T15:37:50.777347+00:00",
+  "updated_at": "2026-05-14T18:12:52.520007+00:00",
   "status": "ok",
   "items": [
     {
@@ -24,6 +24,14 @@
       "summary": "Aceasta stire ARC MEDIASOFT SRL – Anunț public privind decizia etapei de încadrare apare prima oara pe Primarii de la A la Z . Anunț public privind decizia etapei de încadrare (titularul proiectului) S.C. ARC MEDIASOFT S.R.L., prin reprezentant&#160;CRĂCIUN ADRIAN, titular al proiectului&#160;AUTORIZAREA EXECUȚIEI LUCRĂRILOR DE CONSTRUCȚII ȘI A INSTALAȚIILOR AFERENTE ACESTORA PENTRU INVESTIȚIA „CONSTRUIRE LOCUINȚĂ ȘI ANEXE DEPOZITARE”, propus a se amplasa în comuna Maliuc, localitatea Gorgova, județul Tulcea, str. Dunării nr. 33, identificat prin N.C.F. 32553 intravilan [&#8230;] Aceasta stire ARC MEDIASOFT SRL – Anunț public privind decizia etapei de încadrare apare prima oara pe Primarii de la A la Z .",
       "published": "2026-05-14T11:21:37+00:00",
       "published_human": "2026-05-14T11:21",
+      "source": "https://1az.ro/"
+    },
+    {
+      "title": "Afișare anunț public Bretea Solar",
+      "link": "https://1az.ro/afisare-anunt-public-bretea-solar/",
+      "summary": "Aceasta stire Afișare anunț public Bretea Solar apare prima oara pe Primarii de la A la Z . Proces verbal afișare anunț public Anunț public Bretea Solar Source Aceasta stire Afișare anunț public Bretea Solar apare prima oara pe Primarii de la A la Z .",
+      "published": "2026-05-14T07:00:41+00:00",
+      "published_human": "2026-05-14T07:00",
       "source": "https://1az.ro/"
     },
     {
@@ -96,14 +104,6 @@
       "summary": "Aceasta stire HCL NR.33/2026 apare prima oara pe Primarii de la A la Z . HCL NR.33-2026 Source Aceasta stire HCL NR.33/2026 apare prima oara pe Primarii de la A la Z .",
       "published": "2026-05-13T11:03:16+00:00",
       "published_human": "2026-05-13T11:03",
-      "source": "https://1az.ro/"
-    },
-    {
-      "title": "HCL NR.32/2026",
-      "link": "https://1az.ro/hcl-nr-32-2026/",
-      "summary": "Aceasta stire HCL NR.32/2026 apare prima oara pe Primarii de la A la Z . HCL NR.32-2026 Source Aceasta stire HCL NR.32/2026 apare prima oara pe Primarii de la A la Z .",
-      "published": "2026-05-13T11:02:00+00:00",
-      "published_human": "2026-05-13T11:02",
       "source": "https://1az.ro/"
     }
   ],
