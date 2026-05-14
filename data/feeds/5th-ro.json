@@ -7,9 +7,17 @@
     "rss": "https://5th.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-05-14T08:05:05.301450+00:00",
+  "updated_at": "2026-05-14T10:37:33.004279+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Torturi personalizate pentru copii: idei dulci pentru petreceri memorabile",
+      "link": "https://5th.ro/torturi-personalizate-pentru-copii-idei-dulci-pentru-petreceri-memorabile/",
+      "summary": "Planifici petrecerea perfectă pentru micuțul tău și cauți acel element wow care să transforme totul într-o amintire de neuitat? Centrul oricărei aniversări reușite este, fără îndoială, desertul principal, iar varietatea de torturi pentru copii disponibile astăzi oferă opțiuni infinite pentru orice tematică visată. Imaginează-ți bucuria din ochii copilului tău atunci când vede personajul preferat prins Articolul Torturi personalizate pentru copii: idei dulci pentru petreceri memorabile apare prima dată în 5th.ro – Social Media Mastodon Instance .",
+      "published": "2026-05-14T05:08:08+00:00",
+      "published_human": "2026-05-14T05:08",
+      "source": "https://5th.ro/"
+    },
     {
       "title": "Diferența dintre consult chirurgical și intervenție chirurgicală",
       "link": "https://5th.ro/diferenta-dintre-consult-chirurgical-si-interventie-chirurgicala/",
@@ -80,14 +88,6 @@
       "summary": "Ce este Mastodon Mastodon este o rețea socială descentralizată, open-source, care funcționează diferit față de platformele clasice precum Facebook sau X (Twitter). Nu există un server central care controlează tot conținutul. În schimb, Mastodon este format din mii de instanțe independente, fiecare cu propriile reguli, dar interconectate prin fediverse. Ce înseamnă fediverse Fediverse este o Articolul Ce este Mastodon și cum funcționează fediverse-ul – alternativa reală la rețelele sociale clasice apare prima dată în 5th.ro – Social Media Mastodon Instance .",
       "published": "2025-12-13T08:42:32+00:00",
       "published_human": "2025-12-13T08:42",
-      "source": "https://5th.ro/"
-    },
-    {
-      "title": "social.5th.ro – Mastodon Instance in Romania for Free Speech, Bots, and Minimal Moderation",
-      "link": "https://5th.ro/mastodon-instance-romania/",
-      "summary": "What is social.5th.ro social.5th.ro is a Mastodon instance hosted in Romania and operated by SC ARC MEDIASOFT SRL. It was created as a free discussion space with no hidden algorithms, no engagement manipulation, and no aggressive tracking. It is part of the fediverse, a decentralized network of thousands of interconnected servers. Why a Mastodon instance Articolul social.5th.ro – Mastodon Instance in Romania for Free Speech, Bots, and Minimal Moderation apare prima dată în 5th.ro – Social Media Mastodon Instance .",
-      "published": "2025-12-13T01:37:02+00:00",
-      "published_human": "2025-12-13T01:37",
       "source": "https://5th.ro/"
     }
   ],
