@@ -7,9 +7,17 @@
     "rss": "https://stomatologie360.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-05-19T10:45:21.678190+00:00",
+  "updated_at": "2026-05-19T14:07:05.013127+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Impactul inovațiilor tehnologice în producția de consumabile stomatologice",
+      "link": "https://stomatologie360.ro/impactul-inovatiilor-tehnologice-in-productia-de-consumabile-stomatologice/",
+      "summary": "În prezent, tehnologia transformă activitățile din multe domenii, iar stomatologia nu face excepție. Impactul inovațiilor... Articolul Impactul inovațiilor tehnologice în producția de consumabile stomatologice apare prima dată în Stomatologie 360 .",
+      "published": "2026-05-19T14:07:40+00:00",
+      "published_human": "2026-05-19T14:07",
+      "source": "https://stomatologie360.ro/"
+    },
     {
       "title": "Cum să-ți crești performanța clinicii folosind echipamente stomatologice de ultimă generație",
       "link": "https://stomatologie360.ro/cum-sa-ti-cresti-performanta-clinicii-folosind-echipamente-stomatologice-de-ultima-generatie/",
@@ -96,14 +104,6 @@
       "summary": "Sănătatea orală începe cu prevenția și cu atenția constantă acordată fiecărui detaliu. Vizitele regulate la... Articolul De la grijă preventivă la estetică premium – Delta Clinic Dent are soluția potrivită apare prima dată în Stomatologie 360 .",
       "published": "2025-09-04T11:34:58+00:00",
       "published_human": "2025-09-04T11:34",
-      "source": "https://stomatologie360.ro/"
-    },
-    {
-      "title": "Panouri solare pe acoperiș: structură, greutate, siguranță",
-      "link": "https://stomatologie360.ro/panouri-solare-pe-acoperis-structura-greutate-siguranta/",
-      "summary": "Vrei să reduci facturile la energie și să contribui la un mediu mai curat? Instalarea... Articolul Panouri solare pe acoperiș: structură, greutate, siguranță apare prima dată în Stomatologie 360 .",
-      "published": "2025-09-03T22:14:00+00:00",
-      "published_human": "2025-09-03T22:14",
       "source": "https://stomatologie360.ro/"
     }
   ],

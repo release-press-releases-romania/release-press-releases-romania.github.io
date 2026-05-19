@@ -7,9 +7,17 @@
     "rss": "https://medic360.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-05-19T10:45:21.678190+00:00",
+  "updated_at": "2026-05-19T14:07:05.013127+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Ghid complet: Tot ce trebuie să știi despre tratarea hemoroizilor",
+      "link": "https://medic360.ro/ghid-complet-tot-ce-trebuie-sa-stii-despre-tratarea-hemoroizilor/",
+      "summary": "Hemoroizii au fost până nu demult un subiect tabu pentru omul de rând, asta deși aproape jumătate din populația globală&#8230; Articolul Ghid complet: Tot ce trebuie să știi despre tratarea hemoroizilor apare prima dată în Medic 360 .",
+      "published": "2026-05-19T12:33:11+00:00",
+      "published_human": "2026-05-19T12:33",
+      "source": "https://medic360.ro/"
+    },
     {
       "title": "Cum îți analizează smartwatch-ul somnul?",
       "link": "https://medic360.ro/cum-iti-analizeaza-smartwatch-ul-somnul/",
@@ -72,14 +80,6 @@
       "summary": "De unde pot cumpăra suplimente în România? Where to buy dietary supplements Romania? Magazine online suplimente nutritive premium cu certificări internaționale. Articolul De unde pot cumpara suplimente in Romania Magazine suplimente nutritionale fitness sport apare prima dată în Medic 360 .",
       "published": "2026-01-08T00:56:06+00:00",
       "published_human": "2026-01-08T00:56",
-      "source": "https://medic360.ro/"
-    },
-    {
-      "title": "Implanturi mamare cu silicon: aspecte medicale esențiale",
-      "link": "https://medic360.ro/implanturi-mamare-cu-silicon-aspecte-medicale-esentiale/",
-      "summary": "Decizia de a apela la o intervenție estetică nu este niciodată una simplă, mai ales atunci când presupune modificări corporale&#8230; Articolul Implanturi mamare cu silicon: aspecte medicale esențiale apare prima dată în Medic 360 .",
-      "published": "2025-12-19T11:05:33+00:00",
-      "published_human": "2025-12-19T11:05",
       "source": "https://medic360.ro/"
     }
   ],
