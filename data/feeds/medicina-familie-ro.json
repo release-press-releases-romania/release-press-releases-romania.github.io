@@ -7,9 +7,17 @@
     "rss": "https://medicina-familie.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-05-19T01:26:42.466020+00:00",
+  "updated_at": "2026-05-19T06:30:16.485716+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Sănătatea familiei: De ce este importantă testarea genetică în sarcină?",
+      "link": "https://medicina-familie.ro/sanatatea-familiei-de-ce-este-importanta-testarea-genetica-in-sarcina/",
+      "summary": "Sarcina este o perioadă complicată pentru femei și pentru cupluri în general. Apar foarte multe... Articolul Sănătatea familiei: De ce este importantă testarea genetică în sarcină? apare prima dată în Medicina de Familie .",
+      "published": "2026-05-19T05:43:51+00:00",
+      "published_human": "2026-05-19T05:43",
+      "source": "https://medicina-familie.ro/"
+    },
     {
       "title": "Omega-3 în alimentația zilnică – rolul acizilor grași esențiali în menținerea funcțiilor normale ale organismului",
       "link": "https://medicina-familie.ro/omega-3-in-alimentatia-zilnica-rolul-acizilor-grasi-esentiali-in-mentinerea-functiilor-normale-ale-organismului/",
@@ -96,14 +104,6 @@
       "summary": "În ziua de astăzi, sănătatea mintală este un subiect extrem de important, care necesită o... Articolul Creierul copiilor, pus sub lupă: ce arată EEG-ul despre emoțiile lor apare prima dată în Medicina de Familie .",
       "published": "2025-10-20T21:32:46+00:00",
       "published_human": "2025-10-20T21:32",
-      "source": "https://medicina-familie.ro/"
-    },
-    {
-      "title": "Învață elevii despre risipa alimentară!",
-      "link": "https://medicina-familie.ro/invata-elevii-despre-risipa-alimentara/",
-      "summary": "Descarcă gratuit jocul Provocarea&#160;resurselor!&#160;Transformă &#238;nvățarea despre risipa&#160;alimentară&#160;&#238;ntr-o aventură&#160;educați&#160;onală&#160;de neuitat, &#238;n care copiii vor &#238;nvăța prin... Articolul Învață elevii despre risipa alimentară! apare prima dată în Medicina de Familie .",
-      "published": "2025-10-17T10:05:48+00:00",
-      "published_human": "2025-10-17T10:05",
       "source": "https://medicina-familie.ro/"
     }
   ],
