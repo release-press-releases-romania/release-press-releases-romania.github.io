@@ -7,9 +7,17 @@
     "rss": "https://info-santate.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-05-20T16:01:13.340093+00:00",
+  "updated_at": "2026-05-20T18:36:15.537545+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Viitorul medicinei: Cum îți poate salva viața testarea genetică?",
+      "link": "https://info-santate.ro/viitorul-medicinei-cum-iti-poate-salva-viata-testarea-genetica/",
+      "summary": "Într-o lume în care nu mai avem timp de aproape nimic, prevenția proactivă devine extrem de importantă. E mai important&#8230; Articolul Viitorul medicinei: Cum îți poate salva viața testarea genetică? apare prima dată în Info Sanatate .",
+      "published": "2026-05-20T18:28:15+00:00",
+      "published_human": "2026-05-20T18:28",
+      "source": "https://info-santate.ro/"
+    },
     {
       "title": "Scrisoare deschisă privind accesul pacienților oncologici la servicii de radioterapie și utilizarea capacităților disponibile",
       "link": "https://info-santate.ro/scrisoare-deschisa-privind-accesul-pacientilor-oncologici-la-servicii-de-radioterapie-si-utilizarea-capacitatilor-disponibile/",
@@ -72,14 +80,6 @@
       "summary": "Aparat dentar Spark: plan de tratament. Iata cate ore trebuie sa porti zilnic dispozitivul dentar Alegerea unui aparat dentar modern&#8230; Articolul Aparat dentar Spark: plan de tratament. apare prima dată în Info Sanatate .",
       "published": "2025-12-23T05:05:47+00:00",
       "published_human": "2025-12-23T05:05",
-      "source": "https://info-santate.ro/"
-    },
-    {
-      "title": "Thread-uri pe Mastodon: cum spui o poveste în mai multe postări",
-      "link": "https://info-santate.ro/thread-uri-pe-mastodon-cum-spui-o-poveste-in-mai-multe-postari/",
-      "summary": "Introducere: Arta de a Construi o Narațiune Amplă pe Mastodon V-ați simțit vreodată limitați de spațiul restrâns pe platformele sociale&#8230; Articolul Thread-uri pe Mastodon: cum spui o poveste în mai multe postări apare prima dată în Info Sanatate .",
-      "published": "2025-12-17T16:58:54+00:00",
-      "published_human": "2025-12-17T16:58",
       "source": "https://info-santate.ro/"
     }
   ],

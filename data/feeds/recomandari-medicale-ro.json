@@ -7,9 +7,17 @@
     "rss": "https://recomandari-medicale.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-05-20T16:01:13.340093+00:00",
+  "updated_at": "2026-05-20T18:36:15.537545+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Ce este ADN-ul și care este rolul său în funcționarea organismului?",
+      "link": "https://recomandari-medicale.ro/ce-este-adn-ul-si-care-este-rolul-sau-in-functionarea-organismului/",
+      "summary": "Așa cum orice produs are un manual de utilizare care ne ajută să folosim în mod corect un lucru, un&#8230; Articolul Ce este ADN-ul și care este rolul său în funcționarea organismului? apare prima dată în Recomandari Medicale .",
+      "published": "2026-05-20T18:30:28+00:00",
+      "published_human": "2026-05-20T18:30",
+      "source": "https://recomandari-medicale.ro/"
+    },
     {
       "title": "Cum să îți îmbunătățești rutina de îngrijire a pielii cu ajutorul suplimentelor naturale",
       "link": "https://recomandari-medicale.ro/cum-sa-iti-imbunatatesti-rutina-de-ingrijire-a-pielii-cu-ajutorul-suplimentelor-naturale/",
@@ -96,14 +104,6 @@
       "summary": "Somnul ar trebui să fie momentul în care corpul și mintea se refac, dar pentru mulți oameni nopțile au devenit&#8230; Articolul Somn bun, nopți liniștite: ce poți schimba ca să te odihnești mai bine apare prima dată în Recomandari Medicale .",
       "published": "2026-03-03T09:55:41+00:00",
       "published_human": "2026-03-03T09:55",
-      "source": "https://recomandari-medicale.ro/"
-    },
-    {
-      "title": "5 accesorii necesare pentru o uniformă medicală completă",
-      "link": "https://recomandari-medicale.ro/5-accesorii-necesare-pentru-o-uniforma-medicala-completa/",
-      "summary": "O uniformă medicală completă înseamnă ceva mai mult decât un set cu bluză și pantaloni. Un medic sau un asistent&#8230; Articolul 5 accesorii necesare pentru o uniformă medicală completă apare prima dată în Recomandari Medicale .",
-      "published": "2026-02-18T05:41:38+00:00",
-      "published_human": "2026-02-18T05:41",
       "source": "https://recomandari-medicale.ro/"
     }
   ],
