@@ -7,7 +7,7 @@
     "rss": "https://stiri-medicale.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-05-21T10:50:13.247457+00:00",
+  "updated_at": "2026-05-21T14:18:28.136404+00:00",
   "status": "ok",
   "items": [
     {
@@ -16,6 +16,14 @@
       "summary": "Genunchiul este un organ foarte sensibil la orice lovituri, șocuri, schimbări apărute la nivelul țesuturilor interne. Durerea de genunchi apare&#8230; Articolul Simptome: Semnele care indică o ruptură de menisc, nu doar o entorsă apare prima dată în Stiri Medicale .",
       "published": "2026-05-19T05:53:01+00:00",
       "published_human": "2026-05-19T05:53",
+      "source": "https://stiri-medicale.ro/"
+    },
+    {
+      "title": "Noi date clinice ECO 2026: Doza superioară de Wegovy® generează o slăbire de aproape 28% și protejează masa musculară",
+      "link": "https://stiri-medicale.ro/noi-date-clinice-eco-2026-doza-superioara-de-wegovy-genereaza-o-slabire-de-aproape-28-si-protejeaza-masa-musculara/",
+      "summary": "Noile date prezentate de Novo Nordisk &#238;n cadrul Congresului European de Obezitate (ECO) 2026 de la Istanbul consolidează poziția tratamentului&#8230; Articolul Noi date clinice ECO 2026: Doza superioară de Wegovy® generează o slăbire de aproape 28% și protejează masa musculară apare prima dată în Stiri Medicale .",
+      "published": "2026-05-11T13:50:00+00:00",
+      "published_human": "2026-05-11T13:50",
       "source": "https://stiri-medicale.ro/"
     },
     {
@@ -96,14 +104,6 @@
       "summary": "În lumea medicală, unde fiecare detaliu poate face diferența între siguranță și risc, elemente aparent banale capătă o importanță majoră.&#8230; Articolul Boneta medicală. Simplu accesoriu sau echipament esențial? apare prima dată în Stiri Medicale .",
       "published": "2025-12-10T20:04:11+00:00",
       "published_human": "2025-12-10T20:04",
-      "source": "https://stiri-medicale.ro/"
-    },
-    {
-      "title": "Ce opțiuni de tratament ai dacă ai fost diagnosticat cu maladia Dupuytren?",
-      "link": "https://stiri-medicale.ro/ce-optiuni-de-tratament-ai-daca-ai-fost-diagnosticat-cu-maladia-dupuytren/",
-      "summary": "Dacă ți s-a spus recent că suferi de maladia Dupuytren, probabil te &#238;ntrebi ce urmează. Ce &#238;nseamnă această afecțiune pentru&#8230; Articolul Ce opțiuni de tratament ai dacă ai fost diagnosticat cu maladia Dupuytren? apare prima dată în Stiri Medicale .",
-      "published": "2025-12-07T14:34:00+00:00",
-      "published_human": "2025-12-07T14:34",
       "source": "https://stiri-medicale.ro/"
     }
   ],
