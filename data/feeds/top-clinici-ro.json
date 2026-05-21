@@ -4,10 +4,10 @@
     "name": "Top Clinici",
     "url": "https://top-clinici.ro/",
     "category": "Health",
-    "rss": "https://top-clinici.ro/?feed=rss2"
+    "rss": "https://top-clinici.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-05-21T21:08:32.831041+00:00",
+  "updated_at": "2026-05-21T22:45:46.293618+00:00",
   "status": "ok",
   "items": [
     {
