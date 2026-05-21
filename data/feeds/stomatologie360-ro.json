@@ -7,9 +7,17 @@
     "rss": "https://stomatologie360.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-05-21T14:18:28.136404+00:00",
+  "updated_at": "2026-05-21T17:07:44.498804+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Titanul și osul uman: cum a apărut cel mai important material din stomatologia modernă",
+      "link": "https://stomatologie360.ro/titanul-si-osul-uman-cum-a-aparut-cel-mai-important-material-din-stomatologia-moderna/",
+      "summary": "Puține materiale au schimbat medicina modernă atât de mult precum titanul. În stomatologie, apariția implanturilor... Articolul Titanul și osul uman: cum a apărut cel mai important material din stomatologia modernă apare prima dată în Stomatologie 360 .",
+      "published": "2026-05-21T15:48:22+00:00",
+      "published_human": "2026-05-21T15:48",
+      "source": "https://stomatologie360.ro/"
+    },
     {
       "title": "Impactul inovațiilor tehnologice în producția de consumabile stomatologice",
       "link": "https://stomatologie360.ro/impactul-inovatiilor-tehnologice-in-productia-de-consumabile-stomatologice/",
@@ -96,14 +104,6 @@
       "summary": "Într-o perioadă în care tehnologia redefinește aproape fiecare domeniu, stomatologia trece printr-o transformare fără precedent,... Articolul Cum arată viitorul stomatologiei prin digitalizare completă apare prima dată în Stomatologie 360 .",
       "published": "2025-09-04T15:45:26+00:00",
       "published_human": "2025-09-04T15:45",
-      "source": "https://stomatologie360.ro/"
-    },
-    {
-      "title": "De la grijă preventivă la estetică premium – Delta Clinic Dent are soluția potrivită",
-      "link": "https://stomatologie360.ro/de-la-grija-preventiva-la-estetica-premium-delta-clinic-dent-are-solutia-potrivita/",
-      "summary": "Sănătatea orală începe cu prevenția și cu atenția constantă acordată fiecărui detaliu. Vizitele regulate la... Articolul De la grijă preventivă la estetică premium – Delta Clinic Dent are soluția potrivită apare prima dată în Stomatologie 360 .",
-      "published": "2025-09-04T11:34:58+00:00",
-      "published_human": "2025-09-04T11:34",
       "source": "https://stomatologie360.ro/"
     }
   ],

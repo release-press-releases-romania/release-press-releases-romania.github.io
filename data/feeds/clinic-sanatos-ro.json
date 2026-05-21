@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@clinic_sanatos",
     "rss": "https://social.5th.ro/@clinic_sanatos.rss"
   },
-  "updated_at": "2026-05-21T14:18:28.136404+00:00",
+  "updated_at": "2026-05-21T17:07:44.498804+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Infecții urinare repetate: Legătura dintre leucocitele crescute și sănătatea aparatului renal",
+      "link": "https://clinic-sanatos.ro/infectii-urinare-repetate-legatura-dintre-leucocitele-crescute-si-sanatatea-aparatului-renal/",
+      "summary": "În momentul în care analizele de sânge indică valori peste limitele normale pentru leucocite, organismul... Articolul Infecții urinare repetate: Legătura dintre leucocitele crescute și sănătatea aparatului renal apare prima dată în Clinic Sanatos .",
+      "published": "2026-05-21T15:52:17+00:00",
+      "published_human": "2026-05-21T15:52",
+      "source": "https://clinic-sanatos.ro/"
+    },
     {
       "title": "Chirurgia minim invazivă în cancerul de colon: ce opțiuni există",
       "link": "https://clinic-sanatos.ro/chirurgia-minim-invaziva-in-cancerul-de-colon-ce-optiuni-exista/",
@@ -100,17 +108,17 @@
       "published": "2025-12-01T06:51:37+00:00",
       "published_human": "2025-12-01T06:51",
       "source": "https://clinic-sanatos.ro/"
-    },
-    {
-      "title": "Importanța vitaminelor și mineralelor în timpul unei diete de slăbire",
-      "link": "https://clinic-sanatos.ro/importanta-vitaminelor-si-mineralelor-in-timpul-unei-diete-de-slabire/",
-      "summary": "Adoptarea unei diete de slăbire implică nu doar reducerea aportului caloric, ci și menținerea unei... Articolul Importanța vitaminelor și mineralelor în timpul unei diete de slăbire apare prima dată în Clinic Sanatos .",
-      "published": "2025-11-30T11:56:38+00:00",
-      "published_human": "2025-11-30T11:56",
-      "source": "https://clinic-sanatos.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@clinic_sanatos/116613365101552852",
+      "summary": "În momentul în care analizele de sânge indică valori peste limitele normale pentru leucocite, organismul nostru transmite un mesaj clar: lupta împotriva infecției a devenit prioritară pentru întreg sistemul imunitar, nu se mai desfășoară doar la nivelul vezicii și sistemului urinar. Pacienții cu infecții urinare repetate vor avea nevoie în permanență de monitorizarea .... https:// clinic-sanatos.ro/infectii-uri nare-repetate-legatura-dintre-leucocitele-crescute-si-sanatatea-aparatului-renal/",
+      "published": "2026-05-21T15:52:19+00:00",
+      "published_human": "2026-05-21T15:52",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@clinic_sanatos/116549658603454965",
@@ -197,14 +205,6 @@
       "summary": "Adoptarea unei diete de slăbire implică nu doar reducerea aportului caloric, ci și menținerea unei nutriții echilibrate. Atunci când aportul de alimente scade, crește riscul apariției deficiențelor de vitamine și minerale esențiale. Aceste carențe pot afecta nivelul de energie, buna funcționare a metabolismului și starea generală de sănătate. De aceea, suplimentarea adecvată devine un sprijin… .... https:// clinic-sanatos.ro/importanta-v itaminelor-si-mineralelor-in-timpul-unei-diete-de-slabire/",
       "published": "2025-12-10T09:54:49+00:00",
       "published_human": "2025-12-10T09:54",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@clinic_sanatos/115694658464618416",
-      "summary": "Pasiunile noastre ne pot aduce bucurie și adrenalină. Totuși, dacă vă bucurați de emoția oferită de pariuri, știți cât de ușor se poate pierde limita dintre divertisment și problemă. Menținerea unor pariuri responsabile nu este doar o recomandare de marketing. Este o necesitate absolută pentru bunăstarea dumneavoastră financiară și emoțională. Foarte puțini oameni recunosc instantaneu… .... https:// clinic-sanatos.ro/pariuri-resp onsabile-semne-ca-e-timpul-sa-te-opresti-sau-sa-reduci-miza/",
-      "published": "2025-12-10T09:53:09+00:00",
-      "published_human": "2025-12-10T09:53",
       "source": "Mastodon"
     }
   ]

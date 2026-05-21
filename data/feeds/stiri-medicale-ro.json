@@ -7,7 +7,7 @@
     "rss": "https://stiri-medicale.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-05-21T14:18:28.136404+00:00",
+  "updated_at": "2026-05-21T17:07:44.498804+00:00",
   "status": "ok",
   "items": [
     {
@@ -16,6 +16,22 @@
       "summary": "Genunchiul este un organ foarte sensibil la orice lovituri, șocuri, schimbări apărute la nivelul țesuturilor interne. Durerea de genunchi apare&#8230; Articolul Simptome: Semnele care indică o ruptură de menisc, nu doar o entorsă apare prima dată în Stiri Medicale .",
       "published": "2026-05-19T05:53:01+00:00",
       "published_human": "2026-05-19T05:53",
+      "source": "https://stiri-medicale.ro/"
+    },
+    {
+      "title": "Tratamentul Wegovy® generează o scădere în greutate de până la 22,6% la femei în perioada menopauzei și reduce la jumătate riscul de migrene",
+      "link": "https://stiri-medicale.ro/tratamentul-wegovy-genereaza-o-scadere-in-greutate-de-pana-la-226-la-femei-in-perioada-menopauzei-si-reduce-la-jumatate-riscul-de-migrene/",
+      "summary": "Obezitatea afectează &#238;n prezent aproape 1 din 5 femei la nivel global, iar provocările devin și mai mari &#238;n perioada&#8230; Articolul Tratamentul Wegovy® generează o scădere în greutate de până la 22,6% la femei în perioada menopauzei și reduce la jumătate riscul de migrene apare prima dată în Stiri Medicale .",
+      "published": "2026-05-13T14:59:00+00:00",
+      "published_human": "2026-05-13T14:59",
+      "source": "https://stiri-medicale.ro/"
+    },
+    {
+      "title": "Wegovy® (semaglutidă) recomandat de NICE pentru reducerea riscului de atac de cord și accident vascular cerebral",
+      "link": "https://stiri-medicale.ro/wegovy-semaglutida-recomandat-de-nice-pentru-reducerea-riscului-de-atac-de-cord-si-accident-vascular-cerebral/",
+      "summary": "Institutul Național pentru Sănătate și Excelență Clinică (NICE) din Marea Britanie a recomandat oficial utilizarea Wegovy&#174; (semaglutidă injectabilă) ca prim&#8230; Articolul Wegovy® (semaglutidă) recomandat de NICE pentru reducerea riscului de atac de cord și accident vascular cerebral apare prima dată în Stiri Medicale .",
+      "published": "2026-05-11T14:27:00+00:00",
+      "published_human": "2026-05-11T14:27",
       "source": "https://stiri-medicale.ro/"
     },
     {
@@ -88,22 +104,6 @@
       "summary": "Vederea copilului influențează direct modul în care acesta învață, se joacă și interacționează cu lumea din jur. De multe ori,&#8230; Articolul Semne ale modificărilor de vedere la copii pe care părinții nu trebuie să le ignore apare prima dată în Stiri Medicale .",
       "published": "2025-12-23T13:33:12+00:00",
       "published_human": "2025-12-23T13:33",
-      "source": "https://stiri-medicale.ro/"
-    },
-    {
-      "title": "Cum îți promovezi proiectul local în Mastodon România",
-      "link": "https://stiri-medicale.ro/cum-iti-promovezi-proiectul-local-in-mastodon-romania/",
-      "summary": "V-ați săturat să luptați cu algoritmii opaci ai rețelelor sociale centralizate? Observați că eforturile de a ajunge la comunitatea locală&#8230; Articolul Cum îți promovezi proiectul local în Mastodon România apare prima dată în Stiri Medicale .",
-      "published": "2025-12-17T16:58:54+00:00",
-      "published_human": "2025-12-17T16:58",
-      "source": "https://stiri-medicale.ro/"
-    },
-    {
-      "title": "Boneta medicală. Simplu accesoriu sau echipament esențial?",
-      "link": "https://stiri-medicale.ro/boneta-medicala-simplu-accesoriu-sau-echipament-esential/",
-      "summary": "În lumea medicală, unde fiecare detaliu poate face diferența între siguranță și risc, elemente aparent banale capătă o importanță majoră.&#8230; Articolul Boneta medicală. Simplu accesoriu sau echipament esențial? apare prima dată în Stiri Medicale .",
-      "published": "2025-12-10T20:04:11+00:00",
-      "published_human": "2025-12-10T20:04",
       "source": "https://stiri-medicale.ro/"
     }
   ],
