@@ -7,9 +7,17 @@
     "rss": "https://5th.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-05-24T17:29:30.444381+00:00",
+  "updated_at": "2026-05-24T19:44:29.171668+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Unde să cumperi un apartament în estul Bucureștiului: oportunități moderne în Sectorul 3",
+      "link": "https://5th.ro/unde-sa-cumperi-un-apartament-in-estul-bucurestiului-oportunitati-moderne-in-sectorul-3/",
+      "summary": "Unde să cumperi un apartament în estul Bucureștiului: oportunități moderne în Sectorul 3 Bucureștiul se dezvoltă constant, iar estul capitalei devine din ce în ce mai atractiv pentru cumpărătorii care caută locuințe moderne la prețuri accesibile. Sectorul 3, în special, a cunoscut o expansiune semnificativă în ultimii ani, fiind preferat atât de familii, cât și Articolul Unde să cumperi un apartament în estul Bucureștiului: oportunități moderne în Sectorul 3 apare prima dată în 5th.ro – Social Media Mastodon Instance .",
+      "published": "2026-05-24T17:55:00+00:00",
+      "published_human": "2026-05-24T17:55",
+      "source": "https://5th.ro/"
+    },
     {
       "title": "Torturi personalizate pentru copii: idei dulci pentru petreceri memorabile",
       "link": "https://5th.ro/torturi-personalizate-pentru-copii-idei-dulci-pentru-petreceri-memorabile/",
@@ -80,14 +88,6 @@
       "summary": "Ce este o instanță Mastodon O instanță Mastodon este un server independent care face parte din fediverse. Deși toate folosesc același software, experiența poate fi foarte diferită în funcție de regulile instanței. Ce înseamnă o instanță Mastodon publică O instanță publică permite: Avantaje: Dezavantaje: Ce înseamnă o instanță Mastodon privată O instanță privată sau semi-privată: Articolul Instanță Mastodon publică sau privată? Cum alegi serverul potrivit pentru tine apare prima dată în 5th.ro – Social Media Mastodon Instance .",
       "published": "2025-12-13T08:59:13+00:00",
       "published_human": "2025-12-13T08:59",
-      "source": "https://5th.ro/"
-    },
-    {
-      "title": "Ce este Mastodon și cum funcționează fediverse-ul – alternativa reală la rețelele sociale clasice",
-      "link": "https://5th.ro/ce-este-mastodon-cum-functioneaza-fediverse/",
-      "summary": "Ce este Mastodon Mastodon este o rețea socială descentralizată, open-source, care funcționează diferit față de platformele clasice precum Facebook sau X (Twitter). Nu există un server central care controlează tot conținutul. În schimb, Mastodon este format din mii de instanțe independente, fiecare cu propriile reguli, dar interconectate prin fediverse. Ce înseamnă fediverse Fediverse este o Articolul Ce este Mastodon și cum funcționează fediverse-ul – alternativa reală la rețelele sociale clasice apare prima dată în 5th.ro – Social Media Mastodon Instance .",
-      "published": "2025-12-13T08:42:32+00:00",
-      "published_human": "2025-12-13T08:42",
       "source": "https://5th.ro/"
     }
   ],
