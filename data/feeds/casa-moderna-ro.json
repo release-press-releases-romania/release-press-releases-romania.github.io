@@ -7,9 +7,17 @@
     "rss": "https://casa-moderna.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-05-28T04:46:39.161256+00:00",
+  "updated_at": "2026-05-28T08:55:31.613325+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Cum schimbă AI electrocasnicele moderne?",
+      "link": "https://casa-moderna.ro/cum-schimba-ai-electrocasnicele-moderne/",
+      "summary": "În 2026, AI schimbă electrocasnicele moderne prin faptul că le face mai ușor de folosit, mai conectate și mai adaptate&#8230; Articolul Cum schimbă AI electrocasnicele moderne? apare prima dată în Casa Moderna .",
+      "published": "2026-05-20T07:44:00+00:00",
+      "published_human": "2026-05-20T07:44",
+      "source": "https://casa-moderna.ro/"
+    },
     {
       "title": "Colecistectomie laparoscopică București: pregătire, intervenție și recuperare",
       "link": "https://casa-moderna.ro/colecistectomie-laparoscopica-bucuresti-pregatire-interventie-si-recuperare/",
@@ -96,14 +104,6 @@
       "summary": "Risipa alimentară apare des din lipsă de vizibilitate și planificare. AI poate ajuta prin alerte, inventar mai clar și recomandări&#8230; Articolul Cum ajută AI la prevenirea risipei alimentare: alerte, recomandări și gestionarea stocurilor apare prima dată în Casa Moderna .",
       "published": "2026-02-15T07:09:00+00:00",
       "published_human": "2026-02-15T07:09",
-      "source": "https://casa-moderna.ro/"
-    },
-    {
-      "title": "Top 6 situații de urgență în care un generator de curent devine indispensabil",
-      "link": "https://casa-moderna.ro/top-6-situatii-de-urgenta-in-care-un-generator-de-curent-devine-indispensabil/",
-      "summary": "Astăzi, tehnologia ne ghidează fiecare pas, iar dependența de electricitate a devenit mai evidentă ca niciodată. Fie că vorbim despre&#8230; Articolul Top 6 situații de urgență în care un generator de curent devine indispensabil apare prima dată în Casa Moderna .",
-      "published": "2026-02-13T12:48:23+00:00",
-      "published_human": "2026-02-13T12:48",
       "source": "https://casa-moderna.ro/"
     }
   ],

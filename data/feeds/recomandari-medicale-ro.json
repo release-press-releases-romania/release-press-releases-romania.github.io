@@ -7,9 +7,17 @@
     "rss": "https://recomandari-medicale.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-05-28T04:46:39.161256+00:00",
+  "updated_at": "2026-05-28T08:55:31.613325+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Un diagnostic la 35 de ani: cum schimbă autismul perspectiva asupra propriei vieți",
+      "link": "https://recomandari-medicale.ro/un-diagnostic-la-35-de-ani-cum-schimba-autismul-perspectiva-asupra-propriei-vieti/",
+      "summary": "Diagnosticul de autism la maturitate devine tot mai frecvent pentru că acele criterii de diagnostic s-au schimbat și s-au extins,&#8230; Articolul Un diagnostic la 35 de ani: cum schimbă autismul perspectiva asupra propriei vieți apare prima dată în Recomandari Medicale .",
+      "published": "2026-05-28T06:46:10+00:00",
+      "published_human": "2026-05-28T06:46",
+      "source": "https://recomandari-medicale.ro/"
+    },
     {
       "title": "Ce este ADN-ul și care este rolul său în funcționarea organismului?",
       "link": "https://recomandari-medicale.ro/ce-este-adn-ul-si-care-este-rolul-sau-in-functionarea-organismului/",
@@ -96,14 +104,6 @@
       "summary": "Sezonul cald aduce cu sine temperaturi ridicate, zile mai lungi și un ritm mai alert în unitățile medicale. În acest&#8230; Articolul Culori potrivite pentru uniforma medicală în sezonul cald apare prima dată în Recomandari Medicale .",
       "published": "2026-03-12T15:48:07+00:00",
       "published_human": "2026-03-12T15:48",
-      "source": "https://recomandari-medicale.ro/"
-    },
-    {
-      "title": "Somn bun, nopți liniștite: ce poți schimba ca să te odihnești mai bine",
-      "link": "https://recomandari-medicale.ro/somn-bun-nopti-linistite-ce-poti-schimba-ca-sa-te-odihnesti-mai-bine/",
-      "summary": "Somnul ar trebui să fie momentul în care corpul și mintea se refac, dar pentru mulți oameni nopțile au devenit&#8230; Articolul Somn bun, nopți liniștite: ce poți schimba ca să te odihnești mai bine apare prima dată în Recomandari Medicale .",
-      "published": "2026-03-03T09:55:41+00:00",
-      "published_human": "2026-03-03T09:55",
       "source": "https://recomandari-medicale.ro/"
     }
   ],
