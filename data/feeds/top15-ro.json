@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@top",
     "rss": "https://social.5th.ro/@top.rss"
   },
-  "updated_at": "2026-05-28T08:55:31.613325+00:00",
+  "updated_at": "2026-05-28T12:46:48.012124+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Ce înseamnă experiență unificată între dispozitive?",
+      "link": "https://top15.ro/ce-inseamna-experienta-unificata-intre-dispozitive/",
+      "summary": "Experiență unificată între dispozitive înseamnă ca telefonul, tableta, căștile și aplicațiile tale să funcționeze împreună,... Articolul Ce înseamnă experiență unificată între dispozitive? apare prima dată în TOP 15 .",
+      "published": "2026-05-27T11:03:00+00:00",
+      "published_human": "2026-05-27T11:03",
+      "source": "https://top15.ro/"
+    },
     {
       "title": "Ce căști aleg utilizatorii care lucrează mult?",
       "link": "https://top15.ro/ce-casti-aleg-utilizatorii-care-lucreaza-mult/",
@@ -100,17 +108,17 @@
       "published": "2026-04-26T09:39:00+00:00",
       "published_human": "2026-04-26T09:39",
       "source": "https://top15.ro/"
-    },
-    {
-      "title": "Ce monitor este bun pentru gaming?",
-      "link": "https://top15.ro/ce-monitor-este-bun-pentru-gaming/",
-      "summary": "Un monitor bun pentru gaming este unul cu rată de refresh ridicată (144Hz sau mai... Articolul Ce monitor este bun pentru gaming? apare prima dată în TOP 15 .",
-      "published": "2026-04-24T11:48:05+00:00",
-      "published_human": "2026-04-24T11:48",
-      "source": "https://top15.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@top/116651871582077539",
+      "summary": "📰Experiență unificată între dispozitive înseamnă ca telefonul, tableta, căștile și aplicațiile tale să funcționeze împreună, fără pași complicați. În 2026, utilizatorii caută dispozitive care se conectează rapid, păstrează continuitatea activităților și oferă acces la aceleași informații de pe ecrane diferite. În ecosistemul Samsung, această idee poate fi observată prin modul în care Galaxy Tab S11,… 📰 https:// top15.ro/ce-inseamna-experient a-unificata-intre-dispozitive/",
+      "published": "2026-05-28T11:05:02+00:00",
+      "published_human": "2026-05-28T11:05",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@top/116651093686619952",
@@ -197,14 +205,6 @@
       "summary": "📰Un monitor bun pentru gaming este unul cu rată de refresh ridicată (144Hz sau mai mult), timp de răspuns mic și rezoluție potrivită pentru sistemul tău. În 2026, cele mai bune monitoare oferă imagini fluide, latență redusă și culori clare, ceea ce îmbunătățește semnificativ experiența în jocuri, fie că vorbim de titluri competitive sau single-player.… 📰 https:// top15.ro/ce-monitor-este-bun-p entru-gaming/",
       "published": "2026-04-28T11:48:40+00:00",
       "published_human": "2026-04-28T11:48",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@top/116420688670766403",
-      "summary": "📰Tot mai multe companii din România aleg să externalizeze serviciile IT și de marketing online, pe fondul nevoii de eficientizare și reducere a costurilor operaționale.Potrivit unui interviu recent acordat de reprezentanții companiei Ro2Biz Online Software, externalizarea permite firmelor să gestioneze într-un mod unitar toate procesele digitale, de la infrastructura IT până la 📰 https:// top15.ro/externalizarea-servic iilor-it-devine-o-solutie-tot-mai-utilizata-de-companiile-din-romania/",
-      "published": "2026-04-17T15:12:10+00:00",
-      "published_human": "2026-04-17T15:12",
       "source": "Mastodon"
     }
   ]
