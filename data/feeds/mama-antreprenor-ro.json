@@ -7,9 +7,17 @@
     "rss": "https://mama-antreprenor.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-05-29T12:28:51.466596+00:00",
+  "updated_at": "2026-05-29T16:54:59.623183+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "CONIL FEST 2026: festivalul care uneste copiii din toata Romania",
+      "link": "https://mama-antreprenor.ro/conil-fest-2026-festivalul-care-uneste-copiii-din-toata-romania/",
+      "summary": "Peste 20.000 de vizitatori au celebrat dreptul fiecarui copil de a conta In zilele de 23 si 24 mai 2026, Bucurestiul a gazduit cea mai importanta si frumoasa sarbatoare dedicata incluziunii copiilor, CONIL Fest 2026, editia cu tema &#8222;Toti Copiii Conteaza&#8222;. Evenimentul organizat de Asociația CONIL &#238;n parteneriat cu Circul Metropolitan București, s-a bucurat de [&#8230;] Articolul CONIL FEST 2026: festivalul care uneste copiii din toata Romania apare prima dată în Mama Antreprenor .",
+      "published": "2026-05-29T10:49:04+00:00",
+      "published_human": "2026-05-29T10:49",
+      "source": "https://mama-antreprenor.ro/"
+    },
     {
       "title": "Recenzii studio Vivadiva Iași – cum afli adevărul din spatele reclamelor înainte să alegi un studio de videochat",
       "link": "https://mama-antreprenor.ro/recenzii-studio-vivadiva-iasi-cum-afli-adevarul-din-spatele-reclamelor-inainte-sa-alegi-un-studio-de-videochat/",
@@ -80,14 +88,6 @@
       "summary": "Înțelegerea Fediverse: De Ce Uneori Postările Tale Dispar Te-ai mutat pe Mastodon în căutarea unei experiențe sociale mai libere? Excelent. Însă, poate ai observat un fenomen ciudat: deși ai publicat un mesaj, acesta pare să nu apară imediat sau deloc pe instanțele prietenilor tăi. Nu ești singur. Această confuzie este extrem de frecventă pentru noii [&#8230;] Articolul De ce nu îți apar uneori postările în alte instanțe apare prima dată în Mama Antreprenor .",
       "published": "2025-12-17T16:58:54+00:00",
       "published_human": "2025-12-17T16:58",
-      "source": "https://mama-antreprenor.ro/"
-    },
-    {
-      "title": "De ce aspiratoarele cu AI recunosc mai bine tipurile de suprafețe",
-      "link": "https://mama-antreprenor.ro/de-ce-aspiratoarele-cu-ai-recunosc-mai-bine-tipurile-de-suprafete/",
-      "summary": "Aspiratoarele cu AI folosesc sisteme avansate pentru a identifica rapid zonele din locuință. Recunoașterea corectă a suprafețelor ajută la o curățare mai eficientă. 1. Ce este recunoașterea suprafețelor cu AI Recunoașterea suprafețelor cu AI este un proces în care aspiratorul analizează podeaua și decide modul optim de curățare. Sistemul combină senzori, tehnici de analiză și [&#8230;] Articolul De ce aspiratoarele cu AI recunosc mai bine tipurile de suprafețe apare prima dată în Mama Antreprenor .",
-      "published": "2025-12-10T10:07:57+00:00",
-      "published_human": "2025-12-10T10:07",
       "source": "https://mama-antreprenor.ro/"
     }
   ],
