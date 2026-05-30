@@ -7,9 +7,17 @@
     "rss": "https://stiri-live.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-05-30T04:30:18.909549+00:00",
+  "updated_at": "2026-05-30T07:59:01.110893+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Cum folosești AI pentru conținut social media?",
+      "link": "https://stiri-live.ro/cum-folosesti-ai-pentru-continut-social-media/",
+      "summary": "Cum folosești AI pentru conținut social media? Folosești AI pentru conținut social media atunci când vrei să creezi, editezi,. Articolul Cum folosești AI pentru conținut social media? apare prima dată în Stiri Live .",
+      "published": "2026-05-30T07:30:00+00:00",
+      "published_human": "2026-05-30T07:30",
+      "source": "https://stiri-live.ro/"
+    },
     {
       "title": "Cum folosești AI pentru conținut social media?",
       "link": "https://stiri-live.ro/cum-folosesti-ai-pentru-continut-social-media-2/",
@@ -96,14 +104,6 @@
       "summary": "Ați simțit vreodată că eforturile dumneavoastră de comunicare online se lovesc de un zid invizibil? În ultimii ani, antreprenorii. Articolul Mastodon România pentru antreprenori: cum comunici autentic apare prima dată în Stiri Live .",
       "published": "2025-12-17T16:58:54+00:00",
       "published_human": "2025-12-17T16:58",
-      "source": "https://stiri-live.ro/"
-    },
-    {
-      "title": "Comunicate de presă regionale în 2025: cum targetezi presa locală",
-      "link": "https://stiri-live.ro/comunicate-de-presa-regionale-in-2025-cum-targetezi-presa-locala/",
-      "summary": "Ați simțit vreodată că vocea afacerii dumneavoastră se pierde în zgomotul mediatic național? Multe companii investesc masiv în campanii. Articolul Comunicate de presă regionale în 2025: cum targetezi presa locală apare prima dată în Stiri Live .",
-      "published": "2025-12-01T12:07:49+00:00",
-      "published_human": "2025-12-01T12:07",
       "source": "https://stiri-live.ro/"
     }
   ],
