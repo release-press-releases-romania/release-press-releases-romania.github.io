@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@ienergie",
     "rss": "https://social.5th.ro/@ienergie.rss"
   },
-  "updated_at": "2026-06-02T11:45:22.322877+00:00",
+  "updated_at": "2026-06-02T16:57:37.877176+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "De la pasiune la cercetare aplicată: un elev Am School construiește și pregătește lansarea unei rachete",
+      "link": "https://ienergie.ro/de-la-pasiune-la-cercetare-aplicata-un-elev-am-school-construieste-si-pregateste-lansarea-unei-rachete/",
+      "summary": "Erik Culescu, elev &#238;n clasa a XII-a, pasionat de astronomie, inginerie aerospațială și tehnologie, pregătește prezentarea unui proiect educațional rar &#238;nt&#226;lnit &#238;n Rom&#226;nia: o rachetă [Mai mult...] Articolul De la pasiune la cercetare aplicată: un elev Am School construiește și pregătește lansarea unei rachete apare prima dată în iEnergie .",
+      "published": "2026-06-02T11:20:39+00:00",
+      "published_human": "2026-06-02T11:20",
+      "source": "https://iEnergie.ro/"
+    },
     {
       "title": "Componentele esențiale ale utilajelor folosite în construcția drumurilor",
       "link": "https://ienergie.ro/componentele-esentiale-ale-utilajelor-folosite-in-constructia-drumurilor/",
@@ -100,17 +108,17 @@
       "published": "2026-01-20T08:10:25+00:00",
       "published_human": "2026-01-20T08:10",
       "source": "https://iEnergie.ro/"
-    },
-    {
-      "title": "Bogdan Ivan: Capacitatea de intervenție este asigurată pentru aversele majore prognozate în mare parte a ţării la sfârșitul săptămânii",
-      "link": "https://ienergie.ro/bogdan-ivan-capacitatea-de-interventie-este-asigurata-pentru-aversele-majore-prognozate-in-mare-parte-a-tarii-la-sfarsitul-saptamanii/",
-      "summary": "Deși majoritatea avariilor cauzate de condițiile meteorologice extreme au fost remediate, un număr de aproximativ 11.250 de locuințe din județele Alba, Maramureș, Sălaj, Prahova și [Mai mult...] Articolul Bogdan Ivan: Capacitatea de intervenție este asigurată pentru aversele majore prognozate în mare parte a ţării la sfârșitul săptămânii apare prima dată în iEnergie .",
-      "published": "2026-01-20T08:09:11+00:00",
-      "published_human": "2026-01-20T08:09",
-      "source": "https://iEnergie.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@ienergie/116680974089637346",
+      "summary": "Erik Culescu, elev în clasa a XII-a, pasionat de astronomie, inginerie aerospațială și tehnologie, pregătește prezentarea unui proiect educațional rar întâlnit în România: o rachetă proiectată și construită aproape integral de el. Racheta, cu o înălțime de aproximativ 2 metri, reprezintă rezultatul a luni întregi de documentare, calcule, simulări și lucru practic. Proiectul https:// ienergie.ro/de-la-pasiune-la-c ercetare-aplicata-un-elev-am-school-construieste-si-pregateste-lansarea-unei-rachete/",
+      "published": "2026-06-02T14:26:11+00:00",
+      "published_human": "2026-06-02T14:26",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@ienergie/116613381853319003",
@@ -197,14 +205,6 @@
       "summary": "Tariful binom reprezintă o metodă modernă de repartizare a costurilor asociate cu serviciile de distribuție a energiei electrice între utilizatorii rețelei. Este important de subliniat că această structură tarifară nu introduce taxe suplimentare și nu majorează veniturile totale reglementate ale operatorilor de distribuție. În schimb, scopul său este de a https:// ienergie.ro/introducere-in-tar iful-binom-intelegerea-conceptului-si-motivele-pentru-care-este-dezbatut-intens-in-perioada-curenta/",
       "published": "2026-01-20T08:10:27+00:00",
       "published_human": "2026-01-20T08:10",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@ienergie/115926404500478824",
-      "summary": "Deși majoritatea avariilor cauzate de condițiile meteorologice extreme au fost remediate, un număr de aproximativ 11.250 de locuințe din județele Alba, Maramureș, Sălaj, Prahova și Cluj rămân nealimentate cu energie electrică. Ministrul Energiei, Bogdan Ivan, a transmis, la încheierea ședinței Comandamentului Energetic Național, că echipele https:// ienergie.ro/bogdan-ivan-capaci tatea-de-interventie-este-asigurata-pentru-aversele-majore-prognozate-in-mare-parte-a-tarii-la-sfarsitul-saptamanii/",
-      "published": "2026-01-20T08:09:13+00:00",
-      "published_human": "2026-01-20T08:09",
       "source": "Mastodon"
     }
   ]

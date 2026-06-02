@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@recent_news",
     "rss": "https://social.5th.ro/@recent_news.rss"
   },
-  "updated_at": "2026-06-02T11:45:22.322877+00:00",
+  "updated_at": "2026-06-02T16:57:37.877176+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "De la pasiune la cercetare aplicată: un elev Am School construiește și pregătește lansarea unei rachete",
+      "link": "https://recent-news.ro/de-la-pasiune-la-cercetare-aplicata-un-elev-am-school-construieste-si-pregateste-lansarea-unei-rachete/",
+      "summary": "Erik Culescu, elev &#238;n clasa a XII-a, pasionat de astronomie, inginerie aerospațială și tehnologie, pregătește prezentarea unui proiect educațional rar&#8230; Articolul De la pasiune la cercetare aplicată: un elev Am School construiește și pregătește lansarea unei rachete apare prima dată în Recent News .",
+      "published": "2026-06-02T11:20:20+00:00",
+      "published_human": "2026-06-02T11:20",
+      "source": "https://recent-news.ro/"
+    },
     {
       "title": "Ce înseamnă cafea de specialitate și cum alegi una bună",
       "link": "https://recent-news.ro/ce-inseamna-cafea-de-specialitate-si-cum-alegi-una-buna/",
@@ -84,17 +92,17 @@
       "published": "2026-03-04T09:12:34+00:00",
       "published_human": "2026-03-04T09:12",
       "source": "https://recent-news.ro/"
-    },
-    {
-      "title": "Unde găsești suport pentru vehicule de lux",
-      "link": "https://recent-news.ro/unde-gasesti-suport-pentru-vehicule-de-lux/",
-      "summary": "Deținerea unui vehicul de lux nu reprezintă doar o confirmare a succesului personal, ci și o responsabilitate majoră în ceea&#8230; Articolul Unde găsești suport pentru vehicule de lux apare prima dată în Recent News .",
-      "published": "2026-02-13T08:29:16+00:00",
-      "published_human": "2026-02-13T08:29",
-      "source": "https://recent-news.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@recent_news/116680968346340303",
+      "summary": "Erik Culescu, elev în clasa a XII-a, pasionat de astronomie, inginerie aerospațială și tehnologie, pregătește prezentarea unui proiect educațional rar întâlnit în România: o rachetă proiectată și construită aproape integral de el. Racheta, cu o înălțime de aproximativ 2 metri, reprezintă rezultatul a luni întregi de documentare, calcule, simulări și lucru practic. https:// recent-news.ro/de-la-pasiune-l a-cercetare-aplicata-un-elev-am-school-construieste-si-pregateste-lansarea-unei-rachete/",
+      "published": "2026-06-02T14:24:43+00:00",
+      "published_human": "2026-06-02T14:24",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@recent_news/116618982819877211",
@@ -181,14 +189,6 @@
       "summary": "Pastele este sarbatoarea care te face sa incetinesti. Sa lasi orasul in urma, sa te rupi de agitatie si sa cauti un loc unde lucrurile se intampla firesc si simplu. Tot mai multi oameni aleg sa petreaca Pastele la munte, intr-o zona autentica, unde traditiile nu sunt doar pentru turisti, ci fac parte din viata… https:// recent-news.ro/vacanta-de-past e-in-viseu-de-sus-munte-traditii-si-timp-pentru-familie/",
       "published": "2026-02-09T09:46:19+00:00",
       "published_human": "2026-02-09T09:46",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@recent_news/115999997068801998",
-      "summary": "Mai e mult pana in 2027? De ce „acum” este momentul perfect sa alegi gradinita potrivita pentru copilul tauStim ce gandesti: abia am pasit in noul an, iar 2027 pare o cifra dintr-un viitor indepartat. Insa, pentru un parinte, timpul are un mod bizar de a se comprima. Intre primii pasi si prima zi de… https:// recent-news.ro/mai-e-mult-pana -in-2027-de-ce-acum-este-momentul-perfect-sa-alegi-gradinita-potrivita-pentru-copilul-tau/",
-      "published": "2026-02-02T08:04:46+00:00",
-      "published_human": "2026-02-02T08:04",
       "source": "Mastodon"
     }
   ]
