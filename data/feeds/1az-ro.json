@@ -7,9 +7,17 @@
     "rss": "https://1az.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-06-04T22:49:15.664339+00:00",
+  "updated_at": "2026-06-05T01:33:23.506199+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "ANUNȚ COMBATERE AMBROZIE",
+      "link": "https://1az.ro/anunt-combatere-ambrozie/",
+      "summary": "Aceasta stire ANUNȚ COMBATERE AMBROZIE apare prima oara pe Primarii de la A la Z . Source Aceasta stire ANUNȚ COMBATERE AMBROZIE apare prima oara pe Primarii de la A la Z .",
+      "published": "2026-06-04T10:37:55+00:00",
+      "published_human": "2026-06-04T10:37",
+      "source": "https://1az.ro/"
+    },
     {
       "title": "MS Office 2019 64 {EZTV}",
       "link": "https://1az.ro/ms-office-2019-64-eztv/",
@@ -96,14 +104,6 @@
       "summary": "Aceasta stire Certificate de Urbanism mai 2026 apare prima oara pe Primarii de la A la Z . Certificate de Urbanism aprilie 2026 Source Aceasta stire Certificate de Urbanism mai 2026 apare prima oara pe Primarii de la A la Z .",
       "published": "2026-06-03T13:14:14+00:00",
       "published_human": "2026-06-03T13:14",
-      "source": "https://1az.ro/"
-    },
-    {
-      "title": "Publicație 03.06.2026",
-      "link": "https://1az.ro/publicatie-03-06-2026/",
-      "summary": "Aceasta stire Publicație 03.06.2026 apare prima oara pe Primarii de la A la Z . Source Aceasta stire Publicație 03.06.2026 apare prima oara pe Primarii de la A la Z .",
-      "published": "2026-06-03T12:48:21+00:00",
-      "published_human": "2026-06-03T12:48",
       "source": "https://1az.ro/"
     }
   ],
