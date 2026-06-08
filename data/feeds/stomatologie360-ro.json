@@ -7,8 +7,105 @@
     "rss": "https://stomatologie360.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-06-08T01:37:06.412712+00:00",
-  "status": "empty",
-  "items": [],
+  "updated_at": "2026-06-08T07:10:08.635778+00:00",
+  "status": "ok",
+  "items": [
+    {
+      "title": "Titanul și osul uman: cum a apărut cel mai important material din stomatologia modernă",
+      "link": "https://stomatologie360.ro/titanul-si-osul-uman-cum-a-aparut-cel-mai-important-material-din-stomatologia-moderna/",
+      "summary": "Puține materiale au schimbat medicina modernă atât de mult precum titanul. În stomatologie, apariția implanturilor... Articolul Titanul și osul uman: cum a apărut cel mai important material din stomatologia modernă apare prima dată în Stomatologie 360 .",
+      "published": "2026-05-21T15:48:22+00:00",
+      "published_human": "2026-05-21T15:48",
+      "source": "https://stomatologie360.ro/"
+    },
+    {
+      "title": "Impactul inovațiilor tehnologice în producția de consumabile stomatologice",
+      "link": "https://stomatologie360.ro/impactul-inovatiilor-tehnologice-in-productia-de-consumabile-stomatologice/",
+      "summary": "În prezent, tehnologia transformă activitățile din multe domenii, iar stomatologia nu face excepție. Impactul inovațiilor... Articolul Impactul inovațiilor tehnologice în producția de consumabile stomatologice apare prima dată în Stomatologie 360 .",
+      "published": "2026-05-19T14:07:40+00:00",
+      "published_human": "2026-05-19T14:07",
+      "source": "https://stomatologie360.ro/"
+    },
+    {
+      "title": "Cum să-ți crești performanța clinicii folosind echipamente stomatologice de ultimă generație",
+      "link": "https://stomatologie360.ro/cum-sa-ti-cresti-performanta-clinicii-folosind-echipamente-stomatologice-de-ultima-generatie/",
+      "summary": "Felul în care alegi să-ți dotezi cabinetul stomatologic poate face diferența între progres și stagnare.... Articolul Cum să-ți crești performanța clinicii folosind echipamente stomatologice de ultimă generație apare prima dată în Stomatologie 360 .",
+      "published": "2026-05-07T05:58:55+00:00",
+      "published_human": "2026-05-07T05:58",
+      "source": "https://stomatologie360.ro/"
+    },
+    {
+      "title": "Zâmbetul „de revistă”: Mituri și adevăruri despre fațetele dentare în 2026",
+      "link": "https://stomatologie360.ro/zambetul-de-revista-mituri-si-adevaruri-despre-fatetele-dentare-in-2026/",
+      "summary": "Te-ai uitat vreodată în oglindă și ai simțit că zâmbetul tău nu reflectă exact cine... Articolul Zâmbetul „de revistă”: Mituri și adevăruri despre fațetele dentare în 2026 apare prima dată în Stomatologie 360 .",
+      "published": "2026-03-31T15:37:44+00:00",
+      "published_human": "2026-03-31T15:37",
+      "source": "https://stomatologie360.ro/"
+    },
+    {
+      "title": "Cum îți faci un profil bilingv pe Mastodon România",
+      "link": "https://stomatologie360.ro/cum-iti-faci-un-profil-bilingv-pe-mastodon-romania/",
+      "summary": "Vrei să te extinzi online, dar ești blocat între dorința de a comunica eficient în... Articolul Cum îți faci un profil bilingv pe Mastodon România apare prima dată în Stomatologie 360 .",
+      "published": "2025-12-17T16:58:54+00:00",
+      "published_human": "2025-12-17T16:58",
+      "source": "https://stomatologie360.ro/"
+    },
+    {
+      "title": "2025: cum creezi un calendar de comunicate de presă pentru tot anul",
+      "link": "https://stomatologie360.ro/2025-cum-creezi-un-calendar-de-comunicate-de-presa-pentru-tot-anul/",
+      "summary": "Atenție: V-ați săturat să reacționați la crize în loc să le preveniți? Vă simțiți adesea... Articolul 2025: cum creezi un calendar de comunicate de presă pentru tot anul apare prima dată în Stomatologie 360 .",
+      "published": "2025-12-01T12:07:49+00:00",
+      "published_human": "2025-12-01T12:07",
+      "source": "https://stomatologie360.ro/"
+    },
+    {
+      "title": "Ghid rapid de simboluri speciale la păcănele pentru începători",
+      "link": "https://stomatologie360.ro/ghid-rapid-de-simboluri-speciale-la-pacanele-pentru-incepatori/",
+      "summary": "V-ați simțit vreodată confuz în fața ecranului unui slot, întrebându-vă de ce anumite combinații plătesc... Articolul Ghid rapid de simboluri speciale la păcănele pentru începători apare prima dată în Stomatologie 360 .",
+      "published": "2025-11-15T10:03:28+00:00",
+      "published_human": "2025-11-15T10:03",
+      "source": "https://stomatologie360.ro/"
+    },
+    {
+      "title": "Biletul zilei: ce este și de ce nu ar trebui să fie singura ta strategie",
+      "link": "https://stomatologie360.ro/biletul-zilei-ce-este-si-de-ce-nu-ar-trebui-sa-fie-singura-ta-strategie/",
+      "summary": "Vă doriți să transformați pariurile sportive dintr-un simplu hobby într-o sursă constantă de emoție și,... Articolul Biletul zilei: ce este și de ce nu ar trebui să fie singura ta strategie apare prima dată în Stomatologie 360 .",
+      "published": "2025-11-14T09:07:58+00:00",
+      "published_human": "2025-11-14T09:07",
+      "source": "https://stomatologie360.ro/"
+    },
+    {
+      "title": "Ghid SEO pentru startup-uri: cum concurezi cu branduri mari cu buget mic",
+      "link": "https://stomatologie360.ro/ghid-seo-pentru-startup-uri-cum-concurezi-cu-branduri-mari-cu-buget-mic/",
+      "summary": "A (Atenție): V-ați săturat să vedeți brandurile mari, cu bugete nelimitate, dominând rezultatele căutărilor? Simțiți... Articolul Ghid SEO pentru startup-uri: cum concurezi cu branduri mari cu buget mic apare prima dată în Stomatologie 360 .",
+      "published": "2025-11-14T07:32:14+00:00",
+      "published_human": "2025-11-14T07:32",
+      "source": "https://stomatologie360.ro/"
+    },
+    {
+      "title": "Cum îți adaptezi biletul zilei în funcție de competițiile sportive active",
+      "link": "https://stomatologie360.ro/cum-iti-adaptezi-biletul-zilei-in-functie-de-competitiile-sportive-active/",
+      "summary": "Introducere: De Ce Calendarul Sportiv Dictează Succesul Tău? Ați observat vreodată cât de mult se... Articolul Cum îți adaptezi biletul zilei în funcție de competițiile sportive active apare prima dată în Stomatologie 360 .",
+      "published": "2025-11-13T19:31:26+00:00",
+      "published_human": "2025-11-13T19:31",
+      "source": "https://stomatologie360.ro/"
+    },
+    {
+      "title": "Protein4Life.ro confirmă poziția de cel mai sigur magazin de suplimente din România",
+      "link": "https://stomatologie360.ro/protein4life-ro-confirma-pozitia-de-cel-mai-sigur-magazin-de-suplimente-din-romania/",
+      "summary": "Protein4Life.ro a anunțat astăzi consolidarea poziției sale pe piața locală, fiind recunoscut oficial de către... Articolul Protein4Life.ro confirmă poziția de cel mai sigur magazin de suplimente din România apare prima dată în Stomatologie 360 .",
+      "published": "2025-09-30T04:36:29+00:00",
+      "published_human": "2025-09-30T04:36",
+      "source": "https://stomatologie360.ro/"
+    },
+    {
+      "title": "Cum arată viitorul stomatologiei prin digitalizare completă",
+      "link": "https://stomatologie360.ro/cum-arata-viitorul-stomatologiei-prin-digitalizare-completa/",
+      "summary": "Într-o perioadă în care tehnologia redefinește aproape fiecare domeniu, stomatologia trece printr-o transformare fără precedent,... Articolul Cum arată viitorul stomatologiei prin digitalizare completă apare prima dată în Stomatologie 360 .",
+      "published": "2025-09-04T15:45:26+00:00",
+      "published_human": "2025-09-04T15:45",
+      "source": "https://stomatologie360.ro/"
+    }
+  ],
   "social": []
 }
