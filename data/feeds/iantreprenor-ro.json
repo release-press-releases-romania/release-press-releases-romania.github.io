@@ -7,9 +7,17 @@
     "rss": "https://iAntreprenor.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-06-08T07:10:08.635778+00:00",
+  "updated_at": "2026-06-08T12:11:12.986498+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Forumvideochat.ro este locul unde găsești recenzii despre Vivadiva",
+      "link": "https://iantreprenor.ro/forumvideochat-ro-este-locul-unde-gasesti-recenzii-despre-vivadiva/",
+      "summary": "Dacă te gândești să începi în videochat în Iași, probabil ai observat deja cât de greu este să găsești informații&#8230; Articolul Forumvideochat.ro este locul unde găsești recenzii despre Vivadiva apare prima dată în iAntreprenor .",
+      "published": "2026-06-08T08:41:52+00:00",
+      "published_human": "2026-06-08T08:41",
+      "source": "https://iAntreprenor.ro/"
+    },
     {
       "title": "Cum îți sincronizezi activitatea între dispozitive?",
       "link": "https://iantreprenor.ro/cum-iti-sincronizezi-activitatea-intre-dispozitive/",
@@ -96,14 +104,6 @@
       "summary": "Tot mai multe electrocasnice pot fi conectate la internet și controlate dintr-o aplicație. SmartThings este un exemplu de platformă care&#8230; Articolul Cum se integrează electrocasnicele în ecosistemul SmartThings apare prima dată în iAntreprenor .",
       "published": "2025-11-24T05:20:40+00:00",
       "published_human": "2025-11-24T05:20",
-      "source": "https://iAntreprenor.ro/"
-    },
-    {
-      "title": "ROMANIAN ENERGY WEEK 2025",
-      "link": "https://iantreprenor.ro/romanian-energy-week-2025/",
-      "summary": "ROMANIAN ENERGY WEEK 2025: 5 zile de dezbateri, 5 teme vitale pentru energie Palatul Parlamentului găzduiește &#238;ntre 17 și 21&#8230; Articolul ROMANIAN ENERGY WEEK 2025 apare prima dată în iAntreprenor .",
-      "published": "2025-11-18T07:22:57+00:00",
-      "published_human": "2025-11-18T07:22",
       "source": "https://iAntreprenor.ro/"
     }
   ],

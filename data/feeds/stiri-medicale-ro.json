@@ -7,9 +7,17 @@
     "rss": "https://stiri-medicale.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-06-08T07:10:08.635778+00:00",
+  "updated_at": "2026-06-08T12:11:12.986498+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Masaj Snagov, kinetoterapie și fizioterapie: ce alegi când ai dureri, tensiune sau mobilitate redusă",
+      "link": "https://stiri-medicale.ro/masaj-snagov-kinetoterapie-fizioterapie/",
+      "summary": "Când cauți masaj Snagov, probabil ai nevoie de mai mult decât o simplă pauză de relaxare. Poate simți tensiune în&#8230; Articolul Masaj Snagov, kinetoterapie și fizioterapie: ce alegi când ai dureri, tensiune sau mobilitate redusă apare prima dată în Stiri Medicale .",
+      "published": "2026-06-03T09:13:08+00:00",
+      "published_human": "2026-06-03T09:13",
+      "source": "https://stiri-medicale.ro/"
+    },
     {
       "title": "Simptome: Semnele care indică o ruptură de menisc, nu doar o entorsă",
       "link": "https://stiri-medicale.ro/simptome-semnele-care-indica-o-ruptura-de-menisc-nu-doar-o-entorsa/",
@@ -96,14 +104,6 @@
       "summary": "Un ochi care se &#8222;zbate&#8221; incontrolabil, o crampă musculară dureroasă (cârcel) care te trezește în toiul nopții, o stare de&#8230; Articolul Totul despre deficitul de Magneziu și Calciu apare prima dată în Stiri Medicale .",
       "published": "2025-12-23T13:39:00+00:00",
       "published_human": "2025-12-23T13:39",
-      "source": "https://stiri-medicale.ro/"
-    },
-    {
-      "title": "Semne ale modificărilor de vedere la copii pe care părinții nu trebuie să le ignore",
-      "link": "https://stiri-medicale.ro/semne-ale-modificarilor-de-vedere-la-copii-pe-care-parintii-nu-trebuie-sa-le-ignore/",
-      "summary": "Vederea copilului influențează direct modul în care acesta învață, se joacă și interacționează cu lumea din jur. De multe ori,&#8230; Articolul Semne ale modificărilor de vedere la copii pe care părinții nu trebuie să le ignore apare prima dată în Stiri Medicale .",
-      "published": "2025-12-23T13:33:12+00:00",
-      "published_human": "2025-12-23T13:33",
       "source": "https://stiri-medicale.ro/"
     }
   ],

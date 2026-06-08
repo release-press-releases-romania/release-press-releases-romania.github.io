@@ -7,9 +7,17 @@
     "rss": "https://iPresa.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-06-08T07:10:08.635778+00:00",
+  "updated_at": "2026-06-08T12:11:12.986498+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Ce este Motion Clinic și când ai nevoie de recuperare medicală?",
+      "link": "https://ipresa.ro/ce-este-motion-clinic-recuperare-medicala/",
+      "summary": "Ce este Motion Clinic și când ai nevoie de recuperare medicală? Motion Clinic este o clinică dedicată recuperării medicale, fizioterapiei, kinetoterapiei, terapiei manuale și serviciilor de ortopedie. Clinica se adresează persoanelor care se confruntă cu dureri, rigiditate, accidentări, probleme de mobilitate sau disconfort apărut în urma sedentarismului, sportului ori suprasolicitării. Prezentă online prin https://fiziomotion.ro, Motion [&#8230;] Articolul Ce este Motion Clinic și când ai nevoie de recuperare medicală? apare prima dată în iPresa .",
+      "published": "2026-06-07T08:57:59+00:00",
+      "published_human": "2026-06-07T08:57",
+      "source": "https://iPresa.ro/"
+    },
     {
       "title": "Software ERP pentru IMM-uri din România analizate de echipa WebGhid.ro",
       "link": "https://ipresa.ro/software-erp-pentru-imm-uri-din-romania-analizate-de-echipa-webghid-ro/",
@@ -80,14 +88,6 @@
       "summary": "Ați postat vreodată un link pe o rețea socială centralizată doar pentru a observa că arată dezordonat? Imaginea de preview era ruptă sau textul descriptiv lipsea complet? Această frustrare este comună, mai ales când scopul principal este ca informația să fie accesată ușor de publicul dumneavoastră. Pe măsură ce comunitățile online migrează către platforme descentralizate, [&#8230;] Articolul Mastodon și linkurile: cum le postezi ca să fie ușor de citit apare prima dată în iPresa .",
       "published": "2025-12-17T16:58:54+00:00",
       "published_human": "2025-12-17T16:58",
-      "source": "https://iPresa.ro/"
-    },
-    {
-      "title": "Scapă de reziduurile albe de pe haine după spălare cu aceste trucuri",
-      "link": "https://ipresa.ro/scapa-de-reziduurile-albe-de-pe-haine-dupa-spalare-cu-aceste-trucuri/",
-      "summary": "De ce apar “reziduurile albe” pe haine? Deseori, dupa o sesiune de spalare rufe, observam urme albe — de obicei ca o pudra pe material. Cauzele sunt variate: folosirea in exces a unui detergent rufe, apa dura, suprasaturarea masinii de spalat sau combinarea nefericita a culorilor si materialelor. Aceste reziduuri pot fi frustrante, iar hainele [&#8230;] Articolul Scapă de reziduurile albe de pe haine după spălare cu aceste trucuri apare prima dată în iPresa .",
-      "published": "2025-12-15T15:26:06+00:00",
-      "published_human": "2025-12-15T15:26",
       "source": "https://iPresa.ro/"
     }
   ],

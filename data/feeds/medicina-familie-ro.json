@@ -7,9 +7,17 @@
     "rss": "https://medicina-familie.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-06-08T07:10:08.635778+00:00",
+  "updated_at": "2026-06-08T12:11:12.986498+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Sunt studentă și vreau mai mult decât un job part-time. De asta caut: “opinii sincere Vivadiva Iași”",
+      "link": "https://medicina-familie.ro/sunt-studenta-si-vreau-mai-mult-decat-un-job-part-time-de-asta-caut-opinii-sincere-vivadiva-iasi/",
+      "summary": "Mă numesc Andreea, sunt studentă în Iași și, ca mulți alții, încercam să mă descurc... Articolul Sunt studentă și vreau mai mult decât un job part-time. De asta caut: “opinii sincere Vivadiva Iași” apare prima dată în Medicina de Familie .",
+      "published": "2026-06-08T09:05:24+00:00",
+      "published_human": "2026-06-08T09:05",
+      "source": "https://medicina-familie.ro/"
+    },
     {
       "title": "Sănătatea familiei: De ce este importantă testarea genetică în sarcină?",
       "link": "https://medicina-familie.ro/sanatatea-familiei-de-ce-este-importanta-testarea-genetica-in-sarcina/",
@@ -96,14 +104,6 @@
       "summary": "Ești un parior care preferă planificarea meticuloasă sau adrenalina de moment? Aceasta este întrebarea fundamentală... Articolul Pariuri live vs pariuri pre-meci: avantaje, dezavantaje și stiluri de joc apare prima dată în Medicina de Familie .",
       "published": "2025-11-13T19:31:26+00:00",
       "published_human": "2025-11-13T19:31",
-      "source": "https://medicina-familie.ro/"
-    },
-    {
-      "title": "Creierul copiilor, pus sub lupă: ce arată EEG-ul despre emoțiile lor",
-      "link": "https://medicina-familie.ro/creierul-copiilor-pus-sub-lupa-ce-arata-eeg-ul-despre-emotiile-lor/",
-      "summary": "În ziua de astăzi, sănătatea mintală este un subiect extrem de important, care necesită o... Articolul Creierul copiilor, pus sub lupă: ce arată EEG-ul despre emoțiile lor apare prima dată în Medicina de Familie .",
-      "published": "2025-10-20T21:32:46+00:00",
-      "published_human": "2025-10-20T21:32",
       "source": "https://medicina-familie.ro/"
     }
   ],

@@ -7,9 +7,17 @@
     "rss": "https://recomandari-medicale.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-06-08T07:10:08.635778+00:00",
+  "updated_at": "2026-06-08T12:11:12.986498+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Kinetoterapie și fizioterapie în Snagov: recomandări pentru pacienții cu dureri, rigiditate sau mobilitate redusă",
+      "link": "https://recomandari-medicale.ro/kinetoterapie-fizioterapie-snagov-motion-clinic/",
+      "summary": "Atunci când apare durerea, primul impuls este să cauți o soluție rapidă. Un antiinflamator, o cremă, repaus câteva zile sau&#8230; Articolul Kinetoterapie și fizioterapie în Snagov: recomandări pentru pacienții cu dureri, rigiditate sau mobilitate redusă apare prima dată în Recomandari Medicale .",
+      "published": "2026-06-02T09:24:19+00:00",
+      "published_human": "2026-06-02T09:24",
+      "source": "https://recomandari-medicale.ro/"
+    },
     {
       "title": "Apa de mare in sarcina: Ce trebuie stiut pentru o respiratie libera si o sanatate de fier",
       "link": "https://recomandari-medicale.ro/apa-de-mare-in-sarcina-ce-trebuie-stiut-pentru-o-respiratie-libera-si-o-sanatate-de-fier/",
@@ -96,14 +104,6 @@
       "summary": "Te trezești adesea cu o senzație de balonare care persistă pe tot parcursul zilei? Te confrunți cu crampe abdominale apărute&#8230; Articolul Cum pot evalua dacă am intoleranță alimentară? Ghid complet pentru redobândirea echilibrului digestiv apare prima dată în Recomandari Medicale .",
       "published": "2026-03-19T18:52:55+00:00",
       "published_human": "2026-03-19T18:52",
-      "source": "https://recomandari-medicale.ro/"
-    },
-    {
-      "title": "Sfaturi pentru a rămâne în formă și plin de vitalitate",
-      "link": "https://recomandari-medicale.ro/sfaturi-pentru-a-ramane-in-forma-si-plin-de-vitalitate/",
-      "summary": "A rămâne în formă nu este o destinație finală, un număr de kilograme pe cântar sau o imagine retușată în oglindă.&#8230; Articolul Sfaturi pentru a rămâne în formă și plin de vitalitate apare prima dată în Recomandari Medicale .",
-      "published": "2026-03-18T16:12:51+00:00",
-      "published_human": "2026-03-18T16:12",
       "source": "https://recomandari-medicale.ro/"
     }
   ],
