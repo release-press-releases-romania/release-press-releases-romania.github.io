@@ -4,15 +4,23 @@
     "name": "Stirisociale",
     "url": "https://stirisociale.ro/",
     "category": "News & Society",
-    "rss": "https://stirisociale.ro/feed/"
+    "rss": "https://stirisociale.ro/?feed=rss2"
   },
   "mastodon": {
     "url": "https://social.5th.ro/@stiri_sociale",
     "rss": "https://social.5th.ro/@stiri_sociale.rss"
   },
-  "updated_at": "2026-06-09T04:41:01.303785+00:00",
+  "updated_at": "2026-06-09T08:43:25.307117+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Cum alegem gradinita potrivita din toate punctele de vedere?",
+      "link": "https://stirisociale.ro/cum-alegem-gradinita-potrivita-din-toate-punctele-de-vedere/",
+      "summary": "Ionela Scarlat- psihopedagog Pentru ca ne aflam in perioada inscrierilor la gradinita, auzim tot mai des: &#8220; Care este gradinita potrivita pentru copilul meu?&#8221;. Alegerea gradinitei este un moment foarte&#8230; Articolul Cum alegem gradinita potrivita din toate punctele de vedere? apare prima dată în Stiri sociale .",
+      "published": "2026-06-09T04:00:13+00:00",
+      "published_human": "2026-06-09T04:00",
+      "source": "https://stirisociale.ro/"
+    },
     {
       "title": "Părerea unui fost model Viva Diva – de ce am plecat și cum am ajuns să câștig de 3 ori mai mult după ce m-am informat pe forumvideochat.com",
       "link": "https://stirisociale.ro/parerea-unui-fost-model-viva-diva-de-ce-am-plecat-si-cum-am-ajuns-sa-castig-de-3-ori-mai-mult-dupa-ce-m-am-informat-pe-forumvideochat-com/",
@@ -84,17 +92,17 @@
       "published": "2025-11-25T06:50:40+00:00",
       "published_human": "2025-11-25T06:50",
       "source": "https://stirisociale.ro/"
-    },
-    {
-      "title": "Păcănele în agențiile de pariuri vs cazinoul online: costuri și avantaje",
-      "link": "https://stirisociale.ro/pacanele-in-agentiile-de-pariuri-vs-cazinoul-online-costuri-si-avantaje/",
-      "summary": "Te-ai întrebat vreodată unde merită cu adevărat să îți încerci norocul? (Atenție) Mulți jucători se află la o răscruce. Pe de o parte, există atmosfera clasică a sălilor de joc,&#8230; Articolul Păcănele în agențiile de pariuri vs cazinoul online: costuri și avantaje apare prima dată în Stiri sociale .",
-      "published": "2025-11-15T10:03:28+00:00",
-      "published_human": "2025-11-15T10:03",
-      "source": "https://stirisociale.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@stiri_sociale/116718861170290306",
+      "summary": "Ionela Scarlat- psihopedagog Pentru ca ne aflam in perioada inscrierilor la gradinita, auzim tot mai des: “ Care este gradinita potrivita pentru copilul meu?”. Alegerea gradinitei este un moment foarte important pentru familie, pentru ca gradinita este locul in care cei mici fac primii pasi in cunoastere prin joc, invata sa interactioneze cu alte persoane… https:// stirisociale.ro/cum-alegem-gra dinita-potrivita-din-toate-punctele-de-vedere/",
+      "published": "2026-06-09T07:01:22+00:00",
+      "published_human": "2026-06-09T07:01",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@stiri_sociale/116595017835095290",
@@ -180,14 +188,6 @@
       "link": "https://social.5th.ro/@stiri_sociale/115694900333638819",
       "summary": "Pariurile sportive oferă o doză intensă de adrenalină și pot transforma urmărirea unui meci într-o experiență mult mai captivantă. Totuși, sub această fațadă a divertismentului se ascunde un risc serios și adesea ignorat. Nu este vorba doar despre banii pe care îi puteți pierde, ci despre controlul pe care îl cedați, puțin câte puțin, unei… https:// stirisociale.ro/cum-eviti-depe ndenta-de-pariuri-sportive-si-joci-responsabil/",
       "published": "2025-12-10T10:54:39+00:00",
-      "published_human": "2025-12-10T10:54",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@stiri_sociale/115694898815773775",
-      "summary": "A (Atenție): Ați investit timp, resurse și pasiune în construirea unui brand puternic. Dar ce se întâmplă când, după un simplu search pe Google, primul lucru pe care îl văd potențialii clienți nu este mesajul pe care doriți să-l transmiteți? Vă confruntați cu o criză silențioasă: pierderea controlului asupra propriului spațiu digital. Prezentarea companiei în… https:// stirisociale.ro/cum-iti-protej ezi-snippetul-de-brand-in-google-si-controlezi-mesajul/",
-      "published": "2025-12-10T10:54:16+00:00",
       "published_human": "2025-12-10T10:54",
       "source": "Mastodon"
     }
