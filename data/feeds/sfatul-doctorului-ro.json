@@ -7,9 +7,17 @@
     "rss": "https://sfatul-doctorului.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-06-17T07:30:12.943898+00:00",
+  "updated_at": "2026-06-17T12:32:21.982304+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Clinica Prevencia explică: cum ajungi corect la medicul specialist prin CAS",
+      "link": "https://sfatul-doctorului.ro/clinica-prevencia-explica-cum-ajungi-corect-la-medicul-specialist-prin-cas/",
+      "summary": "Pentru mulți pacienți, accesarea serviciilor medicale prin CAS pare mai complicată decât ar trebui. Nu este întotdeauna clar dacă trebuie să mergi mai întâi la medicul de familie, când ai nevoie de bilet de trimitere, ce documente trebuie să ai la tine și de ce unele consultații pot fi decontate, iar altele trebuie plătite. În [&#8230;] Articolul Clinica Prevencia explică: cum ajungi corect la medicul specialist prin CAS apare prima dată în Sfatul Doctorului .",
+      "published": "2026-06-17T07:42:33+00:00",
+      "published_human": "2026-06-17T07:42",
+      "source": "https://sfatul-doctorului.ro/"
+    },
     {
       "title": "Kinetoterapie și fizioterapie în Snagov: cum alegi corect când ai dureri de spate, rigiditate sau probleme de mobilitate",
       "link": "https://sfatul-doctorului.ro/kinetoterapie-fizioterapie-snagov-dureri-mobilitate/",
@@ -72,14 +80,6 @@
       "summary": "Te-ai &#238;ntrebat vreodată de ce simți acele furnicături ciudate &#238;n degete după doar c&#226;teva ore de muncă? Laptopul a devenit biroul nostru portabil, &#238;nsă designul său compact forțează corpul să adopte poziții nefirești. Majoritatea utilizatorilor ignoră micile dureri, consider&#226;ndu-le parte din rutina zilnică. Această neglijență transformă un disconfort minor &#238;ntr-o problemă cronică ce poate necesita [&#8230;] Articolul 5 Greșeli de postură la laptop care îți deteriorează încheieturile mâinilor5 Greșeli de postură la laptop care îți deteriorează încheieturile mâinilor apare prima dată în Sfatul Doctorului .",
       "published": "2026-02-25T13:42:00+00:00",
       "published_human": "2026-02-25T13:42",
-      "source": "https://sfatul-doctorului.ro/"
-    },
-    {
-      "title": "Boala Meniere si vertijul – cum recunosti simptomele si ce optiuni reale de tratament exista",
-      "link": "https://sfatul-doctorului.ro/boala-meniere-si-vertijul-cum-recunosti-simptomele-si-ce-optiuni-reale-de-tratament-exista/",
-      "summary": "Vertijul este unul dintre cele mai deranjante simptome cu care se pot confrunta pacientii, iar atunci cand apare recurent, insotit de tulburari auditive, poate indica o afectiune complexa a urechii interne. Una dintre cele mai cunoscute cauze ale vertijului episodic este Boala Meniere, o afectiune cronica ce afecteaza echilibrul, auzul si calitatea vietii. Intelegerea mecanismelor [&#8230;] Articolul Boala Meniere si vertijul – cum recunosti simptomele si ce optiuni reale de tratament exista apare prima dată în Sfatul Doctorului .",
-      "published": "2026-02-10T19:04:51+00:00",
-      "published_human": "2026-02-10T19:04",
       "source": "https://sfatul-doctorului.ro/"
     }
   ],
