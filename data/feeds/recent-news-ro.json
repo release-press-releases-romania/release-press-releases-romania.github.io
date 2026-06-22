@@ -10,7 +10,7 @@
     "url": "https://social.5th.ro/@recent_news",
     "rss": "https://social.5th.ro/@recent_news.rss"
   },
-  "updated_at": "2026-06-22T07:44:17.803648+00:00",
+  "updated_at": "2026-06-22T13:45:15.457980+00:00",
   "status": "ok",
   "items": [
     {
@@ -27,6 +27,14 @@
       "summary": "Piața rezidențială premium din București s-a schimbat semnificativ &#238;n ultimii ani. Dacă &#238;n trecut cumpărătorii puneau accent &#238;n primul r&#226;nd&#8230; Articolul Ce caracteristici definesc o investiție imobiliară premium în București apare prima dată în Recent News .",
       "published": "2026-06-11T13:12:00+00:00",
       "published_human": "2026-06-11T13:12",
+      "source": "https://recent-news.ro/"
+    },
+    {
+      "title": "De ce Bulgaria rămâne una dintre cele mai populare destinații pentru români",
+      "link": "https://recent-news.ro/de-ce-bulgaria-ramane-una-dintre-cele-mai-populare-destinatii-pentru-romani/",
+      "summary": "Planurile pentru concediu &#238;ncep adesea cu o listă lungă de dorințe. Vrei o plajă curată, cazare confortabilă, m&#226;ncare bună și&#8230; Articolul De ce Bulgaria rămâne una dintre cele mai populare destinații pentru români apare prima dată în Recent News .",
+      "published": "2026-06-03T08:21:00+00:00",
+      "published_human": "2026-06-03T08:21",
       "source": "https://recent-news.ro/"
     },
     {
@@ -84,17 +92,17 @@
       "published": "2026-03-21T22:17:28+00:00",
       "published_human": "2026-03-21T22:17",
       "source": "https://recent-news.ro/"
-    },
-    {
-      "title": "Greșeli frecvente în dotarea unui salon beauty și cum pot fi evitate?",
-      "link": "https://recent-news.ro/greseli-frecvente-in-dotarea-unui-salon-beauty-si-cum-pot-fi-evitate/",
-      "summary": "Dacă ești la început de drum sau vrei să îți deschizi propriul salon beauty, dotarea este una dintre cele mai&#8230; Articolul Greșeli frecvente în dotarea unui salon beauty și cum pot fi evitate? apare prima dată în Recent News .",
-      "published": "2026-03-13T02:37:57+00:00",
-      "published_human": "2026-03-13T02:37",
-      "source": "https://recent-news.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@recent_news/116793517476299598",
+      "summary": "Planurile pentru concediu încep adesea cu o listă lungă de dorințe. Vrei o plajă curată, cazare confortabilă, mâncare bună și un drum care să nu te lase fără energie înainte de a ajunge la destinație. Bulgaria bifează toate aceste cerințe de ani de zile. Turiștii români revin aici în fiecare sezon estival, dar și în… https:// recent-news.ro/de-ce-bulgaria- ramane-una-dintre-cele-mai-populare-destinatii-pentru-romani/",
+      "published": "2026-06-22T11:27:27+00:00",
+      "published_human": "2026-06-22T11:27",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@recent_news/116771288558777249",
@@ -181,14 +189,6 @@
       "summary": "MORE Networking celebrează 10 ani printr-o conferință despre puterea conexiunilor și comunităților O zi intensă de discuții, paneluri și networking dedicată liderilor de comunități, antreprenorilor și managerilor. Pe 26 martie 2026, la Aurrum Palace, are loc Conferința Anuală MORE Networking 2026 – o ediție specială care marchează 10 ani de la lansarea uneia dintre cele… https:// recent-news.ro/more-networking -10-ani-printr-o-conferinta-despre-puterea-conexiunilor-si-comunitatilor/",
       "published": "2026-03-04T19:41:01+00:00",
       "published_human": "2026-03-04T19:41",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@recent_news/116062378932762958",
-      "summary": "Deținerea unui vehicul de lux nu reprezintă doar o confirmare a succesului personal, ci și o responsabilitate majoră în ceea ce privește întreținerea tehnică pe termen lung. Aceste automobile sunt adevărate bijuterii ale ingineriei moderne, integrând tehnologii de ultimă oră care necesită o atenție deosebită și cunoștințe de specialitate constante.Proprietarii de mașini premium se află… https:// recent-news.ro/unde-gasesti-su port-pentru-vehicule-de-lux/",
-      "published": "2026-02-13T08:29:18+00:00",
-      "published_human": "2026-02-13T08:29",
       "source": "Mastodon"
     }
   ]
