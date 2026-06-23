@@ -7,9 +7,17 @@
     "rss": "https://stiri-medicale.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-06-23T08:39:36.815708+00:00",
+  "updated_at": "2026-06-23T12:17:35.177188+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Hemoroizi: simptome, tratament și când este nevoie de consult chirurgical",
+      "link": "https://stiri-medicale.ro/hemoroizi-simptome-tratament-si-cand-este-nevoie-de-consult-chirurgical/",
+      "summary": "Articol informativ pentru pacienți din București: Hemoroizi: simptome, tratament și când este nevoie de consult chirurgical. Articolul Hemoroizi: simptome, tratament și când este nevoie de consult chirurgical apare prima dată în Stiri Medicale .",
+      "published": "2026-06-23T08:05:55+00:00",
+      "published_human": "2026-06-23T08:05",
+      "source": "https://stiri-medicale.ro/"
+    },
     {
       "title": "Masaj Snagov, kinetoterapie și fizioterapie: ce alegi când ai dureri, tensiune sau mobilitate redusă",
       "link": "https://stiri-medicale.ro/masaj-snagov-kinetoterapie-fizioterapie/",
@@ -96,14 +104,6 @@
       "summary": "Ce este GABA și cum funcționează? Descoperă rolul receptorilor GABA, mecanismele nervoase implicate și de ce sunt importanți pentru echilibrul sistemului nervos Articolul Ce este GABA și cum funcționează în organism? apare prima dată în Stiri Medicale .",
       "published": "2026-01-04T23:15:22+00:00",
       "published_human": "2026-01-04T23:15",
-      "source": "https://stiri-medicale.ro/"
-    },
-    {
-      "title": "Totul despre deficitul de Magneziu și Calciu",
-      "link": "https://stiri-medicale.ro/totul-despre-deficitul-de-magneziu-si-calciu/",
-      "summary": "Un ochi care se &#8222;zbate&#8221; incontrolabil, o crampă musculară dureroasă (cârcel) care te trezește în toiul nopții, o stare de&#8230; Articolul Totul despre deficitul de Magneziu și Calciu apare prima dată în Stiri Medicale .",
-      "published": "2025-12-23T13:39:00+00:00",
-      "published_human": "2025-12-23T13:39",
       "source": "https://stiri-medicale.ro/"
     }
   ],

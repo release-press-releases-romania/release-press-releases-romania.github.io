@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@pentruoameni",
     "rss": "https://social.5th.ro/@pentruoameni.rss"
   },
-  "updated_at": "2026-06-23T08:39:36.815708+00:00",
+  "updated_at": "2026-06-23T12:17:35.177188+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Apendicita acută: simptome, diagnostic și tratament chirurgical",
+      "link": "https://pentruoameni.ro/apendicita-acuta-simptome-diagnostic-si-tratament-chirurgical/",
+      "summary": "Articol informativ pentru pacienți din București despre apendicita acută — simptome, diagnostic și tratamente chirurgicale. Ton calm, empatic, accesibil. Articolul Apendicita acută: simptome, diagnostic și tratament chirurgical apare prima dată în Pentru Oameni .",
+      "published": "2026-06-23T08:05:55+00:00",
+      "published_human": "2026-06-23T08:05",
+      "source": "https://pentruoameni.ro/"
+    },
     {
       "title": "Pofta de dulce de la ora 17:00: ce-i în spatele ei și cum o îmblânzești",
       "link": "https://pentruoameni.ro/pofta-de-dulce-de-la-ora-1700-ce-i-in-spatele-ei-si-cum-o-imblanzesti/",
@@ -100,17 +108,17 @@
       "published": "2026-03-30T17:10:00+00:00",
       "published_human": "2026-03-30T17:10",
       "source": "https://pentruoameni.ro/"
-    },
-    {
-      "title": "Tehnici eficiente pentru a planta semințele de gazon corect și uniform",
-      "link": "https://pentruoameni.ro/tehnici-eficiente-pentru-a-planta-semintele-de-gazon-corect-si-uniform/",
-      "summary": "Planificarea și însămânțarea unui gazon pot părea o provocare, dar cu tehnicile potrivite, poți transforma acest proces într-o activitate simplă și chiar plăcută. Un gazon uniform și sănătos nu doar că îmbunătățește aspectul general al grădinii tale, ci aduce și un sentiment de împlinire. De la pregătirea solului, alegerea semințelor potrivite, până la tehnicile de răspândire [&#8230;] Articolul Tehnici eficiente pentru a planta semințele de gazon corect și uniform apare prima dată în Pentru Oameni .",
-      "published": "2026-03-25T10:57:35+00:00",
-      "published_human": "2026-03-25T10:57",
-      "source": "https://pentruoameni.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@pentruoameni/116799100153631095",
+      "summary": "Articol informativ pentru pacienți din București despre apendicita acută — simptome, diagnostic și tratamente chirurgicale. Ton calm, empatic, accesibil. .... https:// pentruoameni.ro/apendicita-acu ta-simptome-diagnostic-si-tratament-chirurgical/",
+      "published": "2026-06-23T11:07:11+00:00",
+      "published_human": "2026-06-23T11:07",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@pentruoameni/116793522652224788",
@@ -197,14 +205,6 @@
       "summary": "Amenajarea unei băi moderne și confortabile poate părea o provocare, având în vedere varietatea impresionantă de opțiuni disponibile pe piață. Alegerea obiectelor sanitare potrivite nu este doar o chestiune de estetică, ci și una de funcționalitate și eficiență. Fie că dorești să transformi un spațiu mic într-un colț elegant sau să beneficiezi de cele mai… .... https:// pentruoameni.ro/cum-sa-alegi-o biectele-sanitare-potrivite-pentru-o-baie-moderna-si-confortabila/",
       "published": "2026-03-30T17:10:02+00:00",
       "published_human": "2026-03-30T17:10",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@pentruoameni/116289454614281320",
-      "summary": "Planificarea și însămânțarea unui gazon pot părea o provocare, dar cu tehnicile potrivite, poți transforma acest proces într-o activitate simplă și chiar plăcută. Un gazon uniform și sănătos nu doar că îmbunătățește aspectul general al grădinii tale, ci aduce și un sentiment de împlinire. De la pregătirea solului, alegerea semințelor potrivite, până la tehnicile de răspândire… .... https:// pentruoameni.ro/tehnici-eficie nte-pentru-a-planta-semintele-de-gazon-corect-si-uniform/",
-      "published": "2026-03-25T10:57:38+00:00",
-      "published_human": "2026-03-25T10:57",
       "source": "Mastodon"
     }
   ]

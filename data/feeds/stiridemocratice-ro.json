@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@stiri_democratice",
     "rss": "https://social.5th.ro/@stiri_democratice.rss"
   },
-  "updated_at": "2026-06-23T08:39:36.815708+00:00",
+  "updated_at": "2026-06-23T12:17:35.177188+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Chist pilonidal: de ce apare și când se tratează chirurgical",
+      "link": "https://stiridemocratice.ro/chist-pilonidal-de-ce-apare-si-cand-se-trateaza-chirurgical/",
+      "summary": "Articol informativ pentru pacienți din București: Chist pilonidal: de ce apare și când se tratează chirurgical. Ton calm, empatic, accesibil — fără alarmism. Articolul Chist pilonidal: de ce apare și când se tratează chirurgical apare prima dată în Stiri democratice .",
+      "published": "2026-06-23T08:05:55+00:00",
+      "published_human": "2026-06-23T08:05",
+      "source": "https://stiridemocratice.ro/"
+    },
     {
       "title": "Renovarea birourilor: Soluții profesionale care îmbunătățesc eficiența muncii",
       "link": "https://stiridemocratice.ro/renovarea-birourilor-solutii-profesionale-care-imbunatatesc-eficienta-muncii/",
@@ -92,17 +100,17 @@
       "published": "2025-11-14T07:32:14+00:00",
       "published_human": "2025-11-14T07:32",
       "source": "https://stiridemocratice.ro/"
-    },
-    {
-      "title": "Psihologia biletului zilei: de ce nu trebuie să urmărești „recuperarea” cu orice preț",
-      "link": "https://stiridemocratice.ro/psihologia-biletului-zilei-de-ce-nu-trebuie-sa-urmaresti-recuperarea-cu-orice-pret/",
-      "summary": "Ați pierdut vreodată un pariu la limită? Sunteți pe cale să câștigați o sumă importantă, dar un singur meci vă ruinează întregul biletul zilei. Reacția imediată este frustrarea intensă. Simțiți o dorință arzătoare de a recupera banii pierduți, și o simțiți chiar acum. Această nevoie urgentă de &#8222;recuperare&#8221; este cel mai periculos dușman al pariorului. [&#8230;] Articolul Psihologia biletului zilei: de ce nu trebuie să urmărești „recuperarea” cu orice preț apare prima dată în Stiri democratice .",
-      "published": "2025-11-13T19:31:26+00:00",
-      "published_human": "2025-11-13T19:31",
-      "source": "https://stiridemocratice.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@stiri_democratice/116799121330821348",
+      "summary": "Articol informativ pentru pacienți din București: Chist pilonidal: de ce apare și când se tratează chirurgical. Ton calm, empatic, accesibil — fără alarmism. https:// stiridemocratice.ro/chist-pilo nidal-de-ce-apare-si-cand-se-trateaza-chirurgical/",
+      "published": "2026-06-23T11:12:35+00:00",
+      "published_human": "2026-06-23T11:12",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@stiri_democratice/116403482044266350",

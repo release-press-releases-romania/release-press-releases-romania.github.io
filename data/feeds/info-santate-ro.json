@@ -7,9 +7,17 @@
     "rss": "https://info-santate.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-06-23T08:39:36.815708+00:00",
+  "updated_at": "2026-06-23T12:17:35.177188+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Laparoscopic sau robotic? Diferențe importante în chirurgia modernă",
+      "link": "https://info-santate.ro/laparoscopic-sau-robotic-diferente-importante-in-chirurgia-moderna/",
+      "summary": "Dr. Bogdan Serban explică, pentru pacienți din București, ce afecțiuni pot fi evaluate chirurgical. Informații despre chirurgie laparoscopică și când merită o Articolul Laparoscopic sau robotic? Diferențe importante în chirurgia modernă apare prima dată în Info Sanatate .",
+      "published": "2026-06-23T08:05:55+00:00",
+      "published_human": "2026-06-23T08:05",
+      "source": "https://info-santate.ro/"
+    },
     {
       "title": "Viitorul medicinei: Cum îți poate salva viața testarea genetică?",
       "link": "https://info-santate.ro/viitorul-medicinei-cum-iti-poate-salva-viata-testarea-genetica/",
@@ -72,14 +80,6 @@
       "summary": "Navigarea în universul vast al suplimentelor alimentare poate părea intimidantă la început. Fie că îți dorești să îmbunătățești sănătatea generală,&#8230; Articolul Ghidul incepatorului in lumea suplimentelor alimentare apare prima dată în Info Sanatate .",
       "published": "2026-02-03T10:04:06+00:00",
       "published_human": "2026-02-03T10:04",
-      "source": "https://info-santate.ro/"
-    },
-    {
-      "title": "Ce să ai în vedere atunci când alegi ochelarii pentru copii",
-      "link": "https://info-santate.ro/ce-sa-ai-in-vedere-atunci-cand-alegi-ochelarii-pentru-copii/",
-      "summary": "Tot mai mulți copii au nevoie de ochelari de vedere încă de la vârste fragede. Studiile arată că, în ultimele&#8230; Articolul Ce să ai în vedere atunci când alegi ochelarii pentru copii apare prima dată în Info Sanatate .",
-      "published": "2025-12-23T13:34:04+00:00",
-      "published_human": "2025-12-23T13:34",
       "source": "https://info-santate.ro/"
     }
   ],

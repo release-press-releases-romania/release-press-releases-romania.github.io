@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@recent_news",
     "rss": "https://social.5th.ro/@recent_news.rss"
   },
-  "updated_at": "2026-06-23T08:39:36.815708+00:00",
+  "updated_at": "2026-06-23T12:17:35.177188+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Diverticulita complicată: când poate fi nevoie de tratament chirurgical",
+      "link": "https://recent-news.ro/diverticulita-complicata-cand-poate-fi-nevoie-de-tratament-chirurgical/",
+      "summary": "Articol informativ pentru pacienți din București despre diverticulita complicată și momentele în care este necesară consultarea unui specialist. Articolul Diverticulita complicată: când poate fi nevoie de tratament chirurgical apare prima dată în Recent News .",
+      "published": "2026-06-23T08:05:55+00:00",
+      "published_human": "2026-06-23T08:05",
+      "source": "https://recent-news.ro/"
+    },
     {
       "title": "De ce sunt ușile culisante din aluminiu o opțiune excelentă pentru living?",
       "link": "https://recent-news.ro/de-ce-sunt-usile-culisante-din-aluminiu-o-optiune-excelenta-pentru-living/",
@@ -84,17 +92,17 @@
       "published": "2026-04-17T08:06:04+00:00",
       "published_human": "2026-04-17T08:06",
       "source": "https://recent-news.ro/"
-    },
-    {
-      "title": "Vrei să începi în videochat în Iași? Află pe Forumvideochat.ro ce nu îți spun reclamele Viva Diva!",
-      "link": "https://recent-news.ro/vrei-sa-incepi-in-videochat-in-iasi-afla-pe-forumvideochat-ro-ce-nu-iti-spun-reclamele-viva-diva/",
-      "summary": "Într-o industrie în care promisiunile sunt peste tot, dar informațiile reale sunt greu de verificat, există un singur loc unde&#8230; Articolul Vrei să începi în videochat în Iași? Află pe Forumvideochat.ro ce nu îți spun reclamele Viva Diva! apare prima dată în Recent News .",
-      "published": "2026-03-31T15:40:55+00:00",
-      "published_human": "2026-03-31T15:40",
-      "source": "https://recent-news.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@recent_news/116799281475117835",
+      "summary": "Articol informativ pentru pacienți din București despre diverticulita complicată și momentele în care este necesară consultarea unui specialist. https:// recent-news.ro/diverticulita-c omplicata-cand-poate-fi-nevoie-de-tratament-chirurgical/",
+      "published": "2026-06-23T11:53:18+00:00",
+      "published_human": "2026-06-23T11:53",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@recent_news/116794525096393635",
@@ -181,14 +189,6 @@
       "summary": "Dacă ești la început de drum sau vrei să îți deschizi propriul salon beauty, dotarea este una dintre cele mai importante decizii pe care le vei lua. Nu este vorba doar despre cum arată spațiul, ci despre cum vei lucra zilnic, cât de confortabil te vei simți și cât de mulțumiți vor fi clienții tăi.… https:// recent-news.ro/greseli-frecven te-in-dotarea-unui-salon-beauty-si-cum-pot-fi-evitate/",
       "published": "2026-03-13T02:38:00+00:00",
       "published_human": "2026-03-13T02:38",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@recent_news/116204543562443611",
-      "summary": "Lovia: Trusourile de botez personalizate, între tradiție și noua estetică a amintirilor de familieUn atelier românesc propune un model diferit pe piața articolelor de botez: seturi complete din bumbac natural, broderie personalizată cu numele copilului și data botezului, livrate în cutii de lemn masivPiața articolelor de botez din România traversează o schimbare vizibilă de comportament.… https:// recent-news.ro/de-la-trusou-de -serie-la-trusou-cu-identitate-proprie/",
-      "published": "2026-03-10T11:03:38+00:00",
-      "published_human": "2026-03-10T11:03",
       "source": "Mastodon"
     }
   ]

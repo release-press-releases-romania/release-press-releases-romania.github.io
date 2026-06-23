@@ -7,9 +7,17 @@
     "rss": "https://ghid-sanatate.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-06-23T08:39:36.815708+00:00",
+  "updated_at": "2026-06-23T12:17:35.177188+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Când ai nevoie de un chirurg specialist în București și ce simptome nu trebuie ignorate",
+      "link": "https://ghid-sanatate.ro/cand-ai-nevoie-de-un-chirurg-specialist-in-bucuresti-si-ce-simptome-nu-trebuie-ignorate/",
+      "summary": "Articol informativ pentru pacienți din București: Când ai nevoie de un chirurg specialist și ce simptome nu trebuie ignorate. Consultează Dr. Bogdan Serban. Articolul Când ai nevoie de un chirurg specialist în București și ce simptome nu trebuie ignorate apare prima dată în Ghid Sanatate .",
+      "published": "2026-06-23T08:05:55+00:00",
+      "published_human": "2026-06-23T08:05",
+      "source": "https://ghid-sanatate.ro/"
+    },
     {
       "title": "Cum faci fotografii mai bune pentru un anunț online",
       "link": "https://ghid-sanatate.ro/cum-faci-fotografii-bune-pentru-anunt-online/",
@@ -96,14 +104,6 @@
       "summary": "Mixit oferă peste 150 de produse vegane pentru un 2026 echilibrat La &#238;nceput de an,... Articolul De la mic dejun la gustări apare prima dată în Ghid Sanatate .",
       "published": "2026-01-19T11:46:47+00:00",
       "published_human": "2026-01-19T11:46",
-      "source": "https://ghid-sanatate.ro/"
-    },
-    {
-      "title": "Cum alegi cel mai bun magneziu pentru adulți și de ce contează forma bisglicinată",
-      "link": "https://ghid-sanatate.ro/cum-alegi-cel-mai-bun-magneziu-pentru-adulti-si-de-ce-conteaza-forma-bisglicinata/",
-      "summary": "Magneziul bisglicinat explicat: absorbție, biodisponibilitate și diferențe față de alte forme de magneziu pentru adulți. Articolul Cum alegi cel mai bun magneziu pentru adulți și de ce contează forma bisglicinată apare prima dată în Ghid Sanatate .",
-      "published": "2026-01-04T23:39:44+00:00",
-      "published_human": "2026-01-04T23:39",
       "source": "https://ghid-sanatate.ro/"
     }
   ],

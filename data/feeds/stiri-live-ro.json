@@ -7,9 +7,17 @@
     "rss": "https://stiri-live.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-06-23T08:39:36.815708+00:00",
+  "updated_at": "2026-06-23T12:17:35.177188+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Afecțiuni anorectale: hemoroizi, fisuri, fistule și abcese perianale",
+      "link": "https://stiri-live.ro/afectiuni-anorectale-hemoroizi-fisuri-fistule-si-abcese-perianale/",
+      "summary": "Articol informativ pentru pacienți din București despre afecțiuni anorectale: hemoroizi, fisuri anale, fistule și abcese perianale. Articolul Afecțiuni anorectale: hemoroizi, fisuri, fistule și abcese perianale apare prima dată în Stiri Live .",
+      "published": "2026-06-23T08:05:55+00:00",
+      "published_human": "2026-06-23T08:05",
+      "source": "https://stiri-live.ro/"
+    },
     {
       "title": "Cum folosești AI pentru conținut social media?",
       "link": "https://stiri-live.ro/cum-folosesti-ai-pentru-continut-social-media/",
@@ -96,14 +104,6 @@
       "summary": "Perioadele de sărbători sau aniversările devin adesea surse de stres pentru părinții care încearcă să navigheze prin oferta copleșitoare. Articolul Ce recomandă psihologii pentru cadourile copiilor apare prima dată în Stiri Live .",
       "published": "2026-01-12T17:06:48+00:00",
       "published_human": "2026-01-12T17:06",
-      "source": "https://stiri-live.ro/"
-    },
-    {
-      "title": "Mastodon România pentru antreprenori: cum comunici autentic",
-      "link": "https://stiri-live.ro/mastodon-romania-pentru-antreprenori-cum-comunici-autentic/",
-      "summary": "Ați simțit vreodată că eforturile dumneavoastră de comunicare online se lovesc de un zid invizibil? În ultimii ani, antreprenorii. Articolul Mastodon România pentru antreprenori: cum comunici autentic apare prima dată în Stiri Live .",
-      "published": "2025-12-17T16:58:54+00:00",
-      "published_human": "2025-12-17T16:58",
       "source": "https://stiri-live.ro/"
     }
   ],

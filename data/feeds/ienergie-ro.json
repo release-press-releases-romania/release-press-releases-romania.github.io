@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@ienergie",
     "rss": "https://social.5th.ro/@ienergie.rss"
   },
-  "updated_at": "2026-06-23T08:39:36.815708+00:00",
+  "updated_at": "2026-06-23T12:17:35.177188+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Hernia ombilicală la adulți: cauze, simptome și tratament chirurgical",
+      "link": "https://ienergie.ro/hernia-ombilicala-la-adulti-cauze-simptome-si-tratament-chirurgical/",
+      "summary": "Dr. Bogdan Serban explică, pentru pacienți din București, ce afecțiuni pot fi evaluate chirurgical. Informații despre hernie ombilicală și când merită o Articolul Hernia ombilicală la adulți: cauze, simptome și tratament chirurgical apare prima dată în iEnergie .",
+      "published": "2026-06-23T08:05:55+00:00",
+      "published_human": "2026-06-23T08:05",
+      "source": "https://iEnergie.ro/"
+    },
     {
       "title": "De la pasiune la cercetare aplicată: un elev Am School construiește și pregătește lansarea unei rachete",
       "link": "https://ienergie.ro/de-la-pasiune-la-cercetare-aplicata-un-elev-am-school-construieste-si-pregateste-lansarea-unei-rachete/",
@@ -100,17 +108,17 @@
       "published": "2026-01-20T08:15:30+00:00",
       "published_human": "2026-01-20T08:15",
       "source": "https://iEnergie.ro/"
-    },
-    {
-      "title": "Introducere în tariful binom: înțelegerea conceptului și motivele pentru care este dezbătut intens în perioada curentă",
-      "link": "https://ienergie.ro/introducere-in-tariful-binom-intelegerea-conceptului-si-motivele-pentru-care-este-dezbatut-intens-in-perioada-curenta/",
-      "summary": "Tariful binom reprezintă o metodă modernă de repartizare a costurilor asociate cu serviciile de distribuție a energiei electrice între utilizatorii rețelei. Este important de subliniat [Mai mult...] Articolul Introducere în tariful binom: înțelegerea conceptului și motivele pentru care este dezbătut intens în perioada curentă apare prima dată în iEnergie .",
-      "published": "2026-01-20T08:10:25+00:00",
-      "published_human": "2026-01-20T08:10",
-      "source": "https://iEnergie.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@ienergie/116799158140590058",
+      "summary": "Dr. Bogdan Serban explică, pentru pacienți din București, ce afecțiuni pot fi evaluate chirurgical. Informații despre hernie ombilicală și când merită o https:// ienergie.ro/hernia-ombilicala- la-adulti-cauze-simptome-si-tratament-chirurgical/",
+      "published": "2026-06-23T11:21:56+00:00",
+      "published_human": "2026-06-23T11:21",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@ienergie/116680974089637346",
@@ -197,14 +205,6 @@
       "summary": "Comisia Europeană a luat recent decizia de a trimite România în fața Curții de Justiție a Uniunii Europene (CJUE) din cauza nerespectării obligațiilor referitoare la monitorizarea calității aerului. Această acțiune survine în temeiul nerespectării prevederilor stipulate în Directiva 2008/50/CE și Directiva 2004/107/CE privind calitatea aerului înconjurător. Obligațiile de https:// ienergie.ro/cjue-analizeaza-ca zul-romaniei-pentru-nerespectarea-obligatiilor-de-monitorizare-a-calitatii-aerului/",
       "published": "2026-01-20T08:15:33+00:00",
       "published_human": "2026-01-20T08:15",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@ienergie/115926409364999390",
-      "summary": "Tariful binom reprezintă o metodă modernă de repartizare a costurilor asociate cu serviciile de distribuție a energiei electrice între utilizatorii rețelei. Este important de subliniat că această structură tarifară nu introduce taxe suplimentare și nu majorează veniturile totale reglementate ale operatorilor de distribuție. În schimb, scopul său este de a https:// ienergie.ro/introducere-in-tar iful-binom-intelegerea-conceptului-si-motivele-pentru-care-este-dezbatut-intens-in-perioada-curenta/",
-      "published": "2026-01-20T08:10:27+00:00",
-      "published_human": "2026-01-20T08:10",
       "source": "Mastodon"
     }
   ]

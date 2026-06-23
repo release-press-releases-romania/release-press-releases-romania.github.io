@@ -7,9 +7,17 @@
     "rss": "https://iPresa.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-06-23T08:39:36.815708+00:00",
+  "updated_at": "2026-06-23T12:17:35.177188+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Pietre la fiere: simptome, riscuri și momentul potrivit pentru consult chirurgical",
+      "link": "https://ipresa.ro/pietre-la-fiere-simptome-riscuri-si-momentul-potrivit-pentru-consult-chirurgical/",
+      "summary": "Articol informativ pentru pacienți din București: Pietre la fiere: simptome, riscuri și momentul potrivit pentru consult chirurgical. Articolul Pietre la fiere: simptome, riscuri și momentul potrivit pentru consult chirurgical apare prima dată în iPresa .",
+      "published": "2026-06-23T08:05:55+00:00",
+      "published_human": "2026-06-23T08:05",
+      "source": "https://iPresa.ro/"
+    },
     {
       "title": "Ce este Motion Clinic și când ai nevoie de recuperare medicală?",
       "link": "https://ipresa.ro/ce-este-motion-clinic-recuperare-medicala/",
@@ -80,14 +88,6 @@
       "summary": "De la hardware puternic la inteligență contextualăEvoluția smartphone-urilor nu mai este definită doar de specificații tehnice precum procesorul sau camera. &#206;n prezent, inteligența artificială devine elementul central care influențează modul &#238;n care aceste dispozitive funcționează. Utilizatorii nu mai caută doar performanță brută, ci experiențe fluide, personalizate și adaptate stilului lor de viață. Astfel, smartphone-ul &#238;ncepe [&#8230;] Articolul Cum evoluează smartphone-urile odată cu AI apare prima dată în iPresa .",
       "published": "2026-03-18T06:55:00+00:00",
       "published_human": "2026-03-18T06:55",
-      "source": "https://iPresa.ro/"
-    },
-    {
-      "title": "Cum sa alegi un abonament de cafea pentru birou?",
-      "link": "https://ipresa.ro/cum-sa-alegi-un-abonament-de-cafea-pentru-birou/",
-      "summary": "Cum sa alegi un abonament de cafea pentru birou? Oferte pentrsonalizate pentu abonamente de cafea la birou!\\r\\nTesteaza Gratuit chiar acum in biroul tau! Articolul Cum sa alegi un abonament de cafea pentru birou? apare prima dată în iPresa .",
-      "published": "2025-12-30T18:16:24+00:00",
-      "published_human": "2025-12-30T18:16",
       "source": "https://iPresa.ro/"
     }
   ],

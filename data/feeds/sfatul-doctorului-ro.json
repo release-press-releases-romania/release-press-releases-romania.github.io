@@ -7,9 +7,17 @@
     "rss": "https://sfatul-doctorului.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-06-23T08:39:36.815708+00:00",
+  "updated_at": "2026-06-23T12:17:35.177188+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Chirurgia sânului: când este necesar consultul la medicul chirurg",
+      "link": "https://sfatul-doctorului.ro/chirurgia-sanului-cand-este-necesar-consultul-la-medicul-chirurg/",
+      "summary": "Articol informativ pentru pacienți din București despre chirurgia sânului și când se recomandă un consult la medicul chirurg. Articolul Chirurgia sânului: când este necesar consultul la medicul chirurg apare prima dată în Sfatul Doctorului .",
+      "published": "2026-06-23T08:05:55+00:00",
+      "published_human": "2026-06-23T08:05",
+      "source": "https://sfatul-doctorului.ro/"
+    },
     {
       "title": "Clinica Prevencia explică: cum ajungi corect la medicul specialist prin CAS",
       "link": "https://sfatul-doctorului.ro/clinica-prevencia-explica-cum-ajungi-corect-la-medicul-specialist-prin-cas/",
@@ -72,14 +80,6 @@
       "summary": "Foto: depresie-functionala.jpg În jurul nostru există oameni care par să gestioneze perfect toate responsabilitățile: merg la serviciu, își îndeplinesc sarcinile, participă la evenimente sociale și își mențin rutina zilnică fără dificultăți evidente. Cu toate acestea, unii dintre ei se confruntă cu o realitate interioară mult mai dificilă. Acest fenomen este adesea numit „depresie funcțională”. Este [&#8230;] Articolul Depresia funcțională: cum pot arăta gândurile negative dincolo de aparențe apare prima dată în Sfatul Doctorului .",
       "published": "2026-03-18T06:19:33+00:00",
       "published_human": "2026-03-18T06:19",
-      "source": "https://sfatul-doctorului.ro/"
-    },
-    {
-      "title": "5 Greșeli de postură la laptop care îți deteriorează încheieturile mâinilor5 Greșeli de postură la laptop care îți deteriorează încheieturile mâinilor",
-      "link": "https://sfatul-doctorului.ro/5-greseli-de-postura-la-laptop-care-iti-deterioreaza-incheieturile-mainilor5-greseli-de-postura-la-laptop-care-iti-deterioreaza-incheieturile-mainilor/",
-      "summary": "Te-ai &#238;ntrebat vreodată de ce simți acele furnicături ciudate &#238;n degete după doar c&#226;teva ore de muncă? Laptopul a devenit biroul nostru portabil, &#238;nsă designul său compact forțează corpul să adopte poziții nefirești. Majoritatea utilizatorilor ignoră micile dureri, consider&#226;ndu-le parte din rutina zilnică. Această neglijență transformă un disconfort minor &#238;ntr-o problemă cronică ce poate necesita [&#8230;] Articolul 5 Greșeli de postură la laptop care îți deteriorează încheieturile mâinilor5 Greșeli de postură la laptop care îți deteriorează încheieturile mâinilor apare prima dată în Sfatul Doctorului .",
-      "published": "2026-02-25T13:42:00+00:00",
-      "published_human": "2026-02-25T13:42",
       "source": "https://sfatul-doctorului.ro/"
     }
   ],

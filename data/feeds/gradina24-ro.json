@@ -7,9 +7,17 @@
     "rss": "https://gradina24.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-06-23T08:39:36.815708+00:00",
+  "updated_at": "2026-06-23T12:17:35.177188+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Chirurgie robotică în București: când este recomandată și ce avantaje poate avea pentru pacient",
+      "link": "https://gradina24.ro/chirurgie-robotica-in-bucuresti-cand-este-recomandata-si-ce-avantaje-poate-avea-pentru-pacient/",
+      "summary": "Articol informativ despre chirurgie robotică în București. Când este recomandată, ce avantaje aduce și cum poate beneficia pacientul. Explicat pentru public lar Articolul Chirurgie robotică în București: când este recomandată și ce avantaje poate avea pentru pacient apare prima dată în Gradina 24 .",
+      "published": "2026-06-23T08:05:55+00:00",
+      "published_human": "2026-06-23T08:05",
+      "source": "https://gradina24.ro/"
+    },
     {
       "title": "Hidrofor la o casă nouă: deciziile care contează pe următorii 10 ani (și pe care mulți le iau din prima zi greșit)",
       "link": "https://gradina24.ro/hidrofor-la-o-casa-noua-deciziile-care-conteaza-pe-urmatorii-10-ani-si-pe-care-multi-le-iau-din-prima-zi-gresit/",
@@ -96,14 +104,6 @@
       "summary": "Dorința de a avea o recoltă bogată de morcovi dulci și crocanți începe cu planificarea atentă a plantării. Întrebările când se plantează morcovul Articolul Cand se planteaza morcovul apare prima dată în Gradina 24 .",
       "published": "2025-11-21T00:00:00+00:00",
       "published_human": "2025-11-21T00:00",
-      "source": "https://gradina24.ro/"
-    },
-    {
-      "title": "Cand se planteaza nucii din nuca",
-      "link": "https://gradina24.ro/cand-se-planteaza-nucii-din-nuca/",
-      "summary": "Dorința de a planta un nuc din semința sa, adusă direct de pe ramură, este o experiență gratificantă. Însă, pentru a obține un Articolul Cand se planteaza nucii din nuca apare prima dată în Gradina 24 .",
-      "published": "2025-11-20T00:00:00+00:00",
-      "published_human": "2025-11-20T00:00",
       "source": "https://gradina24.ro/"
     }
   ],

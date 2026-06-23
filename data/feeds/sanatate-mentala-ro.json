@@ -7,9 +7,17 @@
     "rss": "https://sanatate-mentala.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-06-23T08:39:36.815708+00:00",
+  "updated_at": "2026-06-23T12:17:35.177188+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Complicațiile varicelor netratate: tromboză, ulcere venoase și durere cronică",
+      "link": "https://sanatate-mentala.ro/complicatiile-varicelor-netratate-tromboza-ulcere-venoase-si-durere-cronica/",
+      "summary": "Articol informativ pentru pacienți din București: Complicațiile varicelor netratate: tromboză, ulcere venoase și durere cronică. Articolul Complicațiile varicelor netratate: tromboză, ulcere venoase și durere cronică apare prima dată în Sanatate Mentala .",
+      "published": "2026-06-23T08:05:55+00:00",
+      "published_human": "2026-06-23T08:05",
+      "source": "https://sanatate-mentala.ro/"
+    },
     {
       "title": "Clinica Prevencia explică: când ai nevoie de psihiatrie și psihologie prin CAS",
       "link": "https://sanatate-mentala.ro/clinica-prevencia-explica-cand-ai-nevoie-de-psihiatrie-si-psihologie-prin-cas/",
@@ -96,14 +104,6 @@
       "summary": "Zilele de 15 și 16 noiembrie 2025 au adus o emoție pură și o lecție... Articolul CONIL Fest 2025: ediția a XXVII-a a Festivalului Integrări apare prima dată în Sanatate Mentala .",
       "published": "2025-11-25T06:50:40+00:00",
       "published_human": "2025-11-25T06:50",
-      "source": "https://sanatate-mentala.ro/"
-    },
-    {
-      "title": "Cum citești tabelul de plăți la păcănele și simbolurile speciale",
-      "link": "https://sanatate-mentala.ro/cum-citesti-tabelul-de-plati-la-pacanele-si-simbolurile-speciale/",
-      "summary": "Descifrarea Codului Păcănelelor: Ghidul Esențial pentru Tabelul de Plăți și Simbolurile Speciale (Atenție &#8211; Attention)... Articolul Cum citești tabelul de plăți la păcănele și simbolurile speciale apare prima dată în Sanatate Mentala .",
-      "published": "2025-11-15T10:03:28+00:00",
-      "published_human": "2025-11-15T10:03",
       "source": "https://sanatate-mentala.ro/"
     }
   ],

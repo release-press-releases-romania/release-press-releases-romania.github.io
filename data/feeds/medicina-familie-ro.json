@@ -7,9 +7,17 @@
     "rss": "https://medicina-familie.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-06-23T08:39:36.815708+00:00",
+  "updated_at": "2026-06-23T12:17:35.177188+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Operație cancer colon în București: rolul chirurgiei în tratamentul multidisciplinar",
+      "link": "https://medicina-familie.ro/operatie-cancer-colon-in-bucuresti-rolul-chirurgiei-in-tratamentul-multidisciplinar/",
+      "summary": "Articol informativ despre operația de cancer colon din București și rolul chirurgiei oncologice într-un tratament eficient. Explicat pentru pacienți. Articolul Operație cancer colon în București: rolul chirurgiei în tratamentul multidisciplinar apare prima dată în Medicina de Familie .",
+      "published": "2026-06-23T08:05:55+00:00",
+      "published_human": "2026-06-23T08:05",
+      "source": "https://medicina-familie.ro/"
+    },
     {
       "title": "Cum alegi categoria potrivită când publici un anunț online",
       "link": "https://medicina-familie.ro/cum-alegi-categoria-potrivita-pentru-anunt-online/",
@@ -96,14 +104,6 @@
       "summary": "Ați simțit vreodată frustrarea de a lansa o știre importantă și de a constata că... Articolul Cum scrii un comunicat de presă eficient în 2025 pentru mediul online apare prima dată în Medicina de Familie .",
       "published": "2025-12-01T12:07:49+00:00",
       "published_human": "2025-12-01T12:07",
-      "source": "https://medicina-familie.ro/"
-    },
-    {
-      "title": "Serile de poker cu prietenii: set simplu de reguli pentru joc corect",
-      "link": "https://medicina-familie.ro/serile-de-poker-cu-prietenii-set-simplu-de-reguli-pentru-joc-corect/",
-      "summary": "Areți vreodată sentimentul că serile voastre de poker cu prietenii se transformă rapid dintr-o reuniune... Articolul Serile de poker cu prietenii: set simplu de reguli pentru joc corect apare prima dată în Medicina de Familie .",
-      "published": "2025-11-15T10:03:28+00:00",
-      "published_human": "2025-11-15T10:03",
       "source": "https://medicina-familie.ro/"
     }
   ],

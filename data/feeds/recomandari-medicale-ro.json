@@ -7,9 +7,17 @@
     "rss": "https://recomandari-medicale.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-06-23T08:39:36.815708+00:00",
+  "updated_at": "2026-06-23T12:17:35.177188+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Varicele hidrostatice: cauze, simptome și opțiuni moderne de tratament",
+      "link": "https://recomandari-medicale.ro/varicele-hidrostatice-cauze-simptome-si-optiuni-moderne-de-tratament/",
+      "summary": "Articol informativ pentru pacienți din București despre varicele hidrostatice: cauze, simptome și opțiuni moderne de tratament. Articolul Varicele hidrostatice: cauze, simptome și opțiuni moderne de tratament apare prima dată în Recomandari Medicale .",
+      "published": "2026-06-23T08:05:55+00:00",
+      "published_human": "2026-06-23T08:05",
+      "source": "https://recomandari-medicale.ro/"
+    },
     {
       "title": "Kinetoterapie și fizioterapie în Snagov: recomandări pentru pacienții cu dureri, rigiditate sau mobilitate redusă",
       "link": "https://recomandari-medicale.ro/kinetoterapie-fizioterapie-snagov-motion-clinic/",
@@ -96,14 +104,6 @@
       "summary": "Imaginează-ți senzația aceea apăsătoare: simți că trebuie să mergi urgent la toaletă, dar nu reușești. Disconfortul crește de la minut&#8230; Articolul Ce este retenția urinară acută și cum se tratează? Ghid clar pentru prevenție și reacție rapidă apare prima dată în Recomandari Medicale .",
       "published": "2026-03-30T04:35:21+00:00",
       "published_human": "2026-03-30T04:35",
-      "source": "https://recomandari-medicale.ro/"
-    },
-    {
-      "title": "Cum pot evalua dacă am intoleranță alimentară? Ghid complet pentru redobândirea echilibrului digestiv",
-      "link": "https://recomandari-medicale.ro/cum-pot-evalua-daca-am-intoleranta-alimentara-ghid-complet-pentru-redobandirea-echilibrului-digestiv/",
-      "summary": "Te trezești adesea cu o senzație de balonare care persistă pe tot parcursul zilei? Te confrunți cu crampe abdominale apărute&#8230; Articolul Cum pot evalua dacă am intoleranță alimentară? Ghid complet pentru redobândirea echilibrului digestiv apare prima dată în Recomandari Medicale .",
-      "published": "2026-03-19T18:52:55+00:00",
-      "published_human": "2026-03-19T18:52",
       "source": "https://recomandari-medicale.ro/"
     }
   ],
