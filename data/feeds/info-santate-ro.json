@@ -7,9 +7,17 @@
     "rss": "https://info-santate.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-06-24T04:42:37.620721+00:00",
+  "updated_at": "2026-06-24T08:36:26.205243+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Clinica Prevencia explică: de ce pacienții cu boli cronice nu ar trebui să ajungă la medic doar când apar complicații",
+      "link": "https://info-santate.ro/clinica-prevencia-explica-de-ce-pacientii-cu-boli-cronice-nu-ar-trebui-sa-ajunga-la-medic-doar-cand-apar-complicatii/",
+      "summary": "Bolile cronice nu apar întotdeauna cu simptome puternice. Hipertensiunea poate evolua ani de zile fără durere. Diabetul poate fi descoperit&#8230; Articolul Clinica Prevencia explică: de ce pacienții cu boli cronice nu ar trebui să ajungă la medic doar când apar complicații apare prima dată în Info Sanatate .",
+      "published": "2026-06-24T07:52:13+00:00",
+      "published_human": "2026-06-24T07:52",
+      "source": "https://info-santate.ro/"
+    },
     {
       "title": "Laparoscopic sau robotic? Diferențe importante în chirurgia modernă",
       "link": "https://info-santate.ro/laparoscopic-sau-robotic-diferente-importante-in-chirurgia-moderna/",
@@ -72,14 +80,6 @@
       "summary": "Rinita alergica este una dintre cele mai raspandite afectiuni respiratorii, afectand milioane de persoane de toate varstele. Desi este adesea&#8230; Articolul Simptomele rinitei alergice – semnele timpurii care nu trebuie ignorate apare prima dată în Info Sanatate .",
       "published": "2026-02-10T19:08:11+00:00",
       "published_human": "2026-02-10T19:08",
-      "source": "https://info-santate.ro/"
-    },
-    {
-      "title": "Ghidul incepatorului in lumea suplimentelor alimentare",
-      "link": "https://info-santate.ro/ghidul-incepatorului-in-lumea-suplimentelor-alimentare/",
-      "summary": "Navigarea în universul vast al suplimentelor alimentare poate părea intimidantă la început. Fie că îți dorești să îmbunătățești sănătatea generală,&#8230; Articolul Ghidul incepatorului in lumea suplimentelor alimentare apare prima dată în Info Sanatate .",
-      "published": "2026-02-03T10:04:06+00:00",
-      "published_human": "2026-02-03T10:04",
       "source": "https://info-santate.ro/"
     }
   ],

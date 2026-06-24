@@ -7,9 +7,17 @@
     "rss": "https://iPresa.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-06-24T04:42:37.620721+00:00",
+  "updated_at": "2026-06-24T08:36:26.205243+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Vrei să lucrezi într-o fabrică? Ce roluri sunt disponibile și ce presupun acestea",
+      "link": "https://ipresa.ro/vrei-sa-lucrezi-intr-o-fabrica-ce-roluri-sunt-disponibile-si-ce-presupun-acestea/",
+      "summary": "Piața muncii oferă oportunități persoanelor care nu au studii superioare și doresc un loc de muncă stabil, bine plătit. Fabricile și unitățile de producție sunt printre cei mai importanți angajatori din România. Pentru mulți candidați, joburile din producție sunt o alegere atractivă datorită stabilității locului de muncă, programelor de instruire oferite de angajatori și pachetelor [&#8230;] Articolul Vrei să lucrezi într-o fabrică? Ce roluri sunt disponibile și ce presupun acestea apare prima dată în iPresa .",
+      "published": "2026-06-24T08:04:53+00:00",
+      "published_human": "2026-06-24T08:04",
+      "source": "https://iPresa.ro/"
+    },
     {
       "title": "Pietre la fiere: simptome, riscuri și momentul potrivit pentru consult chirurgical",
       "link": "https://ipresa.ro/pietre-la-fiere-simptome-riscuri-si-momentul-potrivit-pentru-consult-chirurgical/",
@@ -80,14 +88,6 @@
       "summary": "Casa modernă începe cu conectivitatea În trecut, electrocasnicele erau alese în funcție de funcții individuale: cât de bine spală, cât de rapid gătește sau cât de eficient răcește. Astăzi, însă, criteriul începe să se schimbe. Utilizatorii caută dispozitive care nu doar funcționează bine separat, ci și împreună. Ideea de locuință inteligentă pornește de la conectivitate, [&#8230;] Articolul Cum conectează Samsung electrocasnicele din casă apare prima dată în iPresa .",
       "published": "2026-03-22T19:33:00+00:00",
       "published_human": "2026-03-22T19:33",
-      "source": "https://iPresa.ro/"
-    },
-    {
-      "title": "Cum evoluează smartphone-urile odată cu AI",
-      "link": "https://ipresa.ro/cum-evolueaza-smartphone-urile-odata-cu-ai/",
-      "summary": "De la hardware puternic la inteligență contextualăEvoluția smartphone-urilor nu mai este definită doar de specificații tehnice precum procesorul sau camera. &#206;n prezent, inteligența artificială devine elementul central care influențează modul &#238;n care aceste dispozitive funcționează. Utilizatorii nu mai caută doar performanță brută, ci experiențe fluide, personalizate și adaptate stilului lor de viață. Astfel, smartphone-ul &#238;ncepe [&#8230;] Articolul Cum evoluează smartphone-urile odată cu AI apare prima dată în iPresa .",
-      "published": "2026-03-18T06:55:00+00:00",
-      "published_human": "2026-03-18T06:55",
       "source": "https://iPresa.ro/"
     }
   ],

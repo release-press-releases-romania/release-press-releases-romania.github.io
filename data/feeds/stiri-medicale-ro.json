@@ -7,9 +7,17 @@
     "rss": "https://stiri-medicale.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-06-24T04:42:37.620721+00:00",
+  "updated_at": "2026-06-24T08:36:26.205243+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Clinica Prevencia explică: simptome pe care pacienții nu ar trebui să le trateze la nesfârșit acasă",
+      "link": "https://stiri-medicale.ro/clinica-prevencia-explica-simptome-pe-care-pacientii-nu-ar-trebui-sa-le-trateze-la-nesfarsit-acasa/",
+      "summary": "Mulți pacienți încearcă să gestioneze simptomele acasă cât mai mult timp. Iau antiinflamatoare pentru dureri, siropuri pentru tuse, suplimente pentru&#8230; Articolul Clinica Prevencia explică: simptome pe care pacienții nu ar trebui să le trateze la nesfârșit acasă apare prima dată în Stiri Medicale .",
+      "published": "2026-06-24T07:47:23+00:00",
+      "published_human": "2026-06-24T07:47",
+      "source": "https://stiri-medicale.ro/"
+    },
     {
       "title": "Hemoroizi: simptome, tratament și când este nevoie de consult chirurgical",
       "link": "https://stiri-medicale.ro/hemoroizi-simptome-tratament-si-cand-este-nevoie-de-consult-chirurgical/",
@@ -96,14 +104,6 @@
       "summary": "Menopauza reprezintă o etapă fiziologică firească în existența fiecărei femei, marcând trecerea de la perioada reproductivă la o nouă fază&#8230; Articolul Totul despre Menopauză: Cum îți menții calitatea vieții apare prima dată în Stiri Medicale .",
       "published": "2026-01-28T12:04:03+00:00",
       "published_human": "2026-01-28T12:04",
-      "source": "https://stiri-medicale.ro/"
-    },
-    {
-      "title": "Ce este GABA și cum funcționează în organism?",
-      "link": "https://stiri-medicale.ro/ce-este-gaba-si-cum-functioneaza-in-organism/",
-      "summary": "Ce este GABA și cum funcționează? Descoperă rolul receptorilor GABA, mecanismele nervoase implicate și de ce sunt importanți pentru echilibrul sistemului nervos Articolul Ce este GABA și cum funcționează în organism? apare prima dată în Stiri Medicale .",
-      "published": "2026-01-04T23:15:22+00:00",
-      "published_human": "2026-01-04T23:15",
       "source": "https://stiri-medicale.ro/"
     }
   ],
