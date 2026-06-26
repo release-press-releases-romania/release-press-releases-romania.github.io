@@ -7,7 +7,7 @@
     "rss": "https://1az.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-06-26T19:11:49.436474+00:00",
+  "updated_at": "2026-06-26T20:59:32.840107+00:00",
   "status": "ok",
   "items": [
     {
@@ -39,6 +39,14 @@
       "link": "https://1az.ro/hcl-nr-93-20-05-2026/",
       "summary": "Aceasta stire HCL nr. 93 / 20.05.2026 apare prima oara pe Primarii de la A la Z . HCL 93Descarcă Source Aceasta stire HCL nr. 93 / 20.05.2026 apare prima oara pe Primarii de la A la Z .",
       "published": "2026-06-26T08:54:54+00:00",
+      "published_human": "2026-06-26T08:54",
+      "source": "https://1az.ro/"
+    },
+    {
+      "title": "ANUNȚ ÎNTRERUPERI ALE ENERGIEI ELECTRICE",
+      "link": "https://1az.ro/anunt-intreruperi-ale-energiei-electrice/",
+      "summary": "Aceasta stire ANUNȚ ÎNTRERUPERI ALE ENERGIEI ELECTRICE apare prima oara pe Primarii de la A la Z . ANUNȚ ÎNTRERUPERI ALE ENERGIEI ELECTRICEDescarcă Source Aceasta stire ANUNȚ ÎNTRERUPERI ALE ENERGIEI ELECTRICE apare prima oara pe Primarii de la A la Z .",
+      "published": "2026-06-26T08:54:42+00:00",
       "published_human": "2026-06-26T08:54",
       "source": "https://1az.ro/"
     },
@@ -96,14 +104,6 @@
       "summary": "Aceasta stire Anunț nr. 2720 din 25.06.2026 apare prima oara pe Primarii de la A la Z . Anunț privind organizarea concursului pentru ocuparea funcției publice de conducere vacanta de secretar general al comunei Straoane, judetul Vrancea. Source Aceasta stire Anunț nr. 2720 din 25.06.2026 apare prima oara pe Primarii de la A la Z .",
       "published": "2026-06-26T07:55:07+00:00",
       "published_human": "2026-06-26T07:55",
-      "source": "https://1az.ro/"
-    },
-    {
-      "title": "COMUNICAT DE PRESĂ – Final proiect „Înființare Centru de Zi Maria”",
-      "link": "https://1az.ro/comunicat-de-presa-final-proiect-infiintare-centru-de-zi-maria/",
-      "summary": "Aceasta stire COMUNICAT DE PRESĂ – Final proiect „Înființare Centru de Zi Maria” apare prima oara pe Primarii de la A la Z . Comunicat de Presa PNRR Finalizare Proiect Source Aceasta stire COMUNICAT DE PRESĂ – Final proiect „Înființare Centru de Zi Maria” apare prima oara pe Primarii de la A la Z .",
-      "published": "2026-06-26T07:09:25+00:00",
-      "published_human": "2026-06-26T07:09",
       "source": "https://1az.ro/"
     }
   ],
