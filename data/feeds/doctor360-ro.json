@@ -4,13 +4,13 @@
     "name": "Doctor360",
     "url": "https://doctor360.ro/",
     "category": "Health",
-    "rss": "https://doctor360.ro/feed/"
+    "rss": "https://doctor360.ro/feed/rss/"
   },
   "mastodon": {
     "url": "https://social.5th.ro/@doctor360",
     "rss": "https://social.5th.ro/@doctor360.rss"
   },
-  "updated_at": "2026-06-27T14:57:05.895140+00:00",
+  "updated_at": "2026-06-27T16:35:09.765349+00:00",
   "status": "ok",
   "items": [
     {
