@@ -7,7 +7,7 @@
     "rss": "https://iComunicat.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-06-28T17:39:06.977135+00:00",
+  "updated_at": "2026-06-28T19:49:45.637125+00:00",
   "status": "ok",
   "items": [
     {
@@ -16,6 +16,14 @@
       "summary": "Dr. Bogdan Serban explică, pentru pacienți din București, ce afecțiuni pot fi evaluate chirurgical. Informații despre hernie inghinală și când merită o Articolul Hernia inghinală: când devine periculoasă și când trebuie operată apare prima dată în iComunicat .",
       "published": "2026-06-23T08:05:55+00:00",
       "published_human": "2026-06-23T08:05",
+      "source": "https://iComunicat.ro/"
+    },
+    {
+      "title": "Standardele nZEB și clădirile verzi. Sunt bucureștenii dispuși să plătească premium pentru eficiență energetică?",
+      "link": "https://icomunicat.ro/2026/06/17/standardele-nzeb-si-cladirile-verzi-sunt-bucurestenii-dispusi-sa-plateasca-premium-pentru-eficienta-energetica/",
+      "summary": "Piața rezidențială din București a intrat într-o etapă în care prețul nu mai poate fi judecat doar după suprafață, etaj și apropierea de metrou. Cumpărătorii întreabă tot mai des cât costă întreținerea, ce izolație are blocul, cum este încălzită locuința, ce clasă energetică are clădirea și cât de bine se comportă apartamentul vara. Standardele nZEB [&#8230;] Articolul Standardele nZEB și clădirile verzi. Sunt bucureștenii dispuși să plătească premium pentru eficiență energetică? apare prima dată în iComunicat .",
+      "published": "2026-06-17T11:23:00+00:00",
+      "published_human": "2026-06-17T11:23",
       "source": "https://iComunicat.ro/"
     },
     {
@@ -80,14 +88,6 @@
       "summary": "Cum sa inchiriezi un espressor de cafea in comodat! Articolul Cum sa inchiriezi un espressor de cafea in comodat! apare prima dată în iComunicat .",
       "published": "2026-01-15T11:26:25+00:00",
       "published_human": "2026-01-15T11:26",
-      "source": "https://iComunicat.ro/"
-    },
-    {
-      "title": "Recuperarea sigură după operația la picior",
-      "link": "https://icomunicat.ro/2026/01/12/recuperarea-sigura-dupa-operatia-la-picior/",
-      "summary": "Recuperarea după o intervenție chirurgicală ortopedică la nivelul membrului inferior este un proces complex care solicită răbdare și disciplină riguroasă. Succesul operației nu depinde doar de măiestria chirurgului în sala de operație ci și de modul în care pacientul gestionează perioada de convalescență acasă. Primele săptămâni sunt critice pentru integrarea implanturilor sau vindecarea ligamentelor și [&#8230;] Articolul Recuperarea sigură după operația la picior apare prima dată în iComunicat .",
-      "published": "2026-01-12T17:07:16+00:00",
-      "published_human": "2026-01-12T17:07",
       "source": "https://iComunicat.ro/"
     }
   ],

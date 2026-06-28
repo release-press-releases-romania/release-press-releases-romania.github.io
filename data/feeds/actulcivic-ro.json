@@ -4,10 +4,10 @@
     "name": "Actulcivic",
     "url": "https://actulcivic.ro/",
     "category": "News & Society",
-    "rss": "https://actulcivic.ro/?feed=rss2"
+    "rss": "https://actulcivic.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-06-28T17:39:06.977135+00:00",
+  "updated_at": "2026-06-28T19:49:45.637125+00:00",
   "status": "ok",
   "items": [
     {
