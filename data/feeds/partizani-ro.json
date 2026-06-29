@@ -4,13 +4,13 @@
     "name": "Partizani",
     "url": "https://partizani.ro/",
     "category": "Tourism & Delta",
-    "rss": "https://partizani.ro/feed/"
+    "rss": "https://partizani.ro/?feed=rss2"
   },
   "mastodon": {
     "url": "https://social.5th.ro/@Partizani",
     "rss": "https://social.5th.ro/@Partizani.rss"
   },
-  "updated_at": "2026-06-29T05:06:12.524433+00:00",
+  "updated_at": "2026-06-29T10:01:27.554833+00:00",
   "status": "ok",
   "items": [
     {
