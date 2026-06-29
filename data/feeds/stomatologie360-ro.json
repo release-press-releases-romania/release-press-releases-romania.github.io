@@ -4,10 +4,10 @@
     "name": "Stomatologie360",
     "url": "https://stomatologie360.ro/",
     "category": "Health",
-    "rss": "https://stomatologie360.ro/?feed=rss2"
+    "rss": "https://stomatologie360.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-06-29T10:01:27.554833+00:00",
+  "updated_at": "2026-06-29T14:30:05.209785+00:00",
   "status": "ok",
   "items": [
     {
