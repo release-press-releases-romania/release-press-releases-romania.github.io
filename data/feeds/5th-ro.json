@@ -7,9 +7,17 @@
     "rss": "https://5th.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-06-30T11:56:09.551588+00:00",
+  "updated_at": "2026-06-30T15:03:51.939957+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Verificarea firmelor: Află cum identifici riscurile financiare, juridice și operaționale cu RisCo.ro",
+      "link": "https://5th.ro/verificarea-firmelor-afla-cum-identifici-riscurile-financiare-juridice-si-operationale-cu-risco-ro/",
+      "summary": "Într-un mediu de afaceri dinamic, verificarea firmelor a devenit unul dintre cele mai importante instrumente de protecție pentru antreprenori, manageri și departamente de achiziții. Pe RisCo.ro poți verifica bonitatea firmelor și evalua portofoliul de clienți. Un partener cu probleme financiare nedeclarate, un furnizor cu istoric de litigii sau un client cu incidente de plată îți Articolul Verificarea firmelor: Află cum identifici riscurile financiare, juridice și operaționale cu RisCo.ro apare prima dată în 5th.ro – Social Media Mastodon Instance .",
+      "published": "2026-06-30T12:53:31+00:00",
+      "published_human": "2026-06-30T12:53",
+      "source": "https://5th.ro/"
+    },
     {
       "title": "Unde să cumperi un apartament în estul Bucureștiului: oportunități moderne în Sectorul 3",
       "link": "https://5th.ro/unde-sa-cumperi-un-apartament-in-estul-bucurestiului-oportunitati-moderne-in-sectorul-3/",
@@ -80,14 +88,6 @@
       "summary": "Dacă publici des pe WordPress, știi rutina: ai apăsat „Publică”, apoi începe turul pe social media. Mai un tab, mai un copy-paste, mai un text scurt, mai niște hashtag-uri. Uneori o faci imediat. Alteori uiți, iar articolul rămâne „doar pe site”. Mastodon All In One WordPress Plugin (cunoscut ca 5th Social Bot) e genul de Articolul Mastodon All In One WordPress Plugin: cum conectezi WordPress cu Mastodon, fără postat manual apare prima dată în 5th.ro – Social Media Mastodon Instance .",
       "published": "2025-12-13T09:28:37+00:00",
       "published_human": "2025-12-13T09:28",
-      "source": "https://5th.ro/"
-    },
-    {
-      "title": "Instanță Mastodon publică sau privată? Cum alegi serverul potrivit pentru tine",
-      "link": "https://5th.ro/instanta-mastodon-publica-privata-cum-alegi/",
-      "summary": "Ce este o instanță Mastodon O instanță Mastodon este un server independent care face parte din fediverse. Deși toate folosesc același software, experiența poate fi foarte diferită în funcție de regulile instanței. Ce înseamnă o instanță Mastodon publică O instanță publică permite: Avantaje: Dezavantaje: Ce înseamnă o instanță Mastodon privată O instanță privată sau semi-privată: Articolul Instanță Mastodon publică sau privată? Cum alegi serverul potrivit pentru tine apare prima dată în 5th.ro – Social Media Mastodon Instance .",
-      "published": "2025-12-13T08:59:13+00:00",
-      "published_human": "2025-12-13T08:59",
       "source": "https://5th.ro/"
     }
   ],

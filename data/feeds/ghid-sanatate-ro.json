@@ -7,9 +7,17 @@
     "rss": "https://ghid-sanatate.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-06-30T11:56:09.551588+00:00",
+  "updated_at": "2026-06-30T15:03:51.939957+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "De ce se formează tartrul chiar dacă te speli pe dinți?",
+      "link": "https://ghid-sanatate.ro/de-ce-se-formeaza-tartrul-chiar-daca-te-speli-pe-dinti/",
+      "summary": "Pentru multe persoane, apariția tartrului este surprinzătoare. Dacă periajul este efectuat zilnic, de ce continuă... Articolul De ce se formează tartrul chiar dacă te speli pe dinți? apare prima dată în Ghid Sanatate .",
+      "published": "2026-06-30T12:33:23+00:00",
+      "published_human": "2026-06-30T12:33",
+      "source": "https://ghid-sanatate.ro/"
+    },
     {
       "title": "Când ai nevoie de implant dentar și când se mai poate salva dintele?",
       "link": "https://ghid-sanatate.ro/cand-ai-nevoie-de-implant-dentar-si-cand-se-mai-poate-salva-dintele/",
@@ -96,14 +104,6 @@
       "summary": "Semințele de chia nu mai sunt demult o noutate exotică, ci un ingredient esențial pentru... Articolul Energie și detoxifiere: Chia, micile rezervoare de nutrienți apare prima dată în Ghid Sanatate .",
       "published": "2026-03-21T19:25:00+00:00",
       "published_human": "2026-03-21T19:25",
-      "source": "https://ghid-sanatate.ro/"
-    },
-    {
-      "title": "Cum alegem corect suplimentele naturale în funcție de nevoile organismului",
-      "link": "https://ghid-sanatate.ro/cum-alegem-corect-suplimentele-naturale-in-functie-de-nevoile-organismului/",
-      "summary": "Într-un context în care stilul de viață modern presupune stres, alimentație dezechilibrată și perioade frecvente... Articolul Cum alegem corect suplimentele naturale în funcție de nevoile organismului apare prima dată în Ghid Sanatate .",
-      "published": "2026-02-26T09:32:24+00:00",
-      "published_human": "2026-02-26T09:32",
       "source": "https://ghid-sanatate.ro/"
     }
   ],
