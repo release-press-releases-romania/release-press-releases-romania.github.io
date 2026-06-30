@@ -7,9 +7,17 @@
     "rss": "https://medic360.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-06-30T04:38:59.817136+00:00",
+  "updated_at": "2026-06-30T08:39:21.694480+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Alergiile sezoniere: semne care arată că nu este doar o simplă răceală",
+      "link": "https://medic360.ro/alergiile-sezoniere-semne-care-arata-ca-nu-este-doar-o-simpla-raceala/",
+      "summary": "Te trezești cu nasul înfundat, strănuți de cinci ori la rând și simți că ochii te ustură de parcă ai&#8230; Articolul Alergiile sezoniere: semne care arată că nu este doar o simplă răceală apare prima dată în Medic 360 .",
+      "published": "2026-06-30T04:47:24+00:00",
+      "published_human": "2026-06-30T04:47",
+      "source": "https://medic360.ro/"
+    },
     {
       "title": "Parodontoza ucide dinți care nu au nicio carie. Un stomatolog din Botoșani explică de ce „mi se umflă gingiile uneori” nu e un detaliu",
       "link": "https://medic360.ro/parodontoza-ucide-dinti-care-nu-au-nicio-carie-un-stomatolog-din-botosani-explica-de-ce-mi-se-umfla-gingiile-uneori-nu-e-un-detaliu/",
@@ -72,14 +80,6 @@
       "summary": "Furnicăturile, amorțeala și durerea &#238;n zona m&#226;inii sunt deseori semne ale sindromului de tunel carpian, o afecțiune care apare din&#8230; Articolul Cât de eficiente sunt infiltrațiile cu cortizon în tratarea sindromului de tunel carpian? apare prima dată în Medic 360 .",
       "published": "2026-02-20T10:23:00+00:00",
       "published_human": "2026-02-20T10:23",
-      "source": "https://medic360.ro/"
-    },
-    {
-      "title": "Cotul tenismenului și al jucătorului de golf – cum poate ajuta bandajarea?",
-      "link": "https://medic360.ro/cotul-tenismenului-si-al-jucatorului-de-golf-cum-poate-ajuta-bandajarea/",
-      "summary": "Ce este cotul tenismenului și al jucătorului de golf? Cotul tenismenului&#160;(epicondilita laterală) și cotul jucătorului de golf&#160;(epicondilita medială) sunt afecțiuni&#8230; Articolul Cotul tenismenului și al jucătorului de golf – cum poate ajuta bandajarea? apare prima dată în Medic 360 .",
-      "published": "2026-02-17T12:40:59+00:00",
-      "published_human": "2026-02-17T12:40",
       "source": "https://medic360.ro/"
     }
   ],
