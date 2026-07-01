@@ -4,10 +4,10 @@
     "name": "Ghid Sanatate",
     "url": "https://ghid-sanatate.ro/",
     "category": "Health",
-    "rss": "https://ghid-sanatate.ro/?feed=rss2"
+    "rss": "https://ghid-sanatate.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-06-30T22:45:13.960104+00:00",
+  "updated_at": "2026-07-01T01:35:42.002114+00:00",
   "status": "ok",
   "items": [
     {
