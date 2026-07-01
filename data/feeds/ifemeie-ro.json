@@ -4,13 +4,13 @@
     "name": "iFemeie",
     "url": "https://iFemeie.ro/",
     "category": "Miscellaneous",
-    "rss": "https://iFemeie.ro/feed/"
+    "rss": "https://iFemeie.ro/?feed=rss2"
   },
   "mastodon": {
     "url": "https://social.5th.ro/@iFemeie",
     "rss": "https://social.5th.ro/@iFemeie.rss"
   },
-  "updated_at": "2026-07-01T16:41:35.939548+00:00",
+  "updated_at": "2026-07-01T19:14:31.940224+00:00",
   "status": "ok",
   "items": [
     {
