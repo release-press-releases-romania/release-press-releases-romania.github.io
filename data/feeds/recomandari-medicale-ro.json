@@ -7,9 +7,17 @@
     "rss": "https://recomandari-medicale.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-07-01T19:14:31.940224+00:00",
+  "updated_at": "2026-07-01T20:57:51.734615+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Inulina și slăbitul: curiozități, studii recente și cum îți poate influența senzația de foame",
+      "link": "https://recomandari-medicale.ro/inulina-si-slabitul-curiozitati-studii-recente-si-cum-iti-poate-influenta-senzatia-de-foame/",
+      "summary": "Un mic ingredient trecut adesea cu vederea atrage din ce în ce mai mult atenția persoanelor preocupate de greutate și&#8230; Articolul Inulina și slăbitul: curiozități, studii recente și cum îți poate influența senzația de foame apare prima dată în Recomandari Medicale .",
+      "published": "2026-07-01T19:26:42+00:00",
+      "published_human": "2026-07-01T19:26",
+      "source": "https://recomandari-medicale.ro/"
+    },
     {
       "title": "Durerea în piept: când poate fi de la inimă și când nu trebuie ignorată",
       "link": "https://recomandari-medicale.ro/durerea-in-piept-cand-poate-fi-de-la-inima-si-cand-nu-trebuie-ignorata/",
@@ -96,14 +104,6 @@
       "summary": "Îți poți îmbunătăți somnul cu un smartwatch prin monitorizarea etapelor de odihnă, identificarea obiceiurilor care îți afectează rutina și aplicarea&#8230; Articolul Cum îți îmbunătățești somnul cu un smartwatch? apare prima dată în Recomandari Medicale .",
       "published": "2026-04-25T07:14:00+00:00",
       "published_human": "2026-04-25T07:14",
-      "source": "https://recomandari-medicale.ro/"
-    },
-    {
-      "title": "Scrisoare deschisă privind accesul pacienților oncologici la servicii de radioterapie și utilizarea capacităților disponibile",
-      "link": "https://recomandari-medicale.ro/scrisoare-deschisa-privind-accesul-pacientilor-oncologici-la-servicii-de-radioterapie-si-utilizarea-capacitatilor-disponibile/",
-      "summary": "Către: Ministerul Sanatatii Casa Națională de Asigurări de Sănătate Stimate Domnule Ministru / Secretar De Stat, Dr. Stela Firu Stimate&#8230; Articolul Scrisoare deschisă privind accesul pacienților oncologici la servicii de radioterapie și utilizarea capacităților disponibile apare prima dată în Recomandari Medicale .",
-      "published": "2026-04-23T06:13:29+00:00",
-      "published_human": "2026-04-23T06:13",
       "source": "https://recomandari-medicale.ro/"
     }
   ],
