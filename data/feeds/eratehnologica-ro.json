@@ -4,13 +4,13 @@
     "name": "Eratehnologica",
     "url": "https://EraTehnologica.ro/",
     "category": "Technology & Energy",
-    "rss": "https://EraTehnologica.ro/?feed=rss2"
+    "rss": "https://EraTehnologica.ro/feed/"
   },
   "mastodon": {
     "url": "https://social.5th.ro/@eratehnologica",
     "rss": "https://social.5th.ro/@eratehnologica.rss"
   },
-  "updated_at": "2026-07-04T16:28:57.434131+00:00",
+  "updated_at": "2026-07-04T18:29:15.322244+00:00",
   "status": "ok",
   "items": [
     {
