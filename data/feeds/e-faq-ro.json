@@ -4,13 +4,13 @@
     "name": "E Faq",
     "url": "https://e-faq.ro/",
     "category": "Miscellaneous",
-    "rss": "https://e-faq.ro/feed/rss/"
+    "rss": "https://e-faq.ro/feed/"
   },
   "mastodon": {
     "url": "https://social.5th.ro/@efaq",
     "rss": "https://social.5th.ro/@efaq.rss"
   },
-  "updated_at": "2026-07-05T14:54:49.718093+00:00",
+  "updated_at": "2026-07-05T16:30:21.723664+00:00",
   "status": "ok",
   "items": [
     {
