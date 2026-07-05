@@ -4,10 +4,10 @@
     "name": "Medicina Familie",
     "url": "https://medicina-familie.ro/",
     "category": "Health",
-    "rss": "https://medicina-familie.ro/?feed=rss2"
+    "rss": "https://medicina-familie.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-07-05T08:21:28.164975+00:00",
+  "updated_at": "2026-07-05T10:35:31.697482+00:00",
   "status": "ok",
   "items": [
     {
