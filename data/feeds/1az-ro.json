@@ -7,7 +7,7 @@
     "rss": "https://1az.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-07-06T17:55:58.897527+00:00",
+  "updated_at": "2026-07-06T20:17:54.414156+00:00",
   "status": "ok",
   "items": [
     {
@@ -16,6 +16,14 @@
       "summary": "Aceasta stire Publicație 06.07.2026 apare prima oara pe Primarii de la A la Z . Source Aceasta stire Publicație 06.07.2026 apare prima oara pe Primarii de la A la Z .",
       "published": "2026-07-06T12:23:57+00:00",
       "published_human": "2026-07-06T12:23",
+      "source": "https://1az.ro/"
+    },
+    {
+      "title": "Anunt de inchiriere locuință (imobil două camere) situat în str. Mărășești nr. 97 C, aparținând domeniului privat al orasului Târgu-Neamț",
+      "link": "https://1az.ro/anunt-de-inchiriere-locuinta-imobil-doua-camere-situat-in-str-marasesti-nr-97-c-apartinand-domeniului-privat-al-orasului-targu-neamt/",
+      "summary": "Aceasta stire Anunt de inchiriere locuință (imobil două camere) situat în str. Mărășești nr. 97 C, aparținând domeniului privat al orasului Târgu-Neamț apare prima oara pe Primarii de la A la Z . Deschide Source Aceasta stire Anunt de inchiriere locuință (imobil două camere) situat în str. Mărășești nr. 97 C, aparținând domeniului privat al orasului Târgu-Neamț apare prima oara pe Primarii de la A la Z .",
+      "published": "2026-07-06T12:20:55+00:00",
+      "published_human": "2026-07-06T12:20",
       "source": "https://1az.ro/"
     },
     {
@@ -96,14 +104,6 @@
       "summary": "Aceasta stire Convocarea sedintei extraordinare a Consiliului Local din data de 07.07.2026 apare prima oara pe Primarii de la A la Z . Dispozitie, ordine de zi Proiect de hotarare nr. 57 Proiect de hotarare nr. 60 Source Aceasta stire Convocarea sedintei extraordinare a Consiliului Local din data de 07.07.2026 apare prima oara pe Primarii de la A la Z .",
       "published": "2026-07-03T10:29:43+00:00",
       "published_human": "2026-07-03T10:29",
-      "source": "https://1az.ro/"
-    },
-    {
-      "title": "Publicație 03.07.2026",
-      "link": "https://1az.ro/publicatie-03-07-2026/",
-      "summary": "Aceasta stire Publicație 03.07.2026 apare prima oara pe Primarii de la A la Z . Source Aceasta stire Publicație 03.07.2026 apare prima oara pe Primarii de la A la Z .",
-      "published": "2026-07-03T10:03:18+00:00",
-      "published_human": "2026-07-03T10:03",
       "source": "https://1az.ro/"
     }
   ],
