@@ -7,9 +7,17 @@
     "rss": "https://stiri-medicale.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-07-09T05:18:53.636932+00:00",
+  "updated_at": "2026-07-09T08:49:08.446188+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Cât durează tratamentul cu aparat dentar și ce influențează durata acestuia",
+      "link": "https://stiri-medicale.ro/cat-dureaza-tratamentul-cu-aparat-dentar-si-ce-influenteaza-durata-acestuia/",
+      "summary": "Aproape oricine pășește într-un cabinet stomatologic speră în secret că va scăpa de sârme și bracketuri în cel mult un&#8230; Articolul Cât durează tratamentul cu aparat dentar și ce influențează durata acestuia apare prima dată în Stiri Medicale .",
+      "published": "2026-07-09T07:47:42+00:00",
+      "published_human": "2026-07-09T07:47",
+      "source": "https://stiri-medicale.ro/"
+    },
     {
       "title": "Clinica Prevencia explică: simptome pe care pacienții nu ar trebui să le trateze la nesfârșit acasă",
       "link": "https://stiri-medicale.ro/clinica-prevencia-explica-simptome-pe-care-pacientii-nu-ar-trebui-sa-le-trateze-la-nesfarsit-acasa/",
@@ -96,14 +104,6 @@
       "summary": "Să îți deschizi propriul cabinet dentar a fost visul tău încă de când ți-ai văzut numele pe lista celor admiși&#8230; Articolul De ce este un motiv bun să apelezi la servicii de consultanță pentru stomatologi apare prima dată în Stiri Medicale .",
       "published": "2026-02-02T20:08:28+00:00",
       "published_human": "2026-02-02T20:08",
-      "source": "https://stiri-medicale.ro/"
-    },
-    {
-      "title": "Totul despre Menopauză: Cum îți menții calitatea vieții",
-      "link": "https://stiri-medicale.ro/totul-despre-menopauza-cum-iti-mentii-calitatea-vietii/",
-      "summary": "Menopauza reprezintă o etapă fiziologică firească în existența fiecărei femei, marcând trecerea de la perioada reproductivă la o nouă fază&#8230; Articolul Totul despre Menopauză: Cum îți menții calitatea vieții apare prima dată în Stiri Medicale .",
-      "published": "2026-01-28T12:04:03+00:00",
-      "published_human": "2026-01-28T12:04",
       "source": "https://stiri-medicale.ro/"
     }
   ],
