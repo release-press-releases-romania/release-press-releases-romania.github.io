@@ -7,9 +7,17 @@
     "rss": "https://1az.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-07-13T15:16:14.925025+00:00",
+  "updated_at": "2026-07-13T17:25:18.302364+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Anunț recrutare",
+      "link": "https://1az.ro/anunt-recrutare/",
+      "summary": "Aceasta stire Anunț recrutare apare prima oara pe Primarii de la A la Z . Anunt Concurs Formular de înscriere F.P. &#8211; Compartiment Resurse Umane &#8211; consilier asistent &#8211; iun.2026 F.P &#8211; Compartiment Buget, Contabilitate, Financiar și Investiții &#8211; referent superior &#8211; casier iun. 2026 Source Aceasta stire Anunț recrutare apare prima oara pe Primarii de la A la Z .",
+      "published": "2026-07-13T11:50:59+00:00",
+      "published_human": "2026-07-13T11:50",
+      "source": "https://1az.ro/"
+    },
     {
       "title": "Eseline are nevoie de votul nostru!",
       "link": "https://1az.ro/eseline-are-nevoie-de-votul-nostru/",
@@ -96,14 +104,6 @@
       "summary": "Aceasta stire Studiu de Evaluare Adecvată AS UP I Roșia_final apare prima oara pe Primarii de la A la Z . Note: There is a file embedded within this post, please visit this post to download the file. Source Aceasta stire Studiu de Evaluare Adecvată AS UP I Roșia_final apare prima oara pe Primarii de la A la Z .",
       "published": "2026-07-10T09:52:53+00:00",
       "published_human": "2026-07-10T09:52",
-      "source": "https://1az.ro/"
-    },
-    {
-      "title": "Publicație 10.07.2026",
-      "link": "https://1az.ro/publicatie-10-07-2026/",
-      "summary": "Aceasta stire Publicație 10.07.2026 apare prima oara pe Primarii de la A la Z . Source Aceasta stire Publicație 10.07.2026 apare prima oara pe Primarii de la A la Z .",
-      "published": "2026-07-10T09:26:04+00:00",
-      "published_human": "2026-07-10T09:26",
       "source": "https://1az.ro/"
     }
   ],
