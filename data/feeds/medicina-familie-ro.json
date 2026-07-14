@@ -7,9 +7,17 @@
     "rss": "https://medicina-familie.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-07-14T09:20:13.246321+00:00",
+  "updated_at": "2026-07-14T11:00:15.608069+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "O șansă egală la calificare: cum sprijină proiectul femeile și persoanele din mediul rural",
+      "link": "https://medicina-familie.ro/o-sansa-egala-la-calificare-cum-sprijina-proiectul-femeile-si-persoanele-din-mediul-rural/",
+      "summary": "Nu toți oamenii pornesc de la aceeași linie de start. O femeie dintr-un sat din... Articolul O șansă egală la calificare: cum sprijină proiectul femeile și persoanele din mediul rural apare prima dată în Medicina de Familie .",
+      "published": "2026-07-14T09:30:33+00:00",
+      "published_human": "2026-07-14T09:30",
+      "source": "https://medicina-familie.ro/"
+    },
     {
       "title": "De ce unii pacienti raman cu durere si limitari functionale dupa interventia chirurgicala",
       "link": "https://medicina-familie.ro/de-ce-unii-pacienti-raman-cu-durere-si-limitari-functionale-dupa-interventia-chirurgicala/",
@@ -96,14 +104,6 @@
       "summary": "Mulți utilizatori se simt frustrați de modul în care marile platforme centralizate gestionează conținutul. Algoritmii... Articolul Cum funcționează moderarea pe Mastodon și ce rol are adminul apare prima dată în Medicina de Familie .",
       "published": "2025-12-17T16:58:54+00:00",
       "published_human": "2025-12-17T16:58",
-      "source": "https://medicina-familie.ro/"
-    },
-    {
-      "title": "Mezoterapia cu ace: tehnica discretă care transformă pielea din interior spre exterior",
-      "link": "https://medicina-familie.ro/mezoterapia-cu-ace-tehnica-discreta-care-transforma-pielea-din-interior-spre-exterior/",
-      "summary": "În ultimii ani, tratamentele estetice minim invazive au devenit din ce în ce mai populare,... Articolul Mezoterapia cu ace: tehnica discretă care transformă pielea din interior spre exterior apare prima dată în Medicina de Familie .",
-      "published": "2025-12-17T08:31:12+00:00",
-      "published_human": "2025-12-17T08:31",
       "source": "https://medicina-familie.ro/"
     }
   ],
