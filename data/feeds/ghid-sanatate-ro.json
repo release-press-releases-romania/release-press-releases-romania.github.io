@@ -7,9 +7,17 @@
     "rss": "https://ghid-sanatate.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-07-16T18:35:36.055120+00:00",
+  "updated_at": "2026-07-16T20:14:43.342991+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Îndepărtarea papiloamelor: când este recomandată și cum se realizează procedura",
+      "link": "https://ghid-sanatate.ro/indepartarea-papiloamelor-cand-este-recomandata-si-cum-se-realizeaza-procedura/",
+      "summary": "Alunițele sunt foarte frecvente și, în majoritatea cazurilor, nu reprezintă un motiv de îngrijorare. Cu... Articolul Îndepărtarea papiloamelor: când este recomandată și cum se realizează procedura apare prima dată în Ghid Sanatate .",
+      "published": "2026-07-16T19:27:12+00:00",
+      "published_human": "2026-07-16T19:27",
+      "source": "https://ghid-sanatate.ro/"
+    },
     {
       "title": "De ce se formează tartrul chiar dacă te speli pe dinți?",
       "link": "https://ghid-sanatate.ro/de-ce-se-formeaza-tartrul-chiar-daca-te-speli-pe-dinti/",
@@ -96,14 +104,6 @@
       "summary": "Dacă simțiți că aveți nevoie de un control la ochi sau vreți doar să vedeți... Articolul Descoperiți claritatea vizuală la EXPERTOPTIC Suceava &#8211; oferte speciale inclusiv la lentile heliomate apare prima dată în Ghid Sanatate .",
       "published": "2026-04-23T03:28:13+00:00",
       "published_human": "2026-04-23T03:28",
-      "source": "https://ghid-sanatate.ro/"
-    },
-    {
-      "title": "Energie și detoxifiere: Chia, micile rezervoare de nutrienți",
-      "link": "https://ghid-sanatate.ro/energie-si-detoxifiere-chia-micile-rezervoare-de-nutrienti/",
-      "summary": "Semințele de chia nu mai sunt demult o noutate exotică, ci un ingredient esențial pentru... Articolul Energie și detoxifiere: Chia, micile rezervoare de nutrienți apare prima dată în Ghid Sanatate .",
-      "published": "2026-03-21T19:25:00+00:00",
-      "published_human": "2026-03-21T19:25",
       "source": "https://ghid-sanatate.ro/"
     }
   ],

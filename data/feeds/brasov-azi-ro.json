@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@brasov",
     "rss": "https://social.5th.ro/@brasov.rss"
   },
-  "updated_at": "2026-07-16T18:35:36.055120+00:00",
+  "updated_at": "2026-07-16T20:14:43.342991+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Ai sub 30 de ani și nu lucrezi, nici nu studiezi? Nu ești singur — și ai o soluție",
+      "link": "https://brasov-azi.ro/ai-sub-30-de-ani-si-nu-lucrezi-nici-nu-studiezi-nu-esti-singur-si-ai-o-solutie/",
+      "summary": "Există o categorie de tineri despre care se vorbește mult în statistici și prea puțin cu empatie: cei aflați în situația NEET — adică tineri care nu sunt încadrați profesional și nu urmează nicio formă de educație sau formare. În... Articolul Ai sub 30 de ani și nu lucrezi, nici nu studiezi? Nu ești singur — și ai o soluție apare prima dată în Brasov AZI .",
+      "published": "2026-07-16T19:24:08+00:00",
+      "published_human": "2026-07-16T19:24",
+      "source": "https://brasov-azi.ro/"
+    },
     {
       "title": "ecomTEAM 2026 – Navigating the New eCommerce Era",
       "link": "https://brasov-azi.ro/ecomteam-2026-navigating-the-new-ecommerce-era/",
@@ -100,17 +108,17 @@
       "published": "2026-02-02T09:35:26+00:00",
       "published_human": "2026-02-02T09:35",
       "source": "https://brasov-azi.ro/"
-    },
-    {
-      "title": "Predeal în 2026: ce faci într-un weekend (pârtii, drumeții, plimbări)",
-      "link": "https://brasov-azi.ro/predeal-in-2026-ce-faci-intr-un-weekend-partii-drumetii-plimbari/",
-      "summary": "Stațiunea Predeal combină sporturile de iarnă și drumețiile montane cu obiective precum Mănăstirea și Canionul Șapte Scări. Articolul Predeal în 2026: ce faci într-un weekend (pârtii, drumeții, plimbări) apare prima dată în Brasov AZI .",
-      "published": "2026-02-02T08:13:08+00:00",
-      "published_human": "2026-02-02T08:13",
-      "source": "https://brasov-azi.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@brasov/116931287363923974",
+      "summary": "Există o categorie de tineri despre care se vorbește mult în statistici și prea puțin cu empatie: cei aflați în situația NEET — adică tineri care nu sunt încadrați profesional și nu urmează nicio formă de educație sau formare. În spatele acronimului sec se află povești foarte diferite: cineva care nu a găsit un loc… https:// brasov-azi.ro/ai-sub-30-de-ani -si-nu-lucrezi-nici-nu-studiezi-nu-esti-singur-si-ai-o-solutie/",
+      "published": "2026-07-16T19:24:08+00:00",
+      "published_human": "2026-07-16T19:24",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@brasov/116804552601880890",
@@ -197,14 +205,6 @@
       "summary": "Bilanțul nașterilor din Brașov 2025: Serviciul de Stare Civilă a emis 4.627 de acte, înregistrând mai mulți băieți și 130 de transcrieri. (129 caractere) https:// brasov-azi.ro/peste-4-600-de-a cte-de-stare-civila-pentru-nasteri-inregistrate-la-brasov-in-2025/",
       "published": "2026-02-02T11:37:57+00:00",
       "published_human": "2026-02-02T11:37",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@brasov/116000510940302890",
-      "summary": "Stațiunea Predeal combină sporturile de iarnă și drumețiile montane cu obiective precum Mănăstirea și Canionul Șapte Scări. https:// brasov-azi.ro/predeal-in-2026- ce-faci-intr-un-weekend-partii-drumetii-plimbari/",
-      "published": "2026-02-02T10:15:27+00:00",
-      "published_human": "2026-02-02T10:15",
       "source": "Mastodon"
     }
   ]
