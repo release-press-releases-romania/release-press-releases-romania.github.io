@@ -7,81 +7,8 @@
     "rss": "https://traim-sanatos.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-07-16T06:37:01.718819+00:00",
-  "status": "ok",
-  "items": [
-    {
-      "title": "Clinica Prevencia explică: ce controale medicale merită făcute anual, chiar dacă te simți bine",
-      "link": "https://traim-sanatos.ro/clinica-prevencia-explica-ce-controale-medicale-merita-facute-anual-chiar-daca-te-simti-bine/",
-      "summary": "Mulți oameni ajung la medic doar când apare durerea, febra, oboseala severă sau un simptom care începe să îi sperie.&#8230; Articolul Clinica Prevencia explică: ce controale medicale merită făcute anual, chiar dacă te simți bine apare prima dată în Traim Sanatos .",
-      "published": "2026-06-24T07:56:07+00:00",
-      "published_human": "2026-06-24T07:56",
-      "source": "https://traim-sanatos.ro/"
-    },
-    {
-      "title": "Cum te ajută Motion Clinic să trăiești mai sănătos prin mișcare, recuperare și prevenție",
-      "link": "https://traim-sanatos.ro/motion-clinic-recuperare-medicala-viata-activa/",
-      "summary": "Un stil de viață sănătos nu înseamnă doar alimentație echilibrată și odihnă. Mișcarea corectă, postura, mobilitatea și lipsa durerilor sunt&#8230; Articolul Cum te ajută Motion Clinic să trăiești mai sănătos prin mișcare, recuperare și prevenție apare prima dată în Traim Sanatos .",
-      "published": "2026-06-04T09:09:13+00:00",
-      "published_human": "2026-06-04T09:09",
-      "source": "https://traim-sanatos.ro/"
-    },
-    {
-      "title": "Wegovy® primește aviz pozitiv în UE: Prima pastilă din clasa GLP-1 pentru managementul obezității este aproape de aprobare",
-      "link": "https://traim-sanatos.ro/wegovy-primeste-aviz-pozitiv-in-ue-prima-pastila-din-clasa-glp-1-pentru-managementul-obezitatii-este-aproape-de-aprobare/",
-      "summary": "Compania farmaceutică Novo Nordisk a anunțat că pastila Wegovy&#174; (semaglutid oral 25 mg) a primit un aviz pozitiv din partea&#8230; Articolul Wegovy® primește aviz pozitiv în UE: Prima pastilă din clasa GLP-1 pentru managementul obezității este aproape de aprobare apare prima dată în Traim Sanatos .",
-      "published": "2026-05-25T11:21:49+00:00",
-      "published_human": "2026-05-25T11:21",
-      "source": "https://traim-sanatos.ro/"
-    },
-    {
-      "title": "Date ECO 2026: Eficacitatea Wegovy® în managementul obezității, reducerea MACE și a comorbidităților la femeile aflate la menopauză",
-      "link": "https://traim-sanatos.ro/date-eco-2026-eficacitatea-wegovy-in-managementul-obezitatii-reducerea-mace-si-a-comorbiditatilor-la-femeile-aflate-la-menopauza/",
-      "summary": "Noi date clinice prezentate de Novo Nordisk &#238;n cadrul Congresului European de Obezitate (ECO) 2026 subliniază eficacitatea medicamentului Wegovy&#174; (semaglutidă&#8230; Articolul Date ECO 2026: Eficacitatea Wegovy® în managementul obezității, reducerea MACE și a comorbidităților la femeile aflate la menopauză apare prima dată în Traim Sanatos .",
-      "published": "2026-05-13T14:50:00+00:00",
-      "published_human": "2026-05-13T14:50",
-      "source": "https://traim-sanatos.ro/"
-    },
-    {
-      "title": "Pastila Wegovy generează o slăbire de peste 21% și dublează scorurile de îmbunătățire a mobilității fizice",
-      "link": "https://traim-sanatos.ro/pastila-wegovy-genereaza-o-slabire-de-peste-21-si-dubleaza-scorurile-de-imbunatatire-a-mobilitatii-fizice/",
-      "summary": "Abordarea terapeutică a obezității, recunoscută &#238;n prezent drept o boală cronică și complexă, continuă să evolueze susținută de noi date&#8230; Articolul Pastila Wegovy generează o slăbire de peste 21% și dublează scorurile de îmbunătățire a mobilității fizice apare prima dată în Traim Sanatos .",
-      "published": "2026-05-13T14:41:00+00:00",
-      "published_human": "2026-05-13T14:41",
-      "source": "https://traim-sanatos.ro/"
-    },
-    {
-      "title": "Un nou record în slăbire: Noua doză Wegovy te ajută să pierzi aproape 28% din greutate, topind grăsimea și protejând mușchii",
-      "link": "https://traim-sanatos.ro/un-nou-record-in-slabire-noua-doza-wegovy-te-ajuta-sa-pierzi-aproape-28-din-greutate-topind-grasimea-si-protejand-muschii/",
-      "summary": "Obezitatea este una dintre cele mai mari provocări de sănătate ale secolului, dar știința face pași uriași. Noi rezultate prezentate&#8230; Articolul Un nou record în slăbire: Noua doză Wegovy te ajută să pierzi aproape 28% din greutate, topind grăsimea și protejând mușchii apare prima dată în Traim Sanatos .",
-      "published": "2026-05-12T13:54:00+00:00",
-      "published_human": "2026-05-12T13:54",
-      "source": "https://traim-sanatos.ro/"
-    },
-    {
-      "title": "Wegovy, cunoscutul tratament pentru obezitate, primește undă verde în Marea Britanie pentru prevenirea complicațiilor cardiovasculare",
-      "link": "https://traim-sanatos.ro/wegovy-cunoscutul-tratament-pentru-obezitate-primeste-unda-verde-in-marea-britanie-pentru-prevenirea-complicatiilor-cardiovasculare/",
-      "summary": "Institutul Național pentru Sănătate și Excelență Clinică (NICE) din Marea Britanie a publicat un nou ghid terapeutic care extinde indicațiile&#8230; Articolul Wegovy, cunoscutul tratament pentru obezitate, primește undă verde în Marea Britanie pentru prevenirea complicațiilor cardiovasculare apare prima dată în Traim Sanatos .",
-      "published": "2026-05-11T14:31:00+00:00",
-      "published_human": "2026-05-11T14:31",
-      "source": "https://traim-sanatos.ro/"
-    },
-    {
-      "title": "Înainte să aleg un studio de videochat am căutat opinii despre Vivadiva",
-      "link": "https://traim-sanatos.ro/inainte-sa-aleg-un-studio-de-videochat-am-cautat-opinii-despre-vivadiva/",
-      "summary": "Mă numesc Corina, am 22 de ani și, sincer, nu mă văd deloc lucrând pe 2.800 de lei ca vânzătoare,&#8230; Articolul Înainte să aleg un studio de videochat am căutat opinii despre Vivadiva apare prima dată în Traim Sanatos .",
-      "published": "2026-05-04T08:25:28+00:00",
-      "published_human": "2026-05-04T08:25",
-      "source": "https://traim-sanatos.ro/"
-    },
-    {
-      "title": "STUDIU: Trei din zece români nu au fost în 2025 la niciun control de rutină.",
-      "link": "https://traim-sanatos.ro/studiu-trei-din-zece-romani-nu-au-fost-in-2025-la-niciun-control-de-rutina/",
-      "summary": "STUDIU: Trei din zece români nu au fost în 2025 la niciun control de rutină. Alți doi din zece au&#8230; Articolul STUDIU: Trei din zece români nu au fost în 2025 la niciun control de rutină. apare prima dată în Traim Sanatos .",
-      "published": "2026-04-30T07:28:00+00:00",
-      "published_human": "2026-04-30T07:28",
-      "source": "https://traim-sanatos.ro/"
-    }
-  ],
+  "updated_at": "2026-07-16T09:32:13.171920+00:00",
+  "status": "empty",
+  "items": [],
   "social": []
 }
