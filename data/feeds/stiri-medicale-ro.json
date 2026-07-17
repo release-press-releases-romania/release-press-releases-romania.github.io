@@ -7,9 +7,17 @@
     "rss": "https://stiri-medicale.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-07-17T10:13:56.693384+00:00",
+  "updated_at": "2026-07-17T11:45:40.555116+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Wegovy, prima pastilă GLP-1 pentru slăbit, primește undă verde de la Comisia Europeană",
+      "link": "https://stiri-medicale.ro/wegovy-prima-pastila-glp-1-pentru-slabit-primeste-unda-verde-de-la-comisia-europeana/",
+      "summary": "Wegovy, prima pastilă GLP-1 pentru slăbit, primește undă verde de la Comisia Europeană Comisia Europeană a aprobat Wegovy sub formă&#8230; Articolul Wegovy, prima pastilă GLP-1 pentru slăbit, primește undă verde de la Comisia Europeană apare prima dată în Stiri Medicale .",
+      "published": "2026-07-17T08:44:14+00:00",
+      "published_human": "2026-07-17T08:44",
+      "source": "https://stiri-medicale.ro/"
+    },
     {
       "title": "Cât durează tratamentul cu aparat dentar și ce influențează durata acestuia",
       "link": "https://stiri-medicale.ro/cat-dureaza-tratamentul-cu-aparat-dentar-si-ce-influenteaza-durata-acestuia/",
@@ -96,14 +104,6 @@
       "summary": "Dr. Bogdan Mihai Serban &#124; Medic primar chirurgie generală, Șef de Secție Chirurgie generală, oncologică și robotică la Spitalul Medicover&#8230; Articolul Masterclass International: chirurgia robotica si laparoscopica in tratamentul herniilor inghinal apare prima dată în Stiri Medicale .",
       "published": "2026-03-05T09:40:23+00:00",
       "published_human": "2026-03-05T09:40",
-      "source": "https://stiri-medicale.ro/"
-    },
-    {
-      "title": "De ce este un motiv bun să apelezi la servicii de consultanță pentru stomatologi",
-      "link": "https://stiri-medicale.ro/de-ce-este-un-motiv-bun-sa-apelezi-la-servicii-de-consultanta-pentru-stomatologi/",
-      "summary": "Să îți deschizi propriul cabinet dentar a fost visul tău încă de când ți-ai văzut numele pe lista celor admiși&#8230; Articolul De ce este un motiv bun să apelezi la servicii de consultanță pentru stomatologi apare prima dată în Stiri Medicale .",
-      "published": "2026-02-02T20:08:28+00:00",
-      "published_human": "2026-02-02T20:08",
       "source": "https://stiri-medicale.ro/"
     }
   ],
