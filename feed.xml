@@ -5,8 +5,8 @@
     <link>https://release-press-releases-romania.github.io</link>
     <description>Aggregated RSS feed of press releases from over 100 Romanian publishers. Covering PR &amp; Marketing, Health, News &amp; Society, Technology, Business, Construction, Tourism, and more. Curated selection of quality press releases from trusted Romanian sources.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Jul 2026 07:54:49 +0000</lastBuildDate>
-    <pubDate>Fri, 17 Jul 2026 07:54:49 +0000</pubDate>
+    <lastBuildDate>Fri, 17 Jul 2026 13:09:08 +0000</lastBuildDate>
+    <pubDate>Fri, 17 Jul 2026 13:09:08 +0000</pubDate>
     <generator>Release Press Releases in Romania RSS Aggregator v2.0</generator>
     <webMaster>noreply@release-press-releases-romania.github.io (Release Press Releases)</webMaster>
     <managingEditor>noreply@release-press-releases-romania.github.io (Release Press Releases)</managingEditor>
@@ -28,6 +28,20 @@
     <sy:updateFrequency>1</sy:updateFrequency>
     <copyright>Copyright 2026 Release Press Releases in Romania. Content belongs to respective publishers.</copyright>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Wegovy, prima pastilă GLP-1 pentru slăbit, primește undă verde de la Comisia Europeană</title>
+      <link>https://info-santate.ro/wegovy-prima-pastila-glp-1-pentru-slabit-primeste-unda-verde-de-la-comisia-europeana/</link>
+      <description><![CDATA[From Info Santate: Comisia Europeană a aprobat Wegovy sub formă de comprimat, administrat o dată pe zi, acesta devenind primul tratament oral GLP-1 autorizat în Uniunea Europeană pentru managementul greutății. Medicamentul conține semaglutidă orală în doză de 25 mg și este indicat adulților cu obezitate, respectiv cu un indice de masă corporală de cel puțin 30 kg/m², precum și celor cu suprapondere și minimum o a...]]></description>
+      <pubDate>Fri, 17 Jul 2026 08:49:50 +0000</pubDate>
+      <author>Info Santate (https://release-press-releases-romania.github.io/publisher/info-santate-ro/)</author>
+      <dc:creator>Info Santate</dc:creator>
+      <dc:date>2026-07-17T08:49:50+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">Health</category>
+      <guid isPermaLink="true">https://info-santate.ro/wegovy-prima-pastila-glp-1-pentru-slabit-primeste-unda-verde-de-la-comisia-europeana/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/info-santate-ro/">Info Santate</source>
+      <content:encoded><![CDATA[From Info Santate: Comisia Europeană a aprobat Wegovy sub formă de comprimat, administrat o dată pe zi, acesta devenind primul tratament oral GLP-1 autorizat în Uniunea Europeană pentru managementul greutății. Medicamentul conține semaglutidă orală în doză de 25 mg și este indicat adulților cu obezitate, respectiv cu un indice de masă corporală de cel puțin 30 kg/m², precum și celor cu suprapondere și minimum o a...]]></content:encoded>
+      <comments>https://info-santate.ro/wegovy-prima-pastila-glp-1-pentru-slabit-primeste-unda-verde-de-la-comisia-europeana/#comments</comments>
+    </item>
     <item>
       <title>Îndepărtarea papiloamelor: când este recomandată și cum se realizează procedura</title>
       <link>https://ghid-sanatate.ro/indepartarea-papiloamelor-cand-este-recomandata-si-cum-se-realizeaza-procedura/</link>
@@ -1665,20 +1679,6 @@
       <source url="https://release-press-releases-romania.github.io/publisher/doctor360-ro/">Doctor360</source>
       <content:encoded><![CDATA[From Doctor360: Testarea genetică oferă informații importante pentru pacienții aflați în diferite etape ale vieții sau ale bolii. Recomandările pentru testele genetice depind de contextul individual al pacientului, de istoricul medical personal, de cel familial și de planurile de sănătate. Întrucât presupune un proces complex, de care nu e nevoie întotdeauna, e esențial să înțelegem de la început cum funcțione...]]></content:encoded>
       <comments>https://doctor360.ro/claritate-medicala-cum-functioneaza-testarea-genetica-si-cine-are-nevoie-de-ea/#comments</comments>
-    </item>
-    <item>
-      <title>Viitorul medicinei: Cum îți poate salva viața testarea genetică?</title>
-      <link>https://info-santate.ro/viitorul-medicinei-cum-iti-poate-salva-viata-testarea-genetica/</link>
-      <description><![CDATA[From Info Santate: Într-o lume în care nu mai avem timp de aproape nimic, prevenția proactivă devine extrem de importantă. E mai important să previi decât să cauți tratamente după ce au apărut deja simptomele unor afecțiuni. Această schimbare de paradigmă aduce în discuție importanța identificării potențialelor riscuri pentru sănătate înainte de a se ajunge la boli grave și greu de tratat. Testarea genetică este ...]]></description>
-      <pubDate>Wed, 20 May 2026 18:28:15 +0000</pubDate>
-      <author>Info Santate (https://release-press-releases-romania.github.io/publisher/info-santate-ro/)</author>
-      <dc:creator>Info Santate</dc:creator>
-      <dc:date>2026-05-20T18:28:15+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">Health</category>
-      <guid isPermaLink="true">https://info-santate.ro/viitorul-medicinei-cum-iti-poate-salva-viata-testarea-genetica/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/info-santate-ro/">Info Santate</source>
-      <content:encoded><![CDATA[From Info Santate: Într-o lume în care nu mai avem timp de aproape nimic, prevenția proactivă devine extrem de importantă. E mai important să previi decât să cauți tratamente după ce au apărut deja simptomele unor afecțiuni. Această schimbare de paradigmă aduce în discuție importanța identificării potențialelor riscuri pentru sănătate înainte de a se ajunge la boli grave și greu de tratat. Testarea genetică este ...]]></content:encoded>
-      <comments>https://info-santate.ro/viitorul-medicinei-cum-iti-poate-salva-viata-testarea-genetica/#comments</comments>
     </item>
     <item>
       <title>Cum alegi locuința ideală în București: soluții moderne pentru un stil de viață premium</title>
