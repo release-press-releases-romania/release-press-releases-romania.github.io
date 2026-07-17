@@ -7,9 +7,17 @@
     "rss": "https://info-santate.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-07-17T11:45:40.555116+00:00",
+  "updated_at": "2026-07-17T14:08:12.490023+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Wegovy, prima pastilă GLP-1 pentru slăbit, primește undă verde de la Comisia Europeană",
+      "link": "https://info-santate.ro/wegovy-prima-pastila-glp-1-pentru-slabit-primeste-unda-verde-de-la-comisia-europeana/",
+      "summary": "Comisia Europeană a aprobat Wegovy sub formă de comprimat, administrat o dată pe zi, acesta devenind primul tratament oral GLP-1&#8230; Articolul Wegovy, prima pastilă GLP-1 pentru slăbit, primește undă verde de la Comisia Europeană apare prima dată în Info Sanatate .",
+      "published": "2026-07-17T08:49:50+00:00",
+      "published_human": "2026-07-17T08:49",
+      "source": "https://info-santate.ro/"
+    },
     {
       "title": "Clinica Prevencia explică: de ce pacienții cu boli cronice nu ar trebui să ajungă la medic doar când apar complicații",
       "link": "https://info-santate.ro/clinica-prevencia-explica-de-ce-pacientii-cu-boli-cronice-nu-ar-trebui-sa-ajunga-la-medic-doar-cand-apar-complicatii/",
@@ -72,14 +80,6 @@
       "summary": "Călătoriile reprezintă una dintre cele mai frumoase modalități de recreere și îmbogățire culturală, însă pentru persoanele cu dizabilități motorii organizarea&#8230; Articolul Sfaturi practice pentru organizarea unei vacanțe accesibile persoanelor cu mobilitate redusă apare prima dată în Info Sanatate .",
       "published": "2026-02-13T09:34:46+00:00",
       "published_human": "2026-02-13T09:34",
-      "source": "https://info-santate.ro/"
-    },
-    {
-      "title": "Simptomele rinitei alergice – semnele timpurii care nu trebuie ignorate",
-      "link": "https://info-santate.ro/simptomele-rinitei-alergice-semnele-timpurii-care-nu-trebuie-ignorate/",
-      "summary": "Rinita alergica este una dintre cele mai raspandite afectiuni respiratorii, afectand milioane de persoane de toate varstele. Desi este adesea&#8230; Articolul Simptomele rinitei alergice – semnele timpurii care nu trebuie ignorate apare prima dată în Info Sanatate .",
-      "published": "2026-02-10T19:08:11+00:00",
-      "published_human": "2026-02-10T19:08",
       "source": "https://info-santate.ro/"
     }
   ],
