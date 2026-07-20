@@ -7,9 +7,17 @@
     "rss": "https://recomandari-medicale.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-07-20T15:25:11.501985+00:00",
+  "updated_at": "2026-07-20T18:24:49.593497+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Cum recunoști parodontoza după primele simptome și când să mergi la medic?",
+      "link": "https://recomandari-medicale.ro/cum-recunosti-parodontoza-dupa-primele-simptome-si-cand-sa-mergi-la-medic/",
+      "summary": "Primele semne apar, de multe ori, discret: puțin sânge pe periuța de dinți, o jenă la gingii, un miros neplăcut&#8230; Articolul Cum recunoști parodontoza după primele simptome și când să mergi la medic? apare prima dată în Recomandari Medicale .",
+      "published": "2026-07-20T18:24:19+00:00",
+      "published_human": "2026-07-20T18:24",
+      "source": "https://recomandari-medicale.ro/"
+    },
     {
       "title": "Inulina și slăbitul: curiozități, studii recente și cum îți poate influența senzația de foame",
       "link": "https://recomandari-medicale.ro/inulina-si-slabitul-curiozitati-studii-recente-si-cum-iti-poate-influenta-senzatia-de-foame/",
@@ -96,14 +104,6 @@
       "summary": "Recovery tracking la smartwatch înseamnă monitorizarea nivelului de recuperare al corpului după efort, folosind date precum ritmul cardiac, variabilitatea acestuia&#8230; Articolul Ce înseamnă recovery tracking la smartwatch? apare prima dată în Recomandari Medicale .",
       "published": "2026-04-26T06:59:00+00:00",
       "published_human": "2026-04-26T06:59",
-      "source": "https://recomandari-medicale.ro/"
-    },
-    {
-      "title": "Cum îți îmbunătățești somnul cu un smartwatch?",
-      "link": "https://recomandari-medicale.ro/cum-iti-imbunatatesti-somnul-cu-un-smartwatch/",
-      "summary": "Îți poți îmbunătăți somnul cu un smartwatch prin monitorizarea etapelor de odihnă, identificarea obiceiurilor care îți afectează rutina și aplicarea&#8230; Articolul Cum îți îmbunătățești somnul cu un smartwatch? apare prima dată în Recomandari Medicale .",
-      "published": "2026-04-25T07:14:00+00:00",
-      "published_human": "2026-04-25T07:14",
       "source": "https://recomandari-medicale.ro/"
     }
   ],

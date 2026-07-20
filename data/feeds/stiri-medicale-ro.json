@@ -7,9 +7,17 @@
     "rss": "https://stiri-medicale.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-07-20T15:25:11.501985+00:00",
+  "updated_at": "2026-07-20T18:24:49.593497+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Tehnica LHP versus Hemoroidectomia Clasică: O Privire de Ansamblu asupra Avantajelor",
+      "link": "https://stiri-medicale.ro/tehnica-lhp-versus-hemoroidectomia-clasica-o-privire-de-ansamblu-asupra-avantajelor/",
+      "summary": "Tratament Hemoroizi Cluj &#8211; Provivamed Hemoroizii reprezintă o afecțiune extrem de frecventă, afectând un număr semnificativ din populația adultă, cu&#8230; Articolul Tehnica LHP versus Hemoroidectomia Clasică: O Privire de Ansamblu asupra Avantajelor apare prima dată în Stiri Medicale .",
+      "published": "2026-07-20T18:21:58+00:00",
+      "published_human": "2026-07-20T18:21",
+      "source": "https://stiri-medicale.ro/"
+    },
     {
       "title": "Wegovy, prima pastilă GLP-1 pentru slăbit, primește undă verde de la Comisia Europeană",
       "link": "https://stiri-medicale.ro/wegovy-prima-pastila-glp-1-pentru-slabit-primeste-unda-verde-de-la-comisia-europeana/",
@@ -96,14 +104,6 @@
       "summary": "Către: Ministerul Sanatatii Casa Națională de Asigurări de Sănătate Stimate Domnule Ministru / Secretar De Stat, Dr. Stela Firu Stimate&#8230; Articolul Scrisoare deschisă privind accesul pacienților oncologici la servicii de radioterapie și utilizarea capacităților disponibile apare prima dată în Stiri Medicale .",
       "published": "2026-04-22T08:55:00+00:00",
       "published_human": "2026-04-22T08:55",
-      "source": "https://stiri-medicale.ro/"
-    },
-    {
-      "title": "Masterclass International: chirurgia robotica si laparoscopica in tratamentul herniilor inghinal",
-      "link": "https://stiri-medicale.ro/masterclass-international-chirurgia-robotica-si-laparoscopica-in-tratamentul-herniilor-inghinal/",
-      "summary": "Dr. Bogdan Mihai Serban &#124; Medic primar chirurgie generală, Șef de Secție Chirurgie generală, oncologică și robotică la Spitalul Medicover&#8230; Articolul Masterclass International: chirurgia robotica si laparoscopica in tratamentul herniilor inghinal apare prima dată în Stiri Medicale .",
-      "published": "2026-03-05T09:40:23+00:00",
-      "published_human": "2026-03-05T09:40",
       "source": "https://stiri-medicale.ro/"
     }
   ],
