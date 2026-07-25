@@ -7,9 +7,17 @@
     "rss": "https://stiri-medicale.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-07-25T10:48:35.885967+00:00",
+  "updated_at": "2026-07-25T12:12:20.868171+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Când poate fi luată în calcul autohemoterapia ca terapie complementară",
+      "link": "https://stiri-medicale.ro/cand-poate-fi-luata-in-calcul-autohemoterapia-ca-terapie-complementara/",
+      "summary": "În ultimii ani, interesul pentru terapiile complementare a crescut considerabil, în special în rândul persoanelor care urmează tratamente pentru afecțiuni&#8230; Articolul Când poate fi luată în calcul autohemoterapia ca terapie complementară apare prima dată în Stiri Medicale .",
+      "published": "2026-07-25T11:56:06+00:00",
+      "published_human": "2026-07-25T11:56",
+      "source": "https://stiri-medicale.ro/"
+    },
     {
       "title": "Tehnica LHP versus Hemoroidectomia Clasică: O Privire de Ansamblu asupra Avantajelor",
       "link": "https://stiri-medicale.ro/tehnica-lhp-versus-hemoroidectomia-clasica-o-privire-de-ansamblu-asupra-avantajelor/",
@@ -96,14 +104,6 @@
       "summary": "Probabil ai făcut cel puțin un test de personalitate în viața ta, precum MBTI, Enneagram sau altceva de pe internet&#8230; Articolul Ce spune cu adevărat personalitatea ta despre tine apare prima dată în Stiri Medicale .",
       "published": "2026-04-29T15:56:24+00:00",
       "published_human": "2026-04-29T15:56",
-      "source": "https://stiri-medicale.ro/"
-    },
-    {
-      "title": "Scrisoare deschisă privind accesul pacienților oncologici la servicii de radioterapie și utilizarea capacităților disponibile",
-      "link": "https://stiri-medicale.ro/scrisoare-deschisa-privind-accesul-pacientilor-oncologici-la-servicii-de-radioterapie-si-utilizarea-capacitatilor-disponibile/",
-      "summary": "Către: Ministerul Sanatatii Casa Națională de Asigurări de Sănătate Stimate Domnule Ministru / Secretar De Stat, Dr. Stela Firu Stimate&#8230; Articolul Scrisoare deschisă privind accesul pacienților oncologici la servicii de radioterapie și utilizarea capacităților disponibile apare prima dată în Stiri Medicale .",
-      "published": "2026-04-22T08:55:00+00:00",
-      "published_human": "2026-04-22T08:55",
       "source": "https://stiri-medicale.ro/"
     }
   ],
