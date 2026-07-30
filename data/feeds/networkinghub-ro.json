@@ -7,9 +7,17 @@
     "rss": "https://networkinghub.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-07-30T03:38:12.674392+00:00",
+  "updated_at": "2026-07-30T07:05:17.357763+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "De ce siguranța emoțională a copilului tău depinde de un mediu care îi permite să exploreze liber",
+      "link": "https://networkinghub.ro/de-ce-siguranta-emotionala-a-copilului-tau-depinde-de-un-mediu-care-ii-permite-sa-exploreze-liber/",
+      "summary": "Siguranța emoțională se bazează pe capacitatea copilului de a se simți în control asupra propriilor... Articolul De ce siguranța emoțională a copilului tău depinde de un mediu care îi permite să exploreze liber apare prima dată în Networking Hub .",
+      "published": "2026-07-30T07:01:42+00:00",
+      "published_human": "2026-07-30T07:01",
+      "source": "https://networkinghub.ro/"
+    },
     {
       "title": "Recondiționare sau înlocuire? Când merită reparat un hidromotor și când este o investiție pierdută",
       "link": "https://networkinghub.ro/reconditionare-sau-inlocuire-cand-merita-reparat-un-hidromotor-si-cand-este-o-investitie-pierduta/",
@@ -96,14 +104,6 @@
       "summary": "De la ecrane simple la experiențe vizuale complexe În urmă cu două decenii, tehnologia display... Articolul Cum a evoluat tehnologia display în ultimii 20 ani apare prima dată în Networking Hub .",
       "published": "2026-03-23T15:03:00+00:00",
       "published_human": "2026-03-23T15:03",
-      "source": "https://networkinghub.ro/"
-    },
-    {
-      "title": "Cum se integrează Galaxy S26 într-un ecosistem smart",
-      "link": "https://networkinghub.ro/cum-se-integreaza-galaxy-s26-intr-un-ecosistem-smart/",
-      "summary": "Un singur dispozitiv, mai multe roluri&#206;n prezent, smartphone-ul nu mai este doar un instrument de... Articolul Cum se integrează Galaxy S26 într-un ecosistem smart apare prima dată în Networking Hub .",
-      "published": "2026-03-19T07:01:00+00:00",
-      "published_human": "2026-03-19T07:01",
       "source": "https://networkinghub.ro/"
     }
   ],
