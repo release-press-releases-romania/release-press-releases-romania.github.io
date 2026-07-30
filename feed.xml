@@ -5,8 +5,8 @@
     <link>https://release-press-releases-romania.github.io</link>
     <description>Aggregated RSS feed of press releases from over 100 Romanian publishers. Covering PR &amp; Marketing, Health, News &amp; Society, Technology, Business, Construction, Tourism, and more. Curated selection of quality press releases from trusted Romanian sources.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Jul 2026 19:00:52 +0000</lastBuildDate>
-    <pubDate>Wed, 29 Jul 2026 19:00:52 +0000</pubDate>
+    <lastBuildDate>Thu, 30 Jul 2026 01:42:45 +0000</lastBuildDate>
+    <pubDate>Thu, 30 Jul 2026 01:42:45 +0000</pubDate>
     <generator>Release Press Releases in Romania RSS Aggregator v2.0</generator>
     <webMaster>noreply@release-press-releases-romania.github.io (Release Press Releases)</webMaster>
     <managingEditor>noreply@release-press-releases-romania.github.io (Release Press Releases)</managingEditor>
@@ -28,6 +28,20 @@
     <sy:updateFrequency>1</sy:updateFrequency>
     <copyright>Copyright 2026 Release Press Releases in Romania. Content belongs to respective publishers.</copyright>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Idei de gustari sanatoase la birou</title>
+      <link>https://medic360.ro/idei-de-gustari-sanatoase-la-birou/</link>
+      <description><![CDATA[From Medic360: Te trezești adesea obosit în jurul orei 15:00 la locul de muncă? Simți o nevoie acută de ceva dulce pentru a continua sarcinile zilnice? Lipsa de energie este o problemă comună pentru mulți angajați. Din fericire, soluția este la îndemâna ta și depinde direct de ceea ce alegi să mănânci între mesele principale. Alegerea de gustari sanatoase la birou îți poate schimba complet nivelul de producti...]]></description>
+      <pubDate>Wed, 29 Jul 2026 19:11:13 +0000</pubDate>
+      <author>Medic360 (https://release-press-releases-romania.github.io/publisher/medic360-ro/)</author>
+      <dc:creator>Medic360</dc:creator>
+      <dc:date>2026-07-29T19:11:13+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">Health</category>
+      <guid isPermaLink="true">https://medic360.ro/idei-de-gustari-sanatoase-la-birou/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/medic360-ro/">Medic360</source>
+      <content:encoded><![CDATA[From Medic360: Te trezești adesea obosit în jurul orei 15:00 la locul de muncă? Simți o nevoie acută de ceva dulce pentru a continua sarcinile zilnice? Lipsa de energie este o problemă comună pentru mulți angajați. Din fericire, soluția este la îndemâna ta și depinde direct de ceea ce alegi să mănânci între mesele principale. Alegerea de gustari sanatoase la birou îți poate schimba complet nivelul de producti...]]></content:encoded>
+      <comments>https://medic360.ro/idei-de-gustari-sanatoase-la-birou/#comments</comments>
+    </item>
     <item>
       <title>BOICOT! FĂRĂ ABONAMENTE!</title>
       <link>https://pr.1az.ro/boicot-fara-abonamente/</link>
@@ -1007,20 +1021,6 @@
       <source url="https://release-press-releases-romania.github.io/publisher/ifemeie-ro/">iFemeie</source>
       <content:encoded><![CDATA[From iFemeie: Eventrația postoperatorie: de ce apare și cum se tratează corect La Spitalul Medicover Pipera (București, sector 2), medicul chirurg evaluează și tratează chirurgical afecțiuni frecvente precum herniile, apendicita, colecistita, patologiile tiroidiene și tumori digestive — de la consult și investigații până la intervenție și recuperare. Mai jos găsiți pe scurt ce tipuri de probleme pot fi abord...]]></content:encoded>
       <comments>https://ifemeie.ro/eventratia-postoperatorie-de-ce-apare-si-cum-se-trateaza-corect/#comments</comments>
-    </item>
-    <item>
-      <title>Cancer colorectal: simptome care trebuie investigate rapid</title>
-      <link>https://medic360.ro/cancer-colorectal-simptome-care-trebuie-investigate-rapid/</link>
-      <description><![CDATA[From Medic360: Cancer Colorectal: Simptome Care Trebuie Investigate Rapid La Spitalul Medicover Pipera (București, sector 2), medicul chirurg evaluează și tratează chirurgical afecțiuni frecvente precum herniile, apendicita, colecistita, patologiile tiroidiene și tumori digestive — de la consult și investigații până la intervenție și recuperare. Mai jos găsiți pe scurt ce tipuri de probleme pot fi abordate și...]]></description>
-      <pubDate>Tue, 23 Jun 2026 08:05:55 +0000</pubDate>
-      <author>Medic360 (https://release-press-releases-romania.github.io/publisher/medic360-ro/)</author>
-      <dc:creator>Medic360</dc:creator>
-      <dc:date>2026-06-23T08:05:55+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">Health</category>
-      <guid isPermaLink="true">https://medic360.ro/cancer-colorectal-simptome-care-trebuie-investigate-rapid/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/medic360-ro/">Medic360</source>
-      <content:encoded><![CDATA[From Medic360: Cancer Colorectal: Simptome Care Trebuie Investigate Rapid La Spitalul Medicover Pipera (București, sector 2), medicul chirurg evaluează și tratează chirurgical afecțiuni frecvente precum herniile, apendicita, colecistita, patologiile tiroidiene și tumori digestive — de la consult și investigații până la intervenție și recuperare. Mai jos găsiți pe scurt ce tipuri de probleme pot fi abordate și...]]></content:encoded>
-      <comments>https://medic360.ro/cancer-colorectal-simptome-care-trebuie-investigate-rapid/#comments</comments>
     </item>
     <item>
       <title>Colecistita acută: semne de alarmă și când este necesară intervenția chirurgicală</title>
