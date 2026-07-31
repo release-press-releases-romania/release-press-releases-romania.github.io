@@ -5,8 +5,8 @@
     <link>https://release-press-releases-romania.github.io</link>
     <description>Aggregated RSS feed of press releases from over 100 Romanian publishers. Covering PR &amp; Marketing, Health, News &amp; Society, Technology, Business, Construction, Tourism, and more. Curated selection of quality press releases from trusted Romanian sources.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 31 Jul 2026 01:59:35 +0000</lastBuildDate>
-    <pubDate>Fri, 31 Jul 2026 01:59:35 +0000</pubDate>
+    <lastBuildDate>Fri, 31 Jul 2026 08:38:13 +0000</lastBuildDate>
+    <pubDate>Fri, 31 Jul 2026 08:38:13 +0000</pubDate>
     <generator>Release Press Releases in Romania RSS Aggregator v2.0</generator>
     <webMaster>noreply@release-press-releases-romania.github.io (Release Press Releases)</webMaster>
     <managingEditor>noreply@release-press-releases-romania.github.io (Release Press Releases)</managingEditor>
@@ -28,6 +28,34 @@
     <sy:updateFrequency>1</sy:updateFrequency>
     <copyright>Copyright 2026 Release Press Releases in Romania. Content belongs to respective publishers.</copyright>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Ce este CSV.RO? Întrebări și răspunsuri despre cumpărare, schimb și vânzare online</title>
+      <link>https://e-faq.ro/ce-este-csv-ro-intrebari-raspunsuri-cumparare-schimb-vanzare/</link>
+      <description><![CDATA[From E Faq: Platformele de anunțuri sunt folosite pentru situații foarte diferite. O persoană poate căuta un produs folosit, o locuință sau un serviciu. O firmă poate publica stocuri, echipamente, locuri de muncă ori oferte comerciale. CSV.RO este o platformă de anunțuri online construită pentru cumpărare, schimb și vânzare. Numele poate fi citit și prin formula „Cumperi, Schimbi, Vinzi”. Platforma este di...]]></description>
+      <pubDate>Fri, 31 Jul 2026 07:18:06 +0000</pubDate>
+      <author>E Faq (https://release-press-releases-romania.github.io/publisher/e-faq-ro/)</author>
+      <dc:creator>E Faq</dc:creator>
+      <dc:date>2026-07-31T07:18:06+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">Miscellaneous</category>
+      <guid isPermaLink="true">https://e-faq.ro/ce-este-csv-ro-intrebari-raspunsuri-cumparare-schimb-vanzare/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/e-faq-ro/">E Faq</source>
+      <content:encoded><![CDATA[From E Faq: Platformele de anunțuri sunt folosite pentru situații foarte diferite. O persoană poate căuta un produs folosit, o locuință sau un serviciu. O firmă poate publica stocuri, echipamente, locuri de muncă ori oferte comerciale. CSV.RO este o platformă de anunțuri online construită pentru cumpărare, schimb și vânzare. Numele poate fi citit și prin formula „Cumperi, Schimbi, Vinzi”. Platforma este di...]]></content:encoded>
+      <comments>https://e-faq.ro/ce-este-csv-ro-intrebari-raspunsuri-cumparare-schimb-vanzare/#comments</comments>
+    </item>
+    <item>
+      <title>De ce candidații potriviți evită ofertele de muncă vagi</title>
+      <link>https://pr.1az.ro/de-ce-candidatii-evita-ofertele-de-munca-vagi/</link>
+      <description><![CDATA[From Pr.1az: The post De ce candidații potriviți evită ofertele de muncă vagi appeared first on PR de la A la Z. O ofertă de muncă vagă nu atrage automat mai mulți candidați. De multe ori produce întrebări repetitive, aplicații nepotrivite și retrageri după primul contact. Formulări precum „angajăm urgent”, „salariu motivant” sau „mediu dinamic” nu îi ajută pe oameni să înțeleagă postul. Candidatul vrea să ...]]></description>
+      <pubDate>Fri, 31 Jul 2026 07:15:03 +0000</pubDate>
+      <author>Pr.1az (https://release-press-releases-romania.github.io/publisher/pr-1az-ro/)</author>
+      <dc:creator>Pr.1az</dc:creator>
+      <dc:date>2026-07-31T07:15:03+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">PR &amp; Marketing</category>
+      <guid isPermaLink="true">https://pr.1az.ro/de-ce-candidatii-evita-ofertele-de-munca-vagi/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/pr-1az-ro/">Pr.1az</source>
+      <content:encoded><![CDATA[From Pr.1az: The post De ce candidații potriviți evită ofertele de muncă vagi appeared first on PR de la A la Z. O ofertă de muncă vagă nu atrage automat mai mulți candidați. De multe ori produce întrebări repetitive, aplicații nepotrivite și retrageri după primul contact. Formulări precum „angajăm urgent”, „salariu motivant” sau „mediu dinamic” nu îi ajută pe oameni să înțeleagă postul. Candidatul vrea să ...]]></content:encoded>
+      <comments>https://pr.1az.ro/de-ce-candidatii-evita-ofertele-de-munca-vagi/#comments</comments>
+    </item>
     <item>
       <title>Tricouri personalizate pentru firme: ghid de alegere și comandă</title>
       <link>https://afaceritop.ro/tricouri-personalizate-pentru-firme-ghid-de-alegere-si-comanda/</link>
@@ -125,20 +153,6 @@
       <source url="https://release-press-releases-romania.github.io/publisher/pr-1az-ro/">Pr.1az</source>
       <content:encoded><![CDATA[From Pr.1az: The post Cine e vinovat? appeared first on PR de la A la Z. Vinovăția nu are un singur nume. E un sistem întreg construit ca să nu funcționeze. Când 11 din 22 de echipe din Liga a 2-a nu au drept de promovare, nu e un accident de sezon. E rezultatul logic al unui model pe care federația, primăriile și politicul l-au tolerat și, de multe ori, l-au preferat, vreme de peste două decenii. Cluburile...]]></content:encoded>
       <comments>https://pr.1az.ro/cine-e-vinovat/#comments</comments>
-    </item>
-    <item>
-      <title>Suporterii au soluția căutată de MApN</title>
-      <link>https://pr.1az.ro/suporterii-au-solutia-cautata-de-mapn/</link>
-      <description><![CDATA[From Pr.1az: The post Suporterii au soluția căutată de MApN appeared first on PR de la A la Z. Dacă ați ratat răspunsul dat de Ministerul Apărării Naționale pentru News Online, îl repetăm. Highlightul e simplu: Ministerul NU ARE NICIUN PLAN. În teorie este „deschis” la parteneri privați, în practică se ascunde după „nu avem o analiză instituțională”. Asta după 9 ANI! 9! NOUĂ! 108 luni! 3.287 de zile! Și tot...]]></description>
-      <pubDate>Thu, 23 Jul 2026 09:43:38 +0000</pubDate>
-      <author>Pr.1az (https://release-press-releases-romania.github.io/publisher/pr-1az-ro/)</author>
-      <dc:creator>Pr.1az</dc:creator>
-      <dc:date>2026-07-23T09:43:38+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">PR &amp; Marketing</category>
-      <guid isPermaLink="true">https://pr.1az.ro/suporterii-au-solutia-cautata-de-mapn/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/pr-1az-ro/">Pr.1az</source>
-      <content:encoded><![CDATA[From Pr.1az: The post Suporterii au soluția căutată de MApN appeared first on PR de la A la Z. Dacă ați ratat răspunsul dat de Ministerul Apărării Naționale pentru News Online, îl repetăm. Highlightul e simplu: Ministerul NU ARE NICIUN PLAN. În teorie este „deschis” la parteneri privați, în practică se ascunde după „nu avem o analiză instituțională”. Asta după 9 ANI! 9! NOUĂ! 108 luni! 3.287 de zile! Și tot...]]></content:encoded>
-      <comments>https://pr.1az.ro/suporterii-au-solutia-cautata-de-mapn/#comments</comments>
     </item>
     <item>
       <title>Parchet SPC sau parchet laminat? Cum alegi corect pentru casa ta</title>
@@ -1441,20 +1455,6 @@
       <source url="https://release-press-releases-romania.github.io/publisher/universultech-ro/">Universultech</source>
       <content:encoded><![CDATA[From Universultech: În era digitală, unde tehnologia avansează rapid, nu mai este nevoie de echipamente voluminoase pentru a crea momente memorabile. Cu o boxă portabilă modernă, orice loc poate deveni scena perfectă pentru o petrecere spontană. Indiferent dacă este vorba de o adunare în grădină, un picnic în parc sau chiar o întâlnire pe plajă, sunetul puternic și calitatea audio pot transforma atmosfera și stârn...]]></content:encoded>
       <comments>https://universultech.ro/experienta-de-party-pe-care-o-poti-lua-oriunde-sunet-portabil-pentru-vibe-uri-de-neuitat/#comments</comments>
-    </item>
-    <item>
-      <title>Espressor în Custodie pentru Birou — Întrebări și Răspunsuri</title>
-      <link>https://e-faq.ro/espressor-in-custodie-pentru-birou-intrebari-si-raspunsuri/</link>
-      <description><![CDATA[From E Faq: Dacă lucrezi într-un birou și ai auzit de conceptul de „espressor în custodie” dar nu ești sigur ce înseamnă exact, ești în locul potrivit. Mai jos găsești răspunsuri clare la cele mai frecvente întrebări — fără termeni juridici complicați, fără reclame deghizate. Ce Este un Espressor în Custodie? Un espressor în custodie este un aparat de cafea profesional pe care îl primești și îl folosești l...]]></description>
-      <pubDate>Tue, 09 Jun 2026 09:39:17 +0000</pubDate>
-      <author>E Faq (https://release-press-releases-romania.github.io/publisher/e-faq-ro/)</author>
-      <dc:creator>E Faq</dc:creator>
-      <dc:date>2026-06-09T09:39:17+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">Miscellaneous</category>
-      <guid isPermaLink="true">https://e-faq.ro/espressor-in-custodie-pentru-birou-intrebari-si-raspunsuri/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/e-faq-ro/">E Faq</source>
-      <content:encoded><![CDATA[From E Faq: Dacă lucrezi într-un birou și ai auzit de conceptul de „espressor în custodie” dar nu ești sigur ce înseamnă exact, ești în locul potrivit. Mai jos găsești răspunsuri clare la cele mai frecvente întrebări — fără termeni juridici complicați, fără reclame deghizate. Ce Este un Espressor în Custodie? Un espressor în custodie este un aparat de cafea profesional pe care îl primești și îl folosești l...]]></content:encoded>
-      <comments>https://e-faq.ro/espressor-in-custodie-pentru-birou-intrebari-si-raspunsuri/#comments</comments>
     </item>
     <item>
       <title>Forumvideochat.ro este locul unde găsești recenzii despre Vivadiva</title>
