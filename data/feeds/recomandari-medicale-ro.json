@@ -7,9 +7,17 @@
     "rss": "https://recomandari-medicale.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-07-31T13:09:42.974245+00:00",
+  "updated_at": "2026-07-31T15:33:03.843772+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Cum identifici polipii la copii: semne de alarma ce nu trebuie ignorate",
+      "link": "https://recomandari-medicale.ro/cum-identifici-polipii-la-copii-semne-de-alarma-ce-nu-trebuie-ignorate/",
+      "summary": "Fiecare parinte isi doreste ca micutul sau sa creasca sanatos, sa doarma profund si sa aiba parte de o dezvoltare&#8230; Articolul Cum identifici polipii la copii: semne de alarma ce nu trebuie ignorate apare prima dată în Recomandari Medicale .",
+      "published": "2026-07-31T13:40:36+00:00",
+      "published_human": "2026-07-31T13:40",
+      "source": "https://recomandari-medicale.ro/"
+    },
     {
       "title": "Cum recunoști parodontoza după primele simptome și când să mergi la medic?",
       "link": "https://recomandari-medicale.ro/cum-recunosti-parodontoza-dupa-primele-simptome-si-cand-sa-mergi-la-medic/",
@@ -96,14 +104,6 @@
       "summary": "Descoperă modalități eficiente de a-ți revitaliza pielea și a susține sănătatea tenului folosind suplimente naturale. Învață cum ingredientele naturale pot&#8230; Articolul Cum să îți îmbunătățești rutina de îngrijire a pielii cu ajutorul suplimentelor naturale apare prima dată în Recomandari Medicale .",
       "published": "2026-05-19T15:15:25+00:00",
       "published_human": "2026-05-19T15:15",
-      "source": "https://recomandari-medicale.ro/"
-    },
-    {
-      "title": "Ce înseamnă recovery tracking la smartwatch?",
-      "link": "https://recomandari-medicale.ro/ce-inseamna-recovery-tracking-la-smartwatch/",
-      "summary": "Recovery tracking la smartwatch înseamnă monitorizarea nivelului de recuperare al corpului după efort, folosind date precum ritmul cardiac, variabilitatea acestuia&#8230; Articolul Ce înseamnă recovery tracking la smartwatch? apare prima dată în Recomandari Medicale .",
-      "published": "2026-04-26T06:59:00+00:00",
-      "published_human": "2026-04-26T06:59",
       "source": "https://recomandari-medicale.ro/"
     }
   ],

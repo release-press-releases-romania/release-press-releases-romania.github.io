@@ -7,9 +7,17 @@
     "rss": "https://medic360.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-07-31T13:09:42.974245+00:00",
+  "updated_at": "2026-07-31T15:33:03.843772+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Cum recunosti polipii la copii: semnalul de alarma pentru parinti",
+      "link": "https://medic360.ro/cum-recunosti-polipii-la-copii-semnalul-de-alarma-pentru-parinti/",
+      "summary": "Ca medic ORL, primesc zilnic in cabinet parinti ingrijorati, care adreseaza intrebari esentiale despre sanatatea respiratorie a celor mici. De&#8230; Articolul Cum recunosti polipii la copii: semnalul de alarma pentru parinti apare prima dată în Medic 360 .",
+      "published": "2026-07-31T13:33:23+00:00",
+      "published_human": "2026-07-31T13:33",
+      "source": "https://medic360.ro/"
+    },
     {
       "title": "Idei de gustari sanatoase la birou",
       "link": "https://medic360.ro/idei-de-gustari-sanatoase-la-birou/",
@@ -72,14 +80,6 @@
       "summary": "Monitorizarea stresului pe smartwatch funcționează prin analizarea ritmului cardiac și a variațiilor acestuia (HRV), folosind senzori și algoritmi inteligenți, iar&#8230; Articolul Cum funcționează monitorizarea stresului pe smartwatch? apare prima dată în Medic 360 .",
       "published": "2026-04-25T06:57:00+00:00",
       "published_human": "2026-04-25T06:57",
-      "source": "https://medic360.ro/"
-    },
-    {
-      "title": "Tehnologie cu suflet: Asociatia CONIL a facut pasul spre digitalizare prin PNRR pentru a fi mai aproape de copiii cu nevoi speciale",
-      "link": "https://medic360.ro/tehnologie-cu-suflet-asociatia-conil-a-facut-pasul-spre-digitalizare-prin-pnrr-pentru-a-fi-mai-aproape-de-copiii-cu-nevoi-speciale/",
-      "summary": "Asociatia CENTRUL DE PERFORMANTA BEFORE &#38; AFTER SCHOOL CONIL anunta cu bucurie si recunostinta apropierea de finalizarea proiectului de investitie&#8230; Articolul Tehnologie cu suflet: Asociatia CONIL a facut pasul spre digitalizare prin PNRR pentru a fi mai aproape de copiii cu nevoi speciale apare prima dată în Medic 360 .",
-      "published": "2026-02-25T10:31:27+00:00",
-      "published_human": "2026-02-25T10:31",
       "source": "https://medic360.ro/"
     }
   ],
