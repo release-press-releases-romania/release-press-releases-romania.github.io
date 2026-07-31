@@ -7,9 +7,17 @@
     "rss": "https://5th.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-07-31T11:01:23.391786+00:00",
+  "updated_at": "2026-07-31T13:09:42.974245+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "De ce experiența chirurgului contează în intervențiile complexe",
+      "link": "https://5th.ro/de-ce-experienta-chirurgului-conteaza-in-interventiile-complexe/",
+      "summary": "Atenție: Diagnosticul unei afecțiuni severe reprezintă o încercare grea pentru orice persoană. În astfel de momente, deciziile medicale luate rapid îți pot schimba viața în bine. Interes: Când te confrunți cu o problemă de sănătate dificilă, alegerea medicului este pasul cel mai important. Siguranța ta depinde direct de pregătirea și de îndemânarea specialistului din sala Articolul De ce experiența chirurgului contează în intervențiile complexe apare prima dată în 5th.ro – Social Media Mastodon Instance .",
+      "published": "2026-07-31T08:32:01+00:00",
+      "published_human": "2026-07-31T08:32",
+      "source": "https://5th.ro/"
+    },
     {
       "title": "Verificarea firmelor: Află cum identifici riscurile financiare, juridice și operaționale cu RisCo.ro",
       "link": "https://5th.ro/verificarea-firmelor-afla-cum-identifici-riscurile-financiare-juridice-si-operationale-cu-risco-ro/",
@@ -80,14 +88,6 @@
       "summary": "Publishing on WordPress is the easy part. The annoying part is what comes right after: opening social tabs, rewriting the same teaser, copying the link, adding hashtags… and doing it again tomorrow. Mastodon All In One WordPress Plugin (also known as 5th Social Bot) is built to remove that friction. It connects your WordPress site Articolul Mastodon All In One WordPress Plugin (5th Social Bot): the “publish once, share everywhere” workflow for Mastodon apare prima dată în 5th.ro – Social Media Mastodon Instance .",
       "published": "2025-12-13T09:40:02+00:00",
       "published_human": "2025-12-13T09:40",
-      "source": "https://5th.ro/"
-    },
-    {
-      "title": "Mastodon All In One WordPress Plugin: cum conectezi WordPress cu Mastodon, fără postat manual",
-      "link": "https://5th.ro/mastodon-all-in-one-wordpress-plugin-cum-conectezi-wordpress-cu-mastodon-fara-postat-manual/",
-      "summary": "Dacă publici des pe WordPress, știi rutina: ai apăsat „Publică”, apoi începe turul pe social media. Mai un tab, mai un copy-paste, mai un text scurt, mai niște hashtag-uri. Uneori o faci imediat. Alteori uiți, iar articolul rămâne „doar pe site”. Mastodon All In One WordPress Plugin (cunoscut ca 5th Social Bot) e genul de Articolul Mastodon All In One WordPress Plugin: cum conectezi WordPress cu Mastodon, fără postat manual apare prima dată în 5th.ro – Social Media Mastodon Instance .",
-      "published": "2025-12-13T09:28:37+00:00",
-      "published_human": "2025-12-13T09:28",
       "source": "https://5th.ro/"
     }
   ],

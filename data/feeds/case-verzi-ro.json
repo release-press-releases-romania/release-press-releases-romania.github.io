@@ -7,9 +7,17 @@
     "rss": "https://case-verzi.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-07-31T11:01:23.391786+00:00",
+  "updated_at": "2026-07-31T13:09:42.974245+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Beneficiile chirurgiei robotice în tratamentul cancerului digestiv",
+      "link": "https://case-verzi.ro/beneficiile-chirurgiei-robotice-in-tratamentul-cancerului-digestiv/",
+      "summary": "Aflați că un diagnostic de boală oncologică nu mai reprezintă o sentință fără scăpare. Medicina modernă a evoluat extraordinar în ultimii ani. Astăzi, pacienții au la dispoziție soluții chirurgicale de&#8230; Articolul Beneficiile chirurgiei robotice în tratamentul cancerului digestiv apare prima dată în Case Verzi .",
+      "published": "2026-07-31T08:32:01+00:00",
+      "published_human": "2026-07-31T08:32",
+      "source": "https://case-verzi.ro/"
+    },
     {
       "title": "Ce funcții AI contează într-o locuință modernă?",
       "link": "https://case-verzi.ro/ce-functii-ai-conteaza-intr-o-locuinta-moderna/",
@@ -80,14 +88,6 @@
       "summary": "Vrei să îți extinzi audiența din WordPress direct pe Fediverse, fără efort? Automatizarea postărilor către Mastodon este o strategie excelentă, oferind o prezență constantă fără a necesita intervenție manuală continuă.&#8230; Articolul Mastodon WordPress plugin: cum eviți postările duplicate apare prima dată în Case Verzi .",
       "published": "2025-12-17T16:58:54+00:00",
       "published_human": "2025-12-17T16:58",
-      "source": "https://case-verzi.ro/"
-    },
-    {
-      "title": "Ce înseamnă nZEB? De ce facturile tale vor fi mai mici într-un bloc nou",
-      "link": "https://case-verzi.ro/ce-inseamna-nzeb-de-ce-facturile-tale-vor-fi-mai-mici-intr-un-bloc-nou/",
-      "summary": "Creșterea prețurilor la energie a transformat eficiența termică a locuinței , &#238;ntr-un criteriu decisiv de achiziție. Oamenii caută soluții care să le protejeze bugetul lunar pe termen lung. &#206;n acest&#8230; Articolul Ce înseamnă nZEB? De ce facturile tale vor fi mai mici într-un bloc nou apare prima dată în Case Verzi .",
-      "published": "2025-12-13T13:22:00+00:00",
-      "published_human": "2025-12-13T13:22",
       "source": "https://case-verzi.ro/"
     }
   ],

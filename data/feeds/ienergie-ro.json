@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@ienergie",
     "rss": "https://social.5th.ro/@ienergie.rss"
   },
-  "updated_at": "2026-07-31T11:01:23.391786+00:00",
+  "updated_at": "2026-07-31T13:09:42.974245+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Cancerul de apendice: o afecțiune rară care necesită tratament specializat",
+      "link": "https://ienergie.ro/cancerul-de-apendice-o-afectiune-rara-care-necesita-tratament-specializat/",
+      "summary": "Durerile abdominale bruște ne trimit de cele mai multe ori rapid la medic. În majoritatea cazurilor, ne gândim la o simplă apendicită acută. Totuși, există [Mai mult...] Articolul Cancerul de apendice: o afecțiune rară care necesită tratament specializat apare prima dată în iEnergie .",
+      "published": "2026-07-31T08:32:01+00:00",
+      "published_human": "2026-07-31T08:32",
+      "source": "https://iEnergie.ro/"
+    },
     {
       "title": "Economia socială: o cale cu sens pentru cei care vor un loc de muncă stabil",
       "link": "https://ienergie.ro/economia-sociala-o-cale-cu-sens-pentru-cei-care-vor-un-loc-de-munca-stabil/",
@@ -100,17 +108,17 @@
       "published": "2026-01-21T05:08:49+00:00",
       "published_human": "2026-01-21T05:08",
       "source": "https://iEnergie.ro/"
-    },
-    {
-      "title": "Sursele regenerabile au furnizat aproape 50% din necesarul de electricitate al UE pe parcursul anului 2024",
-      "link": "https://ienergie.ro/sursele-regenerabile-au-furnizat-aproape-50-din-necesarul-de-electricitate-al-ue-pe-parcursul-anului-2024/",
-      "summary": "În decursul anului 2024, sursele de energie regenerabilă au atins o pondere semnificativă de 47,5% din consumul brut de electricitate la nivelul Uniunii Europene. Această [Mai mult...] Articolul Sursele regenerabile au furnizat aproape 50% din necesarul de electricitate al UE pe parcursul anului 2024 apare prima dată în iEnergie .",
-      "published": "2026-01-20T08:16:44+00:00",
-      "published_human": "2026-01-20T08:16",
-      "source": "https://iEnergie.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@ienergie/117014519817811473",
+      "summary": "Durerile abdominale bruște ne trimit de cele mai multe ori rapid la medic. În majoritatea cazurilor, ne gândim la o simplă apendicită acută. Totuși, există situații rare în care investigațiile relevă o patologie mult mai complexă. Este vorba despre un cancer apendice, o afecțiune neoplazică despre care se vorbește destul de puțin. Această formă de… https:// ienergie.ro/cancerul-de-apendi ce-o-afectiune-rara-care-necesita-tratament-specializat/",
+      "published": "2026-07-31T12:11:15+00:00",
+      "published_human": "2026-07-31T12:11",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@ienergie/116917639014594289",
@@ -197,14 +205,6 @@
       "summary": "Comisia Europeană dezvoltă o strategie pentru dezvoltarea centralelor de fuziune nucleară și eliminarea gazelor rusești, sporind independența UE. https:// ienergie.ro/strategia-comisiei -europene-vizeaza-constructia-primelor-centrale-de-fuziune-pe-teritoriul-europei/",
       "published": "2026-01-21T07:11:28+00:00",
       "published_human": "2026-01-21T07:11",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@ienergie/115926434209252137",
-      "summary": "https:// ienergie.ro/sursele-regenerabi le-au-furnizat-aproape-50-din-necesarul-de-electricitate-al-ue-pe-parcursul-anului-2024/",
-      "published": "2026-01-20T08:16:46+00:00",
-      "published_human": "2026-01-20T08:16",
       "source": "Mastodon"
     }
   ]

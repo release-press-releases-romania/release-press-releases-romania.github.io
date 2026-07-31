@@ -7,9 +7,17 @@
     "rss": "https://casa-sustenabila.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-07-31T11:01:23.391786+00:00",
+  "updated_at": "2026-07-31T13:09:42.974245+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Cancerul pancreatic: când poate fi tratat chirurgical?",
+      "link": "https://casa-sustenabila.ro/cancerul-pancreatic-cand-poate-fi-tratat-chirurgical/",
+      "summary": "Aflarea unui diagnostic precum cel de cancer pancreatic reprezintă o provocare uriașă pentru orice persoană. Cu toate acestea, Articolul Cancerul pancreatic: când poate fi tratat chirurgical? apare prima dată în Casa Sustenabila .",
+      "published": "2026-07-31T08:32:01+00:00",
+      "published_human": "2026-07-31T08:32",
+      "source": "https://casa-sustenabila.ro/"
+    },
     {
       "title": "Rolul benzile de etanșare pentru case pasive si cum poți comanda de la PVCMAG.ro cu livrare în toată țara",
       "link": "https://casa-sustenabila.ro/rolul-benzile-de-etansare-pentru-case-pasive-si-cum-poti-comanda-de-la-pvcmag-ro-cu-livrare-in-toata-tara/",
@@ -96,14 +104,6 @@
       "summary": "&#206;n business, mobilitatea nu este confort, este eficiență C&#226;nd ajungi &#238;n Cluj-Napoca pentru &#238;nt&#226;lniri, conferințe sau proiecte temporare, Articolul Închiriere auto pentru delegații și business: ce contează cu adevărat când timpul este limitat apare prima dată în Casa Sustenabila .",
       "published": "2026-02-16T15:23:00+00:00",
       "published_human": "2026-02-16T15:23",
-      "source": "https://casa-sustenabila.ro/"
-    },
-    {
-      "title": "Cum ajută senzorii AI la reducerea consumului de apă: detectare încărcătură și dozare",
-      "link": "https://casa-sustenabila.ro/cum-ajuta-senzorii-ai-la-reducerea-consumului-de-apa-detectare-incarcatura-si-dozare/",
-      "summary": "Consumul de apă la spălare și clătire depinde mult de cât de bine este controlat ciclul. Senzorii și Articolul Cum ajută senzorii AI la reducerea consumului de apă: detectare încărcătură și dozare apare prima dată în Casa Sustenabila .",
-      "published": "2026-02-12T10:55:58+00:00",
-      "published_human": "2026-02-12T10:55",
       "source": "https://casa-sustenabila.ro/"
     }
   ],

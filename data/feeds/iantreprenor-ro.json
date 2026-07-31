@@ -7,9 +7,17 @@
     "rss": "https://iAntreprenor.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-07-31T11:01:23.391786+00:00",
+  "updated_at": "2026-07-31T13:09:42.974245+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Cancerul peritoneal: opțiuni moderne de tratament chirurgical",
+      "link": "https://iantreprenor.ro/cancerul-peritoneal-optiuni-moderne-de-tratament-chirurgical/",
+      "summary": "Diagnosticul de boală oncologică abdominală este dificil de primit. În trecut, opțiunile medicale erau limitate pentru mulți pacienți. Din fericire,&#8230; Articolul Cancerul peritoneal: opțiuni moderne de tratament chirurgical apare prima dată în iAntreprenor .",
+      "published": "2026-07-31T08:32:01+00:00",
+      "published_human": "2026-07-31T08:32",
+      "source": "https://iAntreprenor.ro/"
+    },
     {
       "title": "Ce oportunități de carieră există în domeniul financiar-contabil",
       "link": "https://iantreprenor.ro/ce-oportunitati-de-cariera-exista-in-domeniul-financiar-contabil/",
@@ -96,14 +104,6 @@
       "summary": "De la design la impact vizual: de ce contează etichetele personalizate Într-un peisaj comercial în care consumatorii iau decizii rapide,&#8230; Articolul De la design la impact vizual: de ce contează etichetele personalizate apare prima dată în iAntreprenor .",
       "published": "2026-02-06T07:48:37+00:00",
       "published_human": "2026-02-06T07:48",
-      "source": "https://iAntreprenor.ro/"
-    },
-    {
-      "title": "Verificare cont pe Mastodon: ce înseamnă și ce poți face",
-      "link": "https://iantreprenor.ro/verificare-cont-pe-mastodon-ce-inseamna-si-ce-poti-face/",
-      "summary": "Te-ai mutat pe Fediverse și simți că lipsesc elemente cheie care &#238;ți atestau credibilitatea pe rețelele centralizate? Ești activ pe&#8230; Articolul Verificare cont pe Mastodon: ce înseamnă și ce poți face apare prima dată în iAntreprenor .",
-      "published": "2025-12-17T16:58:54+00:00",
-      "published_human": "2025-12-17T16:58",
       "source": "https://iAntreprenor.ro/"
     }
   ],

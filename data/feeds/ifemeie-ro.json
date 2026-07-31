@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@iFemeie",
     "rss": "https://social.5th.ro/@iFemeie.rss"
   },
-  "updated_at": "2026-07-31T11:01:23.391786+00:00",
+  "updated_at": "2026-07-31T13:09:42.974245+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Mituri și adevăruri despre chirurgia robotică",
+      "link": "https://ifemeie.ro/mituri-si-adevaruri-despre-chirurgia-robotica/",
+      "summary": "Tehnologia medicală a evoluat extraordinar în ultimii ani, redefinind complet modul în care sunt tratate... Articolul Mituri și adevăruri despre chirurgia robotică apare prima dată în iFemeie .",
+      "published": "2026-07-31T08:32:01+00:00",
+      "published_human": "2026-07-31T08:32",
+      "source": "https://iFemeie.ro/"
+    },
     {
       "title": "Eventrația postoperatorie: de ce apare și cum se tratează corect",
       "link": "https://ifemeie.ro/eventratia-postoperatorie-de-ce-apare-si-cum-se-trateaza-corect/",
@@ -92,17 +100,17 @@
       "published": "2025-12-10T09:13:51+00:00",
       "published_human": "2025-12-10T09:13",
       "source": "https://iFemeie.ro/"
-    },
-    {
-      "title": "Calendarul complet al analizelor în sarcină",
-      "link": "https://ifemeie.ro/calendarul-complet-al-analizelor-in-sarcina/",
-      "summary": "Sarcina este una dintre cele mai complexe și emoționante călătorii din viața unei femei. Din... Articolul Calendarul complet al analizelor în sarcină apare prima dată în iFemeie .",
-      "published": "2025-12-05T16:47:20+00:00",
-      "published_human": "2025-12-05T16:47",
-      "source": "https://iFemeie.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@iFemeie/117014493984426494",
+      "summary": "Tehnologia medicală a evoluat extraordinar în ultimii ani, redefinind complet modul în care sunt tratate afecțiunile complexe. Astăzi, intervențiile chirurgicale sunt mult mai sigure, mai precise și mult mai puțin invazive decât în trecut. Cu toate acestea, mulți pacienți simt o stare de anxietate atunci când aud despre conceptul de chirurgie robotică, din cauza lipsei… https:// ifemeie.ro/mituri-si-adevaruri -despre-chirurgia-robotica/",
+      "published": "2026-07-31T12:04:40+00:00",
+      "published_human": "2026-07-31T12:04",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@iFemeie/116799194349351946",
@@ -189,14 +197,6 @@
       "summary": "/tmp/tmp7u2f5_6o.html https:// ifemeie.ro/substanta-de-contra st-iodata-si-alaptarea/",
       "published": "2025-12-28T13:19:50+00:00",
       "published_human": "2025-12-28T13:19",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@iFemeie/115736791634418753",
-      "summary": "Te-ai săturat de algoritmii opaci care îți ascund mesajele? Pe platformele centralizate, efortul depus în crearea de conținut ajunge adesea invizibil. Rata de interacțiune scade, iar frustrarea crește. Această problemă a adus în prim-plan o alternativă puternică. Această alternativă se numește Mastodon. Această rețea socială descentralizată îți oferă un control mult mai mare asupra mesajului… https:// ifemeie.ro/cum-scrii-postari-c are-primesc-boost-uri-pe-mastodon/",
-      "published": "2025-12-17T20:28:10+00:00",
-      "published_human": "2025-12-17T20:28",
       "source": "Mastodon"
     }
   ]
