@@ -7,9 +7,17 @@
     "rss": "https://stiri-live.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-08-04T20:03:19.060947+00:00",
+  "updated_at": "2026-08-04T21:42:43.556778+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Economia circulară și rolul toaletelor ecologice în acest concept",
+      "link": "https://stiri-live.ro/economia-circulara-si-rolul-toaletelor-ecologice-in-acest-concept/",
+      "summary": "Economia circulară este un concept din ce în ce mai important în cadrul inițiativelor globale pentru protejarea mediului și. Articolul Economia circulară și rolul toaletelor ecologice în acest concept apare prima dată în Stiri Live .",
+      "published": "2026-08-04T20:13:09+00:00",
+      "published_human": "2026-08-04T20:13",
+      "source": "https://stiri-live.ro/"
+    },
     {
       "title": "Imobiliare, credite și asigurări: ecosistemul câștigător în 2026. Acceleratorul revine la Iași",
       "link": "https://stiri-live.ro/imobiliare-credite-si-asigurari-ecosistemul-castigator-in-2026-acceleratorul-revine-la-iasi/",
@@ -96,14 +104,6 @@
       "summary": "Mai e mult pana in 2027? De ce „acum” este momentul perfect sa alegi gradinita potrivita pentru copilul tau. Articolul Mai e mult pana in 2027? De ce „acum” este momentul perfect sa alegi gradinita potrivita pentru copilul tau apare prima dată în Stiri Live .",
       "published": "2026-02-02T05:59:33+00:00",
       "published_human": "2026-02-02T05:59",
-      "source": "https://stiri-live.ro/"
-    },
-    {
-      "title": "De la mic dejun la gustări",
-      "link": "https://stiri-live.ro/de-la-mic-dejun-la-gustari/",
-      "summary": "Mixit oferă peste 150 de produse vegane pentru un 2026 echilibrat La &#238;nceput de an, tot mai mulți oameni. Articolul De la mic dejun la gustări apare prima dată în Stiri Live .",
-      "published": "2026-01-19T11:46:47+00:00",
-      "published_human": "2026-01-19T11:46",
       "source": "https://stiri-live.ro/"
     }
   ],
