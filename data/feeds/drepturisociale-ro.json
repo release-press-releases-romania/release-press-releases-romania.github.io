@@ -7,9 +7,17 @@
     "rss": "https://drepturisociale.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-08-04T15:40:26.549719+00:00",
+  "updated_at": "2026-08-04T18:09:07.188927+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Lansarea proiectului „O nouă șansă independenței”",
+      "link": "https://drepturisociale.ro/lansarea-proiectului-o-noua-sansa-independentei/",
+      "summary": "COMUNICAT DE PRESĂ Lansarea proiectului &#8222;O nouă șansă independenței&#8221; &#8211; Cod SMIS 354321 ASOCIAȚIA IZVORUL&#8230; Articolul Lansarea proiectului „O nouă șansă independenței” apare prima dată în Drepturi Sociale .",
+      "published": "2026-08-04T13:44:40+00:00",
+      "published_human": "2026-08-04T13:44",
+      "source": "https://drepturisociale.ro/"
+    },
     {
       "title": "Cum influențează stilul de viață riscul de cancer colorectal",
       "link": "https://drepturisociale.ro/cum-influenteaza-stilul-de-viata-riscul-de-cancer-colorectal/",
@@ -80,14 +88,6 @@
       "summary": "V-ați mutat de curând pe Mastodon și vă simțiți copleșiți de nuanțele interacțiunilor sociale? Spre&#8230; Articolul Boost vs Favorite pe Mastodon: când le folosești și de ce contează apare prima dată în Drepturi Sociale .",
       "published": "2025-12-17T16:58:54+00:00",
       "published_human": "2025-12-17T16:58",
-      "source": "https://drepturisociale.ro/"
-    },
-    {
-      "title": "Oameni, destine, emoție: Adela Hanafi, a lansat podcastul „Povești Nespuse cu Adela”",
-      "link": "https://drepturisociale.ro/oameni-destine-emotie-adela-hanafi-a-lansat-podcastul-povesti-nespuse-cu-adela/",
-      "summary": "Oameni, destine, emoție: Adela Hanafi, a lansat podcastul „Povești Nespuse cu Adela” Într-o lume adesea&#8230; Articolul Oameni, destine, emoție: Adela Hanafi, a lansat podcastul „Povești Nespuse cu Adela” apare prima dată în Drepturi Sociale .",
-      "published": "2025-12-10T09:13:51+00:00",
-      "published_human": "2025-12-10T09:13",
       "source": "https://drepturisociale.ro/"
     }
   ],
