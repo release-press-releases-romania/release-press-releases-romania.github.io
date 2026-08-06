@@ -7,9 +7,17 @@
     "rss": "https://casa-sustenabila.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-08-06T07:08:11.696731+00:00",
+  "updated_at": "2026-08-06T10:03:31.969917+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "De ce se recondiționează ferestrele termopan și nu se înlocuiesc",
+      "link": "https://casa-sustenabila.ro/de-ce-se-reconditioneaza-ferestrele-termopan-si-nu-se-inlocuiesc/",
+      "summary": "Atunci când ferestrele din PVC încep să creeze probleme &#8211; fie că se simte un curent de aer Articolul De ce se recondiționează ferestrele termopan și nu se înlocuiesc apare prima dată în Casa Sustenabila .",
+      "published": "2026-08-06T09:13:08+00:00",
+      "published_human": "2026-08-06T09:13",
+      "source": "https://casa-sustenabila.ro/"
+    },
     {
       "title": "Cancerul pancreatic: când poate fi tratat chirurgical?",
       "link": "https://casa-sustenabila.ro/cancerul-pancreatic-cand-poate-fi-tratat-chirurgical/",
@@ -96,14 +104,6 @@
       "summary": "Ce alerte sunt utile la frigiderele cu ecran Frigiderele moderne includ ecrane digitale și funcții inteligente. Alertele ajută Articolul Ce alerte sunt utile la frigiderele cu ecran apare prima dată în Casa Sustenabila .",
       "published": "2026-02-17T08:54:03+00:00",
       "published_human": "2026-02-17T08:54",
-      "source": "https://casa-sustenabila.ro/"
-    },
-    {
-      "title": "Închiriere auto pentru delegații și business: ce contează cu adevărat când timpul este limitat",
-      "link": "https://casa-sustenabila.ro/inchiriere-auto-pentru-delegatii-si-business-ce-conteaza-cu-adevarat-cand-timpul-este-limitat/",
-      "summary": "&#206;n business, mobilitatea nu este confort, este eficiență C&#226;nd ajungi &#238;n Cluj-Napoca pentru &#238;nt&#226;lniri, conferințe sau proiecte temporare, Articolul Închiriere auto pentru delegații și business: ce contează cu adevărat când timpul este limitat apare prima dată în Casa Sustenabila .",
-      "published": "2026-02-16T15:23:00+00:00",
-      "published_human": "2026-02-16T15:23",
       "source": "https://casa-sustenabila.ro/"
     }
   ],
