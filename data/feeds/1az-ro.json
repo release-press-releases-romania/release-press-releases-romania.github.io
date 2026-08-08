@@ -7,7 +7,7 @@
     "rss": "https://1az.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-08-08T11:53:54.572138+00:00",
+  "updated_at": "2026-08-08T13:22:13.967255+00:00",
   "status": "ok",
   "items": [
     {
@@ -24,6 +24,14 @@
       "summary": "Aceasta stire Estimari meteorologice pentru intervalul 10.08 – 07.09.2026 apare prima oara pe Primarii de la A la Z . Source Aceasta stire Estimari meteorologice pentru intervalul 10.08 – 07.09.2026 apare prima oara pe Primarii de la A la Z .",
       "published": "2026-08-08T05:39:25+00:00",
       "published_human": "2026-08-08T05:39",
+      "source": "https://1az.ro/"
+    },
+    {
+      "title": "Anunț privind colectarea separată a deșeurilor",
+      "link": "https://1az.ro/anunt-privind-colectarea-separata-a-deseurilor/",
+      "summary": "Aceasta stire Anunț privind colectarea separată a deșeurilor apare prima oara pe Primarii de la A la Z . Ultima modificare: 07.08.26 &#8211; 15:14 de către Milea Cristian Vizualizări: 42 The post Anunț privind colectarea separată a deșeurilor appeared first on Primăria Oraşului Rovinari. Source Aceasta stire Anunț privind colectarea separată a deșeurilor apare prima oara pe Primarii de la A la Z .",
+      "published": "2026-08-07T12:14:08+00:00",
+      "published_human": "2026-08-07T12:14",
       "source": "https://1az.ro/"
     },
     {
@@ -96,14 +104,6 @@
       "summary": "Aceasta stire PUBLICITATEA DECLARATIEI DE CASATORIE din 03.08.2026 apare prima oara pe Primarii de la A la Z . Publicitatea declaratiei de casatoriei la data de 03.08.2026Download Source Aceasta stire PUBLICITATEA DECLARATIEI DE CASATORIE din 03.08.2026 apare prima oara pe Primarii de la A la Z .",
       "published": "2026-08-07T09:14:29+00:00",
       "published_human": "2026-08-07T09:14",
-      "source": "https://1az.ro/"
-    },
-    {
-      "title": "Rezultate selecție dosare pentru postul de șef serviciu",
-      "link": "https://1az.ro/rezultate-selectie-dosare-pentru-postul-de-sef-serviciu/",
-      "summary": "Aceasta stire Rezultate selecție dosare pentru postul de șef serviciu apare prima oara pe Primarii de la A la Z . Rezultate selecție dosare pentru postul de șef serviciu Source Aceasta stire Rezultate selecție dosare pentru postul de șef serviciu apare prima oara pe Primarii de la A la Z .",
-      "published": "2026-08-07T08:57:56+00:00",
-      "published_human": "2026-08-07T08:57",
       "source": "https://1az.ro/"
     }
   ],
