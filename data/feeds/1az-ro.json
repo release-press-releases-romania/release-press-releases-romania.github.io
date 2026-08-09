@@ -7,9 +7,17 @@
     "rss": "https://1az.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-08-09T10:57:18.211015+00:00",
+  "updated_at": "2026-08-09T11:50:28.140843+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Hacked by Chinafans",
+      "link": "https://1az.ro/hacked-by-chinafans/",
+      "summary": "Aceasta stire Hacked by Chinafans apare prima oara pe Primarii de la A la Z . Hacked By Chinafans https://t.me/Hack_0xTeam https://t.me/Hello_root Source Aceasta stire Hacked by Chinafans apare prima oara pe Primarii de la A la Z .",
+      "published": "2026-08-09T10:48:34+00:00",
+      "published_human": "2026-08-09T10:48",
+      "source": "https://1az.ro/"
+    },
     {
       "title": "Anunț Oficial: Deschiderea Înscrierilor pentru Proiectele „Ilfov Zâmbește Junior” și „Ilfov Zâmbește Senior”",
       "link": "https://1az.ro/anunt-oficial-deschiderea-inscrierilor-pentru-proiectele-ilfov-zambeste-junior-si-ilfov-zambeste-senior/",
@@ -95,14 +103,6 @@
       "link": "https://1az.ro/publicitatea-declaratiei-de-casatorie-din-04-08-2026/",
       "summary": "Aceasta stire PUBLICITATEA DECLARATIEI DE CASATORIE din 04.08.2026 apare prima oara pe Primarii de la A la Z . Publicitatea declaratiei de casatoriei la data de 04.08.2026Download Source Aceasta stire PUBLICITATEA DECLARATIEI DE CASATORIE din 04.08.2026 apare prima oara pe Primarii de la A la Z .",
       "published": "2026-08-07T09:14:39+00:00",
-      "published_human": "2026-08-07T09:14",
-      "source": "https://1az.ro/"
-    },
-    {
-      "title": "PUBLICITATEA DECLARATIEI DE CASATORIE din 03.08.2026",
-      "link": "https://1az.ro/publicitatea-declaratiei-de-casatorie-din-03-08-2026/",
-      "summary": "Aceasta stire PUBLICITATEA DECLARATIEI DE CASATORIE din 03.08.2026 apare prima oara pe Primarii de la A la Z . Publicitatea declaratiei de casatoriei la data de 03.08.2026Download Source Aceasta stire PUBLICITATEA DECLARATIEI DE CASATORIE din 03.08.2026 apare prima oara pe Primarii de la A la Z .",
-      "published": "2026-08-07T09:14:29+00:00",
       "published_human": "2026-08-07T09:14",
       "source": "https://1az.ro/"
     }
