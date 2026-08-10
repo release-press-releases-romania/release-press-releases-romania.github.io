@@ -7,9 +7,17 @@
     "rss": "https://info-santate.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-08-10T12:03:57.718468+00:00",
+  "updated_at": "2026-08-10T13:49:36.920189+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Albirea dinților – cât rezistă rezultatul și cum îl prelungești",
+      "link": "https://info-santate.ro/albirea-dintilor-cat-rezista-rezultatul-si-cum-il-prelungesti/",
+      "summary": "Sursa foto: Pexels.com Primele ore după albirea dentară pot fi surprinzătoare. Zâmbetul pare mai luminos, dar o înghițitură de apă&#8230; Articolul Albirea dinților &#8211; cât rezistă rezultatul și cum îl prelungești apare prima dată în Info Sanatate .",
+      "published": "2026-08-10T12:40:25+00:00",
+      "published_human": "2026-08-10T12:40",
+      "source": "https://info-santate.ro/"
+    },
     {
       "title": "Când este recomandată rezecția hepatică?",
       "link": "https://info-santate.ro/cand-este-recomandata-rezectia-hepatica/",
@@ -72,14 +80,6 @@
       "summary": "Către: Ministerul Sanatatii Casa Națională de Asigurări de Sănătate Stimate Domnule Ministru / Secretar De Stat, Dr. Stela Firu Stimate&#8230; Articolul Scrisoare deschisă privind accesul pacienților oncologici la servicii de radioterapie și utilizarea capacităților disponibile apare prima dată în Info Sanatate .",
       "published": "2026-04-23T06:09:15+00:00",
       "published_human": "2026-04-23T06:09",
-      "source": "https://info-santate.ro/"
-    },
-    {
-      "title": "Mixit lansează colecția de Paște 2026 – cadouri inspirate",
-      "link": "https://info-santate.ro/mixit-lanseaza-colectia-de-paste-2026-cadouri-inspirate/",
-      "summary": "Primăvara aduce cu ea una dintre cele mai optimiste perioade ale anului. Culorile revin &#238;n jurul nostru, iar micile gesturi&#8230; Articolul Mixit lansează colecția de Paște 2026 &#8211; cadouri inspirate apare prima dată în Info Sanatate .",
-      "published": "2026-03-16T12:49:24+00:00",
-      "published_human": "2026-03-16T12:49",
       "source": "https://info-santate.ro/"
     }
   ],
