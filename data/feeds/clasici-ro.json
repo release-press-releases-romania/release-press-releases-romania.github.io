@@ -4,13 +4,13 @@
     "name": "Clasici",
     "url": "https://clasici.ro/",
     "category": "Miscellaneous",
-    "rss": "https://clasici.ro/feed/atom/"
+    "rss": "https://clasici.ro/feed/"
   },
   "mastodon": {
     "url": "https://social.5th.ro/@clasici",
     "rss": "https://social.5th.ro/@clasici.rss"
   },
-  "updated_at": "2026-08-11T21:08:44.154296+00:00",
+  "updated_at": "2026-08-11T22:08:31.282570+00:00",
   "status": "ok",
   "items": [
     {
@@ -78,7 +78,7 @@
       "source": "https://clasici.ro/"
     },
     {
-      "title": "Diagnosticarea problemelor la sistemul 4&#215;4 și unitatea Haldex",
+      "title": "Diagnosticarea problemelor la sistemul 4×4 și unitatea Haldex",
       "link": "https://clasici.ro/diagnosticarea-problemelor-la-sistemul-4x4-si-unitatea-haldex/",
       "summary": "Sistemele de tracțiune integrală care echipează modelele Range Rover moderne, în special cele compacte precum...",
       "published": "2025-12-16T08:45:42+00:00",

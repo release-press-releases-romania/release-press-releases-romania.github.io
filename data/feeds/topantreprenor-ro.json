@@ -4,13 +4,13 @@
     "name": "Topantreprenor",
     "url": "https://topantreprenor.ro/",
     "category": "Business",
-    "rss": "https://topantreprenor.ro/?feed=rss2"
+    "rss": "https://topantreprenor.ro/feed/"
   },
   "mastodon": {
     "url": "https://social.5th.ro/@topantreprenor",
     "rss": "https://social.5th.ro/@topantreprenor.rss"
   },
-  "updated_at": "2026-08-11T21:08:44.154296+00:00",
+  "updated_at": "2026-08-11T22:08:31.282570+00:00",
   "status": "ok",
   "items": [
     {
