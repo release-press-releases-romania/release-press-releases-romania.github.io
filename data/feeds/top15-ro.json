@@ -4,13 +4,13 @@
     "name": "Top15",
     "url": "https://top15.ro/",
     "category": "Miscellaneous",
-    "rss": "https://top15.ro/?feed=rss2"
+    "rss": "https://top15.ro/feed/"
   },
   "mastodon": {
     "url": "https://social.5th.ro/@top",
     "rss": "https://social.5th.ro/@top.rss"
   },
-  "updated_at": "2026-08-12T00:03:21.621060+00:00",
+  "updated_at": "2026-08-12T03:00:10.481705+00:00",
   "status": "ok",
   "items": [
     {
