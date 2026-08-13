@@ -7,9 +7,17 @@
     "rss": "https://medicina-sportiva.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-08-13T08:47:09.837866+00:00",
+  "updated_at": "2026-08-13T10:31:43.767330+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Dopajul în sport: ce este, ce riscuri ascunde și ce trebuie să știi?",
+      "link": "https://medicina-sportiva.ro/dopajul-in-sport-ce-este-ce-riscuri-ascunde-si-ce-trebuie-sa-stii/",
+      "summary": "Performanța în sport este foarte importantă pentru orice practicant. Doar că nu toți sportivii pot... Articolul Dopajul în sport: ce este, ce riscuri ascunde și ce trebuie să știi? apare prima dată în Medicina Sportiva .",
+      "published": "2026-08-13T09:34:31+00:00",
+      "published_human": "2026-08-13T09:34",
+      "source": "https://medicina-sportiva.ro/"
+    },
     {
       "title": "Cancer rectal: diagnostic, tratament chirurgical și importanța evaluării corecte",
       "link": "https://medicina-sportiva.ro/cancer-rectal-diagnostic-tratament-chirurgical-si-importanta-evaluarii-corecte/",
@@ -72,14 +80,6 @@
       "summary": "V-ați săturat de algoritmi opaci și de platformele centralizate care dictează ce vedeți? Sunteți în... Articolul Mastodon pentru comunități: cum construiești un nucleu activ apare prima dată în Medicina Sportiva .",
       "published": "2025-12-17T16:58:54+00:00",
       "published_human": "2025-12-17T16:58",
-      "source": "https://medicina-sportiva.ro/"
-    },
-    {
-      "title": "Distribuția comunicatelor de presă în 2025: site-uri, agenții și rețele",
-      "link": "https://medicina-sportiva.ro/distributia-comunicatelor-de-presa-in-2025-site-uri-agentii-si-retele/",
-      "summary": "Introducere: Revoluția digitală în PR A (Atenție): Vă confruntați cu dilema distribuției de comunicate de... Articolul Distribuția comunicatelor de presă în 2025: site-uri, agenții și rețele apare prima dată în Medicina Sportiva .",
-      "published": "2025-12-01T12:07:49+00:00",
-      "published_human": "2025-12-01T12:07",
       "source": "https://medicina-sportiva.ro/"
     }
   ],

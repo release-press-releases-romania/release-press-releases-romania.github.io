@@ -7,9 +7,17 @@
     "rss": "https://stiri-medicale.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-08-13T08:47:09.837866+00:00",
+  "updated_at": "2026-08-13T10:31:43.767330+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Vaccinul antigripal: cine trebuie să se vaccineze și când?",
+      "link": "https://stiri-medicale.ro/vaccinul-antigripal-cine-trebuie-sa-se-vaccineze-si-cand/",
+      "summary": "Cea mai eficientă metodă de prevenție și de protecție în cazul gripei sezoniere este vaccinul antigripal. Modificat anual sau ori&#8230; Articolul Vaccinul antigripal: cine trebuie să se vaccineze și când? apare prima dată în Stiri Medicale .",
+      "published": "2026-08-13T09:29:31+00:00",
+      "published_human": "2026-08-13T09:29",
+      "source": "https://stiri-medicale.ro/"
+    },
     {
       "title": "Când poate fi luată în calcul autohemoterapia ca terapie complementară",
       "link": "https://stiri-medicale.ro/cand-poate-fi-luata-in-calcul-autohemoterapia-ca-terapie-complementara/",
@@ -96,14 +104,6 @@
       "summary": "Noile date prezentate de Novo Nordisk &#238;n cadrul Congresului European de Obezitate (ECO) 2026 de la Istanbul consolidează poziția tratamentului&#8230; Articolul Noi date clinice ECO 2026: Doza superioară de Wegovy® generează o slăbire de aproape 28% și protejează masa musculară apare prima dată în Stiri Medicale .",
       "published": "2026-05-11T13:50:00+00:00",
       "published_human": "2026-05-11T13:50",
-      "source": "https://stiri-medicale.ro/"
-    },
-    {
-      "title": "Ce spune cu adevărat personalitatea ta despre tine",
-      "link": "https://stiri-medicale.ro/ce-spune-cu-adevarat-personalitatea-ta-despre-tine/",
-      "summary": "Probabil ai făcut cel puțin un test de personalitate în viața ta, precum MBTI, Enneagram sau altceva de pe internet&#8230; Articolul Ce spune cu adevărat personalitatea ta despre tine apare prima dată în Stiri Medicale .",
-      "published": "2026-04-29T15:56:24+00:00",
-      "published_human": "2026-04-29T15:56",
       "source": "https://stiri-medicale.ro/"
     }
   ],

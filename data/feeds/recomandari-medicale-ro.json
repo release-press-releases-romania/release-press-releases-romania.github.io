@@ -7,9 +7,17 @@
     "rss": "https://recomandari-medicale.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-08-13T08:47:09.837866+00:00",
+  "updated_at": "2026-08-13T10:31:43.767330+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Ce este lepra și cum se transmite boala Hansen?",
+      "link": "https://recomandari-medicale.ro/ce-este-lepra-si-cum-se-transmite-boala-hansen/",
+      "summary": "Cea mai mare problemă când se discută despre lepră este legată de monitorizarea și înțelegerea modului de transmitere a ei.&#8230; Articolul Ce este lepra și cum se transmite boala Hansen? apare prima dată în Recomandari Medicale .",
+      "published": "2026-08-13T09:34:01+00:00",
+      "published_human": "2026-08-13T09:34",
+      "source": "https://recomandari-medicale.ro/"
+    },
     {
       "title": "Cum identifici polipii la copii: semne de alarma ce nu trebuie ignorate",
       "link": "https://recomandari-medicale.ro/cum-identifici-polipii-la-copii-semne-de-alarma-ce-nu-trebuie-ignorate/",
@@ -96,14 +104,6 @@
       "summary": "Diagnosticul de autism la maturitate devine tot mai frecvent pentru că acele criterii de diagnostic s-au schimbat și s-au extins,&#8230; Articolul Un diagnostic la 35 de ani: cum schimbă autismul perspectiva asupra propriei vieți apare prima dată în Recomandari Medicale .",
       "published": "2026-05-28T06:46:10+00:00",
       "published_human": "2026-05-28T06:46",
-      "source": "https://recomandari-medicale.ro/"
-    },
-    {
-      "title": "Ce este ADN-ul și care este rolul său în funcționarea organismului?",
-      "link": "https://recomandari-medicale.ro/ce-este-adn-ul-si-care-este-rolul-sau-in-functionarea-organismului/",
-      "summary": "Așa cum orice produs are un manual de utilizare care ne ajută să folosim în mod corect un lucru, un&#8230; Articolul Ce este ADN-ul și care este rolul său în funcționarea organismului? apare prima dată în Recomandari Medicale .",
-      "published": "2026-05-20T18:30:28+00:00",
-      "published_human": "2026-05-20T18:30",
       "source": "https://recomandari-medicale.ro/"
     }
   ],
