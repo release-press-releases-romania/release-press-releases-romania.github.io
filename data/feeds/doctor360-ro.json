@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@doctor360",
     "rss": "https://social.5th.ro/@doctor360.rss"
   },
-  "updated_at": "2026-08-14T10:28:32.890837+00:00",
+  "updated_at": "2026-08-14T12:01:43.576268+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "De ce un singur dinte lipsă îți poate schimba mușcătura fără să îți dai seama",
+      "link": "https://doctor360.ro/de-ce-un-singur-dinte-lipsa-iti-poate-schimba-muscatura-fara-sa-iti-dai-seama/",
+      "summary": "Pierderea unei măsele din spate rămâne, pentru mulți oameni, un incident fără urmări. Dintele nu se mai vede când zâmbești, mestecatul pare să meargă la fel, iar durerea a dispărut odată cu extracția. Medicii stomatologi observă însă că tocmai aceste cazuri ajung cel mai târziu în cabinet, uneori după ani în care gura s-a rearanjat [&#8230;] Articolul De ce un singur dinte lipsă îți poate schimba mușcătura fără să îți dai seama apare prima dată în Doctor 360 .",
+      "published": "2026-08-14T10:29:21+00:00",
+      "published_human": "2026-08-14T10:29",
+      "source": "https://doctor360.ro/"
+    },
     {
       "title": "Chirurgia robotică în tratamentul cancerului colorectal",
       "link": "https://doctor360.ro/chirurgia-robotica-in-tratamentul-cancerului-colorectal/",
@@ -100,17 +108,17 @@
       "published": "2025-12-17T16:58:54+00:00",
       "published_human": "2025-12-17T16:58",
       "source": "https://doctor360.ro/"
-    },
-    {
-      "title": "Mixit aduce gustări festive pentru petrecerea de Revelion",
-      "link": "https://doctor360.ro/mixit-aduce-gustari-festive-pentru-petrecerea-de-revelion/",
-      "summary": "&#160; &#160; Revelionul &#238;nseamnă mese festive, &#238;nt&#226;lniri cu prietenii și seri care se prelungesc mult după miezul nopții, iar gustările joacă un rol tot mai important &#238;n completarea meniului clasic. Pentru cei care caută alternative ușor de servit și potrivite pentru preferințe diferite, Mixit propune selecția &#8222;Gustări festive&#8221; &#8211; o colecție de texturi crocante și [&#8230;] Articolul Mixit aduce gustări festive pentru petrecerea de Revelion apare prima dată în Doctor 360 .",
-      "published": "2025-12-17T07:26:12+00:00",
-      "published_human": "2025-12-17T07:26",
-      "source": "https://doctor360.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@doctor360/117093391530313677",
+      "summary": "💡Pierderea unei măsele din spate rămâne, pentru mulți oameni, un incident fără urmări. Dintele nu se mai vede când zâmbești, mestecatul pare să meargă la fel, iar durerea a dispărut odată cu extracția. Medicii stomatologi observă însă că tocmai aceste cazuri ajung cel mai târziu în cabinet, uneori după ani în care gura s-a rearanjat… 💡 https:// doctor360.ro/de-ce-un-singur-d inte-lipsa-iti-poate-schimba-muscatura-fara-sa-iti-dai-seama/",
+      "published": "2026-08-14T10:29:21+00:00",
+      "published_human": "2026-08-14T10:29",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@doctor360/117014456370148276",
@@ -197,14 +205,6 @@
       "summary": "💡Când ne gândim la rețelele sociale, imaginea care ne vine imediat în minte este cea a câtorva companii uriașe care controlează totul: datele, algoritmii și modul în care interacționăm. Ce s-ar întâmpla dacă am putea schimba această paradigmă? Dacă am putea avea control real asupra experienței noastre online? Această viziune este exact ceea ce oferă… 💡 https:// doctor360.ro/cum-functioneaza- federarea-pe-mastodon-explicat-pe-intelesul-tuturor/",
       "published": "2025-12-17T19:15:32+00:00",
       "published_human": "2025-12-17T19:15",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@doctor360/115734204011251533",
-      "summary": "💡 Revelionul înseamnă mese festive, întâlniri cu prietenii și seri care se prelungesc mult după miezul nopții, iar gustările joacă un rol tot mai important în completarea meniului clasic. Pentru cei care caută alternative ușor de servit și potrivite pentru preferințe diferite, Mixit propune selecția „Gustări festive” – o colecție de texturi crocante și… 💡 https:// doctor360.ro/mixit-aduce-gusta ri-festive-pentru-petrecerea-de-revelion/",
-      "published": "2025-12-17T09:30:06+00:00",
-      "published_human": "2025-12-17T09:30",
       "source": "Mastodon"
     }
   ]
