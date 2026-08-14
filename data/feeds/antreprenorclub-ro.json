@@ -7,9 +7,17 @@
     "rss": "https://antreprenorclub.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-08-14T08:40:35.555313+00:00",
+  "updated_at": "2026-08-14T10:28:32.890837+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Cum transformi stocurile și echipamentele nefolosite în capital de lucru: ghid CSV.RO pentru firme",
+      "link": "https://antreprenorclub.ro/cum-transformi-stocurile-echipamentele-nefolosite-capital-de-lucru/",
+      "summary": "Un ghid practic pentru firmele care vor să valorifice stocuri, utilaje, mobilier, echipamente sau bunuri rămase nefolosite, fără descrieri vagi și negocieri inutile. Articolul Cum transformi stocurile și echipamentele nefolosite în capital de lucru: ghid CSV.RO pentru firme apare prima dată în Antreprenor Club .",
+      "published": "2026-08-14T09:39:26+00:00",
+      "published_human": "2026-08-14T09:39",
+      "source": "https://antreprenorclub.ro/"
+    },
     {
       "title": "Recuperarea după o operație laparoscopică: recomandări utile",
       "link": "https://antreprenorclub.ro/recuperarea-dupa-o-operatie-laparoscopica-recomandari-utile/",
@@ -80,14 +88,6 @@
       "summary": "Dacă ești office manager &#238;n București și ai ajuns pe acest articol, probabil că una dintre problemele tale zilnice sună cam așa: &#8222;Cum facem să avem cafea bună la birou, fără să cheltuim o avere și fără să devenim noi &#238;nșine tehnicieni de service?&#8221; &#206;ntrebarea este mai frecventă dec&#226;t ai crede. Și răspunsul implică, inevitabil,... Read More &#8220;Ghidul Office Managerului pentru 2026: Cum Alegi Între Espressorul în Comodat și Cel în Custodie&#8221; &#187; Articolul Ghidul Office Managerului pentru 2026: Cum Alegi Între Espressorul în Comodat și Cel în Custodie apare prima dată în Antreprenor Club .",
       "published": "2026-05-19T07:04:26+00:00",
       "published_human": "2026-05-19T07:04",
-      "source": "https://antreprenorclub.ro/"
-    },
-    {
-      "title": "Recuperarea după operația de hernie: ce trebuie să știe pacientul",
-      "link": "https://antreprenorclub.ro/recuperarea-dupa-operatia-de-hernie-ce-trebuie-sa-stie-pacientul/",
-      "summary": "Te confrunți cu un disconfort abdominal persistent sau ai observat o umflătură neobișnuită în zona inghinală? Aceste semne pot indica prezența unei hernii, o afecțiune care nu trece de la sine și necesită atenție medicală. Mulți pacienți amână vizita la medic din teama de intervenție, însă medicina modernă a evoluat enorm. Astăzi, o operatie hernie... Read More &#8220;Recuperarea după operația de hernie: ce trebuie să știe pacientul&#8221; &#187; Articolul Recuperarea după operația de hernie: ce trebuie să știe pacientul apare prima dată în Antreprenor Club .",
-      "published": "2026-05-10T06:30:00+00:00",
-      "published_human": "2026-05-10T06:30",
       "source": "https://antreprenorclub.ro/"
     }
   ],
