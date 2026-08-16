@@ -5,8 +5,8 @@
     <link>https://release-press-releases-romania.github.io</link>
     <description>Aggregated RSS feed of press releases from over 100 Romanian publishers. Covering PR &amp; Marketing, Health, News &amp; Society, Technology, Business, Construction, Tourism, and more. Curated selection of quality press releases from trusted Romanian sources.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 16 Aug 2026 06:25:49 +0000</lastBuildDate>
-    <pubDate>Sun, 16 Aug 2026 06:25:49 +0000</pubDate>
+    <lastBuildDate>Sun, 16 Aug 2026 12:21:29 +0000</lastBuildDate>
+    <pubDate>Sun, 16 Aug 2026 12:21:29 +0000</pubDate>
     <generator>Release Press Releases in Romania RSS Aggregator v2.0</generator>
     <webMaster>noreply@release-press-releases-romania.github.io (Release Press Releases)</webMaster>
     <managingEditor>noreply@release-press-releases-romania.github.io (Release Press Releases)</managingEditor>
@@ -41,6 +41,20 @@
       <source url="https://release-press-releases-romania.github.io/publisher/partizani-ro/">Partizani</source>
       <content:encoded><![CDATA[From Partizani: Bugetul contează, dar nu în felul în care crezi. Un ghid fără liste de produse, fără prețuri umflate și fără sfaturi care te trimit să cheltuiești mai mult decât ai nevoie. Mulți oameni care se apucă de tenis de masă fac prima achiziție în grabă: iau un set ieftin de pe un site de generalist, îl desfac acasă și realizează că paleta e prea grea, mingile se deformează după câteva lovituri și nu e...]]></content:encoded>
       <comments>https://partizani.ro/ce-cumperi-cu-adevarat-cand-iti-iei-primul-echipament-de-tenis-de-masa/#comments</comments>
+    </item>
+    <item>
+      <title>Iași pentru vizitatori internaționali: limbă, plată și obiceiuri locale</title>
+      <link>https://iasi-azi.ro/iasi-pentru-vizitatori-internationali-limba-plata-si-obiceiuri-locale/</link>
+      <description><![CDATA[From Iasi Azi: Iași primește din ce în ce mai mulți vizitatori — studenți Erasmus, delegați, turiști de city break. Orașul e primitor, iar câteva obiceiuri locale te scutesc de confuzii inutile. Limbă și comunicare Engleza funcționează în campus, hoteluri și restaurante centrale. La magazine mici, gesturile și o aplicație de traducere ajută. Fraze de bază în română sunt apreciate. Plată Cardul e acceptat larg...]]></description>
+      <pubDate>Fri, 14 Aug 2026 12:21:00 +0000</pubDate>
+      <author>Iasi Azi (https://release-press-releases-romania.github.io/publisher/iasi-azi-ro/)</author>
+      <dc:creator>Iasi Azi</dc:creator>
+      <dc:date>2026-08-14T12:21:00+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">News &amp; Society</category>
+      <guid isPermaLink="true">https://iasi-azi.ro/iasi-pentru-vizitatori-internationali-limba-plata-si-obiceiuri-locale/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/iasi-azi-ro/">Iasi Azi</source>
+      <content:encoded><![CDATA[From Iasi Azi: Iași primește din ce în ce mai mulți vizitatori — studenți Erasmus, delegați, turiști de city break. Orașul e primitor, iar câteva obiceiuri locale te scutesc de confuzii inutile. Limbă și comunicare Engleza funcționează în campus, hoteluri și restaurante centrale. La magazine mici, gesturile și o aplicație de traducere ajută. Fraze de bază în română sunt apreciate. Plată Cardul e acceptat larg...]]></content:encoded>
+      <comments>https://iasi-azi.ro/iasi-pentru-vizitatori-internationali-limba-plata-si-obiceiuri-locale/#comments</comments>
     </item>
     <item>
       <title>3 Greșeli pe care le fac multe femei când își aleg ținuta pentru plajă</title>
@@ -391,20 +405,6 @@
       <source url="https://release-press-releases-romania.github.io/publisher/iantreprenor-ro/">iAntreprenor</source>
       <content:encoded><![CDATA[From iAntreprenor: Un osciloscop High Definition poate separa variatii de amplitudine pe care un instrument conventional de 8 biti le grupeaza in acelasi nivel digital. Diferenta este vizibila mai ales cand trebuie masurat un ripple de ordinul milivoltilor peste o tensiune continua ridicata, o deformare mica a unui semnal sau o tranzitie ascunsa de zgomot. Rezolutia de 12 biti nu garanteaza insa singura o masurar...]]></content:encoded>
       <comments>https://iantreprenor.ro/cum-imbunatatesc-osciloscoapele-digitale-high-definition-precizia-masuratorilor/#comments</comments>
-    </item>
-    <item>
-      <title>Unde îți pui laptopul azi? Mic ghid de lucru remote în Iași</title>
-      <link>https://iasi-azi.ro/unde-iti-pui-laptopul-azi-mic-ghid-de-lucru-remote-in-iasi/</link>
-      <description><![CDATA[From Iasi Azi: Dacă lucrezi remote de ceva vreme, probabil ai trecut prin toate fazele: entuziasmul biroului de acasă, apoi plictiseala lui, apoi ziua în care realizezi că n-ai schimbat o vorbă cu nimeni în afară de curier. La un moment dat, apartamentul devine prea mic pentru câte ore petreci în el. Soluția e simplă în teorie – iei laptopul și ieși din casă – doar că întrebarea se repetă în fiecare dimineață...]]></description>
-      <pubDate>Tue, 04 Aug 2026 20:18:20 +0000</pubDate>
-      <author>Iasi Azi (https://release-press-releases-romania.github.io/publisher/iasi-azi-ro/)</author>
-      <dc:creator>Iasi Azi</dc:creator>
-      <dc:date>2026-08-04T20:18:20+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">News &amp; Society</category>
-      <guid isPermaLink="true">https://iasi-azi.ro/unde-iti-pui-laptopul-azi-mic-ghid-de-lucru-remote-in-iasi/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/iasi-azi-ro/">Iasi Azi</source>
-      <content:encoded><![CDATA[From Iasi Azi: Dacă lucrezi remote de ceva vreme, probabil ai trecut prin toate fazele: entuziasmul biroului de acasă, apoi plictiseala lui, apoi ziua în care realizezi că n-ai schimbat o vorbă cu nimeni în afară de curier. La un moment dat, apartamentul devine prea mic pentru câte ore petreci în el. Soluția e simplă în teorie – iei laptopul și ieși din casă – doar că întrebarea se repetă în fiecare dimineață...]]></content:encoded>
-      <comments>https://iasi-azi.ro/unde-iti-pui-laptopul-azi-mic-ghid-de-lucru-remote-in-iasi/#comments</comments>
     </item>
     <item>
       <title>Toaletele publice și ecologice: reglementări legale și standarde</title>
