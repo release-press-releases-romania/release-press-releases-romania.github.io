@@ -10,7 +10,7 @@
     "url": "https://social.5th.ro/@Iasi",
     "rss": "https://social.5th.ro/@Iasi.rss"
   },
-  "updated_at": "2026-08-16T07:05:01.695317+00:00",
+  "updated_at": "2026-08-16T07:49:32.280748+00:00",
   "status": "ok",
   "items": [
     {
@@ -97,6 +97,14 @@
   "social": [
     {
       "title": "Update",
+      "link": "https://social.5th.ro/@Iasi/117104021833499635",
+      "summary": "Who we are Our website address is: https:// iasi-azi.ro . Comments When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection. An anonymized string created from your email address (also called a hash) may be provided… https:// iasi-azi.ro/privacy-policy/",
+      "published": "2026-08-16T07:32:47+00:00",
+      "published_human": "2026-08-16T07:32",
+      "source": "Mastodon"
+    },
+    {
+      "title": "Update",
       "link": "https://social.5th.ro/@Iasi/117087482393344198",
       "summary": "August are un ritm aparte în România. Este luna concediilor, a întâlnirilor de familie și, pentru foarte mulți români care locuiesc în străinătate, perioada în care se întorc acasă pentru câteva zile sau câteva săptămâni. Uneori vin singuri. Alteori vin împreună cu partenerul, copiii sau prietenii pe care i-au cunoscut în țările în care locuiesc.… https:// iasi-azi.ro/vin-acasa-in-augus t-cu-prieteni-din-strainatate-glam-apartments-ofera-cazare-in-iasi-pentru-vacante-impreuna/",
       "published": "2026-08-13T09:26:35+00:00",
@@ -181,14 +189,6 @@
       "summary": "Dacă doriți ca site-ul dumneavoastră să atingă performanțe maxime, nu este suficient să creați conținut de calitate. Modul în care informația este organizată și prezentată motoarelor de căutare este crucial. Optimizarea URL-urilor: Fundamentul unei Indexări Google de Succes Atenție: V-ați întrebat vreodată de ce unele pagini web urcă rapid în clasamente, în timp ce altele… https:// iasi-azi.ro/structura-url-uril or-seo-friendly-reguli-simple-pentru-un-site-usor-de-indexat/",
       "published": "2025-12-12T10:49:17+00:00",
       "published_human": "2025-12-12T10:49",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@Iasi/115706202323796829",
-      "summary": "Știri și povești din Iași: oraș, cartiere, universități, cultură, evenimente și afaceri locale. Urmărește-ne dacă vrei să fii la curent cu ce se întâmplă azi în Iași. # iasi # stiri # turism # politica https:// iasi-azi.ro",
-      "published": "2025-12-12T10:48:54+00:00",
-      "published_human": "2025-12-12T10:48",
       "source": "Mastodon"
     }
   ]
