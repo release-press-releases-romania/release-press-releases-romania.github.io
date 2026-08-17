@@ -7,9 +7,17 @@
     "rss": "https://medic360.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-08-17T05:02:43.175568+00:00",
+  "updated_at": "2026-08-17T05:54:37.362646+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Ce indicii arată că organismul răspunde la imunoterapie?",
+      "link": "https://medic360.ro/ce-indicii-arata-ca-organismul-raspunde-la-imunoterapie/",
+      "summary": "Răspunsul la imunoterapie se conturează printr-o combinație de date clinice, analize de laborator și investigații imagistice, evaluate la intervale stabilite&#8230; Articolul Ce indicii arată că organismul răspunde la imunoterapie? apare prima dată în Medic 360 .",
+      "published": "2026-08-17T05:53:51+00:00",
+      "published_human": "2026-08-17T05:53",
+      "source": "https://medic360.ro/"
+    },
     {
       "title": "Cum recunosti polipii la copii: semnalul de alarma pentru parinti",
       "link": "https://medic360.ro/cum-recunosti-polipii-la-copii-semnalul-de-alarma-pentru-parinti/",
@@ -72,14 +80,6 @@
       "summary": "Un smartwatch îți analizează somnul folosind senzori care monitorizează ritmul cardiac, mișcarea și nivelul de oxigen, iar în 2026 cele&#8230; Articolul Cum îți analizează smartwatch-ul somnul? apare prima dată în Medic 360 .",
       "published": "2026-04-30T07:12:00+00:00",
       "published_human": "2026-04-30T07:12",
-      "source": "https://medic360.ro/"
-    },
-    {
-      "title": "Cum funcționează monitorizarea stresului pe smartwatch?",
-      "link": "https://medic360.ro/cum-functioneaza-monitorizarea-stresului-pe-smartwatch/",
-      "summary": "Monitorizarea stresului pe smartwatch funcționează prin analizarea ritmului cardiac și a variațiilor acestuia (HRV), folosind senzori și algoritmi inteligenți, iar&#8230; Articolul Cum funcționează monitorizarea stresului pe smartwatch? apare prima dată în Medic 360 .",
-      "published": "2026-04-25T06:57:00+00:00",
-      "published_human": "2026-04-25T06:57",
       "source": "https://medic360.ro/"
     }
   ],
