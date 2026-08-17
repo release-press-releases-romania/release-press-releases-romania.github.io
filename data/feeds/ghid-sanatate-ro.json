@@ -7,9 +7,17 @@
     "rss": "https://ghid-sanatate.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-08-17T09:04:05.196370+00:00",
+  "updated_at": "2026-08-17T10:01:26.828924+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Un început de toamnă mai echilibrat: 3 obiceiuri sănătoase pentru întreaga familie",
+      "link": "https://ghid-sanatate.ro/un-inceput-de-toamna-mai-echilibrat-3-obiceiuri-sanatoase-pentru-intreaga-familie/",
+      "summary": "Finalul lunii august aduce revenirea la rutina de zi cu zi. Concediile se apropie de... Articolul Un început de toamnă mai echilibrat: 3 obiceiuri sănătoase pentru întreaga familie apare prima dată în Ghid Sanatate .",
+      "published": "2026-08-17T06:32:06+00:00",
+      "published_human": "2026-08-17T06:32",
+      "source": "https://ghid-sanatate.ro/"
+    },
     {
       "title": "Intervențiile laparoscopice pentru afecțiunile colonului",
       "link": "https://ghid-sanatate.ro/interventiile-laparoscopice-pentru-afectiunile-colonului/",
@@ -96,14 +104,6 @@
       "summary": "Durerile de spate, tensiunea din umeri, rigiditatea gâtului și senzația de corp „înțepenit” sunt probleme... Articolul Ghid pentru dureri de spate, tensiune musculară și mobilitate redusă: când alegi masaj, fizioterapie sau kinetoterapie în Snagov apare prima dată în Ghid Sanatate .",
       "published": "2026-06-08T09:20:01+00:00",
       "published_human": "2026-06-08T09:20",
-      "source": "https://ghid-sanatate.ro/"
-    },
-    {
-      "title": "Ai fost mereu „distrat”? Când e mai mult decât un stil de viață",
-      "link": "https://ghid-sanatate.ro/ai-fost-mereu-distrat-cand-e-mai-mult-decat-un-stil-de-viata/",
-      "summary": "Mulți adulți și-au construit o întreagă imagine despre sine în jurul unor trăsături pe care... Articolul Ai fost mereu „distrat”? Când e mai mult decât un stil de viață apare prima dată în Ghid Sanatate .",
-      "published": "2026-05-02T16:28:35+00:00",
-      "published_human": "2026-05-02T16:28",
       "source": "https://ghid-sanatate.ro/"
     }
   ],
