@@ -10,7 +10,7 @@
     "url": "https://social.5th.ro/@brasov",
     "rss": "https://social.5th.ro/@brasov.rss"
   },
-  "updated_at": "2026-08-18T01:54:11.402792+00:00",
+  "updated_at": "2026-08-18T03:12:30.139756+00:00",
   "status": "ok",
   "items": [
     {
@@ -113,6 +113,14 @@
   "social": [
     {
       "title": "Update",
+      "link": "https://social.5th.ro/@brasov/117114166460220142",
+      "summary": "Biserica fortificată din Prejmer (UNESCO) este una dintre cele mai bine păstrate fortificații săsești din Transilvania. La 20–25 de minute de Brașov, oferă un circuit spectaculos pe galerii de lemn, camere de provizii și expoziții care povestesc viața comunității de odinioară. https:// brasov-azi.ro/prejmer-program- bilete-biserica-fortificata/",
+      "published": "2026-08-18T02:32:42+00:00",
+      "published_human": "2026-08-18T02:32",
+      "source": "Mastodon"
+    },
+    {
+      "title": "Update",
       "link": "https://social.5th.ro/@brasov/117114021321555087",
       "summary": "Aici poți redeschide bara de consimțământ pentru Brasov AZI. Cookie-urile esențiale rămân active. Analiza și publicitatea pornesc doar dacă le accepți. Detalii: Politica de cookie-uri și Politica de confidențialitate. Deschide setările cookie Dacă bara nu apare, șterge cookie-urile pentru acest site și reîncarcă pagina, sau scrie redacției la redactie@brasov-azi.ro. https:// brasov-azi.ro/setari-cookie/",
       "published": "2026-08-18T01:55:47+00:00",
@@ -197,14 +205,6 @@
       "summary": "Tentația economiei inițiale și capcana pe care o ascundeExistă o tentație puternică și complet înțeleaptă în mediul antreprenorial românesc de a minimiza investiția inițială în infrastructura digitală, în special în fazele de lansare când bugetele sunt strânse și incertitudinile sunt mari. De ce să dai trei mii sau cinci mii de euro pe un site… https:// brasov-azi.ro/de-ce-site-urile -construite-ieftin-costa-cel-mai-mult-pe-termen-lung-calculul-pe-care-nu-il-face-nimeni-la-inceput/",
       "published": "2026-03-09T19:17:17+00:00",
       "published_human": "2026-03-09T19:17",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@brasov/116200746574098213",
-      "summary": "Când programul se schimbă de la o zi la alta, mobilitatea devine esențială. În Cluj-Napoca, întâlnirile de business se pot prelungi, planurile de weekend se pot schimba din mers, iar zborurile pot avea întârzieri sau reprogramări. În astfel de situații, serviciile de închirieri auto Cluj sunt una dintre cele mai simple soluții ca să-ți păstrezi… https:// brasov-azi.ro/inchirieri-auto- cluj-cum-gestionezi-o-perioada-incerta-si-data-de-retur/",
-      "published": "2026-03-09T18:58:00+00:00",
-      "published_human": "2026-03-09T18:58",
       "source": "Mastodon"
     }
   ]
