@@ -7,9 +7,17 @@
     "rss": "https://medic360.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-08-18T11:45:37.982086+00:00",
+  "updated_at": "2026-08-18T13:13:39.493464+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Ortopedie, reumatologie, recuperare medicală: la ce specialist te adresezi",
+      "link": "https://medic360.ro/ortopedie-reumatologie-recuperare-medicala-la-ce-specialist-te-adresezi/",
+      "summary": "Durerea articulară trimite pacienții către trei specialități diferite, iar alegerea greșită înseamnă timp pierdut și, uneori, o programare irosită. Iată&#8230; Articolul Ortopedie, reumatologie, recuperare medicală: la ce specialist te adresezi apare prima dată în Medic 360 .",
+      "published": "2026-08-18T12:16:15+00:00",
+      "published_human": "2026-08-18T12:16",
+      "source": "https://medic360.ro/"
+    },
     {
       "title": "Ce indicii arată că organismul răspunde la imunoterapie?",
       "link": "https://medic360.ro/ce-indicii-arata-ca-organismul-raspunde-la-imunoterapie/",
@@ -72,14 +80,6 @@
       "summary": "Hemoroizii au fost până nu demult un subiect tabu pentru omul de rând, asta deși aproape jumătate din populația globală&#8230; Articolul Ghid complet: Tot ce trebuie să știi despre tratarea hemoroizilor apare prima dată în Medic 360 .",
       "published": "2026-05-19T12:33:11+00:00",
       "published_human": "2026-05-19T12:33",
-      "source": "https://medic360.ro/"
-    },
-    {
-      "title": "Cum îți analizează smartwatch-ul somnul?",
-      "link": "https://medic360.ro/cum-iti-analizeaza-smartwatch-ul-somnul/",
-      "summary": "Un smartwatch îți analizează somnul folosind senzori care monitorizează ritmul cardiac, mișcarea și nivelul de oxigen, iar în 2026 cele&#8230; Articolul Cum îți analizează smartwatch-ul somnul? apare prima dată în Medic 360 .",
-      "published": "2026-04-30T07:12:00+00:00",
-      "published_human": "2026-04-30T07:12",
       "source": "https://medic360.ro/"
     }
   ],
