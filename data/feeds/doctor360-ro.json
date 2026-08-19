@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@doctor360",
     "rss": "https://social.5th.ro/@doctor360.rss"
   },
-  "updated_at": "2026-08-19T04:56:45.350614+00:00",
+  "updated_at": "2026-08-19T05:51:17.685773+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Endometrioza – de ce abordarea multidisciplinară este esențială pentru calitatea vieții pacientelor",
+      "link": "https://doctor360.ro/endometrioza-de-ce-abordarea-multidisciplinara-este-esentiala-pentru-calitatea-vietii-pacientelor/",
+      "summary": "Endometrioza este o afecțiune complexă, care adesea ajunge să aibă un impact negativ asupra întregului organism, dar și asupra calității generale a vieții de zi cu zi. Pentru un tratament complet și eficient, în majoritatea cazurilor este necesară o abordare multidisciplinară, având în vedere varietatea și intensitatea simptomelor. Iar această abordare nu trebuie să excludă [&#8230;] Articolul Endometrioza – de ce abordarea multidisciplinară este esențială pentru calitatea vieții pacientelor apare prima dată în Doctor 360 .",
+      "published": "2026-08-19T05:02:52+00:00",
+      "published_human": "2026-08-19T05:02",
+      "source": "https://doctor360.ro/"
+    },
     {
       "title": "De ce un singur dinte lipsă îți poate schimba mușcătura fără să îți dai seama",
       "link": "https://doctor360.ro/de-ce-un-singur-dinte-lipsa-iti-poate-schimba-muscatura-fara-sa-iti-dai-seama/",
@@ -100,17 +108,17 @@
       "published": "2025-12-27T16:08:00+00:00",
       "published_human": "2025-12-27T16:08",
       "source": "https://doctor360.ro/"
-    },
-    {
-      "title": "Cum funcționează federarea pe Mastodon, explicat pe înțelesul tuturor",
-      "link": "https://doctor360.ro/cum-functioneaza-federarea-pe-mastodon-explicat-pe-intelesul-tuturor/",
-      "summary": "Când ne gândim la rețelele sociale, imaginea care ne vine imediat în minte este cea a câtorva companii uriașe care controlează totul: datele, algoritmii și modul în care interacționăm. Ce s-ar întâmpla dacă am putea schimba această paradigmă? Dacă am putea avea control real asupra experienței noastre online? Această viziune este exact ceea ce oferă [&#8230;] Articolul Cum funcționează federarea pe Mastodon, explicat pe înțelesul tuturor apare prima dată în Doctor 360 .",
-      "published": "2025-12-17T16:58:54+00:00",
-      "published_human": "2025-12-17T16:58",
-      "source": "https://doctor360.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@doctor360/117120419271317820",
+      "summary": "💡Endometrioza este o afecțiune complexă, care adesea ajunge să aibă un impact negativ asupra întregului organism, dar și asupra calității generale a vieții de zi cu zi. Pentru un tratament complet și eficient, în majoritatea cazurilor este necesară o abordare multidisciplinară, având în vedere varietatea și intensitatea simptomelor. Iar această abordare nu trebuie să excludă… 💡 https:// doctor360.ro/endometrioza-de-c e-abordarea-multidisciplinara-este-esentiala-pentru-calitatea-vietii-pacientelor/",
+      "published": "2026-08-19T05:02:52+00:00",
+      "published_human": "2026-08-19T05:02",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@doctor360/117093391530313677",
@@ -197,14 +205,6 @@
       "summary": "💡Lipsa unui dinte nu este niciodată doar o problemă punctuală și, chiar dacă de multe ori este tratată ca un detaliu care poate fi amânat, efectele se extind treptat asupra întregului organism, iar decizia de a apela la un implant dentar ajunge aproape întotdeauna să fie filtrată prin aceeași întrebare legată de cost. Totuși, medicina… 💡 https:// doctor360.ro/implant-dentar-pr etul-nu-mai-este-un-impediment-iata-cum-iti-influenteaza-dispozitivul-starea-de-sanatate-generala/",
       "published": "2026-01-08T07:24:55+00:00",
       "published_human": "2026-01-08T07:24",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@doctor360/115736506064638674",
-      "summary": "💡Când ne gândim la rețelele sociale, imaginea care ne vine imediat în minte este cea a câtorva companii uriașe care controlează totul: datele, algoritmii și modul în care interacționăm. Ce s-ar întâmpla dacă am putea schimba această paradigmă? Dacă am putea avea control real asupra experienței noastre online? Această viziune este exact ceea ce oferă… 💡 https:// doctor360.ro/cum-functioneaza- federarea-pe-mastodon-explicat-pe-intelesul-tuturor/",
-      "published": "2025-12-17T19:15:32+00:00",
-      "published_human": "2025-12-17T19:15",
       "source": "Mastodon"
     }
   ]
