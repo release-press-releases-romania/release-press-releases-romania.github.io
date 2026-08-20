@@ -7,9 +7,17 @@
     "rss": "https://medic360.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-08-20T04:02:59.771104+00:00",
+  "updated_at": "2026-08-20T04:58:17.348079+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Cum evaluezi un longevity stack: doze, transparență și dovezi înainte de marketing",
+      "link": "https://medic360.ro/cum-evaluezi-un-longevity-stack-doze-transparenta-si-dovezi-inainte-de-marketing/",
+      "summary": "Piața suplimentelor pentru healthy aging a devenit tot mai sofisticată. Etichetele includ ingrediente precum nicotinamide riboside (NR), CoQ10, PQQ, Ca-AKG,&#8230; Articolul Cum evaluezi un longevity stack: doze, transparență și dovezi înainte de marketing apare prima dată în Medic 360 .",
+      "published": "2026-08-20T04:54:58+00:00",
+      "published_human": "2026-08-20T04:54",
+      "source": "https://medic360.ro/"
+    },
     {
       "title": "Ortopedie, reumatologie, recuperare medicală: la ce specialist te adresezi",
       "link": "https://medic360.ro/ortopedie-reumatologie-recuperare-medicala-la-ce-specialist-te-adresezi/",
@@ -72,14 +80,6 @@
       "summary": "Descoperă beneficiile proteinelor din zer pentru recuperarea musculară și cum pot acestea să accelereze procesul de refacere după antrenamentele intense.&#8230; Articolul Cum pot proteinele din zer să îmbunătățească recuperarea după antrenament? apare prima dată în Medic 360 .",
       "published": "2026-05-19T15:17:32+00:00",
       "published_human": "2026-05-19T15:17",
-      "source": "https://medic360.ro/"
-    },
-    {
-      "title": "Ghid complet: Tot ce trebuie să știi despre tratarea hemoroizilor",
-      "link": "https://medic360.ro/ghid-complet-tot-ce-trebuie-sa-stii-despre-tratarea-hemoroizilor/",
-      "summary": "Hemoroizii au fost până nu demult un subiect tabu pentru omul de rând, asta deși aproape jumătate din populația globală&#8230; Articolul Ghid complet: Tot ce trebuie să știi despre tratarea hemoroizilor apare prima dată în Medic 360 .",
-      "published": "2026-05-19T12:33:11+00:00",
-      "published_human": "2026-05-19T12:33",
       "source": "https://medic360.ro/"
     }
   ],

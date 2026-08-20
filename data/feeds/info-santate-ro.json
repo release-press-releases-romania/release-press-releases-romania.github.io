@@ -7,9 +7,17 @@
     "rss": "https://info-santate.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-08-20T04:02:59.771104+00:00",
+  "updated_at": "2026-08-20T04:58:17.348079+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Alimente, fibre și hidratare: idei practice pentru o rutină digestivă echilibrată",
+      "link": "https://info-santate.ro/alimente-fibre-si-hidratare-idei-practice-pentru-o-rutina-digestiva-echilibrata/",
+      "summary": "Digestia funcționează bine când primește, zilnic, trei lucruri în cantitatea potrivită: fibre suficiente, apă și alimente care nu îi pun&#8230; Articolul Alimente, fibre și hidratare: idei practice pentru o rutină digestivă echilibrată apare prima dată în Info Sanatate .",
+      "published": "2026-08-20T04:30:19+00:00",
+      "published_human": "2026-08-20T04:30",
+      "source": "https://info-santate.ro/"
+    },
     {
       "title": "Semnele epuizării ascunse: cum îți transmite corpul că are nevoie de o pauză",
       "link": "https://info-santate.ro/semnele-epuizarii-ascunse-cum-iti-transmite-corpul-ca-are-nevoie-de-o-pauza/",
@@ -72,14 +80,6 @@
       "summary": "Dr. Bogdan Serban explică, pentru pacienți din București, ce afecțiuni pot fi evaluate chirurgical. Informații despre chirurgie laparoscopică și când merită o Articolul Laparoscopic sau robotic? Diferențe importante în chirurgia modernă apare prima dată în Info Sanatate .",
       "published": "2026-06-23T08:05:55+00:00",
       "published_human": "2026-06-23T08:05",
-      "source": "https://info-santate.ro/"
-    },
-    {
-      "title": "Viitorul medicinei: Cum îți poate salva viața testarea genetică?",
-      "link": "https://info-santate.ro/viitorul-medicinei-cum-iti-poate-salva-viata-testarea-genetica/",
-      "summary": "Într-o lume în care nu mai avem timp de aproape nimic, prevenția proactivă devine extrem de importantă. E mai important&#8230; Articolul Viitorul medicinei: Cum îți poate salva viața testarea genetică? apare prima dată în Info Sanatate .",
-      "published": "2026-05-20T18:28:15+00:00",
-      "published_human": "2026-05-20T18:28",
       "source": "https://info-santate.ro/"
     }
   ],
