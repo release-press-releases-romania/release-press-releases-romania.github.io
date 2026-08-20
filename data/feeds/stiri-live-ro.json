@@ -7,7 +7,7 @@
     "rss": "https://stiri-live.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-08-20T08:00:49.388300+00:00",
+  "updated_at": "2026-08-20T09:00:40.877155+00:00",
   "status": "ok",
   "items": [
     {
@@ -16,6 +16,14 @@
       "summary": "Economia circulară este un concept din ce în ce mai important în cadrul inițiativelor globale pentru protejarea mediului și. Articolul Economia circulară și rolul toaletelor ecologice în acest concept apare prima dată în Stiri Live .",
       "published": "2026-08-04T20:13:09+00:00",
       "published_human": "2026-08-04T20:13",
+      "source": "https://stiri-live.ro/"
+    },
+    {
+      "title": "Cum îi înveți pe copii să se comporte corect în apropierea animalelor de la zoo?",
+      "link": "https://stiri-live.ro/cum-ii-inveti-pe-copii-sa-se-comporte-corect-in-apropierea-animalelor-de-la-zoo/",
+      "summary": "O vizită la animale este foarte interesantă pentru copii, mai ales dacă animalele sunt exotice. Vor să se apropie,. Articolul Cum îi înveți pe copii să se comporte corect în apropierea animalelor de la zoo? apare prima dată în Stiri Live .",
+      "published": "2026-07-11T21:34:00+00:00",
+      "published_human": "2026-07-11T21:34",
       "source": "https://stiri-live.ro/"
     },
     {
@@ -96,14 +104,6 @@
       "summary": "26 februarie 2026 &#124; 9:30 – 14:30 &#124; Arenele BNR Inflație. Deficite. Finanțare. Creștere. Riscuri. Dincolo de discurs, spre realitate. Nu. Articolul România de facto: realități și perspective 2026 apare prima dată în Stiri Live .",
       "published": "2026-02-23T10:58:31+00:00",
       "published_human": "2026-02-23T10:58",
-      "source": "https://stiri-live.ro/"
-    },
-    {
-      "title": "Mai e mult pana in 2027? De ce „acum” este momentul perfect sa alegi gradinita potrivita pentru copilul tau",
-      "link": "https://stiri-live.ro/mai-e-mult-pana-in-2027-de-ce-acum-este-momentul-perfect-sa-alegi-gradinita-potrivita-pentru-copilul-tau/",
-      "summary": "Mai e mult pana in 2027? De ce „acum” este momentul perfect sa alegi gradinita potrivita pentru copilul tau. Articolul Mai e mult pana in 2027? De ce „acum” este momentul perfect sa alegi gradinita potrivita pentru copilul tau apare prima dată în Stiri Live .",
-      "published": "2026-02-02T05:59:33+00:00",
-      "published_human": "2026-02-02T05:59",
       "source": "https://stiri-live.ro/"
     }
   ],

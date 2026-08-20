@@ -7,7 +7,7 @@
     "rss": "https://traim-sanatos.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-08-20T08:00:49.388300+00:00",
+  "updated_at": "2026-08-20T09:00:40.877155+00:00",
   "status": "ok",
   "items": [
     {
@@ -16,6 +16,14 @@
       "summary": "Material informativ realizat cu suportul tehnic CleanSpot Oradea. Nu &#238;nlocuiește sfatul medical. Un mediu de somn &#238;ngrijit include lenjerie spălată,&#8230; Articolul Igiena saltelei în Oradea: ce poate și ce nu poate face curățarea apare prima dată în Traim Sanatos .",
       "published": "2026-08-17T03:43:19+00:00",
       "published_human": "2026-08-17T03:43",
+      "source": "https://traim-sanatos.ro/"
+    },
+    {
+      "title": "Tir cu arcul – 7 lucruri pe care trebuie să le știi despre acest sport",
+      "link": "https://traim-sanatos.ro/tir-cu-arcul-7-lucruri-pe-care-trebuie-sa-le-stii-despre-acest-sport/",
+      "summary": "Tirul cu arcul pare ușor : ai un arc, o săgeată și o țintă pe care trebuie să o nimerești.&#8230; Articolul Tir cu arcul &#8211; 7 lucruri pe care trebuie să le știi despre acest sport apare prima dată în Traim Sanatos .",
+      "published": "2026-07-16T13:22:00+00:00",
+      "published_human": "2026-07-16T13:22",
       "source": "https://traim-sanatos.ro/"
     },
     {
@@ -72,14 +80,6 @@
       "summary": "Obezitatea este una dintre cele mai mari provocări de sănătate ale secolului, dar știința face pași uriași. Noi rezultate prezentate&#8230; Articolul Un nou record în slăbire: Noua doză Wegovy te ajută să pierzi aproape 28% din greutate, topind grăsimea și protejând mușchii apare prima dată în Traim Sanatos .",
       "published": "2026-05-12T13:54:00+00:00",
       "published_human": "2026-05-12T13:54",
-      "source": "https://traim-sanatos.ro/"
-    },
-    {
-      "title": "Wegovy, cunoscutul tratament pentru obezitate, primește undă verde în Marea Britanie pentru prevenirea complicațiilor cardiovasculare",
-      "link": "https://traim-sanatos.ro/wegovy-cunoscutul-tratament-pentru-obezitate-primeste-unda-verde-in-marea-britanie-pentru-prevenirea-complicatiilor-cardiovasculare/",
-      "summary": "Institutul Național pentru Sănătate și Excelență Clinică (NICE) din Marea Britanie a publicat un nou ghid terapeutic care extinde indicațiile&#8230; Articolul Wegovy, cunoscutul tratament pentru obezitate, primește undă verde în Marea Britanie pentru prevenirea complicațiilor cardiovasculare apare prima dată în Traim Sanatos .",
-      "published": "2026-05-11T14:31:00+00:00",
-      "published_human": "2026-05-11T14:31",
       "source": "https://traim-sanatos.ro/"
     }
   ],

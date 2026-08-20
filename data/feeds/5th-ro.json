@@ -7,7 +7,7 @@
     "rss": "https://5th.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-08-20T08:00:49.388300+00:00",
+  "updated_at": "2026-08-20T09:00:40.877155+00:00",
   "status": "ok",
   "items": [
     {
@@ -16,6 +16,14 @@
       "summary": "Atenție: Diagnosticul unei afecțiuni severe reprezintă o încercare grea pentru orice persoană. În astfel de momente, deciziile medicale luate rapid îți pot schimba viața în bine. Interes: Când te confrunți cu o problemă de sănătate dificilă, alegerea medicului este pasul cel mai important. Siguranța ta depinde direct de pregătirea și de îndemânarea specialistului din sala Articolul De ce experiența chirurgului contează în intervențiile complexe apare prima dată în 5th.ro – Social Media Mastodon Instance .",
       "published": "2026-07-31T08:32:01+00:00",
       "published_human": "2026-07-31T08:32",
+      "source": "https://5th.ro/"
+    },
+    {
+      "title": "Unde mergi cu copiii lângă București? 12 idei pentru o excursie de o zi",
+      "link": "https://5th.ro/unde-mergi-cu-copiii-langa-bucuresti-12-idei-pentru-o-excursie-de-o-zi/",
+      "summary": "O excursie cu copiii nu trebuie să însemne două ore petrecute în mașină pentru o vizită de 30 de minute. În jurul Bucureștiului există locuri în care poți combina joaca, mișcarea, animalele, apa și plimbările în natură într-un program de câteva ore. Pentru o familie cu copii mici contează mai mult locul de joacă și Articolul Unde mergi cu copiii lângă București? 12 idei pentru o excursie de o zi apare prima dată în 5th.ro – Social Media Mastodon Instance .",
+      "published": "2026-07-11T08:23:00+00:00",
+      "published_human": "2026-07-11T08:23",
       "source": "https://5th.ro/"
     },
     {
@@ -80,14 +88,6 @@
       "summary": "Share on Mastodon WordPress plugin: how to auto-share your WordPress posts to Mastodon (without copy/paste) If you run a WordPress site, you already know the routine: publish an article, then open your social tabs, write a short teaser, paste the link, add a couple of hashtags… and repeat. It works, but it’s repetitive, easy to Articolul Share on Mastodon &#8211; WordPress plugin apare prima dată în 5th.ro – Social Media Mastodon Instance .",
       "published": "2025-12-13T10:06:59+00:00",
       "published_human": "2025-12-13T10:06",
-      "source": "https://5th.ro/"
-    },
-    {
-      "title": "Mastodon All In One WordPress Plugin (5th Social Bot): the “publish once, share everywhere” workflow for Mastodon",
-      "link": "https://5th.ro/mastodon-all-in-one-wordpress-plugin-5th-social-bot-en/",
-      "summary": "Publishing on WordPress is the easy part. The annoying part is what comes right after: opening social tabs, rewriting the same teaser, copying the link, adding hashtags… and doing it again tomorrow. Mastodon All In One WordPress Plugin (also known as 5th Social Bot) is built to remove that friction. It connects your WordPress site Articolul Mastodon All In One WordPress Plugin (5th Social Bot): the “publish once, share everywhere” workflow for Mastodon apare prima dată în 5th.ro – Social Media Mastodon Instance .",
-      "published": "2025-12-13T09:40:02+00:00",
-      "published_human": "2025-12-13T09:40",
       "source": "https://5th.ro/"
     }
   ],

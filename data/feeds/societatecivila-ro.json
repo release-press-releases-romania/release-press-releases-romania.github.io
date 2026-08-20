@@ -7,7 +7,7 @@
     "rss": "https://societatecivila.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-08-20T08:00:49.388300+00:00",
+  "updated_at": "2026-08-20T09:00:40.877155+00:00",
   "status": "ok",
   "items": [
     {
@@ -16,6 +16,14 @@
       "summary": "Soluția principală pentru a înlocui ecranele cu explorarea activă constă în oferirea unui mediu fizic suficient de provocator și atractiv care să declanșeze curiozitatea naturală a copilului. Părinții pot facilita această tranziție prin alegerea unor spații ce pun accent pe aventura motrică și pe interacțiunea socială directă în detrimentul divertismentului digital pasiv. Un astfel de... Articolul Soluții pentru părinții care vor să își vadă copiii explorând în loc să stea pe telefoane apare prima dată în Societate Civila .",
       "published": "2026-07-25T11:56:33+00:00",
       "published_human": "2026-07-25T11:56",
+      "source": "https://societatecivila.ro/"
+    },
+    {
+      "title": "De ce să petreci o zi cu copilul într-un parc de aventură?",
+      "link": "https://societatecivila.ro/de-ce-sa-petreci-o-zi-cu-copilul-intr-un-parc-de-aventura/",
+      "summary": "O zi petrecută împreună cu copilul devine memorabilă atunci când uiți de programul obișnuit și alegi un loc inedit. Un parc de aventură oferă o experiență inedită, deoarece îi permite copilului să încerce activități noi, să-și testeze limitele și să petreacă timp în aer liber, fără ca ziua să se transforme într-o succesiune de exerciții... Articolul De ce să petreci o zi cu copilul într-un parc de aventură? apare prima dată în Societate Civila .",
+      "published": "2026-07-18T09:31:00+00:00",
+      "published_human": "2026-07-18T09:31",
       "source": "https://societatecivila.ro/"
     },
     {
@@ -96,14 +104,6 @@
       "summary": "Mai e mult pana in 2027? De ce „acum” este momentul perfect sa alegi gradinita potrivita pentru copilul tau Stim ce gandesti: abia am pasit in noul an, iar 2027 pare o cifra dintr-un viitor indepartat. Insa, pentru un parinte, timpul are un mod bizar de a se comprima. Intre primii pasi si prima zi... Articolul Mai e mult pana in 2027? De ce „acum” este momentul perfect sa alegi gradinita potrivita pentru copilul tau apare prima dată în Societate Civila .",
       "published": "2026-02-02T05:59:33+00:00",
       "published_human": "2026-02-02T05:59",
-      "source": "https://societatecivila.ro/"
-    },
-    {
-      "title": "Mastodon România pentru freelanceri: networking fără spam",
-      "link": "https://societatecivila.ro/mastodon-romania-pentru-freelanceri-networking-fara-spam/",
-      "summary": "V-ați săturat de algoritmi agresivi care sufocă vizibilitatea postărilor dvs. profesionale? Ca freelanceri, timpul este cea mai valoroasă resursă. Nu vă puteți permite să îl pierdeți navigând prin spam și reclame irelevante în căutarea unor contacte de calitate. Mulți profesioniști simt că eforturile lor de networking pe platformele tradiționale sunt din ce în ce mai... Articolul Mastodon România pentru freelanceri: networking fără spam apare prima dată în Societate Civila .",
-      "published": "2025-12-17T16:58:54+00:00",
-      "published_human": "2025-12-17T16:58",
       "source": "https://societatecivila.ro/"
     }
   ],
