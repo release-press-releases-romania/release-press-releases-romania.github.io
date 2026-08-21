@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@ienergie",
     "rss": "https://social.5th.ro/@ienergie.rss"
   },
-  "updated_at": "2026-08-21T09:02:54.059840+00:00",
+  "updated_at": "2026-08-21T09:55:41.493036+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Ce consum acoperă o baterie Huawei de 5kW/7kW",
+      "link": "https://ienergie.ro/ce-consum-acopera-o-baterie-huawei-de-5kw-7kw/",
+      "summary": "Una dintre cele mai frecvente întrebări pe care și le pun cei interesați de achiziția unei baterii solare pentru sistemul fotovoltaic este: ce consum acoperă, [Mai mult...] Articolul Ce consum acoperă o baterie Huawei de 5kW/7kW apare prima dată în iEnergie .",
+      "published": "2026-08-21T09:49:47+00:00",
+      "published_human": "2026-08-21T09:49",
+      "source": "https://iEnergie.ro/"
+    },
     {
       "title": "Cancerul de apendice: o afecțiune rară care necesită tratament specializat",
       "link": "https://ienergie.ro/cancerul-de-apendice-o-afectiune-rara-care-necesita-tratament-specializat/",
@@ -100,17 +108,17 @@
       "published": "2026-01-21T14:19:17+00:00",
       "published_human": "2026-01-21T14:19",
       "source": "https://iEnergie.ro/"
-    },
-    {
-      "title": "Strategia Comisiei Europene vizează construcția primelor centrale de fuziune pe teritoriul Europei",
-      "link": "https://ienergie.ro/strategia-comisiei-europene-vizeaza-constructia-primelor-centrale-de-fuziune-pe-teritoriul-europei/",
-      "summary": "Comisia Europeană dezvoltă o strategie pentru dezvoltarea centralelor de fuziune nucleară și eliminarea gazelor rusești, sporind independența UE. Articolul Strategia Comisiei Europene vizează construcția primelor centrale de fuziune pe teritoriul Europei apare prima dată în iEnergie .",
-      "published": "2026-01-21T05:08:49+00:00",
-      "published_human": "2026-01-21T05:08",
-      "source": "https://iEnergie.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@ienergie/117132872342544510",
+      "summary": "Una dintre cele mai frecvente întrebări pe care și le pun cei interesați de achiziția unei baterii solare pentru sistemul fotovoltaic este: ce consum acoperă, de fapt, o baterie cu capacitatea de 5kW? Dar una cu capacitatea de 7kW? Răspunsul variază în funcție de mai mulți factori: pe de o parte consumul zilnic al locuinței… https:// ienergie.ro/ce-consum-acopera- o-baterie-huawei-de-5kw-7kw/",
+      "published": "2026-08-21T09:49:51+00:00",
+      "published_human": "2026-08-21T09:49",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@ienergie/117014519817811473",
@@ -197,14 +205,6 @@
       "summary": "Ministerul Energiei a inițiat PNPR pentru energie electrică, detaliind măsuri de prevenire a impactului a nouă riscuri majore identificate. https:// ienergie.ro/executivul-defines te-strategia-de-gestionare-a-crizelor-si-pregatire-in-domeniul-electricitatii/",
       "published": "2026-01-21T16:21:52+00:00",
       "published_human": "2026-01-21T16:21",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@ienergie/115931839768689163",
-      "summary": "Comisia Europeană dezvoltă o strategie pentru dezvoltarea centralelor de fuziune nucleară și eliminarea gazelor rusești, sporind independența UE. https:// ienergie.ro/strategia-comisiei -europene-vizeaza-constructia-primelor-centrale-de-fuziune-pe-teritoriul-europei/",
-      "published": "2026-01-21T07:11:28+00:00",
-      "published_human": "2026-01-21T07:11",
       "source": "Mastodon"
     }
   ]

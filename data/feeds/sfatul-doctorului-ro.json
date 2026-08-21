@@ -7,9 +7,17 @@
     "rss": "https://sfatul-doctorului.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-08-21T09:02:54.059840+00:00",
+  "updated_at": "2026-08-21T09:55:41.493036+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Ortopedie în București: cele mai frecvente afecțiuni tratate și când să ceri ajutor",
+      "link": "https://sfatul-doctorului.ro/ortopedie-in-bucuresti-cele-mai-frecvente-afectiuni-tratate-si-cand-sa-ceri-ajutor/",
+      "summary": "Aparatul locomotor e sistemul pe care îl solicităm cel mai mult și de care ne ocupăm cel mai puțin — până când ceva se strică. Iată patologiile care umplu cabinetele de ortopedie și semnalele care nu ar trebui ignorate. Artroza de șold și de genunchi Uzura cartilajului articular, cu durere care apare inițial la efort [&#8230;] Articolul Ortopedie în București: cele mai frecvente afecțiuni tratate și când să ceri ajutor apare prima dată în Sfatul Doctorului .",
+      "published": "2026-08-21T09:49:14+00:00",
+      "published_human": "2026-08-21T09:49",
+      "source": "https://sfatul-doctorului.ro/"
+    },
     {
       "title": "Polipii nazali la copii: de la cauze si simptome la diagnostic si optiuni de tratament",
       "link": "https://sfatul-doctorului.ro/polipii-nazali-la-copii-de-la-cauze-si-simptome-la-diagnostic-si-optiuni-de-tratament/",
@@ -72,14 +80,6 @@
       "summary": "Observi că micuțul tău este mai agresiv decât alți copii de vârsta lui, nu doarme bine, are frici intense care nu dispar, refuză să meargă la școală și are crize emoționale care depășesc orice ai mai văzut la alți copii. Întrebarea firească este dacă e nevoie de un specialist sau mai poți aștepta. Psihiatria pediatrică [&#8230;] Articolul Când comportamentul copilului ridică semne de întrebare: rolul psihiatriei pediatrice apare prima dată în Sfatul Doctorului .",
       "published": "2026-04-27T14:21:17+00:00",
       "published_human": "2026-04-27T14:21",
-      "source": "https://sfatul-doctorului.ro/"
-    },
-    {
-      "title": "Cum îți îmbunătățești echilibrul zilnic cu un smartwatch?",
-      "link": "https://sfatul-doctorului.ro/cum-iti-imbunatatesti-echilibrul-zilnic-cu-un-smartwatch/",
-      "summary": "Îți poți îmbunătăți echilibrul zilnic cu un smartwatch prin monitorizarea sănătății, gestionarea stresului și optimizarea rutinei de somn și activitate, iar în 2026 cele mai bune soluții sunt oferite de dispozitive precum Samsung Galaxy Watch, care combină datele în timp real cu recomandări utile. De ce echilibrul zilnic contează mai mult decât crezi Echilibrul zilnic [&#8230;] Articolul Cum îți îmbunătățești echilibrul zilnic cu un smartwatch? apare prima dată în Sfatul Doctorului .",
-      "published": "2026-04-27T07:00:00+00:00",
-      "published_human": "2026-04-27T07:00",
       "source": "https://sfatul-doctorului.ro/"
     }
   ],
