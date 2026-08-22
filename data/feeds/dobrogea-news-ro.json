@@ -4,13 +4,13 @@
     "name": "Dobrogea News",
     "url": "https://dobrogea-news.ro/",
     "category": "News & Society",
-    "rss": "https://dobrogea-news.ro/feed/"
+    "rss": "https://dobrogea-news.ro/feed/rss/"
   },
   "mastodon": {
     "url": "https://social.5th.ro/@dobrogea",
     "rss": "https://social.5th.ro/@dobrogea.rss"
   },
-  "updated_at": "2026-08-21T23:42:58.510185+00:00",
+  "updated_at": "2026-08-22T01:54:17.264126+00:00",
   "status": "ok",
   "items": [
     {
