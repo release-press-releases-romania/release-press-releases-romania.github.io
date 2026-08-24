@@ -4,13 +4,13 @@
     "name": "Bizwoman",
     "url": "https://bizwoman.ro/",
     "category": "Miscellaneous",
-    "rss": "https://bizwoman.ro/feed/"
+    "rss": "https://bizwoman.ro/?feed=rss2"
   },
   "mastodon": {
     "url": "https://social.5th.ro/@BIZWoman",
     "rss": "https://social.5th.ro/@BIZWoman.rss"
   },
-  "updated_at": "2026-08-24T07:32:32.766564+00:00",
+  "updated_at": "2026-08-24T09:08:51.116451+00:00",
   "status": "ok",
   "items": [
     {
