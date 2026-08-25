@@ -7,9 +7,17 @@
     "rss": "https://networkinghub.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-08-25T09:03:39.386426+00:00",
+  "updated_at": "2026-08-25T09:55:52.036098+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Cum compari două oferte de servicii locale fără să alegi doar după preț",
+      "link": "https://networkinghub.ro/cum-compari-oferte-servicii-locale-fara-sa-alegi-doar-dupa-pret/",
+      "summary": "Un ghid practic pentru clienții care caută meseriași sau firme locale și vor să compare ofertele după criterii clare, nu doar după suma finală. Articolul Cum compari două oferte de servicii locale fără să alegi doar după preț apare prima dată în Networking Hub .",
+      "published": "2026-08-25T09:25:12+00:00",
+      "published_human": "2026-08-25T09:25",
+      "source": "https://networkinghub.ro/"
+    },
     {
       "title": "Lansarea proiectului „O nouă șansă independenței”",
       "link": "https://networkinghub.ro/lansarea-proiectului-o-noua-sansa-independentei/",
@@ -96,14 +104,6 @@
       "summary": "Când te decizi să investești în piața imobiliară, tentația de a alege cel mai mic... Articolul Cauți un apartament pentru investiție în București? Ce criterii contează mai mult decât prețul? apare prima dată în Networking Hub .",
       "published": "2026-04-11T21:11:00+00:00",
       "published_human": "2026-04-11T21:11",
-      "source": "https://networkinghub.ro/"
-    },
-    {
-      "title": "Cum arată viitorul caselor smart",
-      "link": "https://networkinghub.ro/cum-arata-viitorul-caselor-smart/",
-      "summary": "Conceptul de casă smart a evoluat rapid în ultimii ani. Dacă la început era vorba... Articolul Cum arată viitorul caselor smart apare prima dată în Networking Hub .",
-      "published": "2026-03-27T08:13:00+00:00",
-      "published_human": "2026-03-27T08:13",
       "source": "https://networkinghub.ro/"
     }
   ],
