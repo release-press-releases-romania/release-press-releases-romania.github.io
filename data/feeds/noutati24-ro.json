@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@noutati24",
     "rss": "https://social.5th.ro/@noutati24.rss"
   },
-  "updated_at": "2026-08-26T23:46:44.432252+00:00",
+  "updated_at": "2026-08-27T10:00:54.097421+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "România a primit 2,5 miliarde de euro prin Programul SAFE",
+      "link": "https://noutati24.ro/romania-a-primit-25-miliarde-de-euro-prin-programul-safe/",
+      "summary": "Prima tranșă în valoare de 2,5 miliarde de euro din Programul SAFE a intrat astăzi în conturile României. Suma reprezintă &#8230; Articolul România a primit 2,5 miliarde de euro prin Programul SAFE apare prima dată în Noutati 24 .",
+      "published": "2026-08-26T20:49:00+00:00",
+      "published_human": "2026-08-26T20:49",
+      "source": "https://noutati24.ro/"
+    },
     {
       "title": "Guvernul, reprezentat la deschiderea ediției din acest an a Universității de Vară de la Râmnicu Sărat",
       "link": "https://noutati24.ro/guvernul-reprezentat-la-deschiderea-editiei-din-acest-an-a-universitatii-de-vara-de-la-ramnicu-sarat/",
@@ -100,17 +108,17 @@
       "published": "2026-08-17T10:48:00+00:00",
       "published_human": "2026-08-17T10:48",
       "source": "https://noutati24.ro/"
-    },
-    {
-      "title": "Alocuțiunea premierului Ilie Bolojan susținută la festivitățile prilejuite de Ziua Marinei Române",
-      "link": "https://noutati24.ro/alocutiunea-premierului-ilie-bolojan-sustinuta-la-festivitatile-prilejuite-de-ziua-marinei-romane/",
-      "summary": "Galerie foto [embedded content] [embedded content] Alocuțiunea premierului Ilie Bolojan susținută&#160;la festivitățile prilejuite de Ziua Marinei Române [Check against delivery] &#8230; Articolul Alocuțiunea premierului Ilie Bolojan susținută la festivitățile prilejuite de Ziua Marinei Române apare prima dată în Noutati 24 .",
-      "published": "2026-08-15T10:46:00+00:00",
-      "published_human": "2026-08-15T10:46",
-      "source": "https://noutati24.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@noutati24/117165678667047477",
+      "summary": "🆕Prima tranșă în valoare de 2,5 miliarde de euro din Programul SAFE a intrat astăzi în conturile României. Suma reprezintă 15% din alocarea totală de 16,68 miliarde de Euro pentru apărare și infrastructură strategică de care beneficiază țara noastră prin instrumentul de apărare „Acțiunea pentru securitatea Europei” (SAFE). Prefinanțarea va fi utilizată pentru a începe… 🌐 https:// noutati24.ro/romania-a-primit- 25-miliarde-de-euro-prin-programul-safe/",
+      "published": "2026-08-27T04:52:56+00:00",
+      "published_human": "2026-08-27T04:52",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@noutati24/117160015292343966",
@@ -197,14 +205,6 @@
       "summary": "🆕Astăzi, 19 august a.c., Secretarul de Stat în Ministerul Justiției, doamna Teodora Stoian, alături de experți din cadrul instituției, a primit vizita unei delegații formate din reprezentanți ai Biroului Programului privind Criminalitatea Informatică al Consiliului Europei 🌐 https:// noutati24.ro/intalnirea-secret arului-de-stat-in-ministerul-justitiei-doamna-teodora-stoian-cu-reprezentantii-c-proc-si-profesionisti-ai-sistemelor-judiciare-din-republica-filipine-in-cadrul-unei-vizite-de-studi/",
       "published": "2026-08-20T04:22:48+00:00",
       "published_human": "2026-08-20T04:22",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@noutati24/117114554791347272",
-      "summary": "🆕Galerie foto COMUNICAT DE PRESĂ Premierul Ilie Bolojan, la inaugurarea a două pasaje rutiere la ieșirea din Oradea, investiții realizate cu fonduri din PNRR Prim-ministrul Ilie Bolojan s-a aflat astăzi, împreună cu reprezentanții autorităților locale, la deschiderea pentru circulație a pasajelor subteran și suprateran de pe Calea 🌐 https:// noutati24.ro/conferinta-de-pre sa-sustinuta-de-premierul-ilie-bolojan-dupa-vizita-la-pasajele-subteran-si-suprateran-de-pe-calea-aradului-dn-79-din-oradea/",
-      "published": "2026-08-18T04:11:27+00:00",
-      "published_human": "2026-08-18T04:11",
       "source": "Mastodon"
     }
   ]

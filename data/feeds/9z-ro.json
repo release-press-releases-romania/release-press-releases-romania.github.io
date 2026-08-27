@@ -10,7 +10,7 @@
     "url": "https://social.5th.ro/@9z",
     "rss": "https://social.5th.ro/@9z.rss"
   },
-  "updated_at": "2026-08-26T23:46:44.432252+00:00",
+  "updated_at": "2026-08-27T10:00:54.097421+00:00",
   "status": "ok",
   "items": [
     {
@@ -97,6 +97,14 @@
   "social": [
     {
       "title": "Update",
+      "link": "https://social.5th.ro/@9z/117165857882794472",
+      "summary": "Peste jumătate dintre organizațiile afectate de ransomware au raportat că atacul s-a produs într-un weekend sau într-o zi de sărbătoare, în timp ce 78% dintre companii reduc cu cel puțin jumătate personalul centrelor de operațiuni de securitate în astfel de perioade, arată raportul https:// comunicatpresa.9z.ro/52-dintre -atacurile-ransomware-au-loc-in-weekenduri-sau-de-sarbatori-cyber_folks-companiile-trebuie-sa-isi-protejeze-infrastructura-online-si-atunci-cand-echipele-sunt-in-concediu/",
+      "published": "2026-08-27T05:38:30+00:00",
+      "published_human": "2026-08-27T05:38",
+      "source": "Mastodon"
+    },
+    {
+      "title": "Update",
       "link": "https://social.5th.ro/@9z/117158144736303190",
       "summary": "Ramona Ioana Bruynseels, în rolul său de Coordonator Național pentru Politici Publice al Partidului Alianța pentru Unirea Românilor (AUR), a avut un impact semnificativ în formularea și promovarea unor politici care vizează dezvoltarea sustenabilă și integrarea socio-economică a tuturor regiunilor României. Acest articol explorează profund https:// 9z.ro/ramona-ioana-bruynseels- rolul-de-coordonator-national-pentru-politici-publice-in-cadrul-partidului-alianta-pentru-unirea-romanilor-aur/",
       "published": "2026-08-25T20:56:57+00:00",
@@ -181,14 +189,6 @@
       "summary": "Atunci cand construiesti sau modernizezi o piscina, este tentant sa acorzi toata atentia formei bazinului, finisajelor si zonei de relaxare. Acestea sunt importante, dar experienta reala de dupa instalare este definita mai ales de echipamentele care lucreaza in fundal. O piscina care se incalzeste usor, ramane curata, pierde mai putina apa si necesita putin timp… https:// comunicatpresa.9z.ro/investiti i-inteligente-pentru-o-piscina-eficienta-si-usor-de-folosit/",
       "published": "2026-08-24T17:58:34+00:00",
       "published_human": "2026-08-24T17:58",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@9z/117126881707292502",
-      "summary": "Ilfovul este traversat zilnic de mii de oameni care pleacă din București spre aeroport, către localitățile rezidențiale din nord sau spre drumurile care duc în alte județe. Puțini privesc zona ca pe o destinație turistică în sine, deși vechiul Codru al Vlăsiei a lăsat în jurul capitalei mai multe păduri, lacuri și așezări istorice care… https:// 9z.ro/ghidul-turistic-al-ilfov ului-atractii-ascunse-in-padurile-din-jurul-capitalei/",
-      "published": "2026-08-20T08:26:21+00:00",
-      "published_human": "2026-08-20T08:26",
       "source": "Mastodon"
     }
   ]
