@@ -7,9 +7,17 @@
     "rss": "https://networkinghub.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-08-31T14:08:25.535246+00:00",
+  "updated_at": "2026-08-31T20:12:27.306382+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "ecomTEAM 2026: Evenimentul care reunește între 16-18 septembrie comunitatea de eCommerce la Brașov",
+      "link": "https://networkinghub.ro/ecomteam-2026-evenimentul-care-reuneste-intre-16-18-septembrie-comunitatea-de-ecommerce-la-brasov/",
+      "summary": "Industria de eCommerce trece printr-o perioadă &#238;n care schimbarea nu mai vine dintr-o singură direcție.... Articolul ecomTEAM 2026: Evenimentul care reunește între 16-18 septembrie comunitatea de eCommerce la Brașov apare prima dată în Networking Hub .",
+      "published": "2026-08-31T12:07:34+00:00",
+      "published_human": "2026-08-31T12:07",
+      "source": "https://networkinghub.ro/"
+    },
     {
       "title": "Mind your Business 2026: impactul BURNOUT-ului asupra economiei",
       "link": "https://networkinghub.ro/mind-your-business-2026-impactul-burnout-ului-asupra-economiei/",
@@ -96,14 +104,6 @@
       "summary": "Căștile wireless pot funcționa pe mai multe dispozitive simultan prin tehnologii precum multipoint sau comutare... Articolul Cum funcționează căștile wireless pe mai multe dispozitive simultan? apare prima dată în Networking Hub .",
       "published": "2026-04-25T05:39:00+00:00",
       "published_human": "2026-04-25T05:39",
-      "source": "https://networkinghub.ro/"
-    },
-    {
-      "title": "Productivitatea la Birou și Cafeaua: Ce Arată Studiile și Ce Poți Face Concret",
-      "link": "https://networkinghub.ro/productivitatea-la-birou-si-cafeaua-ce-arata-studiile-si-ce-poti-face-concret/",
-      "summary": "Testează un espressor cafea în custodie la birou! Echipament profesional gratuit, cafea proaspăt prăjită și mentenanță inclusă. Fără costuri ascunse. Articolul Productivitatea la Birou și Cafeaua: Ce Arată Studiile și Ce Poți Face Concret apare prima dată în Networking Hub .",
-      "published": "2026-04-22T15:27:45+00:00",
-      "published_human": "2026-04-22T15:27",
       "source": "https://networkinghub.ro/"
     }
   ],

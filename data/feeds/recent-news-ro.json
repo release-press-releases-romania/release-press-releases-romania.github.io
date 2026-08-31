@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@recent_news",
     "rss": "https://social.5th.ro/@recent_news.rss"
   },
-  "updated_at": "2026-08-31T14:08:25.535246+00:00",
+  "updated_at": "2026-08-31T20:12:27.306382+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Camping și locații izolate: cum se rezolvă problema apei și a canalizării",
+      "link": "https://recent-news.ro/camping-si-locatii-izolate-cum-se-rezolva-problema-apei-si-a-canalizarii/",
+      "summary": "Tot mai mulți români aleg, în ultimii ani, vacanțe petrecute departe de aglomerările urbane, în locații care oferă liniște și&#8230; Articolul Camping și locații izolate: cum se rezolvă problema apei și a canalizării apare prima dată în Recent News .",
+      "published": "2026-08-31T14:12:50+00:00",
+      "published_human": "2026-08-31T14:12",
+      "source": "https://recent-news.ro/"
+    },
     {
       "title": "Echipamente si scule profesionale pentru un service auto modern",
       "link": "https://recent-news.ro/echipamente-si-scule-profesionale-pentru-un-service-auto-modern/",
@@ -84,17 +92,17 @@
       "published": "2026-06-02T11:20:20+00:00",
       "published_human": "2026-06-02T11:20",
       "source": "https://recent-news.ro/"
-    },
-    {
-      "title": "Ce înseamnă cafea de specialitate și cum alegi una bună",
-      "link": "https://recent-news.ro/ce-inseamna-cafea-de-specialitate-si-cum-alegi-una-buna/",
-      "summary": "Dacă ai început să fii atent/ă la ce cafea bei, sigur ai auzit deja termenul „cafea de specialitate”. Dar ce înseamnă,&#8230; Articolul Ce înseamnă cafea de specialitate și cum alegi una bună apare prima dată în Recent News .",
-      "published": "2026-05-22T15:40:57+00:00",
-      "published_human": "2026-05-22T15:40",
-      "source": "https://recent-news.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@recent_news/117190529670659672",
+      "summary": "Tot mai mulți români aleg, în ultimii ani, vacanțe petrecute departe de aglomerările urbane, în locații care oferă liniște și contact direct cu natura: zone de camping, poteci montane amenajate, malurile unor lacuri sau terenuri agricole transformate temporar în spații de cazare. Farmecul acestor locuri vine tocmai din izolarea lor, dar aceeași izolare ridică o… https:// recent-news.ro/camping-si-loca tii-izolate-cum-se-rezolva-problema-apei-si-a-canalizarii/",
+      "published": "2026-08-31T14:12:52+00:00",
+      "published_human": "2026-08-31T14:12",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@recent_news/117190510182962067",
@@ -181,14 +189,6 @@
       "summary": "Într-o perioadă în care experiența contează la fel de mult ca gustul, deserturile au devenit parte din povestea fiecărui eveniment. De la nunți elegante și botezuri intime, până la aniversări și evenimente corporate premium, detaliile fac diferența. Iar când vine vorba despre torturi artizanale și candy bar-uri spectaculoase, Rapsodia Cake reușește să transforme fiecare moment… https:// recent-news.ro/rapsodia-cake-d eserturi-premium-pentru-nunti-botezuri-evenimente-corporate-si-aniversari/",
       "published": "2026-05-13T06:43:24+00:00",
       "published_human": "2026-05-13T06:43",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@recent_news/116419726408311330",
-      "summary": "Sezonul de nunți 2026 se anunță mai creativ, mai personal și mai atent la detalii ca niciodată. Cuplurile nu mai caută doar un tort de nuntă frumos, ci o experiență completă – iar aici intervin elemente esențiale precum tortul de nuntă personalizat și candy bar-ul pentru eveniment. Brandul Mai Mult Decât Un Dulce vine în… https:// recent-news.ro/torturi-de-nunt a-si-candy-bar-in-2026/",
-      "published": "2026-04-17T11:07:27+00:00",
-      "published_human": "2026-04-17T11:07",
       "source": "Mastodon"
     }
   ]
