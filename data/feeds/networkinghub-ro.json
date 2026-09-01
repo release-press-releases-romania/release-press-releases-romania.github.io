@@ -7,9 +7,17 @@
     "rss": "https://networkinghub.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-09-01T10:16:34.500245+00:00",
+  "updated_at": "2026-09-01T14:59:06.472929+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "greșeli frecvente ale șoferilor începători și cum le poți evita în trafic",
+      "link": "https://networkinghub.ro/greseli-frecvente-ale-soferilor-incepatori-si-cum-le-poti-evita-in-trafic/",
+      "summary": "Primele luni după obținerea permisului aduc situații pe care examenul nu le acoperă suficient: trafic... Articolul greșeli frecvente ale șoferilor începători și cum le poți evita în trafic apare prima dată în Networking Hub .",
+      "published": "2026-09-01T10:45:25+00:00",
+      "published_human": "2026-09-01T10:45",
+      "source": "https://networkinghub.ro/"
+    },
     {
       "title": "ecomTEAM 2026: Evenimentul care reunește între 16-18 septembrie comunitatea de eCommerce la Brașov",
       "link": "https://networkinghub.ro/ecomteam-2026-evenimentul-care-reuneste-intre-16-18-septembrie-comunitatea-de-ecommerce-la-brasov/",
@@ -96,14 +104,6 @@
       "summary": "Alegerea unui apartament în București: zone strategice pentru confort și investiții sigure Achiziția unui apartament... Articolul Alegerea unui apartament în București: zone strategice pentru confort și investiții sigure apare prima dată în Networking Hub .",
       "published": "2026-05-08T18:11:00+00:00",
       "published_human": "2026-05-08T18:11",
-      "source": "https://networkinghub.ro/"
-    },
-    {
-      "title": "Cum funcționează căștile wireless pe mai multe dispozitive simultan?",
-      "link": "https://networkinghub.ro/cum-functioneaza-castile-wireless-pe-mai-multe-dispozitive-simultan/",
-      "summary": "Căștile wireless pot funcționa pe mai multe dispozitive simultan prin tehnologii precum multipoint sau comutare... Articolul Cum funcționează căștile wireless pe mai multe dispozitive simultan? apare prima dată în Networking Hub .",
-      "published": "2026-04-25T05:39:00+00:00",
-      "published_human": "2026-04-25T05:39",
       "source": "https://networkinghub.ro/"
     }
   ],
