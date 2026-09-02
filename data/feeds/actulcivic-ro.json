@@ -7,9 +7,17 @@
     "rss": "https://actulcivic.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-09-02T00:20:22.528603+00:00",
+  "updated_at": "2026-09-02T04:48:58.628981+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "CIV, VIN și talon: ce verifici în acte înainte să cumperi o mașină second-hand",
+      "link": "https://actulcivic.ro/civ-vin-talon-ce-verifici-acte-cumperi-masina-second-hand/",
+      "summary": "O mașină poate arăta bine și totuși să ridice întrebări în acte. Află diferența dintre VIN, seria CIV și datele din talon și ce trebuie comparat înainte de cumpărare. Mai mult Articolul CIV, VIN și talon: ce verifici în acte înainte să cumperi o mașină second-hand apare prima dată în Actul Civic .",
+      "published": "2026-09-02T00:34:44+00:00",
+      "published_human": "2026-09-02T00:34",
+      "source": "https://actulcivic.ro/"
+    },
     {
       "title": "De data aceasta, copiii sunt invitați în fața ecranelor.",
       "link": "https://actulcivic.ro/de-data-aceasta-copiii-sunt-invitati-in-fata-ecranelor/",
@@ -80,14 +88,6 @@
       "summary": "Ghidul Esențial pentru Administrarea și Moderarea Instanțelor Mastodon în Spațiul Românesc Înțelegeți complexitatea gestionării unei comunități online descentralizate? Pe măsură ce platforma Mastodon câștigă popularitate, responsabilitatea administratorilor de instanțe devine crucială. Dacă sunteți un admin sau un membru al echipei de moderare pe o instanță, în special în spațiul mastodon... Mai mult Articolul Mastodon România: ghid pentru moderatori și administratori de instanțe apare prima dată în Actul Civic .",
       "published": "2025-12-17T16:58:54+00:00",
       "published_human": "2025-12-17T16:58",
-      "source": "https://actulcivic.ro/"
-    },
-    {
-      "title": "Am rotile de motocultor de mult timp, dar inca functioneaza. Un scenariu interesant",
-      "link": "https://actulcivic.ro/am-rotile-de-motocultor-de-mult-timp-dar-inca-functioneaza-un-scenariu-interesant/",
-      "summary": "&#160; In acest articol, vom vorbi despre un scenariu interesant: acela in care rotile de motocultor pe care le detii inca functioneaza, dar achizitia lor a fost facuta in urma cu multi ani. &#160; Un astfel de scenariu este mai des intalnit decat ai crede, mai ales in randul utilizatorilor... Mai mult Articolul Am rotile de motocultor de mult timp, dar inca functioneaza. Un scenariu interesant apare prima dată în Actul Civic .",
-      "published": "2025-12-09T13:25:57+00:00",
-      "published_human": "2025-12-09T13:25",
       "source": "https://actulcivic.ro/"
     }
   ],
