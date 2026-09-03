@@ -5,8 +5,8 @@
     <link>https://release-press-releases-romania.github.io</link>
     <description>Aggregated RSS feed of press releases from over 100 Romanian publishers. Covering PR &amp; Marketing, Health, News &amp; Society, Technology, Business, Construction, Tourism, and more. Curated selection of quality press releases from trusted Romanian sources.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 03 Sep 2026 10:27:13 +0000</lastBuildDate>
-    <pubDate>Thu, 03 Sep 2026 10:27:13 +0000</pubDate>
+    <lastBuildDate>Thu, 03 Sep 2026 15:32:39 +0000</lastBuildDate>
+    <pubDate>Thu, 03 Sep 2026 15:32:39 +0000</pubDate>
     <generator>Release Press Releases in Romania RSS Aggregator v2.0</generator>
     <webMaster>noreply@release-press-releases-romania.github.io (Release Press Releases)</webMaster>
     <managingEditor>noreply@release-press-releases-romania.github.io (Release Press Releases)</managingEditor>
@@ -28,6 +28,20 @@
     <sy:updateFrequency>1</sy:updateFrequency>
     <copyright>Copyright 2026 Release Press Releases in Romania. Content belongs to respective publishers.</copyright>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Insecticid profesional vs obișnuit: costul nu se vede în flacon, ci în aplicare</title>
+      <link>https://partizani.ro/insecticid-profesional-vs-obisnuit-costul-nu-se-vede-in-flacon-ci-in-aplicare/</link>
+      <description><![CDATA[From Partizani: Te uiți la două produse împotriva insectelor și observi aceeași promisiune: acțiune rapidă, protecție îndelungată, rezultate vizibile. Unul costă mai mult și este prezentat drept profesional. Celălalt se găsește ușor și pare suficient pentru o problemă obișnuită. Diferența nu este mereu concentrația și nici nu stă doar în substanța activă. Părerile despre insecticide profesionale devin greu de ...]]></description>
+      <pubDate>Thu, 03 Sep 2026 14:43:16 +0000</pubDate>
+      <author>Partizani (https://release-press-releases-romania.github.io/publisher/partizani-ro/)</author>
+      <dc:creator>Partizani</dc:creator>
+      <dc:date>2026-09-03T14:43:16+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">Tourism &amp; Delta</category>
+      <guid isPermaLink="true">https://partizani.ro/insecticid-profesional-vs-obisnuit-costul-nu-se-vede-in-flacon-ci-in-aplicare/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/partizani-ro/">Partizani</source>
+      <content:encoded><![CDATA[From Partizani: Te uiți la două produse împotriva insectelor și observi aceeași promisiune: acțiune rapidă, protecție îndelungată, rezultate vizibile. Unul costă mai mult și este prezentat drept profesional. Celălalt se găsește ușor și pare suficient pentru o problemă obișnuită. Diferența nu este mereu concentrația și nici nu stă doar în substanța activă. Părerile despre insecticide profesionale devin greu de ...]]></content:encoded>
+      <comments>https://partizani.ro/insecticid-profesional-vs-obisnuit-costul-nu-se-vede-in-flacon-ci-in-aplicare/#comments</comments>
+    </item>
     <item>
       <title>Greșeala care face ca un living proaspăt amenajat să pară neterminat</title>
       <link>https://amenajari360.ro/greseala-care-face-ca-un-living-proaspat-amenajat-sa-para-neterminat/</link>
@@ -1021,20 +1035,6 @@
       <source url="https://release-press-releases-romania.github.io/publisher/irezidential-ro/">Irezidential</source>
       <content:encoded><![CDATA[From Irezidential: Vara trece întotdeauna mai repede decât ne-am dori. O vacanță la mare, un weekend petrecut la munte, un apus spectaculos sau o seară alături de familie și prieteni devin, în doar câteva clipe, amintiri. Tocmai de aceea merită să le păstrăm într-un mod cât mai autentic, astfel încât să le putem retrăi peste ani. Fotografiile și videoclipurile spun povestea vacanței Fotografiile și videoclipurile...]]></content:encoded>
       <comments>https://irezidential.ro/2026/08/04/amintirile-verii-merita-pastrate-pentru-totdeauna/#comments</comments>
-    </item>
-    <item>
-      <title>Testarea instalatiilor fotovoltaice: echipamente, metode si verificari obligatorii</title>
-      <link>https://partizani.ro/testarea-instalatiilor-fotovoltaice-echipamente-metode-si-verificari-obligatorii/</link>
-      <description><![CDATA[From Partizani: O instalatie fotovoltaica nu poate fi validata doar prin confirmarea ca invertorul injecteaza energie. Un sistem poate produce, dar sa aiba polaritate gresita pe un circuit neconectat, rezistenta de izolatie redusa, conectori incalziti, siruri dezechilibrate sau module afectate de umbrire si diode bypass active. Testarea corecta separa trei obiective: siguranta electrica, functionarea component...]]></description>
-      <pubDate>Tue, 04 Aug 2026 20:19:36 +0000</pubDate>
-      <author>Partizani (https://release-press-releases-romania.github.io/publisher/partizani-ro/)</author>
-      <dc:creator>Partizani</dc:creator>
-      <dc:date>2026-08-04T20:19:36+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">Tourism &amp; Delta</category>
-      <guid isPermaLink="true">https://partizani.ro/testarea-instalatiilor-fotovoltaice-echipamente-metode-si-verificari-obligatorii/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/partizani-ro/">Partizani</source>
-      <content:encoded><![CDATA[From Partizani: O instalatie fotovoltaica nu poate fi validata doar prin confirmarea ca invertorul injecteaza energie. Un sistem poate produce, dar sa aiba polaritate gresita pe un circuit neconectat, rezistenta de izolatie redusa, conectori incalziti, siruri dezechilibrate sau module afectate de umbrire si diode bypass active. Testarea corecta separa trei obiective: siguranta electrica, functionarea component...]]></content:encoded>
-      <comments>https://partizani.ro/testarea-instalatiilor-fotovoltaice-echipamente-metode-si-verificari-obligatorii/#comments</comments>
     </item>
     <item>
       <title>Cum imbunatatesc osciloscoapele digitale High Definition precizia masuratorilor</title>
