@@ -7,9 +7,17 @@
     "rss": "https://stiri-live.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-09-07T04:56:11.923825+00:00",
+  "updated_at": "2026-09-07T10:30:04.721039+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Aniversarea nu cere cea mai scumpă sticlă: coniacul bun se alege după felul în care va fi băut",
+      "link": "https://stiri-live.ro/aniversarea-nu-cere-cea-mai-scumpa-sticla-coniacul-bun-se-alege-dupa-felul-in-care-va-fi-baut/",
+      "summary": "Ajungi la aniversare cu o cutie în mână și te întrebi dacă ai ales bine. Sticla poate arăta foarte. Articolul Aniversarea nu cere cea mai scumpă sticlă: coniacul bun se alege după felul în care va fi băut apare prima dată în Stiri Live .",
+      "published": "2026-09-07T08:11:40+00:00",
+      "published_human": "2026-09-07T08:11",
+      "source": "https://stiri-live.ro/"
+    },
     {
       "title": "Economia circulară și rolul toaletelor ecologice în acest concept",
       "link": "https://stiri-live.ro/economia-circulara-si-rolul-toaletelor-ecologice-in-acest-concept/",
@@ -96,14 +104,6 @@
       "summary": "Asociatia CENTRUL DE PERFORMANTA BEFORE &#38; AFTER SCHOOL CONIL anunta cu bucurie si recunostinta apropierea de finalizarea proiectului de. Articolul Tehnologie cu suflet: Asociatia CONIL a facut pasul spre digitalizare prin PNRR pentru a fi mai aproape de copiii cu nevoi speciale apare prima dată în Stiri Live .",
       "published": "2026-02-25T10:31:27+00:00",
       "published_human": "2026-02-25T10:31",
-      "source": "https://stiri-live.ro/"
-    },
-    {
-      "title": "România de facto: realități și perspective 2026",
-      "link": "https://stiri-live.ro/romania-de-facto-realitati-si-perspective-2026/",
-      "summary": "26 februarie 2026 &#124; 9:30 – 14:30 &#124; Arenele BNR Inflație. Deficite. Finanțare. Creștere. Riscuri. Dincolo de discurs, spre realitate. Nu. Articolul România de facto: realități și perspective 2026 apare prima dată în Stiri Live .",
-      "published": "2026-02-23T10:58:31+00:00",
-      "published_human": "2026-02-23T10:58",
       "source": "https://stiri-live.ro/"
     }
   ],
