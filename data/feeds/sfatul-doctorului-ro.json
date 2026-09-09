@@ -7,9 +7,17 @@
     "rss": "https://sfatul-doctorului.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-09-09T04:57:35.331404+00:00",
+  "updated_at": "2026-09-09T09:54:17.520177+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Cum salvezi un dinte afectat de o infecție profundă?",
+      "link": "https://sfatul-doctorului.ro/cum-salvezi-un-dinte-afectat-de-o-infectie-profunda/",
+      "summary": "Durerea care pulsează, sensibilitatea puternică la mușcătură sau o umflătură apărută lângă un dinte îi fac pe mulți pacienți să se gândească direct la extracție. În numeroase cazuri, dintele poate fi însă păstrat, inclusiv atunci când problema a ajuns până la rădăcină și a afectat țesuturile din jur, dar metoda depinde de cât de mult [&#8230;] Articolul Cum salvezi un dinte afectat de o infecție profundă? apare prima dată în Sfatul Doctorului .",
+      "published": "2026-09-09T09:40:34+00:00",
+      "published_human": "2026-09-09T09:40",
+      "source": "https://sfatul-doctorului.ro/"
+    },
     {
       "title": "Ortopedie în București: cele mai frecvente afecțiuni tratate și când să ceri ajutor",
       "link": "https://sfatul-doctorului.ro/ortopedie-in-bucuresti-cele-mai-frecvente-afectiuni-tratate-si-cand-sa-ceri-ajutor/",
@@ -72,14 +80,6 @@
       "summary": "Ficatul mărit se află printre simptomele comune pe care le putem avea de-a lungul vieții. Deși nu îl poți vedea, ficatul tău începe să sufere din momentul în care funcțiile sale au fost afectate de o anumită boală sau de o infecție prezentă deja în organism. O diagnosticare corectă încă de la primele semne și [&#8230;] Articolul Semnale de alarmă: De ce ai ficatul mărit și ce măsuri trebuie să iei? apare prima dată în Sfatul Doctorului .",
       "published": "2026-05-21T15:52:52+00:00",
       "published_human": "2026-05-21T15:52",
-      "source": "https://sfatul-doctorului.ro/"
-    },
-    {
-      "title": "Când comportamentul copilului ridică semne de întrebare: rolul psihiatriei pediatrice",
-      "link": "https://sfatul-doctorului.ro/cand-comportamentul-copilului-ridica-semne-de-intrebare-rolul-psihiatriei-pediatrice/",
-      "summary": "Observi că micuțul tău este mai agresiv decât alți copii de vârsta lui, nu doarme bine, are frici intense care nu dispar, refuză să meargă la școală și are crize emoționale care depășesc orice ai mai văzut la alți copii. Întrebarea firească este dacă e nevoie de un specialist sau mai poți aștepta. Psihiatria pediatrică [&#8230;] Articolul Când comportamentul copilului ridică semne de întrebare: rolul psihiatriei pediatrice apare prima dată în Sfatul Doctorului .",
-      "published": "2026-04-27T14:21:17+00:00",
-      "published_human": "2026-04-27T14:21",
       "source": "https://sfatul-doctorului.ro/"
     }
   ],

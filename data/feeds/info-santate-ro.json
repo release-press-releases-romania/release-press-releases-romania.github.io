@@ -7,9 +7,17 @@
     "rss": "https://info-santate.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-09-09T04:57:35.331404+00:00",
+  "updated_at": "2026-09-09T09:54:17.520177+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Wegovy®, medicamentul pentru scădere în greutate, testat la copii",
+      "link": "https://info-santate.ro/wegovy-medicamentul-pentru-scadere-in-greutate-testat-la-copii/",
+      "summary": "Aproximativ doi din cinci copii cu obezitate, cu v&#226;rste &#238;ntre 6 și mai puțin de 12 ani, tratați cu semaglutidă&#8230; Articolul Wegovy®, medicamentul pentru scădere în greutate, testat la copii apare prima dată în Info Sanatate .",
+      "published": "2026-09-09T05:11:07+00:00",
+      "published_human": "2026-09-09T05:11",
+      "source": "https://info-santate.ro/"
+    },
     {
       "title": "Alimente, fibre și hidratare: idei practice pentru o rutină digestivă echilibrată",
       "link": "https://info-santate.ro/alimente-fibre-si-hidratare-idei-practice-pentru-o-rutina-digestiva-echilibrata/",
@@ -72,14 +80,6 @@
       "summary": "Bolile cronice nu apar întotdeauna cu simptome puternice. Hipertensiunea poate evolua ani de zile fără durere. Diabetul poate fi descoperit&#8230; Articolul Clinica Prevencia explică: de ce pacienții cu boli cronice nu ar trebui să ajungă la medic doar când apar complicații apare prima dată în Info Sanatate .",
       "published": "2026-06-24T07:52:13+00:00",
       "published_human": "2026-06-24T07:52",
-      "source": "https://info-santate.ro/"
-    },
-    {
-      "title": "Laparoscopic sau robotic? Diferențe importante în chirurgia modernă",
-      "link": "https://info-santate.ro/laparoscopic-sau-robotic-diferente-importante-in-chirurgia-moderna/",
-      "summary": "Dr. Bogdan Serban explică, pentru pacienți din București, ce afecțiuni pot fi evaluate chirurgical. Informații despre chirurgie laparoscopică și când merită o Articolul Laparoscopic sau robotic? Diferențe importante în chirurgia modernă apare prima dată în Info Sanatate .",
-      "published": "2026-06-23T08:05:55+00:00",
-      "published_human": "2026-06-23T08:05",
       "source": "https://info-santate.ro/"
     }
   ],
