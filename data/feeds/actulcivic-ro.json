@@ -7,9 +7,17 @@
     "rss": "https://actulcivic.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-09-11T04:52:23.742646+00:00",
+  "updated_at": "2026-09-11T09:51:44.229175+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Ghidul Spy Shop pentru alegerea și configurarea primului tău sistem de supraveghere IP",
+      "link": "https://actulcivic.ro/ghid-spy-shop-supraveghere-ip/",
+      "summary": "Descoperă pașii esențiali pentru instalarea unui sistem IP: de la alegerea zonelor monitorizate până la configurarea accesului de la distanță. Mai mult Articolul Ghidul Spy Shop pentru alegerea și configurarea primului tău sistem de supraveghere IP apare prima dată în Actul Civic .",
+      "published": "2026-09-11T08:31:18+00:00",
+      "published_human": "2026-09-11T08:31",
+      "source": "https://actulcivic.ro/"
+    },
     {
       "title": "CIV, VIN și talon: ce verifici în acte înainte să cumperi o mașină second-hand",
       "link": "https://actulcivic.ro/civ-vin-talon-ce-verifici-acte-cumperi-masina-second-hand/",
@@ -80,14 +88,6 @@
       "summary": "Târgul Educațional Mommy HAI revine pe 31 ianuarie, la Sala Palatului Mai mult Articolul Târgul Educațional Mommy HAI revine pe 31 ianuarie, la Sala Palatului apare prima dată în Actul Civic .",
       "published": "2026-01-20T15:56:53+00:00",
       "published_human": "2026-01-20T15:56",
-      "source": "https://actulcivic.ro/"
-    },
-    {
-      "title": "Mastodon România: ghid pentru moderatori și administratori de instanțe",
-      "link": "https://actulcivic.ro/mastodon-romania-ghid-pentru-moderatori-si-administratori-de-instante/",
-      "summary": "Ghidul Esențial pentru Administrarea și Moderarea Instanțelor Mastodon în Spațiul Românesc Înțelegeți complexitatea gestionării unei comunități online descentralizate? Pe măsură ce platforma Mastodon câștigă popularitate, responsabilitatea administratorilor de instanțe devine crucială. Dacă sunteți un admin sau un membru al echipei de moderare pe o instanță, în special în spațiul mastodon... Mai mult Articolul Mastodon România: ghid pentru moderatori și administratori de instanțe apare prima dată în Actul Civic .",
-      "published": "2025-12-17T16:58:54+00:00",
-      "published_human": "2025-12-17T16:58",
       "source": "https://actulcivic.ro/"
     }
   ],

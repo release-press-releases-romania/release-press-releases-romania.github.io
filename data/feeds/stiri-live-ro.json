@@ -7,9 +7,17 @@
     "rss": "https://stiri-live.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-09-11T04:52:23.742646+00:00",
+  "updated_at": "2026-09-11T09:51:44.229175+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Ghidul Spy Shop de securitate rezidențială: cum îți protejezi locuința și perimetrul fără alarme false?",
+      "link": "https://stiri-live.ro/ghid-spy-shop-securitate-casa/",
+      "summary": "Descoperă cum filtrezi notificările inutile prin configurarea zonelor de interes și utilizarea funcțiilor de clasificare a mișcării. Articolul Ghidul Spy Shop de securitate rezidențială: cum îți protejezi locuința și perimetrul fără alarme false? apare prima dată în Stiri Live .",
+      "published": "2026-09-11T08:33:39+00:00",
+      "published_human": "2026-09-11T08:33",
+      "source": "https://stiri-live.ro/"
+    },
     {
       "title": "Aniversarea nu cere cea mai scumpă sticlă: coniacul bun se alege după felul în care va fi băut",
       "link": "https://stiri-live.ro/aniversarea-nu-cere-cea-mai-scumpa-sticla-coniacul-bun-se-alege-dupa-felul-in-care-va-fi-baut/",
@@ -96,14 +104,6 @@
       "summary": "Lovia: Trusourile de botez personalizate, între tradiție și noua estetică a amintirilor de familie Un atelier românesc propune un. Articolul De la trusou de serie la trusou cu identitate proprie apare prima dată în Stiri Live .",
       "published": "2026-03-04T09:12:34+00:00",
       "published_human": "2026-03-04T09:12",
-      "source": "https://stiri-live.ro/"
-    },
-    {
-      "title": "Tehnologie cu suflet: Asociatia CONIL a facut pasul spre digitalizare prin PNRR pentru a fi mai aproape de copiii cu nevoi speciale",
-      "link": "https://stiri-live.ro/tehnologie-cu-suflet-asociatia-conil-a-facut-pasul-spre-digitalizare-prin-pnrr-pentru-a-fi-mai-aproape-de-copiii-cu-nevoi-speciale/",
-      "summary": "Asociatia CENTRUL DE PERFORMANTA BEFORE &#38; AFTER SCHOOL CONIL anunta cu bucurie si recunostinta apropierea de finalizarea proiectului de. Articolul Tehnologie cu suflet: Asociatia CONIL a facut pasul spre digitalizare prin PNRR pentru a fi mai aproape de copiii cu nevoi speciale apare prima dată în Stiri Live .",
-      "published": "2026-02-25T10:31:27+00:00",
-      "published_human": "2026-02-25T10:31",
       "source": "https://stiri-live.ro/"
     }
   ],
