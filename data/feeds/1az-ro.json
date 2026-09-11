@@ -7,7 +7,7 @@
     "rss": "https://1az.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-09-11T00:15:14.138942+00:00",
+  "updated_at": "2026-09-11T04:52:23.742646+00:00",
   "status": "ok",
   "items": [
     {
@@ -32,6 +32,14 @@
       "summary": "Aceasta stire Publicație 10.09.2026 apare prima oara pe Primarii de la A la Z . Source Aceasta stire Publicație 10.09.2026 apare prima oara pe Primarii de la A la Z .",
       "published": "2026-09-10T13:14:34+00:00",
       "published_human": "2026-09-10T13:14",
+      "source": "https://1az.ro/"
+    },
+    {
+      "title": "Anunț – Lucrări pentru prevenire și corectare avarii",
+      "link": "https://1az.ro/anunt-lucrari-pentru-prevenire-si-corectare-avarii/",
+      "summary": "Aceasta stire Anunț – Lucrări pentru prevenire și corectare avarii apare prima oara pe Primarii de la A la Z . Ultima modificare: 10.09.26 &#8211; 15:39 de către Milea Cristian Vizualizări: 27 The post Anunț &#8211; Lucrări pentru prevenire și corectare avarii appeared first on Primăria Oraşului Rovinari. Source Aceasta stire Anunț – Lucrări pentru prevenire și corectare avarii apare prima oara pe Primarii de la A la Z .",
+      "published": "2026-09-10T12:39:15+00:00",
+      "published_human": "2026-09-10T12:39",
       "source": "https://1az.ro/"
     },
     {
@@ -95,14 +103,6 @@
       "link": "https://1az.ro/contract-nr-34412-din-24-08-2026/",
       "summary": "Aceasta stire Contract nr. 34412 din 24.08.2026 apare prima oara pe Primarii de la A la Z . Source Aceasta stire Contract nr. 34412 din 24.08.2026 apare prima oara pe Primarii de la A la Z .",
       "published": "2026-09-10T09:24:44+00:00",
-      "published_human": "2026-09-10T09:24",
-      "source": "https://1az.ro/"
-    },
-    {
-      "title": "Contract nr. 33994 din 19.08.2026",
-      "link": "https://1az.ro/contract-nr-33994-din-19-08-2026/",
-      "summary": "Aceasta stire Contract nr. 33994 din 19.08.2026 apare prima oara pe Primarii de la A la Z . Source Aceasta stire Contract nr. 33994 din 19.08.2026 apare prima oara pe Primarii de la A la Z .",
-      "published": "2026-09-10T09:24:03+00:00",
       "published_human": "2026-09-10T09:24",
       "source": "https://1az.ro/"
     }
