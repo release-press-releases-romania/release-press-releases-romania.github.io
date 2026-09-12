@@ -7,9 +7,17 @@
     "rss": "https://idezvoltator.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-09-12T04:51:05.134022+00:00",
+  "updated_at": "2026-09-12T09:27:14.192144+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Un eveniment construit pe patru arii de lucru",
+      "link": "https://idezvoltator.ro/2026/09/12/un-eveniment-construit-pe-patru-arii-de-lucru/",
+      "summary": "COMUNICAT DE PRESĂ Matricea Succesului Timișoara: agenții imobiliari învață pe 29 septembrie cum să devină alegerea naturală în piața locală Evenimentul gratuit organizat de Acceleratorul.com aduce la Centrul Regional de Afaceri Timișoara o dimineață dedicată profesioniștilor din imobiliare Agenții imobiliari... Articolul Un eveniment construit pe patru arii de lucru apare prima dată în Dezvoltator Imobiliar .",
+      "published": "2026-09-12T05:51:45+00:00",
+      "published_human": "2026-09-12T05:51",
+      "source": "https://idezvoltator.ro/"
+    },
     {
       "title": "Ce investigații sunt necesare înainte de o operație?",
       "link": "https://idezvoltator.ro/2026/07/31/ce-investigatii-sunt-necesare-inainte-de-o-operatie/",
@@ -80,14 +88,6 @@
       "summary": "Când auzi urmărire GPS auto, probabil te gândești doar la un punct pe hartă care arată unde se află mașina. Dar, în realitate, un sistem modern face mult mai mult de atât. Poziția este doar începutul. În spate se strâng... Articolul Urmărire GPS auto: Ce date utile poate colecta un sistem modern? apare prima dată în Dezvoltator Imobiliar .",
       "published": "2026-01-27T05:13:16+00:00",
       "published_human": "2026-01-27T05:13",
-      "source": "https://idezvoltator.ro/"
-    },
-    {
-      "title": "Mastodon pentru branduri: cum comunici fără să pari „reclamă”",
-      "link": "https://idezvoltator.ro/2025/12/17/mastodon-pentru-branduri-cum-comunici-fara-sa-pari-reclama/",
-      "summary": "V-ați săturat de algoritmii care ascund mesajele brand-ului dumneavoastră? Multe companii se luptă astăzi să obțină vizibilitate organică. Căutați o platformă unde comunicarea să fie directă și sinceră? Odată cu exodul utilizatorilor de pe rețelele sociale tradiționale, o nouă oportunitate... Articolul Mastodon pentru branduri: cum comunici fără să pari „reclamă” apare prima dată în Dezvoltator Imobiliar .",
-      "published": "2025-12-17T16:58:54+00:00",
-      "published_human": "2025-12-17T16:58",
       "source": "https://idezvoltator.ro/"
     }
   ],
