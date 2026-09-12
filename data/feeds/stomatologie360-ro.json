@@ -4,10 +4,10 @@
     "name": "Stomatologie360",
     "url": "https://stomatologie360.ro/",
     "category": "Health",
-    "rss": "https://stomatologie360.ro/feed/"
+    "rss": "https://stomatologie360.ro/feed/atom/"
   },
   "mastodon": null,
-  "updated_at": "2026-09-12T13:38:54.702385+00:00",
+  "updated_at": "2026-09-12T17:17:01.627290+00:00",
   "status": "ok",
   "items": [
     {
@@ -27,7 +27,7 @@
       "source": "https://stomatologie360.ro/"
     },
     {
-      "title": "Chipsurile din Sorici – Snacksul prietenos cu dintii tai",
+      "title": "Chipsurile din Sorici &#8211; Snacksul prietenos cu dintii tai",
       "link": "https://stomatologie360.ro/chipsurile-din-sorici-snacksul-prietenos-cu-dintii-tai/",
       "summary": "Ca medic stomatolog, petrec o bună parte din zi repar&#226;nd urmările a ceva ce pare... Articolul Chipsurile din Sorici &#8211; Snacksul prietenos cu dintii tai apare prima dată în Stomatologie 360 .",
       "published": "2026-07-03T17:02:16+00:00",
