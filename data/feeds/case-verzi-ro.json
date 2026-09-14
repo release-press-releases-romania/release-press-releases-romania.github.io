@@ -7,9 +7,17 @@
     "rss": "https://case-verzi.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-09-14T19:29:12.644704+00:00",
+  "updated_at": "2026-09-14T23:13:09.654252+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Casă eficientă energetic: ce verifici înainte de cumpărare",
+      "link": "https://case-verzi.ro/casa-eficienta-energetic-verificari-cumparare/",
+      "summary": "O locuință prezentată drept eficientă energetic trebuie verificată dincolo de formulările din anunț. Izolația, tâmplăria, sistemul de încălzire, consumurile, certificatul energetic și lucrările efectuate pot schimba mult costul real al proprietății. Articolul Casă eficientă energetic: ce verifici înainte de cumpărare apare prima dată în Case Verzi .",
+      "published": "2026-09-14T22:35:04+00:00",
+      "published_human": "2026-09-14T22:35",
+      "source": "https://case-verzi.ro/"
+    },
     {
       "title": "Beneficiile chirurgiei robotice în tratamentul cancerului digestiv",
       "link": "https://case-verzi.ro/beneficiile-chirurgiei-robotice-in-tratamentul-cancerului-digestiv/",
@@ -80,14 +88,6 @@
       "summary": "Certificatul de performanță energetică a evoluat de la un simplu document administrativ la un instrument esențial în evaluarea și tranzacționarea imobilelor din România. În contextul reglementărilor europene din ce în&#8230; Articolul Certificatul energetic și standardele NZEB pentru clădiri noi apare prima dată în Case Verzi .",
       "published": "2026-01-12T12:26:23+00:00",
       "published_human": "2026-01-12T12:26",
-      "source": "https://case-verzi.ro/"
-    },
-    {
-      "title": "Mastodon WordPress plugin: cum eviți postările duplicate",
-      "link": "https://case-verzi.ro/mastodon-wordpress-plugin-cum-eviti-postarile-duplicate/",
-      "summary": "Vrei să îți extinzi audiența din WordPress direct pe Fediverse, fără efort? Automatizarea postărilor către Mastodon este o strategie excelentă, oferind o prezență constantă fără a necesita intervenție manuală continuă.&#8230; Articolul Mastodon WordPress plugin: cum eviți postările duplicate apare prima dată în Case Verzi .",
-      "published": "2025-12-17T16:58:54+00:00",
-      "published_human": "2025-12-17T16:58",
       "source": "https://case-verzi.ro/"
     }
   ],
