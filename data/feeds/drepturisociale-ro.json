@@ -7,9 +7,17 @@
     "rss": "https://drepturisociale.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-09-15T13:41:03.171834+00:00",
+  "updated_at": "2026-09-15T18:17:33.501184+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "FONDUL SOCIAL EUROPEAN+ (FSE+)Programul Incluziune și Demnitate Socială (PIDS) 2021-2027",
+      "link": "https://drepturisociale.ro/fondul-social-european-fseprogramul-incluziune-si-demnitate-sociala-pids-2021-2027/",
+      "summary": "Prioritate: P7. Sprijin pentru persoanele cu dizabilități Obiectiv specific: ESO4.11 &#8211; Lărgirea accesului egal și&#8230; Articolul FONDUL SOCIAL EUROPEAN+ (FSE+)Programul Incluziune și Demnitate Socială (PIDS) 2021-2027 apare prima dată în Drepturi Sociale .",
+      "published": "2026-09-15T15:47:00+00:00",
+      "published_human": "2026-09-15T15:47",
+      "source": "https://drepturisociale.ro/"
+    },
     {
       "title": "Lansarea proiectului „O nouă șansă independenței”",
       "link": "https://drepturisociale.ro/lansarea-proiectului-o-noua-sansa-independentei/",
@@ -80,14 +88,6 @@
       "summary": "Într-o industrie auto înfloritoare, întreținerea eficientă a flotei tale joacă un rol crucial în succesul&#8230; Articolul Importanța alegerii unui distribuitor autorizat de lubrifianți pentru flota auto apare prima dată în Drepturi Sociale .",
       "published": "2026-01-19T09:25:08+00:00",
       "published_human": "2026-01-19T09:25",
-      "source": "https://drepturisociale.ro/"
-    },
-    {
-      "title": "Boost vs Favorite pe Mastodon: când le folosești și de ce contează",
-      "link": "https://drepturisociale.ro/boost-vs-favorite-pe-mastodon-cand-le-folosesti-si-de-ce-conteaza/",
-      "summary": "V-ați mutat de curând pe Mastodon și vă simțiți copleșiți de nuanțele interacțiunilor sociale? Spre&#8230; Articolul Boost vs Favorite pe Mastodon: când le folosești și de ce contează apare prima dată în Drepturi Sociale .",
-      "published": "2025-12-17T16:58:54+00:00",
-      "published_human": "2025-12-17T16:58",
       "source": "https://drepturisociale.ro/"
     }
   ],
