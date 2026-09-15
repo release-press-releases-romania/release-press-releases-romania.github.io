@@ -7,9 +7,17 @@
     "rss": "https://casa-sustenabila.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-09-15T01:34:41.525647+00:00",
+  "updated_at": "2026-09-15T07:52:49.690696+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "CONFERINTA Energia in priza",
+      "link": "https://casa-sustenabila.ro/conferinta-energia-in-priza/",
+      "summary": "PROGRAM ORIENTATIV Ziarul BURSA organizeaza a XIV-a editie a conferintei &#8222;Energia in priza&#8221;, in data de 21 septembrie Articolul CONFERINTA Energia in priza apare prima dată în Casa Sustenabila .",
+      "published": "2026-09-15T04:39:11+00:00",
+      "published_human": "2026-09-15T04:39",
+      "source": "https://casa-sustenabila.ro/"
+    },
     {
       "title": "Cât te costă cu adevărat o casă veche: 12 lucruri de verificat înainte de cumpărare",
       "link": "https://casa-sustenabila.ro/cat-costa-cu-adevarat-casa-veche-verificari-inainte-cumparare/",
@@ -96,14 +104,6 @@
       "summary": "În 2026, alegerea gardului potrivit pentru curte înseamnă mai mult decât delimitarea proprietății. Proprietarii caută soluții moderne, durabile Articolul Ce tip de gard să alegi pentru curte în 2026? Soluții moderne și rezistente apare prima dată în Casa Sustenabila .",
       "published": "2026-03-02T14:25:59+00:00",
       "published_human": "2026-03-02T14:25",
-      "source": "https://casa-sustenabila.ro/"
-    },
-    {
-      "title": "Cum reduce AI uzura țesăturilor în spălare și uscare",
-      "link": "https://casa-sustenabila.ro/cum-reduce-ai-uzura-tesaturilor-in-spalare-si-uscare/",
-      "summary": "Cum reduce AI uzura țesăturilor în spălare și uscare Uzura țesăturilor apare frecvent din cauza setărilor nepotrivite. Tehnologiile Articolul Cum reduce AI uzura țesăturilor în spălare și uscare apare prima dată în Casa Sustenabila .",
-      "published": "2026-02-26T07:31:08+00:00",
-      "published_human": "2026-02-26T07:31",
       "source": "https://casa-sustenabila.ro/"
     }
   ],

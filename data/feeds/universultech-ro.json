@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@UniversulTech",
     "rss": "https://social.5th.ro/@UniversulTech.rss"
   },
-  "updated_at": "2026-09-15T01:34:41.525647+00:00",
+  "updated_at": "2026-09-15T07:52:49.690696+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "CONFERINTA Energia in priza",
+      "link": "https://universultech.ro/conferinta-energia-in-priza/",
+      "summary": "PROGRAM ORIENTATIV Ziarul BURSA organizeaza a XIV-a editie a conferintei &#8222;Energia in priza&#8221;, in data de 21 septembrie 2026, incepand&#8230; Articolul CONFERINTA Energia in priza apare prima dată în Universul Tech .",
+      "published": "2026-09-15T04:41:30+00:00",
+      "published_human": "2026-09-15T04:41",
+      "source": "https://UniversulTech.ro/"
+    },
     {
       "title": "Evoluția jocurilor în browser: Cum tehnologia modernă a transformat divertismentul rapid",
       "link": "https://universultech.ro/evolutia-jocurilor-in-browser-cum-tehnologia-moderna-a-transformat-divertismentul-rapid/",
@@ -100,17 +108,17 @@
       "published": "2026-05-29T07:27:00+00:00",
       "published_human": "2026-05-29T07:27",
       "source": "https://UniversulTech.ro/"
-    },
-    {
-      "title": "Cum alegi căști pentru muncă și apeluri?",
-      "link": "https://universultech.ro/cum-alegi-casti-pentru-munca-si-apeluri/",
-      "summary": "Introducere Alegi căști pentru muncă și apeluri după claritatea vocii, confortul la purtare, stabilitatea conexiunii și felul în care se&#8230; Articolul Cum alegi căști pentru muncă și apeluri? apare prima dată în Universul Tech .",
-      "published": "2026-05-27T04:15:10+00:00",
-      "published_human": "2026-05-27T04:15",
-      "source": "https://UniversulTech.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@UniversulTech/117273937439102269",
+      "summary": "💡PROGRAM ORIENTATIV Ziarul BURSA organizeaza a XIV-a editie a conferintei &quot;Energia in priza&quot;, in data de 21 septembrie 2026, incepand cu ora 10:00, la Sheraton Bucharest Hotel, sala Platinum, din Calea Dorobantilor, 5-7, Bucuresti. Evenimentul se va desfasura cu participare fizica, fiind transmis, in direct, pe www.bursa.ro, pe contul de Facebook al ziarului BURSA, pe… ✅ https:// universultech.ro/conferinta-en ergia-in-priza/",
+      "published": "2026-09-15T07:44:33+00:00",
+      "published_human": "2026-09-15T07:44",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@UniversulTech/117171618911854123",
@@ -197,14 +205,6 @@
       "summary": "💡Cum funcționează Audio Eraser?Audio Eraser funcționează prin analizarea sunetului dintr-un videoclip și prin separarea zgomotelor pe categorii, astfel încât utilizatorul să poată reduce sunetele nedorite. Practic, funcția ajută la evidențierea vocilor, a muzicii sau a sunetelor importante și limitează zgomotul de fundal, precum vântul, aglomerația sau alte distrageri. În 2026, această funcție contează mai ales… ✅ https:// universultech.ro/cum-functione aza-audio-eraser/",
       "published": "2026-05-29T07:27:30+00:00",
       "published_human": "2026-05-29T07:27",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@UniversulTech/116651099055388148",
-      "summary": "💡AI îți transformă experiența vizuală prin faptul că ajută televizorul să adapteze imaginea la conținutul urmărit, la ritmul scenelor și la modul în care folosești ecranul în fiecare zi. În 2026, un TV cu AI nu mai este ales doar pentru rezoluție sau diagonală, ci pentru felul în care face sportul mai clar, filmele mai… ✅ https:// universultech.ro/cum-iti-trans forma-ai-experienta-vizuala/",
-      "published": "2026-05-28T07:48:34+00:00",
-      "published_human": "2026-05-28T07:48",
       "source": "Mastodon"
     }
   ]

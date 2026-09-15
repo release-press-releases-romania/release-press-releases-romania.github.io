@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@ienergie",
     "rss": "https://social.5th.ro/@ienergie.rss"
   },
-  "updated_at": "2026-09-15T01:34:41.525647+00:00",
+  "updated_at": "2026-09-15T07:52:49.690696+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "CONFERINTA Energia in priza",
+      "link": "https://ienergie.ro/conferinta-energia-in-priza/",
+      "summary": "PROGRAM ORIENTATIV Ziarul BURSA organizeaza a XIV-a editie a conferintei &#8222;Energia in priza&#8221;, in data de 21 septembrie 2026, incepand cu ora 10:00, la Sheraton [Mai mult...] Articolul CONFERINTA Energia in priza apare prima dată în iEnergie .",
+      "published": "2026-09-15T04:39:54+00:00",
+      "published_human": "2026-09-15T04:39",
+      "source": "https://iEnergie.ro/"
+    },
     {
       "title": "Dreptul la reparație: un pas important către un consum mai responsabil",
       "link": "https://ienergie.ro/dreptul-la-reparatie-un-pas-important-catre-un-consum-mai-responsabil/",
@@ -100,17 +108,17 @@
       "published": "2026-03-17T19:04:41+00:00",
       "published_human": "2026-03-17T19:04",
       "source": "https://iEnergie.ro/"
-    },
-    {
-      "title": "Zece state europene construiesc un gigant parc eolian comun în Marea Nordului",
-      "link": "https://ienergie.ro/zece-state-europene-construiesc-un-gigant-parc-eolian-comun-in-marea-nordului/",
-      "summary": "Zece națiuni europene au convenit la Hamburg dezvoltarea unei rețele de energie eoliană de 100 GW în Marea Nordului pentru securitatea energetică. Articolul Zece state europene construiesc un gigant parc eolian comun în Marea Nordului apare prima dată în iEnergie .",
-      "published": "2026-01-27T08:15:26+00:00",
-      "published_human": "2026-01-27T08:15",
-      "source": "https://iEnergie.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@ienergie/117273926463062712",
+      "summary": "PROGRAM ORIENTATIV Ziarul BURSA organizeaza a XIV-a editie a conferintei &quot;Energia in priza&quot;, in data de 21 septembrie 2026, incepand cu ora 10:00, la Sheraton Bucharest Hotel, sala Platinum, din Calea Dorobantilor, 5-7, Bucuresti. Evenimentul se va desfasura cu participare fizica, fiind transmis, in direct, pe www.bursa.ro, pe contul de Facebook al ziarului BURSA, pe… https:// ienergie.ro/conferinta-energia -in-priza/",
+      "published": "2026-09-15T07:41:46+00:00",
+      "published_human": "2026-09-15T07:41",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@ienergie/117139189234162191",
@@ -197,14 +205,6 @@
       "summary": "În ultimii ani, tabla perforată a devenit o soluție tot mai folosită în proiecte industriale, comerciale și rezidențiale. Arhitecții, inginerii și proprietarii de clădiri caută materiale care să ofere atât rezistență pe termen lung, cât și un aspect actual, ușor de integrat în concepte moderne.În acest context, comparația între tablă perforată și materialele clasice, cum… https:// ienergie.ro/tabla-perforata-vs -materiale-clasice-ce-alegi-cand-vrei-durabilitate-si-design-modern/",
       "published": "2026-03-17T19:04:44+00:00",
       "published_human": "2026-03-17T19:04",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@ienergie/115966545795308329",
-      "summary": "Zece națiuni europene au convenit la Hamburg dezvoltarea unei rețele de energie eoliană de 100 GW în Marea Nordului pentru securitatea energetică. https:// ienergie.ro/zece-state-europen e-construiesc-un-gigant-parc-eolian-comun-in-marea-nordului/",
-      "published": "2026-01-27T10:17:40+00:00",
-      "published_human": "2026-01-27T10:17",
       "source": "Mastodon"
     }
   ]
