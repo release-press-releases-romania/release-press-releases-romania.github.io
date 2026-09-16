@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@clinic_sanatos",
     "rss": "https://social.5th.ro/@clinic_sanatos.rss"
   },
-  "updated_at": "2026-09-16T11:49:42.580194+00:00",
+  "updated_at": "2026-09-16T17:08:29.348244+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Novo Nordisk intră într-o nouă etapă de dezvoltare, susținută de rebrandingul „Novo” și de actualizarea culturii organizaționale",
+      "link": "https://clinic-sanatos.ro/novo-nordisk-intra-intr-o-noua-etapa-de-dezvoltare-sustinuta-de-rebrandingul-novo-si-de-actualizarea-culturii-organizationale/",
+      "summary": "Bagsv&#230;rd, Danemarca, 14 septembrie 2026 &#8211; Novo Nordisk marchează astăzi &#238;nceputul unei noi etape &#238;n... Articolul Novo Nordisk intră într-o nouă etapă de dezvoltare, susținută de rebrandingul „Novo” și de actualizarea culturii organizaționale apare prima dată în Clinic Sanatos .",
+      "published": "2026-09-16T10:51:58+00:00",
+      "published_human": "2026-09-16T10:51",
+      "source": "https://clinic-sanatos.ro/"
+    },
     {
       "title": "Refluxul gastroesofagian: simptome care nu ar trebui ignorate și când este necesar consultul medical",
       "link": "https://clinic-sanatos.ro/refluxul-gastroesofagian-simptome-care-nu-ar-trebui-ignorate-si-cand-este-necesar-consultul-medical/",
@@ -100,17 +108,17 @@
       "published": "2026-02-10T19:07:17+00:00",
       "published_human": "2026-02-10T19:07",
       "source": "https://clinic-sanatos.ro/"
-    },
-    {
-      "title": "De la mic dejun la gustări",
-      "link": "https://clinic-sanatos.ro/de-la-mic-dejun-la-gustari/",
-      "summary": "Mixit oferă peste 150 de produse vegane pentru un 2026 echilibrat La &#238;nceput de an,... Articolul De la mic dejun la gustări apare prima dată în Clinic Sanatos .",
-      "published": "2026-01-19T11:46:47+00:00",
-      "published_human": "2026-01-19T11:46",
-      "source": "https://clinic-sanatos.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@clinic_sanatos/117281049411702720",
+      "summary": "Bagsværd, Danemarca, 14 septembrie 2026 – Novo Nordisk marchează astăzi începutul unei noi etape în evoluția companiei, odată cu lansarea unui nou brand construit în jurul promisiunii „Lasting Health Starts Now” („Sănătatea pe termen lung începe acum”) și al numelui unic „Novo”, precum și cu actualizarea culturii organizaționale prin .... https:// clinic-sanatos.ro/novo-nordisk -intra-intr-o-noua-etapa-de-dezvoltare-sustinuta-de-rebrandingul-novo-si-de-actualizarea-culturii-organizationale/",
+      "published": "2026-09-16T13:53:14+00:00",
+      "published_human": "2026-09-16T13:53",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@clinic_sanatos/117279608121150126",
@@ -197,14 +205,6 @@
       "summary": "Mixit oferă peste 150 de produse vegane pentru un 2026 echilibrat La început de an, tot mai mulți oameni își propun să mănânce mai echilibrat, să reducă produsele de origine animală și să aleagă ingrediente curate, funcționale și ușor de integrat în rutina zilnică. Pentru cei care vor să introducă produse vegane în alimentația lor,… .... https:// clinic-sanatos.ro/de-la-mic-de jun-la-gustari/",
       "published": "2026-01-19T13:53:19+00:00",
       "published_human": "2026-01-19T13:53",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@clinic_sanatos/115736495093743049",
-      "summary": "Ați petrecut ore întregi creând conținut valoros pe WordPress, dar simțiți că efortul de a-l distribui manual pe rețelele sociale descentralizate, precum Mastodon, vă consumă timp prețios? Suntem cu toții de acord că managementul prezenței pe Fediverse poate fi o provocare logistică. Gândiți-vă la timpul pe care îl pierdeți mutând textele, imaginile și link-urile de… .... https:// clinic-sanatos.ro/mastodon-wor dpress-plugin-optiuni-pentru-programare-si-intervale-de-postare/",
-      "published": "2025-12-17T19:12:45+00:00",
-      "published_human": "2025-12-17T19:12",
       "source": "Mastodon"
     }
   ]

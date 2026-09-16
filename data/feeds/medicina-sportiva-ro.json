@@ -7,9 +7,17 @@
     "rss": "https://medicina-sportiva.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-09-16T11:49:42.580194+00:00",
+  "updated_at": "2026-09-16T17:08:29.348244+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Novo Nordisk intră într-o nouă etapă de dezvoltare, susținută de rebrandingul „Novo” și de actualizarea culturii organizaționale,",
+      "link": "https://medicina-sportiva.ro/novo-nordisk-intra-intr-o-noua-etapa-de-dezvoltare-sustinuta-de-rebrandingul-novo-si-de-actualizarea-culturii-organizationale/",
+      "summary": "Bagsv&#230;rd, Danemarca, 14 septembrie 2026 &#8211; Novo Nordisk marchează astăzi &#238;nceputul unei noi etape &#238;n... Articolul Novo Nordisk intră într-o nouă etapă de dezvoltare, susținută de rebrandingul „Novo” și de actualizarea culturii organizaționale, apare prima dată în Medicina Sportiva .",
+      "published": "2026-09-16T10:38:38+00:00",
+      "published_human": "2026-09-16T10:38",
+      "source": "https://medicina-sportiva.ro/"
+    },
     {
       "title": "Dopajul în sport: ce este, ce riscuri ascunde și ce trebuie să știi?",
       "link": "https://medicina-sportiva.ro/dopajul-in-sport-ce-este-ce-riscuri-ascunde-si-ce-trebuie-sa-stii/",
@@ -72,14 +80,6 @@
       "summary": "Aparatul dentar Invisalign poate fi purtat si in timpul antrenamentelor sportive? Dispozitivul dentar Invisalign este... Articolul Aparatul dentar Invisalign poate fi purtat si in timpul antrenamentelor sportive? apare prima dată în Medicina Sportiva .",
       "published": "2026-01-22T05:47:40+00:00",
       "published_human": "2026-01-22T05:47",
-      "source": "https://medicina-sportiva.ro/"
-    },
-    {
-      "title": "Mastodon pentru comunități: cum construiești un nucleu activ",
-      "link": "https://medicina-sportiva.ro/mastodon-pentru-comunitati-cum-construiesti-un-nucleu-activ/",
-      "summary": "V-ați săturat de algoritmi opaci și de platformele centralizate care dictează ce vedeți? Sunteți în... Articolul Mastodon pentru comunități: cum construiești un nucleu activ apare prima dată în Medicina Sportiva .",
-      "published": "2025-12-17T16:58:54+00:00",
-      "published_human": "2025-12-17T16:58",
       "source": "https://medicina-sportiva.ro/"
     }
   ],
