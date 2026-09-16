@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@clinic_sanatos",
     "rss": "https://social.5th.ro/@clinic_sanatos.rss"
   },
-  "updated_at": "2026-09-16T06:10:38.365469+00:00",
+  "updated_at": "2026-09-16T11:49:42.580194+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Refluxul gastroesofagian: simptome care nu ar trebui ignorate și când este necesar consultul medical",
+      "link": "https://clinic-sanatos.ro/refluxul-gastroesofagian-simptome-care-nu-ar-trebui-ignorate-si-cand-este-necesar-consultul-medical/",
+      "summary": "Arsurile în capul pieptului după o masă consistentă sunt frecvente și, dacă apar ocazional, nu... Articolul Refluxul gastroesofagian: simptome care nu ar trebui ignorate și când este necesar consultul medical apare prima dată în Clinic Sanatos .",
+      "published": "2026-09-16T07:46:36+00:00",
+      "published_human": "2026-09-16T07:46",
+      "source": "https://clinic-sanatos.ro/"
+    },
     {
       "title": "Obstrucția intestinală: cauze, simptome și tratament",
       "link": "https://clinic-sanatos.ro/obstructia-intestinala-cauze-simptome-si-tratament/",
@@ -100,17 +108,17 @@
       "published": "2026-01-19T11:46:47+00:00",
       "published_human": "2026-01-19T11:46",
       "source": "https://clinic-sanatos.ro/"
-    },
-    {
-      "title": "Mastodon WordPress plugin: opțiuni pentru programare și intervale de postare",
-      "link": "https://clinic-sanatos.ro/mastodon-wordpress-plugin-optiuni-pentru-programare-si-intervale-de-postare/",
-      "summary": "Ați petrecut ore întregi creând conținut valoros pe WordPress, dar simțiți că efortul de a-l... Articolul Mastodon WordPress plugin: opțiuni pentru programare și intervale de postare apare prima dată în Clinic Sanatos .",
-      "published": "2025-12-17T16:58:54+00:00",
-      "published_human": "2025-12-17T16:58",
-      "source": "https://clinic-sanatos.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@clinic_sanatos/117279608121150126",
+      "summary": "Arsurile în capul pieptului după o masă consistentă sunt frecvente și, dacă apar ocazional, nu indică neapărat o boală. Atunci când episoadele se repetă, apar regurgitații acide sau simptomele încep să afecteze somnul și alimentația, poate fi vorba despre boala de reflux gastroesofagian.Refluxul apare atunci când o parte din conținutul stomacului urcă în esofag. .... https:// clinic-sanatos.ro/refluxul-gas troesofagian-simptome-care-nu-ar-trebui-ignorate-si-cand-este-necesar-consultul-medical/",
+      "published": "2026-09-16T07:46:41+00:00",
+      "published_human": "2026-09-16T07:46",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@clinic_sanatos/117014445827090870",
@@ -197,14 +205,6 @@
       "summary": "Ați petrecut ore întregi creând conținut valoros pe WordPress, dar simțiți că efortul de a-l distribui manual pe rețelele sociale descentralizate, precum Mastodon, vă consumă timp prețios? Suntem cu toții de acord că managementul prezenței pe Fediverse poate fi o provocare logistică. Gândiți-vă la timpul pe care îl pierdeți mutând textele, imaginile și link-urile de… .... https:// clinic-sanatos.ro/mastodon-wor dpress-plugin-optiuni-pentru-programare-si-intervale-de-postare/",
       "published": "2025-12-17T19:12:45+00:00",
       "published_human": "2025-12-17T19:12",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@clinic_sanatos/115724266557172256",
-      "summary": "Importanta nutritiei in timpul sarciniiSarcina este, fara doar si poate, o perioada definitorie atat pentru sanatatea mamei, cat si pentru dezvoltarea armonioasa a fatului. O alimentatie echilibrata si suplimentele adecvate sunt factori esentiali in aceasta perioada. Pentru ca necesarul de vitamine, minerale si acizi grasi esentiali creste substantial, multe femei .... https:// clinic-sanatos.ro/suplimente-a limentare-gravide-beneficiile-oligobs-prenatal-cu-omega-3-in-dezvoltarea-sarcinii/",
-      "published": "2025-12-15T15:22:52+00:00",
-      "published_human": "2025-12-15T15:22",
       "source": "Mastodon"
     }
   ]

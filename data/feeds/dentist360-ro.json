@@ -7,9 +7,17 @@
     "rss": "https://dentist360.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-09-16T06:10:38.365469+00:00",
+  "updated_at": "2026-09-16T11:49:42.580194+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Italia la doar câteva ore distanță: un ghid pentru plecarea din Chișinău",
+      "link": "https://dentist360.ro/italia-la-doar-cateva-ore-distanta-un-ghid-pentru-plecarea-din-chisinau/",
+      "summary": "Italia rămâne destinația numărul unu pentru moldoveni, fie că mergem la rude, la muncă sau... Articolul Italia la doar câteva ore distanță: un ghid pentru plecarea din Chișinău apare prima dată în Dentist 360 .",
+      "published": "2026-09-12T09:12:21+00:00",
+      "published_human": "2026-09-12T09:12",
+      "source": "https://dentist360.ro/"
+    },
     {
       "title": "De ce strângem din dinți când suntem concentrați și ce efect poate avea asupra danturii",
       "link": "https://dentist360.ro/de-ce-strangem-din-dinti-cand-suntem-concentrati-si-ce-efect-poate-avea-asupra-danturii/",
@@ -80,14 +88,6 @@
       "summary": "Vizita la dentist poate fi un moment delicat pentru orice copil. Frica de „durere”, sunetele... Articolul Aviz părinților din Suceava: de ce contează prima experiență a copiilor la cabinetul de stomatologie? apare prima dată în Dentist 360 .",
       "published": "2026-01-24T08:21:19+00:00",
       "published_human": "2026-01-24T08:21",
-      "source": "https://dentist360.ro/"
-    },
-    {
-      "title": "Ghid rapid: cum alegi instanța potrivită pe Mastodon",
-      "link": "https://dentist360.ro/ghid-rapid-cum-alegi-instanta-potrivita-pe-mastodon/",
-      "summary": "Sunteți sătui de algoritmi ascunși și de reclame invazive care vă urmăresc pe internet? V-ați... Articolul Ghid rapid: cum alegi instanța potrivită pe Mastodon apare prima dată în Dentist 360 .",
-      "published": "2025-12-17T16:58:54+00:00",
-      "published_human": "2025-12-17T16:58",
       "source": "https://dentist360.ro/"
     }
   ],

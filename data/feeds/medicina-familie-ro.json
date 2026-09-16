@@ -7,9 +7,17 @@
     "rss": "https://medicina-familie.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-09-16T06:10:38.365469+00:00",
+  "updated_at": "2026-09-16T11:49:42.580194+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Dubai fără bătăi de cap: ghid pentru plecarea din Chisinau",
+      "link": "https://medicina-familie.ro/dubai-fara-batai-de-cap-ghid-pentru-plecarea-din-chisinau/",
+      "summary": "Dubai a devenit una dintre cele mai căutate destinații pentru moldoveni, fie că mergem pentru... Articolul Dubai fără bătăi de cap: ghid pentru plecarea din Chisinau apare prima dată în Medicina de Familie .",
+      "published": "2026-09-08T09:15:31+00:00",
+      "published_human": "2026-09-08T09:15",
+      "source": "https://medicina-familie.ro/"
+    },
     {
       "title": "O șansă egală la calificare: cum sprijină proiectul femeile și persoanele din mediul rural",
       "link": "https://medicina-familie.ro/o-sansa-egala-la-calificare-cum-sprijina-proiectul-femeile-si-persoanele-din-mediul-rural/",
@@ -96,14 +104,6 @@
       "summary": "Aparat dentar invizibil: &#8222;discreția&#8221; &#8211; un atu care &#238;ți oferă un plus de &#238;ncredere &#238;n... Articolul Aparat dentar invizibil: „discreția” &#8211; un atu care îți oferă un plus de încredere în tine Zâmbetul este una dintre primele forme prin care apare prima dată în Medicina de Familie .",
       "published": "2025-12-23T05:07:11+00:00",
       "published_human": "2025-12-23T05:07",
-      "source": "https://medicina-familie.ro/"
-    },
-    {
-      "title": "Cum funcționează moderarea pe Mastodon și ce rol are adminul",
-      "link": "https://medicina-familie.ro/cum-functioneaza-moderarea-pe-mastodon-si-ce-rol-are-adminul/",
-      "summary": "Mulți utilizatori se simt frustrați de modul în care marile platforme centralizate gestionează conținutul. Algoritmii... Articolul Cum funcționează moderarea pe Mastodon și ce rol are adminul apare prima dată în Medicina de Familie .",
-      "published": "2025-12-17T16:58:54+00:00",
-      "published_human": "2025-12-17T16:58",
       "source": "https://medicina-familie.ro/"
     }
   ],
