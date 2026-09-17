@@ -7,9 +7,17 @@
     "rss": "https://irezidential.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-09-17T01:31:47.931893+00:00",
+  "updated_at": "2026-09-17T07:48:49.706592+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Cele mai mari avantaje ale unui sistem de control acces pentru locuința ta",
+      "link": "https://irezidential.ro/2026/09/17/control-acces-locuinta/",
+      "summary": "Descoperă cum un sistem modern de control acces îți permite să retragi drepturile de intrare instantaneu și să monitorizezi cine intră în locuință. Articolul Cele mai mari avantaje ale unui sistem de control acces pentru locuința ta apare prima dată în Complex Rezidential .",
+      "published": "2026-09-17T07:03:24+00:00",
+      "published_human": "2026-09-17T07:03",
+      "source": "https://irezidential.ro/"
+    },
     {
       "title": "Apartament pentru închiriere: ce verifici înainte să cumperi",
       "link": "https://irezidential.ro/2026/09/15/apartament-pentru-inchiriere-ce-verifici-inainte-sa-cumperi/",
@@ -96,14 +104,6 @@
       "summary": "Tranziția către platforme sociale descentralizate, precum Mastodon, a adus cu sine o promisiune de control și libertate. Cu toate acestea,&#8230; Articolul Cum gestionezi notificările pe Mastodon ca să nu te copleșească apare prima dată în Complex Rezidential .",
       "published": "2025-12-17T16:58:54+00:00",
       "published_human": "2025-12-17T16:58",
-      "source": "https://irezidential.ro/"
-    },
-    {
-      "title": "Funnel complet cu advertoriale în 2025: TOFU, MOFU, BOFU",
-      "link": "https://irezidential.ro/2025/12/01/funnel-complet-cu-advertoriale-in-2025-tofu-mofu-bofu/",
-      "summary": "Introducere: De ce Marketingul de Conținut Bazat pe Funnel Nu Mai Este o Opțiune, Ci o Necesitate Atenție: Observați cum&#8230; Articolul Funnel complet cu advertoriale în 2025: TOFU, MOFU, BOFU apare prima dată în Complex Rezidential .",
-      "published": "2025-12-01T12:07:49+00:00",
-      "published_human": "2025-12-01T12:07",
       "source": "https://irezidential.ro/"
     }
   ],
