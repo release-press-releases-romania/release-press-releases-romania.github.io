@@ -5,8 +5,8 @@
     <link>https://release-press-releases-romania.github.io</link>
     <description>Aggregated RSS feed of press releases from over 100 Romanian publishers. Covering PR &amp; Marketing, Health, News &amp; Society, Technology, Business, Construction, Tourism, and more. Curated selection of quality press releases from trusted Romanian sources.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Sep 2026 10:18:50 +0000</lastBuildDate>
-    <pubDate>Fri, 18 Sep 2026 10:18:50 +0000</pubDate>
+    <lastBuildDate>Fri, 18 Sep 2026 15:31:16 +0000</lastBuildDate>
+    <pubDate>Fri, 18 Sep 2026 15:31:16 +0000</pubDate>
     <generator>Release Press Releases in Romania RSS Aggregator v2.0</generator>
     <webMaster>noreply@release-press-releases-romania.github.io (Release Press Releases)</webMaster>
     <managingEditor>noreply@release-press-releases-romania.github.io (Release Press Releases)</managingEditor>
@@ -28,6 +28,20 @@
     <sy:updateFrequency>1</sy:updateFrequency>
     <copyright>Copyright 2026 Release Press Releases in Romania. Content belongs to respective publishers.</copyright>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>De ce hala industrială este un caz de risc ridicat</title>
+      <link>https://arta-constructiilor.ro/de-ce-hala-industriala-este-un-caz-de-risc-ridicat/</link>
+      <description><![CDATA[From Arta Constructiilor: Ce se întâmplă când o infiltrație oprește o linie de fabricație și cum poate fi prevenită Într-o hală industrială cu linii de producție moderne, fiecare oră de oprire neplanificată se traduce direct în pierderi financiare – comenzi întârziate, penalități contractuale, clienți nemulțumiți. Un scenariu recurent, dar rareori anticipat la faza de proiectare a acoperișului: o infiltrație de apă ajun...]]></description>
+      <pubDate>Fri, 18 Sep 2026 14:09:00 +0000</pubDate>
+      <author>Arta Constructiilor (https://release-press-releases-romania.github.io/publisher/arta-constructiilor-ro/)</author>
+      <dc:creator>Arta Constructiilor</dc:creator>
+      <dc:date>2026-09-18T14:09:00+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">Construction &amp; Home</category>
+      <guid isPermaLink="true">https://arta-constructiilor.ro/de-ce-hala-industriala-este-un-caz-de-risc-ridicat/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/arta-constructiilor-ro/">Arta Constructiilor</source>
+      <content:encoded><![CDATA[From Arta Constructiilor: Ce se întâmplă când o infiltrație oprește o linie de fabricație și cum poate fi prevenită Într-o hală industrială cu linii de producție moderne, fiecare oră de oprire neplanificată se traduce direct în pierderi financiare – comenzi întârziate, penalități contractuale, clienți nemulțumiți. Un scenariu recurent, dar rareori anticipat la faza de proiectare a acoperișului: o infiltrație de apă ajun...]]></content:encoded>
+      <comments>https://arta-constructiilor.ro/de-ce-hala-industriala-este-un-caz-de-risc-ridicat/#comments</comments>
+    </item>
     <item>
       <title>Stilurile de atașament în relații: de ce repetăm aceleași tipare toxice și cum ne putem vindeca emoțional</title>
       <link>https://doctorite.ro/stilurile-de-atasament-in-relatii/</link>
@@ -909,20 +923,6 @@
       <source url="https://release-press-releases-romania.github.io/publisher/recent-news-ro/">Recent News</source>
       <content:encoded><![CDATA[From Recent News: Industria auto evolueaza constant, iar odata cu aparitia vehiculelor tot mai complexe, cerintele pentru ateliere si service-uri auto sunt din ce in ce mai ridicate. Un service bine echipat nu inseamna doar confort pentru mecanici, ci si interventii mai rapide, diagnoze mai precise si clienti mai multumiti. Indiferent daca vorbim despre un atelier aflat la inceput de drum sau despre un service c...]]></content:encoded>
       <comments>https://recent-news.ro/echipamente-si-scule-profesionale-pentru-un-service-auto-modern/#comments</comments>
-    </item>
-    <item>
-      <title>Inspecție video canalizare: cum afli unde e problema</title>
-      <link>https://arta-constructiilor.ro/inspectie-video-canalizare-cum-afli-unde-e-problema/</link>
-      <description><![CDATA[From Arta Constructiilor: Cum identifici exact locul unei probleme într-o conductă de canalizare fără să spargi inutilApa se scurge greu din chiuvetă, cada rămâne plină câteva minute după duș, din sifon urcă un miros persistent, iar uneori apa refulează exact în cel mai prost moment. Primul reflex este desfundarea. Uneori funcționează. Alteori, după câteva săptămâni, aceeași conductă se blochează din nou. Explicația est...]]></description>
-      <pubDate>Mon, 31 Aug 2026 14:05:36 +0000</pubDate>
-      <author>Arta Constructiilor (https://release-press-releases-romania.github.io/publisher/arta-constructiilor-ro/)</author>
-      <dc:creator>Arta Constructiilor</dc:creator>
-      <dc:date>2026-08-31T14:05:36+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">Construction &amp; Home</category>
-      <guid isPermaLink="true">https://arta-constructiilor.ro/inspectie-video-canalizare-cum-afli-unde-e-problema/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/arta-constructiilor-ro/">Arta Constructiilor</source>
-      <content:encoded><![CDATA[From Arta Constructiilor: Cum identifici exact locul unei probleme într-o conductă de canalizare fără să spargi inutilApa se scurge greu din chiuvetă, cada rămâne plină câteva minute după duș, din sifon urcă un miros persistent, iar uneori apa refulează exact în cel mai prost moment. Primul reflex este desfundarea. Uneori funcționează. Alteori, după câteva săptămâni, aceeași conductă se blochează din nou. Explicația est...]]></content:encoded>
-      <comments>https://arta-constructiilor.ro/inspectie-video-canalizare-cum-afli-unde-e-problema/#comments</comments>
     </item>
     <item>
       <title>Ce acte sunt necesare pentru înființarea unui SRL în 2026</title>
