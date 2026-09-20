@@ -7,9 +7,17 @@
     "rss": "https://casa-moderna.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-09-20T12:29:26.493563+00:00",
+  "updated_at": "2026-09-20T16:52:48.380956+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Ce se întâmplă, în practică, când apare o infiltrație după recepție",
+      "link": "https://casa-moderna.ro/ce-se-intampla-in-practica-cand-apare-o-infiltratie-dupa-receptie/",
+      "summary": "Riscul juridic pe care și-l asumă un project manager când acceptă hidroizolația fără o testare obiectivă „Firma are 20 de&#8230; Articolul Ce se întâmplă, în practică, când apare o infiltrație după recepție apare prima dată în Casa Moderna .",
+      "published": "2026-09-20T14:11:00+00:00",
+      "published_human": "2026-09-20T14:11",
+      "source": "https://casa-moderna.ro/"
+    },
     {
       "title": "Apartament la cheie sau de renovat: cum compari costurile",
       "link": "https://casa-moderna.ro/apartament-la-cheie-sau-de-renovat-costuri/",
@@ -96,14 +104,6 @@
       "summary": "Sunt momente &#238;n care motocoasa refuză să pornească, chiar dacă aparent totul este &#238;n regulă. Verifici combustibilul, &#238;ncerci din nou,&#8230; Articolul De ce pornește greu motocoasa și ce rol are o bujie motocoasă apare prima dată în Casa Moderna .",
       "published": "2026-04-29T06:46:27+00:00",
       "published_human": "2026-04-29T06:46",
-      "source": "https://casa-moderna.ro/"
-    },
-    {
-      "title": "De ce face zgomot hidroforul și când trebuie să-ți faci griji",
-      "link": "https://casa-moderna.ro/de-ce-face-zgomot-hidroforul-si-cand-trebuie-sa-ti-faci-griji/",
-      "summary": "Un hidrofor sănătos nu e tăcut. Face zgomot — asta e natura lui. Are un motor electric, o pompă mecanică&#8230; Articolul De ce face zgomot hidroforul și când trebuie să-ți faci griji apare prima dată în Casa Moderna .",
-      "published": "2026-04-28T07:39:58+00:00",
-      "published_human": "2026-04-28T07:39",
       "source": "https://casa-moderna.ro/"
     }
   ],
