@@ -7,9 +7,17 @@
     "rss": "https://recomandari-medicale.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-09-22T13:29:03.528394+00:00",
+  "updated_at": "2026-09-22T18:09:28.047187+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Vacutainere, tuburi și ace: alegerea greșită se vede abia când proba ajunge la laborator",
+      "link": "https://recomandari-medicale.ro/vacutainere-tuburi-si-ace-alegerea-gresita-se-vede-abia-cand-proba-ajunge-la-laborator/",
+      "summary": "O comandă de consumabile pentru recoltarea sângelui pare simplă până când ajunge în fața unui caz care cere alt tub,&#8230; Articolul Vacutainere, tuburi și ace: alegerea greșită se vede abia când proba ajunge la laborator apare prima dată în Recomandari Medicale .",
+      "published": "2026-09-22T14:24:07+00:00",
+      "published_human": "2026-09-22T14:24",
+      "source": "https://recomandari-medicale.ro/"
+    },
     {
       "title": "Oboseala după exerciții intense nu apare din senin: rolul electroliților în refacerea organismului",
       "link": "https://recomandari-medicale.ro/oboseala-dupa-exercitii-intense-nu-apare-din-senin-rolul-electrolitilor-in-refacerea-organismului/",
@@ -96,14 +104,6 @@
       "summary": "Există un moment pe care aproape orice medic stomatolog îl cunoaște foarte bine. Telefonul sună, iar la celălalt capăt al&#8230; Articolul De ce tot mai mulți brașoveni ajung la dentist doar când apare durerea apare prima dată în Recomandari Medicale .",
       "published": "2026-06-26T05:31:00+00:00",
       "published_human": "2026-06-26T05:31",
-      "source": "https://recomandari-medicale.ro/"
-    },
-    {
-      "title": "Clinica Prevencia explică: cum alegi corect medicul potrivit în funcție de simptome și cum eviți drumurile inutile",
-      "link": "https://recomandari-medicale.ro/clinica-prevencia-explica-cum-alegi-corect-medicul-potrivit-in-functie-de-simptome-si-cum-eviti-drumurile-inutile/",
-      "summary": "Mulți pacienți pierd timp, bani și energie nu pentru că ignoră complet problemele medicale, ci pentru că nu știu unde&#8230; Articolul Clinica Prevencia explică: cum alegi corect medicul potrivit în funcție de simptome și cum eviți drumurile inutile apare prima dată în Recomandari Medicale .",
-      "published": "2026-06-24T07:53:52+00:00",
-      "published_human": "2026-06-24T07:53",
       "source": "https://recomandari-medicale.ro/"
     }
   ],

@@ -7,9 +7,17 @@
     "rss": "https://sfatul-doctorului.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-09-22T13:29:03.528394+00:00",
+  "updated_at": "2026-09-22T18:09:28.047187+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Ficat gras la persoanele cu greutate normală: cum se depistează",
+      "link": "https://sfatul-doctorului.ro/depistare-ficat-gras/",
+      "summary": "Depistarea se bazeaza pe analize si ecografie, deoarece simptomele sunt adesea discrete sau lipsesc complet. Articolul Ficat gras la persoanele cu greutate normală: cum se depistează apare prima dată în Sfatul Doctorului .",
+      "published": "2026-09-22T13:31:37+00:00",
+      "published_human": "2026-09-22T13:31",
+      "source": "https://sfatul-doctorului.ro/"
+    },
     {
       "title": "Matcha în combinații surprinzătoare: Mixit lansează Granola din cuptor – Matcha & fructe",
       "link": "https://sfatul-doctorului.ro/matcha-in-combinatii-surprinzatoare-mixit-lanseaza-granola-din-cuptor-matcha-fructe/",
@@ -72,14 +80,6 @@
       "summary": "Pentru mulți pacienți, accesarea serviciilor medicale prin CAS pare mai complicată decât ar trebui. Nu este întotdeauna clar dacă trebuie să mergi mai întâi la medicul de familie, când ai nevoie de bilet de trimitere, ce documente trebuie să ai la tine și de ce unele consultații pot fi decontate, iar altele trebuie plătite. În [&#8230;] Articolul Clinica Prevencia explică: cum ajungi corect la medicul specialist prin CAS apare prima dată în Sfatul Doctorului .",
       "published": "2026-06-17T07:42:33+00:00",
       "published_human": "2026-06-17T07:42",
-      "source": "https://sfatul-doctorului.ro/"
-    },
-    {
-      "title": "Kinetoterapie și fizioterapie în Snagov: cum alegi corect când ai dureri de spate, rigiditate sau probleme de mobilitate",
-      "link": "https://sfatul-doctorului.ro/kinetoterapie-fizioterapie-snagov-dureri-mobilitate/",
-      "summary": "Durerile de spate, rigiditatea, tensiunea musculară și mobilitatea redusă sunt probleme pe care mulți oameni le ignoră la început. O durere lombară după o zi lungă la birou, un gât înțepenit dimineața sau un genunchi sensibil după efort pot părea situații minore. Totuși, atunci când aceste simptome se repetă, corpul transmite un semnal care merită [&#8230;] Articolul Kinetoterapie și fizioterapie în Snagov: cum alegi corect când ai dureri de spate, rigiditate sau probleme de mobilitate apare prima dată în Sfatul Doctorului .",
-      "published": "2026-06-01T09:27:12+00:00",
-      "published_human": "2026-06-01T09:27",
       "source": "https://sfatul-doctorului.ro/"
     }
   ],
