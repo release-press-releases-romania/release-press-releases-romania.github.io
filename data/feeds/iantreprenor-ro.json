@@ -7,9 +7,17 @@
     "rss": "https://iAntreprenor.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-09-22T07:47:52.675674+00:00",
+  "updated_at": "2026-09-22T13:29:03.528394+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Factoring sau linie de credit: cum compari costurile și condițiile pentru firmă",
+      "link": "https://iantreprenor.ro/factoring-sau-linie-de-credit/",
+      "summary": "Compara costurile, viteza si conditiile de acces pentru a alege intre factoring si linie de credit. Informatii utile pentru a gestiona lichiditatea firmei. Articolul Factoring sau linie de credit: cum compari costurile și condițiile pentru firmă apare prima dată în iAntreprenor .",
+      "published": "2026-09-22T13:29:13+00:00",
+      "published_human": "2026-09-22T13:29",
+      "source": "https://iAntreprenor.ro/"
+    },
     {
       "title": "Ce se întâmplă în companie când omul de IT pleacă în concediu",
       "link": "https://iantreprenor.ro/omul-de-it-concediu-riscuri/",
@@ -96,14 +104,6 @@
       "summary": "În 2026, utilizatorii își sincronizează activitatea între dispozitive alegând produse care comunică rapid între ele, iar ecosistemul Samsung construit în&#8230; Articolul Cum îți sincronizezi activitatea între dispozitive? apare prima dată în iAntreprenor .",
       "published": "2026-05-20T07:20:00+00:00",
       "published_human": "2026-05-20T07:20",
-      "source": "https://iAntreprenor.ro/"
-    },
-    {
-      "title": "Diferenta dintre espressor in custodie si espressor in comodat",
-      "link": "https://iantreprenor.ro/diferenta-dintre-espressor-in-custodie-si-espressor-in-comodat/",
-      "summary": "Espressor in custodie sau espressor in custodie pentru birouri in Bucuresti Articolul Diferenta dintre espressor in custodie si espressor in comodat apare prima dată în iAntreprenor .",
-      "published": "2026-05-11T17:05:14+00:00",
-      "published_human": "2026-05-11T17:05",
       "source": "https://iAntreprenor.ro/"
     }
   ],
