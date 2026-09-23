@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@recent_news",
     "rss": "https://social.5th.ro/@recent_news.rss"
   },
-  "updated_at": "2026-09-23T06:06:30.413862+00:00",
+  "updated_at": "2026-09-23T11:51:36.021040+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Echipamente si scule profesionale pentru un service auto modern",
+      "link": "https://recent-news.ro/echipamente-si-scule-profesionale-pentru-un-service-auto-modern-2/",
+      "summary": "Industria auto evolueaza constant, iar odata cu aparitia vehiculelor tot mai complexe, cerintele pentru ateliere si service-uri auto sunt din&#8230; Articolul Echipamente si scule profesionale pentru un service auto modern apare prima dată în Recent News .",
+      "published": "2026-09-23T08:09:51+00:00",
+      "published_human": "2026-09-23T08:09",
+      "source": "https://recent-news.ro/"
+    },
     {
       "title": "Patru arii de lucru, cu ochii pe relația pe termen lung",
       "link": "https://recent-news.ro/patru-arii-de-lucru-cu-ochii-pe-relatia-pe-termen-lung/",
@@ -84,17 +92,17 @@
       "published": "2026-06-11T13:12:00+00:00",
       "published_human": "2026-06-11T13:12",
       "source": "https://recent-news.ro/"
-    },
-    {
-      "title": "De ce Bulgaria rămâne una dintre cele mai populare destinații pentru români",
-      "link": "https://recent-news.ro/de-ce-bulgaria-ramane-una-dintre-cele-mai-populare-destinatii-pentru-romani/",
-      "summary": "Planurile pentru concediu &#238;ncep adesea cu o listă lungă de dorințe. Vrei o plajă curată, cazare confortabilă, m&#226;ncare bună și&#8230; Articolul De ce Bulgaria rămâne una dintre cele mai populare destinații pentru români apare prima dată în Recent News .",
-      "published": "2026-06-03T08:21:00+00:00",
-      "published_human": "2026-06-03T08:21",
-      "source": "https://recent-news.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@recent_news/117319335573971528",
+      "summary": "Industria auto evolueaza constant, iar odata cu aparitia vehiculelor tot mai complexe, cerintele pentru ateliere si service-uri auto sunt din ce in ce mai ridicate. Un service bine echipat nu inseamna doar confort pentru mecanici, ci si interventii mai rapide, diagnoze mai precise si clienti mai multumiti. Indiferent daca vorbim despre un atelier aflat la… https:// recent-news.ro/echipamente-si- scule-profesionale-pentru-un-service-auto-modern-2/",
+      "published": "2026-09-23T08:09:54+00:00",
+      "published_human": "2026-09-23T08:09",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@recent_news/117257241860672035",
@@ -181,14 +189,6 @@
       "summary": "Erik Culescu, elev în clasa a XII-a, pasionat de astronomie, inginerie aerospațială și tehnologie, pregătește prezentarea unui proiect educațional rar întâlnit în România: o rachetă proiectată și construită aproape integral de el. Racheta, cu o înălțime de aproximativ 2 metri, reprezintă rezultatul a luni întregi de documentare, calcule, simulări și lucru practic. https:// recent-news.ro/de-la-pasiune-l a-cercetare-aplicata-un-elev-am-school-construieste-si-pregateste-lansarea-unei-rachete/",
       "published": "2026-06-02T14:24:43+00:00",
       "published_human": "2026-06-02T14:24",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@recent_news/116618982819877211",
-      "summary": "Dacă ai început să fii atent/ă la ce cafea bei, sigur ai auzit deja termenul „cafea de specialitate”. Dar ce înseamnă, de fapt cafea de specialitate? Și mai important: cum știi că alegi una bună? Noi lucrăm zilnic cu cafea, alegem boabe din locuri cunoscute pentru calitatea lor, le prăjim, le preparăm și le servim în… https:// recent-news.ro/ce-inseamna-caf ea-de-specialitate-si-cum-alegi-una-buna/",
-      "published": "2026-05-22T15:40:59+00:00",
-      "published_human": "2026-05-22T15:40",
       "source": "Mastodon"
     }
   ]

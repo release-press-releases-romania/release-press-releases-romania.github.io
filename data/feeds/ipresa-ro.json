@@ -7,9 +7,17 @@
     "rss": "https://iPresa.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-09-23T06:06:30.413862+00:00",
+  "updated_at": "2026-09-23T11:51:36.021040+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Schizofrenia. Subtipuri principale, simptome tipice şi diagnosticare",
+      "link": "https://ipresa.ro/schizofrenia-subtipuri-principale-simptome-tipice-si-diagnosticare/",
+      "summary": "Afectează 1% din populația globală, este o tulburare psihică de care nu scapi odată ce ai primit diagnosticul și este foarte greu de tratat. Schizofrenia – despre ea discutăm astăzi – are nevoie de tratamente prescrise de psihiatru, de monitorizare, de medicație și terapie prin discuții, dar și de un plan de intervenție personalizat de [&#8230;] Articolul Schizofrenia. Subtipuri principale, simptome tipice şi diagnosticare apare prima dată în iPresa .",
+      "published": "2026-09-23T08:10:32+00:00",
+      "published_human": "2026-09-23T08:10",
+      "source": "https://iPresa.ro/"
+    },
     {
       "title": "Cât costă încălzirea pe peleți iarna și cum poți optimiza consumul într-o casă de vacanță",
       "link": "https://ipresa.ro/cost-incalzire-pelleti-casa-de-vacanta/",
@@ -80,14 +88,6 @@
       "summary": "Piața muncii oferă oportunități persoanelor care nu au studii superioare și doresc un loc de muncă stabil, bine plătit. Fabricile și unitățile de producție sunt printre cei mai importanți angajatori din România. Pentru mulți candidați, joburile din producție sunt o alegere atractivă datorită stabilității locului de muncă, programelor de instruire oferite de angajatori și pachetelor [&#8230;] Articolul Vrei să lucrezi într-o fabrică? Ce roluri sunt disponibile și ce presupun acestea apare prima dată în iPresa .",
       "published": "2026-06-24T08:04:53+00:00",
       "published_human": "2026-06-24T08:04",
-      "source": "https://iPresa.ro/"
-    },
-    {
-      "title": "Pietre la fiere: simptome, riscuri și momentul potrivit pentru consult chirurgical",
-      "link": "https://ipresa.ro/pietre-la-fiere-simptome-riscuri-si-momentul-potrivit-pentru-consult-chirurgical/",
-      "summary": "Articol informativ pentru pacienți din București: Pietre la fiere: simptome, riscuri și momentul potrivit pentru consult chirurgical. Articolul Pietre la fiere: simptome, riscuri și momentul potrivit pentru consult chirurgical apare prima dată în iPresa .",
-      "published": "2026-06-23T08:05:55+00:00",
-      "published_human": "2026-06-23T08:05",
       "source": "https://iPresa.ro/"
     }
   ],
