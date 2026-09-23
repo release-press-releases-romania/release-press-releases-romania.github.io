@@ -7,9 +7,17 @@
     "rss": "https://casa-moderna.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-09-23T11:51:36.021040+00:00",
+  "updated_at": "2026-09-23T17:15:54.394083+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Cum s-a schimbat piața HoReCa din România și ce soluții oferă Selgros pentru restaurantele moderne",
+      "link": "https://casa-moderna.ro/horeca-din-romania-solutii-selgros/",
+      "summary": "Descopera cum presiunile actuale din industrie afecteaza operatiunile tale si ce solutii de aprovizionare te pot ajuta sa mentii controlul asupra costurilor. Articolul Cum s-a schimbat piața HoReCa din România și ce soluții oferă Selgros pentru restaurantele moderne apare prima dată în Casa Moderna .",
+      "published": "2026-09-23T17:14:41+00:00",
+      "published_human": "2026-09-23T17:14",
+      "source": "https://casa-moderna.ro/"
+    },
     {
       "title": "Ce se întâmplă, în practică, când apare o infiltrație după recepție",
       "link": "https://casa-moderna.ro/ce-se-intampla-in-practica-cand-apare-o-infiltratie-dupa-receptie/",
@@ -96,14 +104,6 @@
       "summary": "&#206;ți transformi casa &#238;ntr-una inteligentă aleg&#226;nd dispozitive conectate, integr&#226;ndu-le &#238;ntr-un ecosistem comun și folosind o aplicație pentru control și automatizare.&#8230; Articolul Cum îți transformi casa într-una inteligentă? apare prima dată în Casa Moderna .",
       "published": "2026-04-29T10:08:04+00:00",
       "published_human": "2026-04-29T10:08",
-      "source": "https://casa-moderna.ro/"
-    },
-    {
-      "title": "De ce pornește greu motocoasa și ce rol are o bujie motocoasă",
-      "link": "https://casa-moderna.ro/de-ce-porneste-greu-motocoasa-si-ce-rol-are-o-bujie-motocoasa/",
-      "summary": "Sunt momente &#238;n care motocoasa refuză să pornească, chiar dacă aparent totul este &#238;n regulă. Verifici combustibilul, &#238;ncerci din nou,&#8230; Articolul De ce pornește greu motocoasa și ce rol are o bujie motocoasă apare prima dată în Casa Moderna .",
-      "published": "2026-04-29T06:46:27+00:00",
-      "published_human": "2026-04-29T06:46",
       "source": "https://casa-moderna.ro/"
     }
   ],
