@@ -5,8 +5,8 @@
     <link>https://release-press-releases-romania.github.io</link>
     <description>Aggregated RSS feed of press releases from over 100 Romanian publishers. Covering PR &amp; Marketing, Health, News &amp; Society, Technology, Business, Construction, Tourism, and more. Curated selection of quality press releases from trusted Romanian sources.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2026 02:34:31 +0000</lastBuildDate>
-    <pubDate>Wed, 23 Sep 2026 02:34:31 +0000</pubDate>
+    <lastBuildDate>Wed, 23 Sep 2026 10:31:47 +0000</lastBuildDate>
+    <pubDate>Wed, 23 Sep 2026 10:31:47 +0000</pubDate>
     <generator>Release Press Releases in Romania RSS Aggregator v2.0</generator>
     <webMaster>noreply@release-press-releases-romania.github.io (Release Press Releases)</webMaster>
     <managingEditor>noreply@release-press-releases-romania.github.io (Release Press Releases)</managingEditor>
@@ -28,6 +28,34 @@
     <sy:updateFrequency>1</sy:updateFrequency>
     <copyright>Copyright 2026 Release Press Releases in Romania. Content belongs to respective publishers.</copyright>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Schizofrenia. Subtipuri principale, simptome tipice şi diagnosticare</title>
+      <link>https://ipresa.ro/schizofrenia-subtipuri-principale-simptome-tipice-si-diagnosticare/</link>
+      <description><![CDATA[From iPresa: Afectează 1% din populația globală, este o tulburare psihică de care nu scapi odată ce ai primit diagnosticul și este foarte greu de tratat. Schizofrenia – despre ea discutăm astăzi – are nevoie de tratamente prescrise de psihiatru, de monitorizare, de medicație și terapie prin discuții, dar și de un plan de intervenție personalizat de fiecare dată. Recunoașterea primelor simptome și a evoluție...]]></description>
+      <pubDate>Wed, 23 Sep 2026 08:10:32 +0000</pubDate>
+      <author>iPresa (https://release-press-releases-romania.github.io/publisher/ipresa-ro/)</author>
+      <dc:creator>iPresa</dc:creator>
+      <dc:date>2026-09-23T08:10:32+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">PR &amp; Marketing</category>
+      <guid isPermaLink="true">https://ipresa.ro/schizofrenia-subtipuri-principale-simptome-tipice-si-diagnosticare/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/ipresa-ro/">iPresa</source>
+      <content:encoded><![CDATA[From iPresa: Afectează 1% din populația globală, este o tulburare psihică de care nu scapi odată ce ai primit diagnosticul și este foarte greu de tratat. Schizofrenia – despre ea discutăm astăzi – are nevoie de tratamente prescrise de psihiatru, de monitorizare, de medicație și terapie prin discuții, dar și de un plan de intervenție personalizat de fiecare dată. Recunoașterea primelor simptome și a evoluție...]]></content:encoded>
+      <comments>https://ipresa.ro/schizofrenia-subtipuri-principale-simptome-tipice-si-diagnosticare/#comments</comments>
+    </item>
+    <item>
+      <title>Echipamente si scule profesionale pentru un service auto modern</title>
+      <link>https://recent-news.ro/echipamente-si-scule-profesionale-pentru-un-service-auto-modern-2/</link>
+      <description><![CDATA[From Recent News: Industria auto evolueaza constant, iar odata cu aparitia vehiculelor tot mai complexe, cerintele pentru ateliere si service-uri auto sunt din ce in ce mai ridicate. Un service bine echipat nu inseamna doar confort pentru mecanici, ci si interventii mai rapide, diagnoze mai precise si clienti mai multumiti. Indiferent daca vorbim despre un atelier aflat la inceput de drum sau despre un service c...]]></description>
+      <pubDate>Wed, 23 Sep 2026 08:09:51 +0000</pubDate>
+      <author>Recent News (https://release-press-releases-romania.github.io/publisher/recent-news-ro/)</author>
+      <dc:creator>Recent News</dc:creator>
+      <dc:date>2026-09-23T08:09:51+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">News &amp; Society</category>
+      <guid isPermaLink="true">https://recent-news.ro/echipamente-si-scule-profesionale-pentru-un-service-auto-modern-2/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/recent-news-ro/">Recent News</source>
+      <content:encoded><![CDATA[From Recent News: Industria auto evolueaza constant, iar odata cu aparitia vehiculelor tot mai complexe, cerintele pentru ateliere si service-uri auto sunt din ce in ce mai ridicate. Un service bine echipat nu inseamna doar confort pentru mecanici, ci si interventii mai rapide, diagnoze mai precise si clienti mai multumiti. Indiferent daca vorbim despre un atelier aflat la inceput de drum sau despre un service c...]]></content:encoded>
+      <comments>https://recent-news.ro/echipamente-si-scule-profesionale-pentru-un-service-auto-modern-2/#comments</comments>
+    </item>
     <item>
       <title>Cum câștigi spațiu într-un living mic fără să dărâmi niciun perete</title>
       <link>https://casa-sustenabila.ro/spatiu-intr-un-living-mic/</link>
@@ -799,20 +827,6 @@
       <comments>https://dentist360.ro/italia-la-doar-cateva-ore-distanta-un-ghid-pentru-plecarea-din-chisinau/#comments</comments>
     </item>
     <item>
-      <title>Cum alegi pachetul optim de asigurare medicală dacă pleci în concediu cu toată familia?</title>
-      <link>https://ipresa.ro/cum-alegi-pachetul-optim-de-asigurare-medicala-daca-pleci-in-concediu-cu-toata-familia/</link>
-      <description><![CDATA[From iPresa: Organizarea unei vacanțe în formulă extinsă, alături de copii, partener și bunici, aduce mult entuziasm, dar și o listă lungă de responsabilități logistice. Când pleci singur sau doar în cuplu, riscurile par mai ușor de gestionat, iar deciziile se iau rapid. Într-un grup cu vârste diferite, nevoile medicale devin mult mai variate și cer atenție sporită la detalii. Un copil mic poate dezvolta o ...]]></description>
-      <pubDate>Sat, 12 Sep 2026 08:22:00 +0000</pubDate>
-      <author>iPresa (https://release-press-releases-romania.github.io/publisher/ipresa-ro/)</author>
-      <dc:creator>iPresa</dc:creator>
-      <dc:date>2026-09-12T08:22:00+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">PR &amp; Marketing</category>
-      <guid isPermaLink="true">https://ipresa.ro/cum-alegi-pachetul-optim-de-asigurare-medicala-daca-pleci-in-concediu-cu-toata-familia/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/ipresa-ro/">iPresa</source>
-      <content:encoded><![CDATA[From iPresa: Organizarea unei vacanțe în formulă extinsă, alături de copii, partener și bunici, aduce mult entuziasm, dar și o listă lungă de responsabilități logistice. Când pleci singur sau doar în cuplu, riscurile par mai ușor de gestionat, iar deciziile se iau rapid. Într-un grup cu vârste diferite, nevoile medicale devin mult mai variate și cer atenție sporită la detalii. Un copil mic poate dezvolta o ...]]></content:encoded>
-      <comments>https://ipresa.ro/cum-alegi-pachetul-optim-de-asigurare-medicala-daca-pleci-in-concediu-cu-toata-familia/#comments</comments>
-    </item>
-    <item>
       <title>Patru arii de lucru, cu ochii pe relația pe termen lung</title>
       <link>https://recent-news.ro/patru-arii-de-lucru-cu-ochii-pe-relatia-pe-termen-lung/</link>
       <description><![CDATA[From Recent News: COMUNICAT DE PRESĂ Matricea Succesului Timișoara: consultanții în asigurări descoperă pe 29 septembrie cum își construiesc un portofoliu stabil Evenimentul gratuit organizat de Acceleratorul.com aduce la Centrul Regional de Afaceri Timișoara un eveniment dedicat profesioniștilor din asigurări. Consultanții și antreprenorii din brokerajul de asigurări din vestul țării au pe 29 septembrie parte d...]]></description>
@@ -1063,20 +1077,6 @@
       <source url="https://release-press-releases-romania.github.io/publisher/recent-news-ro/">Recent News</source>
       <content:encoded><![CDATA[From Recent News: Tot mai mulți români aleg, în ultimii ani, vacanțe petrecute departe de aglomerările urbane, în locații care oferă liniște și contact direct cu natura: zone de camping, poteci montane amenajate, malurile unor lacuri sau terenuri agricole transformate temporar în spații de cazare. Farmecul acestor locuri vine tocmai din izolarea lor, dar aceeași izolare ridică o problemă practică pe care organiz...]]></content:encoded>
       <comments>https://recent-news.ro/camping-si-locatii-izolate-cum-se-rezolva-problema-apei-si-a-canalizarii/#comments</comments>
-    </item>
-    <item>
-      <title>Echipamente si scule profesionale pentru un service auto modern</title>
-      <link>https://recent-news.ro/echipamente-si-scule-profesionale-pentru-un-service-auto-modern/</link>
-      <description><![CDATA[From Recent News: Industria auto evolueaza constant, iar odata cu aparitia vehiculelor tot mai complexe, cerintele pentru ateliere si service-uri auto sunt din ce in ce mai ridicate. Un service bine echipat nu inseamna doar confort pentru mecanici, ci si interventii mai rapide, diagnoze mai precise si clienti mai multumiti. Indiferent daca vorbim despre un atelier aflat la inceput de drum sau despre un service c...]]></description>
-      <pubDate>Mon, 31 Aug 2026 14:07:52 +0000</pubDate>
-      <author>Recent News (https://release-press-releases-romania.github.io/publisher/recent-news-ro/)</author>
-      <dc:creator>Recent News</dc:creator>
-      <dc:date>2026-08-31T14:07:52+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">News &amp; Society</category>
-      <guid isPermaLink="true">https://recent-news.ro/echipamente-si-scule-profesionale-pentru-un-service-auto-modern/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/recent-news-ro/">Recent News</source>
-      <content:encoded><![CDATA[From Recent News: Industria auto evolueaza constant, iar odata cu aparitia vehiculelor tot mai complexe, cerintele pentru ateliere si service-uri auto sunt din ce in ce mai ridicate. Un service bine echipat nu inseamna doar confort pentru mecanici, ci si interventii mai rapide, diagnoze mai precise si clienti mai multumiti. Indiferent daca vorbim despre un atelier aflat la inceput de drum sau despre un service c...]]></content:encoded>
-      <comments>https://recent-news.ro/echipamente-si-scule-profesionale-pentru-un-service-auto-modern/#comments</comments>
     </item>
     <item>
       <title>Ce acte sunt necesare pentru înființarea unui SRL în 2026</title>
