@@ -7,9 +7,17 @@
     "rss": "https://stiri-medicale.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-09-24T10:13:07.471157+00:00",
+  "updated_at": "2026-09-24T15:16:36.080401+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Sondaj Novo România: greutatea, schimbarea cea mai des observată la menopauză",
+      "link": "https://stiri-medicale.ro/sondaj-novo-romania-greutatea-schimbarea-cea-mai-des-observata-la-menopauza/",
+      "summary": "Aproape jumătate dintre femei se &#238;nvinovățesc pentru schimbările corporale din menopauză Aproape jumătate (47%) dintre femeile din Rom&#226;nia care trec&#8230; Articolul Sondaj Novo România: greutatea, schimbarea cea mai des observată la menopauză apare prima dată în Stiri Medicale .",
+      "published": "2026-09-23T12:54:00+00:00",
+      "published_human": "2026-09-23T12:54",
+      "source": "https://stiri-medicale.ro/"
+    },
     {
       "title": "Vaccinul antigripal: cine trebuie să se vaccineze și când?",
       "link": "https://stiri-medicale.ro/vaccinul-antigripal-cine-trebuie-sa-se-vaccineze-si-cand/",
@@ -96,14 +104,6 @@
       "summary": "Institutul Național pentru Sănătate și Excelență Clinică (NICE) din Marea Britanie a recomandat oficial utilizarea Wegovy&#174; (semaglutidă injectabilă) ca prim&#8230; Articolul Wegovy® (semaglutidă) recomandat de NICE pentru reducerea riscului de atac de cord și accident vascular cerebral apare prima dată în Stiri Medicale .",
       "published": "2026-05-11T14:27:00+00:00",
       "published_human": "2026-05-11T14:27",
-      "source": "https://stiri-medicale.ro/"
-    },
-    {
-      "title": "Noi date clinice ECO 2026: Doza superioară de Wegovy® generează o slăbire de aproape 28% și protejează masa musculară",
-      "link": "https://stiri-medicale.ro/noi-date-clinice-eco-2026-doza-superioara-de-wegovy-genereaza-o-slabire-de-aproape-28-si-protejeaza-masa-musculara/",
-      "summary": "Noile date prezentate de Novo Nordisk &#238;n cadrul Congresului European de Obezitate (ECO) 2026 de la Istanbul consolidează poziția tratamentului&#8230; Articolul Noi date clinice ECO 2026: Doza superioară de Wegovy® generează o slăbire de aproape 28% și protejează masa musculară apare prima dată în Stiri Medicale .",
-      "published": "2026-05-11T13:50:00+00:00",
-      "published_human": "2026-05-11T13:50",
       "source": "https://stiri-medicale.ro/"
     }
   ],

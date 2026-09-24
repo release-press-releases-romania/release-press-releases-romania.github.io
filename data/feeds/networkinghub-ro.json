@@ -7,9 +7,17 @@
     "rss": "https://networkinghub.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-09-24T10:13:07.471157+00:00",
+  "updated_at": "2026-09-24T15:16:36.080401+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Premieră în România: primul hackathon multidisciplinar dedicat soluțiilor pentru siguranța elevilor",
+      "link": "https://networkinghub.ro/premiera-in-romania-primul-hackathon-multidisciplinar-dedicat-solutiilor-pentru-siguranta-elevilor/",
+      "summary": "Pe 10 octombrie, la București, elevi, profesori, specialiști și mentori vor lucra &#238;mpreună pornind de... Articolul Premieră în România: primul hackathon multidisciplinar dedicat soluțiilor pentru siguranța elevilor apare prima dată în Networking Hub .",
+      "published": "2026-09-24T10:29:17+00:00",
+      "published_human": "2026-09-24T10:29",
+      "source": "https://networkinghub.ro/"
+    },
     {
       "title": "FONDUL SOCIAL EUROPEAN+ (FSE+)Programul Incluziune și Demnitate Socială (PIDS) 2021-2027",
       "link": "https://networkinghub.ro/fondul-social-european-fseprogramul-incluziune-si-demnitate-sociala-pids-2021-2027/",
@@ -96,14 +104,6 @@
       "summary": "Articol informativ pentru pacienți din București: Polipii colonici și riscul de cancer: când devine necesar consultul chirurgical. Articolul Polipii colonici și riscul de cancer: când devine necesar consultul chirurgical apare prima dată în Networking Hub .",
       "published": "2026-06-23T08:05:55+00:00",
       "published_human": "2026-06-23T08:05",
-      "source": "https://networkinghub.ro/"
-    },
-    {
-      "title": "CONIL FEST 2026 – pentru ca fiecare copil merita sa fie vazut",
-      "link": "https://networkinghub.ro/conil-fest-2026-pentru-ca-fiecare-copil-merita-sa-fie-vazut/",
-      "summary": "Peste 20.000 de vizitatori au celebrat dreptul fiecarui copil de a conta In zilele de... Articolul CONIL FEST 2026 – pentru ca fiecare copil merita sa fie vazut apare prima dată în Networking Hub .",
-      "published": "2026-05-29T10:52:03+00:00",
-      "published_human": "2026-05-29T10:52",
       "source": "https://networkinghub.ro/"
     }
   ],

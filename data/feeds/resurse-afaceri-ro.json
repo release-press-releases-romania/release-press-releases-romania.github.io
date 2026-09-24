@@ -7,9 +7,17 @@
     "rss": "https://resurse-afaceri.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-09-24T10:13:07.471157+00:00",
+  "updated_at": "2026-09-24T15:16:36.080401+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Ce-ar fi dacă, pentru o zi, am privi eșecul altfel?",
+      "link": "https://resurse-afaceri.ro/ce-ar-fi-daca-pentru-o-zi-am-privi-esecul-altfel/",
+      "summary": "Ce-ar fi dacă, pentru o zi, am privi eșecul altfel? Nu ca pe o dovadă că nu ești suficient de bun, ci ca pe unul dintre cele mai directe moduri prin care afli ce nu merge, schimbi direcția, pivotezi, experimentezi și înveți mai repede. Pe 9 noiembrie, la Opera Națională București, I Love Failure 2026 Read More Articolul Ce-ar fi dacă, pentru o zi, am privi eșecul altfel? apare prima dată în Resurse Afaceri .",
+      "published": "2026-09-24T11:38:57+00:00",
+      "published_human": "2026-09-24T11:38",
+      "source": "https://resurse-afaceri.ro/"
+    },
     {
       "title": "ecomTEAM 2026: Evenimentul care reunește între 16-18 septembrie comunitatea de eCommerce la Brașov",
       "link": "https://resurse-afaceri.ro/ecomteam-2026-evenimentul-care-reuneste-intre-16-18-septembrie-comunitatea-de-ecommerce-la-brasov/",
@@ -88,14 +96,6 @@
       "summary": "Te-ai săturat de algoritmii care decid ce vezi pe rețelele sociale tradiționale? Milioane de utilizatori caută acum o platformă unde vocea lor să conteze cu adevărat. Această căutare ne aduce direct în Fediverse, iar pentru comunitatea noastră, la Mastodon Romania. Aici, succesul în vizibilitate nu depinde de reclame plătite sau de manipularea algoritmilor. Depinde de Read More Articolul Cele mai folosite hashtaguri din Mastodon România apare prima dată în Resurse Afaceri .",
       "published": "2025-12-17T16:58:54+00:00",
       "published_human": "2025-12-17T16:58",
-      "source": "https://resurse-afaceri.ro/"
-    },
-    {
-      "title": "2025: checklist rapid pentru un comunicat de presă complet și clar",
-      "link": "https://resurse-afaceri.ro/2025-checklist-rapid-pentru-un-comunicat-de-presa-complet-si-clar/",
-      "summary": "A (Atenție): V-ați simțit vreodată frustrat când ați trimis un comunicat de presă important, dar a fost ignorat complet? În peisajul media actual, zgomotul digital este asurzitor. Jurnaliștii și bloggerii sunt bombardați zilnic cu sute de mesaje. Fără o abordare chirurgicală și o precizie de ceasornic, știrile companiei dumneavoastră se vor pierde inevitabil în coșul Read More Articolul 2025: checklist rapid pentru un comunicat de presă complet și clar apare prima dată în Resurse Afaceri .",
-      "published": "2025-12-01T12:07:49+00:00",
-      "published_human": "2025-12-01T12:07",
       "source": "https://resurse-afaceri.ro/"
     }
   ],

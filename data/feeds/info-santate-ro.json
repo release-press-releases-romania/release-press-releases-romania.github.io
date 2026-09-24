@@ -7,9 +7,17 @@
     "rss": "https://info-santate.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-09-24T10:13:07.471157+00:00",
+  "updated_at": "2026-09-24T15:16:36.080401+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Sondaj Novo România: greutatea, schimbarea cea mai des observată la menopauză",
+      "link": "https://info-santate.ro/sondaj-novo-romania-greutatea-schimbarea-cea-mai-des-observata-la-menopauza/",
+      "summary": "Aproape jumătate dintre femei se &#238;nvinovățesc pentru schimbările corporale din menopauză Aproape jumătate (47%) dintre femeile din Rom&#226;nia care trec&#8230; Articolul Sondaj Novo România: greutatea, schimbarea cea mai des observată la menopauză apare prima dată în Info Sanatate .",
+      "published": "2026-09-23T09:58:08+00:00",
+      "published_human": "2026-09-23T09:58",
+      "source": "https://info-santate.ro/"
+    },
     {
       "title": "Novo Nordisk intră într-o nouă etapă de dezvoltare, susținută de rebrandingul „Novo” și de actualizarea culturii organizaționale",
       "link": "https://info-santate.ro/novo-nordisk-intra-intr-o-noua-etapa-de-dezvoltare-sustinuta-de-rebrandingul-novo-si-de-actualizarea-culturii-organizationale/",
@@ -72,14 +80,6 @@
       "summary": "Pentru persoanele care petrec mult timp afară și vor să aleagă o protecție solară adaptată nevoilor pielii lor, diferențele dintre&#8230; Articolul SPF 30 vs SPF 50: diferența reală în procente + 7 produse de luate în calcul în 2026 apare prima dată în Info Sanatate .",
       "published": "2026-07-30T07:04:09+00:00",
       "published_human": "2026-07-30T07:04",
-      "source": "https://info-santate.ro/"
-    },
-    {
-      "title": "Wegovy, prima pastilă GLP-1 pentru slăbit, primește undă verde de la Comisia Europeană",
-      "link": "https://info-santate.ro/wegovy-prima-pastila-glp-1-pentru-slabit-primeste-unda-verde-de-la-comisia-europeana/",
-      "summary": "Comisia Europeană a aprobat Wegovy sub formă de comprimat, administrat o dată pe zi, acesta devenind primul tratament oral GLP-1&#8230; Articolul Wegovy, prima pastilă GLP-1 pentru slăbit, primește undă verde de la Comisia Europeană apare prima dată în Info Sanatate .",
-      "published": "2026-07-17T08:49:50+00:00",
-      "published_human": "2026-07-17T08:49",
       "source": "https://info-santate.ro/"
     }
   ],

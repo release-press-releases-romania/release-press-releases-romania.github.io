@@ -7,9 +7,17 @@
     "rss": "https://recomandari-medicale.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-09-24T10:13:07.471157+00:00",
+  "updated_at": "2026-09-24T15:16:36.080401+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Pleci la tratament în străinătate? Ce documente medicale trebuie traduse și cum le pregătești",
+      "link": "https://recomandari-medicale.ro/documente-medice-traducere-le-pregatesti/",
+      "summary": "Descopera lista documentelor esentiale pentru un dosar medical tradus si sfaturile practice pentru a le pregati corect inainte de plecare. Articolul Pleci la tratament în străinătate? Ce documente medicale trebuie traduse și cum le pregătești apare prima dată în Recomandari Medicale .",
+      "published": "2026-09-24T10:56:37+00:00",
+      "published_human": "2026-09-24T10:56",
+      "source": "https://recomandari-medicale.ro/"
+    },
     {
       "title": "Vacutainere, tuburi și ace: alegerea greșită se vede abia când proba ajunge la laborator",
       "link": "https://recomandari-medicale.ro/vacutainere-tuburi-si-ace-alegerea-gresita-se-vede-abia-cand-proba-ajunge-la-laborator/",
@@ -96,14 +104,6 @@
       "summary": "Te-ai trezit vreodată cu o apăsare ciudată în piept, exact în mijlocul nopții, și prima ta reacție a fost să&#8230; Articolul Durerea în piept: când poate fi de la inimă și când nu trebuie ignorată apare prima dată în Recomandari Medicale .",
       "published": "2026-06-30T04:48:38+00:00",
       "published_human": "2026-06-30T04:48",
-      "source": "https://recomandari-medicale.ro/"
-    },
-    {
-      "title": "De ce tot mai mulți brașoveni ajung la dentist doar când apare durerea",
-      "link": "https://recomandari-medicale.ro/de-ce-tot-mai-multi-brasoveni-ajung-la-dentist-doar-cand-apare-durerea/",
-      "summary": "Există un moment pe care aproape orice medic stomatolog îl cunoaște foarte bine. Telefonul sună, iar la celălalt capăt al&#8230; Articolul De ce tot mai mulți brașoveni ajung la dentist doar când apare durerea apare prima dată în Recomandari Medicale .",
-      "published": "2026-06-26T05:31:00+00:00",
-      "published_human": "2026-06-26T05:31",
       "source": "https://recomandari-medicale.ro/"
     }
   ],

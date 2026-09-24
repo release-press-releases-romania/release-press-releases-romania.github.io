@@ -7,9 +7,17 @@
     "rss": "https://sanatate-mentala.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-09-24T10:13:07.471157+00:00",
+  "updated_at": "2026-09-24T15:16:36.080401+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Premieră în România: primul hackathon multidisciplinar dedicat soluțiilor pentru siguranța elevilor",
+      "link": "https://sanatate-mentala.ro/premiera-in-romania-primul-hackathon-multidisciplinar-dedicat-solutiilor-pentru-siguranta-elevilor/",
+      "summary": "Pe 10 octombrie, la București, elevi, profesori, specialiști și mentori vor lucra &#238;mpreună pornind de... Articolul Premieră în România: primul hackathon multidisciplinar dedicat soluțiilor pentru siguranța elevilor apare prima dată în Sanatate Mentala .",
+      "published": "2026-09-24T10:29:17+00:00",
+      "published_human": "2026-09-24T10:29",
+      "source": "https://sanatate-mentala.ro/"
+    },
     {
       "title": "Novo Nordisk intră într-o nouă etapă de dezvoltare, susținută de rebrandingul „Novo” și de actualizarea culturii organizaționale",
       "link": "https://sanatate-mentala.ro/novo-nordisk-intra-intr-o-noua-etapa-de-dezvoltare-sustinuta-de-rebrandingul-novo-si-de-actualizarea-culturii-organizationale/",
@@ -96,14 +104,6 @@
       "summary": "Înainte de a discuta despre rolul terapiei, este important să înțelegem contextul în care trăim.... Articolul Echilibrul mental în era vitezei: Avantajele terapiei pe termen lung apare prima dată în Sanatate Mentala .",
       "published": "2026-03-19T12:54:44+00:00",
       "published_human": "2026-03-19T12:54",
-      "source": "https://sanatate-mentala.ro/"
-    },
-    {
-      "title": "Tehnologie cu suflet: Asociatia CONIL a facut pasul spre digitalizare prin PNRR pentru a fi mai aproape de copiii cu nevoi speciale",
-      "link": "https://sanatate-mentala.ro/tehnologie-cu-suflet-asociatia-conil-a-facut-pasul-spre-digitalizare-prin-pnrr-pentru-a-fi-mai-aproape-de-copiii-cu-nevoi-speciale/",
-      "summary": "Asociatia CENTRUL DE PERFORMANTA BEFORE &#38; AFTER SCHOOL CONIL anunta cu bucurie si recunostinta apropierea... Articolul Tehnologie cu suflet: Asociatia CONIL a facut pasul spre digitalizare prin PNRR pentru a fi mai aproape de copiii cu nevoi speciale apare prima dată în Sanatate Mentala .",
-      "published": "2026-02-25T10:31:27+00:00",
-      "published_human": "2026-02-25T10:31",
       "source": "https://sanatate-mentala.ro/"
     }
   ],

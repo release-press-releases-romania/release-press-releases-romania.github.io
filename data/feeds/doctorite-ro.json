@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@DoctoriteBlog",
     "rss": "https://social.5th.ro/@DoctoriteBlog.rss"
   },
-  "updated_at": "2026-09-24T10:13:07.471157+00:00",
+  "updated_at": "2026-09-24T15:16:36.080401+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "A doua opinie de la un medic din străinătate: cum îi trimiți analizele ca să le poată citi",
+      "link": "https://doctorite.ro/doua-opinie-analize-medicale/",
+      "summary": "Descopera pasii esentiali pentru a trimite analizele tale unui medic din strainatate, asigurandu-te ca documentele sunt complete si corect traduse. Articolul A doua opinie de la un medic din străinătate: cum îi trimiți analizele ca să le poată citi apare prima dată în Doctorite .",
+      "published": "2026-09-24T10:37:42+00:00",
+      "published_human": "2026-09-24T10:37",
+      "source": "https://doctorite.ro/"
+    },
     {
       "title": "Neuropatia diabetică: simptomele care trebuie evaluate și rolul electromiografiei",
       "link": "https://doctorite.ro/neuropatia-diabetica-simptomele-care-trebuie-evaluate-si-rolul-electromiografiei/",
@@ -84,17 +92,17 @@
       "published": "2026-07-31T08:32:01+00:00",
       "published_human": "2026-07-31T08:32",
       "source": "https://doctorite.ro/"
-    },
-    {
-      "title": "Cum să te pregătești pentru o ședință cu un psiholog online din confortul casei tale",
-      "link": "https://doctorite.ro/cum-sa-te-pregatesti-pentru-o-sedinta-cu-un-psiholog-online-din-confortul-casei-tale/",
-      "summary": "Mutarea cabinetului psihologic direct în sufrageria sau biroul tău vine la pachet cu un nivel... Articolul Cum să te pregătești pentru o ședință cu un psiholog online din confortul casei tale apare prima dată în Doctorite .",
-      "published": "2026-07-09T07:45:04+00:00",
-      "published_human": "2026-07-09T07:45",
-      "source": "https://doctorite.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@DoctoriteBlog/117325579269584313",
+      "summary": "Descopera pasii esentiali pentru a trimite analizele tale unui medic din strainatate, asigurandu-te ca documentele sunt complete si corect traduse. https:// doctorite.ro/doua-opinie-anali ze-medicale/",
+      "published": "2026-09-24T10:37:45+00:00",
+      "published_human": "2026-09-24T10:37",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@DoctoriteBlog/117302917677280287",
@@ -181,14 +189,6 @@
       "summary": "Asociația Stop Ambroziei organizează sâmbătă, 13 iunie, între orele 08:00 și 14:00, o acțiune de curățare a ambroziei din Parcul Natural Văcărești, în parteneriat cu Administrația Parcului Natural Văcărești și Primăria Capitalei. Acțiunea este prima dintr-o serie de intervenții programate de Asociația Stop Ambroziei în luna iunie, o perioadă-cheie pentru combaterea plantei. https:// doctorite.ro/ambrozia-trebuie- smulsa-acum-apel-la-voluntari-pentru-actiune-de-curatare-in-parcul-natural-vacaresti/",
       "published": "2026-06-10T13:13:16+00:00",
       "published_human": "2026-06-10T13:13",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@DoctoriteBlog/116556690216634337",
-      "summary": "Stai de sase luni cu trimiterea pentru RMN in portofel. O tot muti dintr-un loc in altul cand cauti chitanta de la farmacie sau cardul de transport. Medicul a spus &quot;la un moment dat&quot;, tu ai tradus asta prin &quot;cand am eu timp&quot;, iar &quot;cand am eu timp&quot; s-a transformat, incet-incet, in niciodata. Nu esti… https:// doctorite.ro/investigatia-pe-c are-o-tot-amani-de-ce-rmn-ul-sau-ct-ul-din-bucuresti-nu-trebuie-sa-fie-un-cosmar-logistic/",
-      "published": "2026-05-11T15:39:09+00:00",
-      "published_human": "2026-05-11T15:39",
       "source": "Mastodon"
     }
   ]
