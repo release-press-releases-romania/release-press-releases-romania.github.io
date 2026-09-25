@@ -7,9 +7,17 @@
     "rss": "https://ghid-sanatate.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-09-25T13:56:59.285994+00:00",
+  "updated_at": "2026-09-25T18:44:07.527634+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Cum îți susții echilibrul digestiv în perioadele aglomerate: ghidul Doctor Cip pentru o digestie ușoară",
+      "link": "https://ghid-sanatate.ro/digestie-usoara-perioadele-aglomerate/",
+      "summary": "Descopera obiceiuri simple pentru o digestie usoara in perioadele aglomerate, de la hidratare la mestecare atenta, fara eforturi majore. Articolul Cum îți susții echilibrul digestiv în perioadele aglomerate: ghidul Doctor Cip pentru o digestie ușoară apare prima dată în Ghid Sanatate .",
+      "published": "2026-09-25T15:40:52+00:00",
+      "published_human": "2026-09-25T15:40",
+      "source": "https://ghid-sanatate.ro/"
+    },
     {
       "title": "Acidul hialuronic injectabil: ce este, cum acționează și când poate fi utilizat?",
       "link": "https://ghid-sanatate.ro/acid-hialuronic-injectabil/",
@@ -96,14 +104,6 @@
       "summary": "Te trezești după opt ore de somn și simți că ai lucrat o tură dublă... Articolul Tiroida leneșă: semne care pot fi confundate cu oboseala obișnuită apare prima dată în Ghid Sanatate .",
       "published": "2026-06-30T05:14:20+00:00",
       "published_human": "2026-06-30T05:14",
-      "source": "https://ghid-sanatate.ro/"
-    },
-    {
-      "title": "Când ai nevoie de un chirurg specialist în București și ce simptome nu trebuie ignorate",
-      "link": "https://ghid-sanatate.ro/cand-ai-nevoie-de-un-chirurg-specialist-in-bucuresti-si-ce-simptome-nu-trebuie-ignorate/",
-      "summary": "Articol informativ pentru pacienți din București: Când ai nevoie de un chirurg specialist și ce simptome nu trebuie ignorate. Consultează Dr. Bogdan Serban. Articolul Când ai nevoie de un chirurg specialist în București și ce simptome nu trebuie ignorate apare prima dată în Ghid Sanatate .",
-      "published": "2026-06-23T08:05:55+00:00",
-      "published_human": "2026-06-23T08:05",
       "source": "https://ghid-sanatate.ro/"
     }
   ],
