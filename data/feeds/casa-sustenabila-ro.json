@@ -7,9 +7,17 @@
     "rss": "https://casa-sustenabila.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-09-26T13:13:50.677877+00:00",
+  "updated_at": "2026-09-26T17:16:56.625994+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Scenariul tipic al unei reparații costisitoare",
+      "link": "https://casa-sustenabila.ro/scenariul-tipic-al-unei-reparatii-costisitoare/",
+      "summary": "Cum se reduce costul unei reparații de hidroizolație de la zeci de mii de euro la câteva sute Articolul Scenariul tipic al unei reparații costisitoare apare prima dată în Casa Sustenabila .",
+      "published": "2026-09-26T15:58:00+00:00",
+      "published_human": "2026-09-26T15:58",
+      "source": "https://casa-sustenabila.ro/"
+    },
     {
       "title": "Cum câștigi spațiu într-un living mic fără să dărâmi niciun perete",
       "link": "https://casa-sustenabila.ro/spatiu-intr-un-living-mic/",
@@ -96,14 +104,6 @@
       "summary": "Aspiratoarele wireless oferă libertate de mișcare, utilizare rapidă și flexibilitate, fiind ideale pentru curățenia zilnică fără cabluri incomode. Articolul Ce avantaje au aspiratoarele wireless apare prima dată în Casa Sustenabila .",
       "published": "2026-04-26T12:47:00+00:00",
       "published_human": "2026-04-26T12:47",
-      "source": "https://casa-sustenabila.ro/"
-    },
-    {
-      "title": "Cum integrezi un televizor în casa inteligentă?",
-      "link": "https://casa-sustenabila.ro/cum-integrezi-un-televizor-in-casa-inteligenta/",
-      "summary": "Integrarea unui televizor în casa inteligentă se face prin conectarea acestuia la rețeaua Wi-Fi, utilizarea unei platforme smart Articolul Cum integrezi un televizor în casa inteligentă? apare prima dată în Casa Sustenabila .",
-      "published": "2026-04-25T08:39:00+00:00",
-      "published_human": "2026-04-25T08:39",
       "source": "https://casa-sustenabila.ro/"
     }
   ],
