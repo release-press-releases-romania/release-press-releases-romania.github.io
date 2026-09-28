@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@recent_news",
     "rss": "https://social.5th.ro/@recent_news.rss"
   },
-  "updated_at": "2026-09-28T15:39:00.240717+00:00",
+  "updated_at": "2026-09-28T22:09:10.131522+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Plata în rate la încălțăminte: când are sens și ce verifici înainte să alegi opțiunea",
+      "link": "https://recent-news.ro/plata-in-rate-la-incaltaminte/",
+      "summary": "Descopera cum sa compari costul total al ratelor cu pretul integral si ce verifici la DAE si comisioane inainte sa alegi aceasta optiune de plata. Articolul Plata în rate la încălțăminte: când are sens și ce verifici înainte să alegi opțiunea apare prima dată în Recent News .",
+      "published": "2026-09-28T17:03:20+00:00",
+      "published_human": "2026-09-28T17:03",
+      "source": "https://recent-news.ro/"
+    },
     {
       "title": "Premieră în România: primul hackathon multidisciplinar dedicat soluțiilor pentru siguranța elevilor",
       "link": "https://recent-news.ro/premiera-in-romania-primul-hackathon-multidisciplinar-dedicat-solutiilor-pentru-siguranta-elevilor/",
@@ -84,17 +92,17 @@
       "published": "2026-06-22T12:42:27+00:00",
       "published_human": "2026-06-22T12:42",
       "source": "https://recent-news.ro/"
-    },
-    {
-      "title": "cățeluși rase mici de companie – https://tinytreasuresteacups.",
-      "link": "https://recent-news.ro/catelusi-rase-mici-de-companie-https-tinytreasuresteacups/",
-      "summary": "cățeluși rase mici de companie &#8211; https://tinytreasuresteacups.com/ro/ De ce rasele mici de companie sunt tot mai populare Interesul pentru cățeluși&#8230; Articolul cățeluși rase mici de companie &#8211; https://tinytreasuresteacups. apare prima dată în Recent News .",
-      "published": "2026-06-17T03:00:09+00:00",
-      "published_human": "2026-06-17T03:00",
-      "source": "https://recent-news.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@recent_news/117349744833668941",
+      "summary": "Descopera cum sa compari costul total al ratelor cu pretul integral si ce verifici la DAE si comisioane inainte sa alegi aceasta optiune de plata. https:// recent-news.ro/plata-in-rate-l a-incaltaminte/",
+      "published": "2026-09-28T17:03:22+00:00",
+      "published_human": "2026-09-28T17:03",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@recent_news/117326302982758487",
@@ -181,14 +189,6 @@
       "summary": "Piața rezidențială premium din București s-a schimbat semnificativ în ultimii ani. Dacă în trecut cumpărătorii puneau accent în primul rând pe suprafața locuinței și pe preț, în prezent criteriile de selecție sunt mult mai complexe. Zona în care este amplasată proprietatea, apropierea de centrele de afaceri, existența spațiilor verzi, calitatea construcției și potențialul investițional sunt… https:// recent-news.ro/ce-caracteristi ci-definesc-o-investitie-imobiliara-premium-in-bucuresti/",
       "published": "2026-06-18T13:14:20+00:00",
       "published_human": "2026-06-18T13:14",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@recent_news/116763924004875182",
-      "summary": "cățeluși rase mici de companie - https:// tinytreasuresteacups.com/ro/De ce rasele mici de companie sunt tot mai populareInteresul pentru cățeluși rase mici de companie a crescut puternic în România în ultimii ani, în special în mediul urban. Stilul de viață modern, locuințele de tip apartament și programul încărcat au făcut ca tot mai mulți oameni să prefere… https:// recent-news.ro/catelusi-rase-m ici-de-companie-https-tinytreasuresteacups/",
-      "published": "2026-06-17T06:01:26+00:00",
-      "published_human": "2026-06-17T06:01",
       "source": "Mastodon"
     }
   ]

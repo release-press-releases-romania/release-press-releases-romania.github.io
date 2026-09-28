@@ -7,9 +7,17 @@
     "rss": "https://case-verzi.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-09-28T15:39:00.240717+00:00",
+  "updated_at": "2026-09-28T22:09:10.131522+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "De ce centrele comerciale sunt vulnerabile la acest tip de risc",
+      "link": "https://case-verzi.ro/de-ce-centrele-comerciale-sunt-vulnerabile-la-acest-tip-de-risc/",
+      "summary": "Ce se întâmplă cu un centru comercial dacă o infiltrație obligă la închiderea unei zone Un centru comercial funcționează pe baza unui flux constant de vizitatori și a unor contracte&#8230; Articolul De ce centrele comerciale sunt vulnerabile la acest tip de risc apare prima dată în Case Verzi .",
+      "published": "2026-09-28T15:55:00+00:00",
+      "published_human": "2026-09-28T15:55",
+      "source": "https://case-verzi.ro/"
+    },
     {
       "title": "Casă eficientă energetic: ce verifici înainte de cumpărare",
       "link": "https://case-verzi.ro/casa-eficienta-energetic-verificari-cumparare/",
@@ -80,14 +88,6 @@
       "summary": "La un sistem fotovoltaic, proiectarea pune invariabil în centrul discuției panourile și invertorul. În teren, însă, diferența dintre un montaj care arată bine în ziua instalării și unul care rămâne&#8230; Articolul Cum te ajută mini rail cu bandă EPDM la etanșarea și protecția acoperișului apare prima dată în Case Verzi .",
       "published": "2026-01-28T12:13:26+00:00",
       "published_human": "2026-01-28T12:13",
-      "source": "https://case-verzi.ro/"
-    },
-    {
-      "title": "Certificatul energetic și standardele NZEB pentru clădiri noi",
-      "link": "https://case-verzi.ro/certificatul-energetic-si-standardele-nzeb-pentru-cladiri-noi/",
-      "summary": "Certificatul de performanță energetică a evoluat de la un simplu document administrativ la un instrument esențial în evaluarea și tranzacționarea imobilelor din România. În contextul reglementărilor europene din ce în&#8230; Articolul Certificatul energetic și standardele NZEB pentru clădiri noi apare prima dată în Case Verzi .",
-      "published": "2026-01-12T12:26:23+00:00",
-      "published_human": "2026-01-12T12:26",
       "source": "https://case-verzi.ro/"
     }
   ],
