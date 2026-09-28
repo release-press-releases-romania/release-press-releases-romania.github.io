@@ -7,9 +7,17 @@
     "rss": "https://ghid-sanatate.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-09-28T00:59:36.490822+00:00",
+  "updated_at": "2026-09-28T07:04:06.243587+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Cupa nu este doza: ce citești pe eticheta creatinei monohidrate înainte de prima porție",
+      "link": "https://ghid-sanatate.ro/cupa-nu-este-doza-ce-citesti-pe-eticheta-creatinei-monohidrate-inainte-de-prima-portie/",
+      "summary": "O etichetă bună îți spune mai mult decât numele suplimentului. Îți arată ce iei, cât... Articolul Cupa nu este doza: ce citești pe eticheta creatinei monohidrate înainte de prima porție apare prima dată în Ghid Sanatate .",
+      "published": "2026-09-28T06:43:41+00:00",
+      "published_human": "2026-09-28T06:43",
+      "source": "https://ghid-sanatate.ro/"
+    },
     {
       "title": "Cum îți susții echilibrul digestiv în perioadele aglomerate: ghidul Doctor Cip pentru o digestie ușoară",
       "link": "https://ghid-sanatate.ro/digestie-usoara-perioadele-aglomerate/",
@@ -96,14 +104,6 @@
       "summary": "În stomatologie, una dintre cele mai frecvente întrebări pe care le pun pacienții este dacă... Articolul Când ai nevoie de implant dentar și când se mai poate salva dintele? apare prima dată în Ghid Sanatate .",
       "published": "2026-06-30T05:15:49+00:00",
       "published_human": "2026-06-30T05:15",
-      "source": "https://ghid-sanatate.ro/"
-    },
-    {
-      "title": "Tiroida leneșă: semne care pot fi confundate cu oboseala obișnuită",
-      "link": "https://ghid-sanatate.ro/tiroida-lenesa-semne-care-pot-fi-confundate-cu-oboseala-obisnuita/",
-      "summary": "Te trezești după opt ore de somn și simți că ai lucrat o tură dublă... Articolul Tiroida leneșă: semne care pot fi confundate cu oboseala obișnuită apare prima dată în Ghid Sanatate .",
-      "published": "2026-06-30T05:14:20+00:00",
-      "published_human": "2026-06-30T05:14",
       "source": "https://ghid-sanatate.ro/"
     }
   ],
