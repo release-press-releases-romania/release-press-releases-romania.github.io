@@ -5,8 +5,8 @@
     <link>https://release-press-releases-romania.github.io</link>
     <description>Aggregated RSS feed of press releases from over 100 Romanian publishers. Covering PR &amp; Marketing, Health, News &amp; Society, Technology, Business, Construction, Tourism, and more. Curated selection of quality press releases from trusted Romanian sources.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Sep 2026 11:52:28 +0000</lastBuildDate>
-    <pubDate>Tue, 29 Sep 2026 11:52:28 +0000</pubDate>
+    <lastBuildDate>Tue, 29 Sep 2026 17:20:54 +0000</lastBuildDate>
+    <pubDate>Tue, 29 Sep 2026 17:20:54 +0000</pubDate>
     <generator>Release Press Releases in Romania RSS Aggregator v2.0</generator>
     <webMaster>noreply@release-press-releases-romania.github.io (Release Press Releases)</webMaster>
     <managingEditor>noreply@release-press-releases-romania.github.io (Release Press Releases)</managingEditor>
@@ -28,6 +28,20 @@
     <sy:updateFrequency>1</sy:updateFrequency>
     <copyright>Copyright 2026 Release Press Releases in Romania. Content belongs to respective publishers.</copyright>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Noua platformă Simplio3D pentru configuratoare 3D de produse</title>
+      <link>https://e-it.ro/simplio3d-configurator-3d/</link>
+      <description><![CDATA[From E It: Platforma permite definirea variantelor si a regulilor de compatibilitate direct in editor, reducand nevoia de programare. Articolul Noua platformă Simplio3D pentru configuratoare 3D de produse apare prima dată în e-it.ro – Știri inteligente din lumea tehnologiei.]]></description>
+      <pubDate>Tue, 29 Sep 2026 14:07:25 +0000</pubDate>
+      <author>E It (https://release-press-releases-romania.github.io/publisher/e-it-ro/)</author>
+      <dc:creator>E It</dc:creator>
+      <dc:date>2026-09-29T14:07:25+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">Technology &amp; Energy</category>
+      <guid isPermaLink="true">https://e-it.ro/simplio3d-configurator-3d/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/e-it-ro/">E It</source>
+      <content:encoded><![CDATA[From E It: Platforma permite definirea variantelor si a regulilor de compatibilitate direct in editor, reducand nevoia de programare. Articolul Noua platformă Simplio3D pentru configuratoare 3D de produse apare prima dată în e-it.ro – Știri inteligente din lumea tehnologiei.]]></content:encoded>
+      <comments>https://e-it.ro/simplio3d-configurator-3d/#comments</comments>
+    </item>
     <item>
       <title>Telefon second hand sau recondiționat: cum alegi?</title>
       <link>https://eratehnologica.ro/telefon-second-hand-sau-reconditionat/</link>
@@ -1987,20 +2001,6 @@
       <source url="https://release-press-releases-romania.github.io/publisher/panourifotovoltaice360-ro/">Panourifotovoltaice360</source>
       <content:encoded><![CDATA[From Panourifotovoltaice360: Tumori de intestin subțire: semne posibile și opțiuni de tratament În sector 2, Dr. Bogdan Serban, Chirurgie generală, planificarea tumori intestin subțire se face după consult individual. Evaluarea personalizată rămâne esențială; informațiile de mai jos au rol orientativ și nu înlocuiesc consultația sau evaluarea de specialitate. Pașii următori se stabilesc în funcție de simptome, investigații...]]></content:encoded>
       <comments>https://panourifotovoltaice360.ro/tumori-de-intestin-subtire-semne-posibile-si-optiuni-de-tratament/#comments</comments>
-    </item>
-    <item>
-      <title>Cum publici un anunț gratuit online fără să pierzi timp cu întrebări inutile</title>
-      <link>https://e-it.ro/cum-publici-anunt-gratuit-online-fara-intrebari-inutile/</link>
-      <description><![CDATA[From E It: Un ghid practic despre cum publici un anunț gratuit online care răspunde din start la întrebările cumpărătorului și reduce mesajele inutile. Articolul Cum publici un anunț gratuit online fără să pierzi timp cu întrebări inutile apare prima dată în e-it.ro – Știri inteligente din lumea tehnologiei.]]></description>
-      <pubDate>Sun, 14 Jun 2026 09:50:39 +0000</pubDate>
-      <author>E It (https://release-press-releases-romania.github.io/publisher/e-it-ro/)</author>
-      <dc:creator>E It</dc:creator>
-      <dc:date>2026-06-14T09:50:39+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">Technology &amp; Energy</category>
-      <guid isPermaLink="true">https://e-it.ro/cum-publici-anunt-gratuit-online-fara-intrebari-inutile/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/e-it-ro/">E It</source>
-      <content:encoded><![CDATA[From E It: Un ghid practic despre cum publici un anunț gratuit online care răspunde din start la întrebările cumpărătorului și reduce mesajele inutile. Articolul Cum publici un anunț gratuit online fără să pierzi timp cu întrebări inutile apare prima dată în e-it.ro – Știri inteligente din lumea tehnologiei.]]></content:encoded>
-      <comments>https://e-it.ro/cum-publici-anunt-gratuit-online-fara-intrebari-inutile/#comments</comments>
     </item>
     <item>
       <title>Cum alegi locuința ideală în București: soluții moderne pentru un stil de viață premium</title>
