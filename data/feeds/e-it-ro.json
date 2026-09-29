@@ -7,9 +7,17 @@
     "rss": "https://e-it.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-09-29T08:43:25.989027+00:00",
+  "updated_at": "2026-09-29T15:59:39.240027+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Noua platformă Simplio3D pentru configuratoare 3D de produse",
+      "link": "https://e-it.ro/simplio3d-configurator-3d/",
+      "summary": "Platforma permite definirea variantelor si a regulilor de compatibilitate direct in editor, reducand nevoia de programare. Articolul Noua platformă Simplio3D pentru configuratoare 3D de produse apare prima dată în e-it.ro – Știri inteligente din lumea tehnologiei .",
+      "published": "2026-09-29T14:07:25+00:00",
+      "published_human": "2026-09-29T14:07",
+      "source": "https://e-it.ro/"
+    },
     {
       "title": "Ce se întâmplă cu sistemul de securitate când pică internetul: soluțiile de backup explicate de Spy Shop",
       "link": "https://e-it.ro/ce-se-intampla-cu-sistemul-de-securitate-cand-pica-internetul-solutiile-de-backup-explicate-de-spy-shop/",
@@ -80,14 +88,6 @@
       "summary": "Introducere: De ce eșuează campaniile plătite și cum evităm Penalizarea Google? Atenție: Ați investit sume semnificative în campanii de conținut plătit, așteptând un ROI rapid și o creștere a autorității. Cu toate acestea, observați că articolele sponsorizate nu se clasează, iar traficul rămâne la niveluri minime. Sunteți pe cale să aflați de ce se întâmplă... Mai mult &#8220;Cele mai frecvente greșeli în advertoriale SEO în 2025&#8221; &#187; Articolul Cele mai frecvente greșeli în advertoriale SEO în 2025 apare prima dată în e-it.ro – Știri inteligente din lumea tehnologiei .",
       "published": "2025-12-01T12:07:49+00:00",
       "published_human": "2025-12-01T12:07",
-      "source": "https://e-it.ro/"
-    },
-    {
-      "title": "Greșeli tipice ale începătorilor la poker și cum le poți evita",
-      "link": "https://e-it.ro/greseli-tipice-ale-incepatorilor-la-poker-si-cum-le-poti-evita/",
-      "summary": "Atenție: Ai simțit vreodată frustrarea de a pierde rapid jetoane la masa de poker, chiar dacă știai regulile jocului? Nu ești singur. Mulți jucători începători se confruntă cu aceleași capcane la începutul drumului lor. Pierderea banilor la poker nu este doar o chestiune de ghinion. Interes: Majoritatea pierderilor nu vin din șanse nefavorabile, ci din... Mai mult &#8220;Greșeli tipice ale începătorilor la poker și cum le poți evita&#8221; &#187; Articolul Greșeli tipice ale începătorilor la poker și cum le poți evita apare prima dată în e-it.ro – Știri inteligente din lumea tehnologiei .",
-      "published": "2025-11-15T10:03:28+00:00",
-      "published_human": "2025-11-15T10:03",
       "source": "https://e-it.ro/"
     }
   ],
