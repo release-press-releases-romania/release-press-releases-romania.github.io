@@ -7,9 +7,17 @@
     "rss": "https://casa-sustenabila.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-09-30T06:51:47.217635+00:00",
+  "updated_at": "2026-09-30T13:55:55.024077+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "De ce contează calitatea lenjeriei de pat pentru somnul tău",
+      "link": "https://casa-sustenabila.ro/de-ce-conteaza-calitatea-lenjeriei-de-pat-pentru-somnul-tau/",
+      "summary": "Somnul de calitate nu depinde doar de saltea, pernă sau temperatura din dormitor. Lenjeria de pat este un Articolul De ce contează calitatea lenjeriei de pat pentru somnul tău apare prima dată în Casa Sustenabila .",
+      "published": "2026-09-30T12:46:00+00:00",
+      "published_human": "2026-09-30T12:46",
+      "source": "https://casa-sustenabila.ro/"
+    },
     {
       "title": "Scenariul tipic al unei reparații costisitoare",
       "link": "https://casa-sustenabila.ro/scenariul-tipic-al-unei-reparatii-costisitoare/",
@@ -96,14 +104,6 @@
       "summary": "Înțelegerea problemelor biliare: De la primele semne la soluții moderne Te-ai simțit vreodată inconfortabil după o masă mai Articolul Simptomele litiazei biliare și rolul consultului chirurgical apare prima dată în Casa Sustenabila .",
       "published": "2026-05-10T06:30:00+00:00",
       "published_human": "2026-05-10T06:30",
-      "source": "https://casa-sustenabila.ro/"
-    },
-    {
-      "title": "Ce avantaje au aspiratoarele wireless",
-      "link": "https://casa-sustenabila.ro/ce-avantaje-au-aspiratoarele-wireless/",
-      "summary": "Aspiratoarele wireless oferă libertate de mișcare, utilizare rapidă și flexibilitate, fiind ideale pentru curățenia zilnică fără cabluri incomode. Articolul Ce avantaje au aspiratoarele wireless apare prima dată în Casa Sustenabila .",
-      "published": "2026-04-26T12:47:00+00:00",
-      "published_human": "2026-04-26T12:47",
       "source": "https://casa-sustenabila.ro/"
     }
   ],
