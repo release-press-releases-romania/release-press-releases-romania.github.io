@@ -7,9 +7,17 @@
     "rss": "https://irezidential.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-09-30T13:55:55.024077+00:00",
+  "updated_at": "2026-09-30T19:29:30.855808+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "De ce apartamentele cu două camere se vând și se închiriază mai ușor?",
+      "link": "https://irezidential.ro/2026/09/17/de-ce-apartamentele-cu-doua-camere-se-vand-si-se-inchiriaza-mai-usor/",
+      "summary": "Garsoniera poate fi prea mică pentru un cuplu, iar trei camere depășesc bugetul multor persoane care cumpără sau închiriază singure.&#8230; Articolul De ce apartamentele cu două camere se vând și se închiriază mai ușor? apare prima dată în Complex Rezidential .",
+      "published": "2026-09-17T10:21:00+00:00",
+      "published_human": "2026-09-17T10:21",
+      "source": "https://irezidential.ro/"
+    },
     {
       "title": "Cele mai mari avantaje ale unui sistem de control acces pentru locuința ta",
       "link": "https://irezidential.ro/2026/09/17/control-acces-locuinta/",
@@ -96,14 +104,6 @@
       "summary": "Mulți români se regăsesc, la un moment dat, în poziția de a prelua o casă construită acum 20-30 de ani&#8230; Articolul Modernizarea unui hidrofor vechi: cum actualizezi sistemul fără să-l refaci complet apare prima dată în Complex Rezidential .",
       "published": "2026-04-28T07:38:48+00:00",
       "published_human": "2026-04-28T07:38",
-      "source": "https://irezidential.ro/"
-    },
-    {
-      "title": "Cum gestionezi notificările pe Mastodon ca să nu te copleșească",
-      "link": "https://irezidential.ro/2025/12/17/cum-gestionezi-notificarile-pe-mastodon-ca-sa-nu-te-copleseasca/",
-      "summary": "Tranziția către platforme sociale descentralizate, precum Mastodon, a adus cu sine o promisiune de control și libertate. Cu toate acestea,&#8230; Articolul Cum gestionezi notificările pe Mastodon ca să nu te copleșească apare prima dată în Complex Rezidential .",
-      "published": "2025-12-17T16:58:54+00:00",
-      "published_human": "2025-12-17T16:58",
       "source": "https://irezidential.ro/"
     }
   ],
