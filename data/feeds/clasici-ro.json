@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@clasici",
     "rss": "https://social.5th.ro/@clasici.rss"
   },
-  "updated_at": "2026-10-02T05:53:34.228120+00:00",
+  "updated_at": "2026-10-02T12:52:11.464972+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Motoare trifazate cu talpă sau cu flanșă: cum alegi tipul de montaj",
+      "link": "https://clasici.ro/motoare-trifazate-cu-talpa-sau-cu-flansa-cum-alegi-tipul-de-montaj/",
+      "summary": "Ai ales puterea, turația și tensiunea motorului, dar mai rămâne o întrebare: cum îl prinzi...",
+      "published": "2026-10-02T05:27:11+00:00",
+      "published_human": "2026-10-02T05:27",
+      "source": "https://clasici.ro/"
+    },
     {
       "title": "AMOLED vs. OLED vs. TFT/LCD: Care e diferența, ce ecran este mai rezistent și de ce au toate nevoie de protecție?",
       "link": "https://clasici.ro/amoled-vs-oled-vs-tft-lcd-care-e-diferenta-ce-ecran-este-mai-rezistent-si-de-ce-au-toate-nevoie-de-protectie/",
@@ -100,17 +108,17 @@
       "published": "2025-12-17T16:58:54+00:00",
       "published_human": "2025-12-17T16:58",
       "source": "https://clasici.ro/"
-    },
-    {
-      "title": "Diagnosticarea problemelor la sistemul 4×4 și unitatea Haldex",
-      "link": "https://clasici.ro/diagnosticarea-problemelor-la-sistemul-4x4-si-unitatea-haldex/",
-      "summary": "Sistemele de tracțiune integrală care echipează modelele Range Rover moderne, în special cele compacte precum...",
-      "published": "2025-12-16T08:45:42+00:00",
-      "published_human": "2025-12-16T08:45",
-      "source": "https://clasici.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@clasici/117371275396695923",
+      "summary": "⭐Ai ales puterea, turația și tensiunea motorului, dar mai rămâne o întrebare: cum îl prinzi efectiv de utilaj? Două motoare cu caracteristici electrice similare pot avea sisteme de montaj diferite, iar alegerea greșită te poate obliga să modifici cadrul utilajului sau sistemul de cuplare. În practică, diferența este # compatibilitatemecanica # Comunicat # cuplaj # montajpeflansa # montajpetalpa # motoaretrifazate ⭐ https:// clasici.ro/motoare-trifazate-c u-talpa-sau-cu-flansa-cum-alegi-tipul-de-montaj/",
+      "published": "2026-10-02T12:18:53+00:00",
+      "published_human": "2026-10-02T12:18",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@clasici/117366430979849678",
@@ -197,14 +205,6 @@
       "summary": "⭐De Ce Conținutul Tău WordPress Merită Mai Mult: Extinderea Pe Mastodon V-ați săturat de algoritmii rețelelor sociale centralizate? Sunteți frustrat că efortul depus în blogul dumneavoastră pe WordPress nu ajunge la audiența potrivită? Nu sunteți singur. Mulți creatori de conținut caută o cale de ieșire din capcana engagement-ului manipulat. O soluție descentralizată a câștigat teren… ⭐ https:// clasici.ro/mastodon-wordpress- cum-postezi-pe-mai-multe-instante-cand-ai-nevoie/",
       "published": "2025-12-17T19:47:23+00:00",
       "published_human": "2025-12-17T19:47",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@clasici/115728367250146033",
-      "summary": "⭐Sistemele de tracțiune integrală care echipează modelele Range Rover moderne, în special cele compacte precum Evoque sau Discovery Sport, se bazează pe tehnologia avansată a cuplajului Haldex pentru a livra performanța off-road promisă. Această unitate electro-hidraulică gestionează transferul de cuplu către puntea spate, asigurând aderența pe suprafețe alunecoase și stabilitatea în viraje.Cu toate acestea, ⭐ https:// clasici.ro/diagnosticarea-prob lemelor-la-sistemul-4x4-si-unitatea-haldex/",
-      "published": "2025-12-16T08:45:44+00:00",
-      "published_human": "2025-12-16T08:45",
       "source": "Mastodon"
     }
   ]

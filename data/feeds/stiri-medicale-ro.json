@@ -7,9 +7,17 @@
     "rss": "https://stiri-medicale.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-10-02T05:53:34.228120+00:00",
+  "updated_at": "2026-10-02T12:52:11.464972+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Pastila Wegovy®: scădere medie de 4,1% în greutate după trei luni la persoanele care au trecut de la tratamente injectabile",
+      "link": "https://stiri-medicale.ro/pastila-wegovy-scadere-medie-de-41-in-greutate-dupa-trei-luni-la-persoanele-care-au-trecut-de-la-tratamente-injectabile/",
+      "summary": "Persoanele care au trecut de la tratamente injectabile pentru managementul greutății la pastila Wegovy&#174; au &#238;nregistrat o scădere medie de&#8230; Articolul Pastila Wegovy®: scădere medie de 4,1% în greutate după trei luni la persoanele care au trecut de la tratamente injectabile apare prima dată în Stiri Medicale .",
+      "published": "2026-10-02T07:10:40+00:00",
+      "published_human": "2026-10-02T07:10",
+      "source": "https://stiri-medicale.ro/"
+    },
     {
       "title": "Ce presupune procedura SMILE la Ama Optimex pentru corectarea viciilor de refracție și cum decurge perioada postoperatorie?",
       "link": "https://stiri-medicale.ro/procedura-smile-ama-optimex/",
@@ -96,14 +104,6 @@
       "summary": "Genunchiul este un organ foarte sensibil la orice lovituri, șocuri, schimbări apărute la nivelul țesuturilor interne. Durerea de genunchi apare&#8230; Articolul Simptome: Semnele care indică o ruptură de menisc, nu doar o entorsă apare prima dată în Stiri Medicale .",
       "published": "2026-05-19T05:53:01+00:00",
       "published_human": "2026-05-19T05:53",
-      "source": "https://stiri-medicale.ro/"
-    },
-    {
-      "title": "Tratamentul Wegovy® generează o scădere în greutate de până la 22,6% la femei în perioada menopauzei și reduce la jumătate riscul de migrene",
-      "link": "https://stiri-medicale.ro/tratamentul-wegovy-genereaza-o-scadere-in-greutate-de-pana-la-226-la-femei-in-perioada-menopauzei-si-reduce-la-jumatate-riscul-de-migrene/",
-      "summary": "Obezitatea afectează &#238;n prezent aproape 1 din 5 femei la nivel global, iar provocările devin și mai mari &#238;n perioada&#8230; Articolul Tratamentul Wegovy® generează o scădere în greutate de până la 22,6% la femei în perioada menopauzei și reduce la jumătate riscul de migrene apare prima dată în Stiri Medicale .",
-      "published": "2026-05-13T14:59:00+00:00",
-      "published_human": "2026-05-13T14:59",
       "source": "https://stiri-medicale.ro/"
     }
   ],
