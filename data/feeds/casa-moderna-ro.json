@@ -7,9 +7,17 @@
     "rss": "https://casa-moderna.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-10-01T23:58:14.419993+00:00",
+  "updated_at": "2026-10-02T05:53:34.228120+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "De ce merită să te gândești acum la eficiența energetică a bucătăriei",
+      "link": "https://casa-moderna.ro/eficienta-energetica-a-bucatariei/",
+      "summary": "Inveleste sa citesti consumul anual al electrocasnicelor si sa eviti greselile de amplasare care umfla factura. Afla cand merita sa inlocuiesti un aparat vechi. Articolul De ce merită să te gândești acum la eficiența energetică a bucătăriei apare prima dată în Casa Moderna .",
+      "published": "2026-10-02T05:34:24+00:00",
+      "published_human": "2026-10-02T05:34",
+      "source": "https://casa-moderna.ro/"
+    },
     {
       "title": "Secretele unei lenjerii de pat moi și plăcute la atingere",
       "link": "https://casa-moderna.ro/secretele-unei-lenjerii-de-pat-moi-si-placute-la-atingere/",
@@ -96,14 +104,6 @@
       "summary": "Ferestrele orientate spre soare, apartamentele aflate la etaje superioare sau casele expuse la vânt au nevoie de protecție montată pe&#8230; Articolul Rulouri exterioare Comfortex pentru ferestre expuse la soare, vânt și zgomot apare prima dată în Casa Moderna .",
       "published": "2026-06-04T19:42:56+00:00",
       "published_human": "2026-06-04T19:42",
-      "source": "https://casa-moderna.ro/"
-    },
-    {
-      "title": "Cum schimbă AI electrocasnicele moderne?",
-      "link": "https://casa-moderna.ro/cum-schimba-ai-electrocasnicele-moderne/",
-      "summary": "În 2026, AI schimbă electrocasnicele moderne prin faptul că le face mai ușor de folosit, mai conectate și mai adaptate&#8230; Articolul Cum schimbă AI electrocasnicele moderne? apare prima dată în Casa Moderna .",
-      "published": "2026-05-20T07:44:00+00:00",
-      "published_human": "2026-05-20T07:44",
       "source": "https://casa-moderna.ro/"
     }
   ],
