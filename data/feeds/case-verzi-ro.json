@@ -7,9 +7,17 @@
     "rss": "https://case-verzi.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-10-05T07:12:28.502097+00:00",
+  "updated_at": "2026-10-05T16:12:00.280237+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Certificatul energetic la vânzarea unei locuințe: ce arată clasa și cum o citești",
+      "link": "https://case-verzi.ro/certificatul-energetic-la-vanzarea-unei-locuinte-ce-arata-clasa-si-cum-o-citesti/",
+      "summary": "Când cauți o locuință, anunțul îți spune de obicei suprafața, numărul de camere și prețul. Un detaliu care ar trebui să apară alături de ele e clasa energetică. Ea arată&#8230; Articolul Certificatul energetic la vânzarea unei locuințe: ce arată clasa și cum o citești apare prima dată în Case Verzi .",
+      "published": "2026-10-05T08:59:59+00:00",
+      "published_human": "2026-10-05T08:59",
+      "source": "https://case-verzi.ro/"
+    },
     {
       "title": "De ce centrele comerciale sunt vulnerabile la acest tip de risc",
       "link": "https://case-verzi.ro/de-ce-centrele-comerciale-sunt-vulnerabile-la-acest-tip-de-risc/",
@@ -80,14 +88,6 @@
       "summary": "Tehnologia smart te ajută să controlezi mai bine încălzirea și confortul iarna. Se bazează pe senzori și reguli automate, setate simplu. 1. Ce înseamnă / Ce este O casă pregătită&#8230; Articolul Cum pregătești casa pentru sezonul rece cu tehnologie smart: senzori, automatizări și scenarii apare prima dată în Case Verzi .",
       "published": "2026-02-07T10:01:00+00:00",
       "published_human": "2026-02-07T10:01",
-      "source": "https://case-verzi.ro/"
-    },
-    {
-      "title": "Cum te ajută mini rail cu bandă EPDM la etanșarea și protecția acoperișului",
-      "link": "https://case-verzi.ro/mini-rail/",
-      "summary": "La un sistem fotovoltaic, proiectarea pune invariabil în centrul discuției panourile și invertorul. În teren, însă, diferența dintre un montaj care arată bine în ziua instalării și unul care rămâne&#8230; Articolul Cum te ajută mini rail cu bandă EPDM la etanșarea și protecția acoperișului apare prima dată în Case Verzi .",
-      "published": "2026-01-28T12:13:26+00:00",
-      "published_human": "2026-01-28T12:13",
       "source": "https://case-verzi.ro/"
     }
   ],

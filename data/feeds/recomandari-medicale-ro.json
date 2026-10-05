@@ -7,9 +7,17 @@
     "rss": "https://recomandari-medicale.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-10-05T07:12:28.502097+00:00",
+  "updated_at": "2026-10-05T16:12:00.280237+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Cum să gestionezi prezbiopia și ce soluții există pentru a scăpa de ochelarii de citit",
+      "link": "https://recomandari-medicale.ro/prezbiopia-solutii-ochelarii-de-citit/",
+      "summary": "Presbiopia afecteaza vederea de aproape dupa 40 de ani. Iti prezentam solutii pentru a gestiona simptomele si a reduce nevoia de corectie optica. Articolul Cum să gestionezi prezbiopia și ce soluții există pentru a scăpa de ochelarii de citit apare prima dată în Recomandari Medicale .",
+      "published": "2026-10-05T07:51:30+00:00",
+      "published_human": "2026-10-05T07:51",
+      "source": "https://recomandari-medicale.ro/"
+    },
     {
       "title": "Partenerii care fac posibil HER SPACE FESTIVAL ROMANIA – TINEREȚE FĂRĂ BĂTRÂNEȚE?",
       "link": "https://recomandari-medicale.ro/partenerii-care-fac-posibil-her-space-festival-romania-tinerete-fara-batranete/",
@@ -96,14 +104,6 @@
       "summary": "Primele semne apar, de multe ori, discret: puțin sânge pe periuța de dinți, o jenă la gingii, un miros neplăcut&#8230; Articolul Cum recunoști parodontoza după primele simptome și când să mergi la medic? apare prima dată în Recomandari Medicale .",
       "published": "2026-07-20T18:24:19+00:00",
       "published_human": "2026-07-20T18:24",
-      "source": "https://recomandari-medicale.ro/"
-    },
-    {
-      "title": "Inulina și slăbitul: curiozități, studii recente și cum îți poate influența senzația de foame",
-      "link": "https://recomandari-medicale.ro/inulina-si-slabitul-curiozitati-studii-recente-si-cum-iti-poate-influenta-senzatia-de-foame/",
-      "summary": "Un mic ingredient trecut adesea cu vederea atrage din ce în ce mai mult atenția persoanelor preocupate de greutate și&#8230; Articolul Inulina și slăbitul: curiozități, studii recente și cum îți poate influența senzația de foame apare prima dată în Recomandari Medicale .",
-      "published": "2026-07-01T19:26:42+00:00",
-      "published_human": "2026-07-01T19:26",
       "source": "https://recomandari-medicale.ro/"
     }
   ],

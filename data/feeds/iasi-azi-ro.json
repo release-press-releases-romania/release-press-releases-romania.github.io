@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@Iasi",
     "rss": "https://social.5th.ro/@Iasi.rss"
   },
-  "updated_at": "2026-10-05T07:12:28.502097+00:00",
+  "updated_at": "2026-10-05T16:12:00.280237+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Tutoro pregătește șapte servicii pentru familiile din Iași",
+      "link": "https://iasi-azi.ro/tutoro-pregateste-sapte-servicii-pentru-familiile-din-iasi/",
+      "summary": "Tutoro pregătește în Iași o platformă pentru familie cu șapte categorii de servicii. Lansarea din 10 octombrie este condiționată de verificările finale. Articolul Tutoro pregătește șapte servicii pentru familiile din Iași apare prima dată în Iasi AZI .",
+      "published": "2026-10-05T09:13:56+00:00",
+      "published_human": "2026-10-05T09:13",
+      "source": "https://iasi-azi.ro/"
+    },
     {
       "title": "Cum alegi un electrician în Iași: ce verifici înainte de o intervenție acasă sau la firmă",
       "link": "https://iasi-azi.ro/cum-alegi-electrician-iasi-verificari-inainte-interventie/",
@@ -84,17 +92,17 @@
       "published": "2026-07-23T13:03:00+00:00",
       "published_human": "2026-07-23T13:03",
       "source": "https://iasi-azi.ro/"
-    },
-    {
-      "title": "Stomatologie și oftalmologie în Iași: cum alegi clinica potrivită",
-      "link": "https://iasi-azi.ro/stomatologie-si-oftalmologie-in-iasi-cum-alegi-clinica-potrivita/",
-      "summary": "Ghid pentru servicii dentare și oftalmologice în Iași: consult inițial, transparență, urgențe și diferența dintre clinică și cabinet individual. Articolul Stomatologie și oftalmologie în Iași: cum alegi clinica potrivită apare prima dată în Iasi AZI .",
-      "published": "2026-07-14T08:15:00+00:00",
-      "published_human": "2026-07-14T08:15",
-      "source": "https://iasi-azi.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@Iasi/117387535142237789",
+      "summary": "Tutoro pregătește în Iași o platformă pentru familie cu șapte categorii de servicii. Lansarea din 10 octombrie este condiționată de verificările finale. https:// iasi-azi.ro/tutoro-pregateste- sapte-servicii-pentru-familiile-din-iasi/",
+      "published": "2026-10-05T09:13:57+00:00",
+      "published_human": "2026-10-05T09:13",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@Iasi/117110144248264110",
@@ -179,14 +187,6 @@
       "title": "Update",
       "link": "https://social.5th.ro/@Iasi/117104256024029485",
       "summary": "Ghid pentru servicii dentare și oftalmologice în Iași: consult inițial, transparență, urgențe și diferența dintre clinică și cabinet individual. # familie # Iași # sănătate https:// iasi-azi.ro/stomatologie-si-of talmologie-in-iasi-cum-alegi-clinica-potrivita/",
-      "published": "2026-08-16T08:32:20+00:00",
-      "published_human": "2026-08-16T08:32",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@Iasi/117104256007316909",
-      "summary": "Cum alegi after-school sau cursuri extracurriculare în Iași: vârstă, program, siguranță și semne că un centru e potrivit pe termen lung. # copii # educație # familie https:// iasi-azi.ro/after-school-si-cu rsuri-extracurriculare-in-iasi-criterii-pentru-parinti/",
       "published": "2026-08-16T08:32:20+00:00",
       "published_human": "2026-08-16T08:32",
       "source": "Mastodon"
