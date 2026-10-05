@@ -5,8 +5,8 @@
     <link>https://release-press-releases-romania.github.io</link>
     <description>Aggregated RSS feed of press releases from over 100 Romanian publishers. Covering PR &amp; Marketing, Health, News &amp; Society, Technology, Business, Construction, Tourism, and more. Curated selection of quality press releases from trusted Romanian sources.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Oct 2026 13:07:33 +0000</lastBuildDate>
-    <pubDate>Mon, 05 Oct 2026 13:07:33 +0000</pubDate>
+    <lastBuildDate>Mon, 05 Oct 2026 23:31:35 +0000</lastBuildDate>
+    <pubDate>Mon, 05 Oct 2026 23:31:35 +0000</pubDate>
     <generator>Release Press Releases in Romania RSS Aggregator v2.0</generator>
     <webMaster>noreply@release-press-releases-romania.github.io (Release Press Releases)</webMaster>
     <managingEditor>noreply@release-press-releases-romania.github.io (Release Press Releases)</managingEditor>
@@ -28,6 +28,20 @@
     <sy:updateFrequency>1</sy:updateFrequency>
     <copyright>Copyright 2026 Release Press Releases in Romania. Content belongs to respective publishers.</copyright>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Server MCP pentru marketing: ce poate face un agent AI și ce nu</title>
+      <link>https://universultech.ro/server-mcp-marketing-agent-ai/</link>
+      <description><![CDATA[From Universultech: Material publicitar · Comunicate.eu Să presupunem că un om de marketing îi scrie asistentului său: „caută zece site-uri de business din România și pregătește-mi un plan editorial pe noiembrie”. Conectat la un server MCP, asistentul nu mai răspunde din memorie. Caută în catalogul Comunicate.eu, alege publicațiile și notează pentru fiecare prețul fără TVA și termenul (de regulă 2 zile lucrătoare,...]]></description>
+      <pubDate>Mon, 05 Oct 2026 21:58:57 +0000</pubDate>
+      <author>Universultech (https://release-press-releases-romania.github.io/publisher/universultech-ro/)</author>
+      <dc:creator>Universultech</dc:creator>
+      <dc:date>2026-10-05T21:58:57+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">Technology &amp; Energy</category>
+      <guid isPermaLink="true">https://universultech.ro/server-mcp-marketing-agent-ai/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/universultech-ro/">Universultech</source>
+      <content:encoded><![CDATA[From Universultech: Material publicitar · Comunicate.eu Să presupunem că un om de marketing îi scrie asistentului său: „caută zece site-uri de business din România și pregătește-mi un plan editorial pe noiembrie”. Conectat la un server MCP, asistentul nu mai răspunde din memorie. Caută în catalogul Comunicate.eu, alege publicațiile și notează pentru fiecare prețul fără TVA și termenul (de regulă 2 zile lucrătoare,...]]></content:encoded>
+      <comments>https://universultech.ro/server-mcp-marketing-agent-ai/#comments</comments>
+    </item>
     <item>
       <title>GalleryDock Expands Client Galleries With Website Embedding</title>
       <link>https://topcomunicate.ro/gallerydock-client-galleries-website-embedding/</link>
@@ -1525,20 +1539,6 @@
       <source url="https://release-press-releases-romania.github.io/publisher/e-faq-ro/">E Faq</source>
       <content:encoded><![CDATA[From E Faq: Sursa foto: spy-shop.ro Alegerea unui sistem de supraveghere video începe cu o întrebare mai importantă decât marca sau prețul: ce anume trebuie supravegheat? O curte, o intrare, un apartament și un spațiu comercial au condiții diferite, iar echipamentele trebuie alese în funcție de acestea. Rezoluția, vederea nocturnă, lentila sau funcțiile inteligente contează, dar numai raportate la utilizar...]]></content:encoded>
       <comments>https://e-faq.ro/7-recomandari-spy-shop-pentru-alegerea-unui-sistem-de-supraveghere-video/#comments</comments>
-    </item>
-    <item>
-      <title>Evoluția jocurilor în browser: Cum tehnologia modernă a transformat divertismentul rapid</title>
-      <link>https://universultech.ro/evolutia-jocurilor-in-browser-cum-tehnologia-moderna-a-transformat-divertismentul-rapid/</link>
-      <description><![CDATA[From Universultech: În ultimii ani, industria jocurilor video a trecut printr-o transformare radicală. Deși consolele de ultimă generație și PC-urile de gaming ultra-performante domină adesea știrile tehnologice, o revoluție tehnologică discretă s-a produs chiar în interiorul browserelor noastre web. Datorită avansului tehnologiilor web precum HTML5 și WebGL, jocurile în browser au evoluat de la animații simple la...]]></description>
-      <pubDate>Fri, 28 Aug 2026 06:03:34 +0000</pubDate>
-      <author>Universultech (https://release-press-releases-romania.github.io/publisher/universultech-ro/)</author>
-      <dc:creator>Universultech</dc:creator>
-      <dc:date>2026-08-28T06:03:34+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">Technology &amp; Energy</category>
-      <guid isPermaLink="true">https://universultech.ro/evolutia-jocurilor-in-browser-cum-tehnologia-moderna-a-transformat-divertismentul-rapid/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/universultech-ro/">Universultech</source>
-      <content:encoded><![CDATA[From Universultech: În ultimii ani, industria jocurilor video a trecut printr-o transformare radicală. Deși consolele de ultimă generație și PC-urile de gaming ultra-performante domină adesea știrile tehnologice, o revoluție tehnologică discretă s-a produs chiar în interiorul browserelor noastre web. Datorită avansului tehnologiilor web precum HTML5 și WebGL, jocurile în browser au evoluat de la animații simple la...]]></content:encoded>
-      <comments>https://universultech.ro/evolutia-jocurilor-in-browser-cum-tehnologia-moderna-a-transformat-divertismentul-rapid/#comments</comments>
     </item>
     <item>
       <title>Ce se întâmplă cu sistemul de securitate când pică internetul: soluțiile de backup explicate de Spy Shop</title>
