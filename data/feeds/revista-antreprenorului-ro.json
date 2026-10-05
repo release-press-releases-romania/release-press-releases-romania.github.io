@@ -7,9 +7,17 @@
     "rss": "https://revista-antreprenorului.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-10-05T16:12:00.280237+00:00",
+  "updated_at": "2026-10-05T22:46:26.473835+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Agenție de marketing: advertorialele clienților, sub numele tău",
+      "link": "https://revista-antreprenorului.ro/agentie-de-marketing-advertoriale/",
+      "summary": "Descopera cum o agentie de marketing poate automatiza fluxul de lucru, de la importul articolelor din email pana la generarea raportului PDF final. Articolul Agenție de marketing: advertorialele clienților, sub numele tău apare prima dată în Revista Antreprenorului .",
+      "published": "2026-10-05T21:59:01+00:00",
+      "published_human": "2026-10-05T21:59",
+      "source": "https://revista-antreprenorului.ro/"
+    },
     {
       "title": "Motoare trifazate cu talpă sau cu flanșă: cum alegi tipul de montaj",
       "link": "https://revista-antreprenorului.ro/tipul-de-montaj-motoare-trifazate/",
@@ -96,14 +104,6 @@
       "summary": "Peste 20.000 de vizitatori au celebrat dreptul fiecarui copil de a conta In zilele de 23 si 24 mai 2026, Bucurestiul a gazduit cea mai importanta si frumoasa sarbatoare dedicata incluziunii copiilor, CONIL Fest 2026, editia cu tema &#8222;Toti Copiii Conteaza&#8222;. Evenimentul organizat de Asociația CONIL &#238;n parteneriat cu Circul Metropolitan București, s-a bucurat de... Read More &#8220;CONIL FEST 2026: pentru ca diversitatea este o sarbatoare&#8221; &#187; Articolul CONIL FEST 2026: pentru ca diversitatea este o sarbatoare apare prima dată în Revista Antreprenorului .",
       "published": "2026-05-29T10:55:33+00:00",
       "published_human": "2026-05-29T10:55",
-      "source": "https://revista-antreprenorului.ro/"
-    },
-    {
-      "title": "Bucureștiul din est: cum alegi inteligent o locuință într-o zonă în plină transformare",
-      "link": "https://revista-antreprenorului.ro/bucurestiul-din-est-cum-alegi-inteligent-o-locuinta-intr-o-zona-in-plina-transformare/",
-      "summary": "Bucureștiul din est: cum alegi inteligent o locuință într-o zonă în plină transformare Dacă în trecut atenția cumpărătorilor era concentrată aproape exclusiv pe nordul capitalei, în prezent estul Bucureștiului câștigă tot mai mult teren. Sectorul 3, în special, a devenit o alegere strategică pentru cei care își doresc o locuință modernă, bine poziționată și accesibilă... Read More &#8220;Bucureștiul din est: cum alegi inteligent o locuință într-o zonă în plină transformare&#8221; &#187; Articolul Bucureștiul din est: cum alegi inteligent o locuință într-o zonă în plină transformare apare prima dată în Revista Antreprenorului .",
-      "published": "2026-05-28T17:51:00+00:00",
-      "published_human": "2026-05-28T17:51",
       "source": "https://revista-antreprenorului.ro/"
     }
   ],

@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@UniversulTech",
     "rss": "https://social.5th.ro/@UniversulTech.rss"
   },
-  "updated_at": "2026-10-05T16:12:00.280237+00:00",
+  "updated_at": "2026-10-05T22:46:26.473835+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Server MCP pentru marketing: ce poate face un agent AI și ce nu",
+      "link": "https://universultech.ro/server-mcp-marketing-agent-ai/",
+      "summary": "Un server mcp leaga asistentul AI de datele din catalog, dar comanda de publicare ramane blocata pana cand porresti manual comutatorul si cheia. Articolul Server MCP pentru marketing: ce poate face un agent AI și ce nu apare prima dată în Universul Tech .",
+      "published": "2026-10-05T21:58:57+00:00",
+      "published_human": "2026-10-05T21:58",
+      "source": "https://UniversulTech.ro/"
+    },
     {
       "title": "Laptop second hand: 12 verificări înainte să cumperi",
       "link": "https://universultech.ro/laptop-second-hand-verificari/",
@@ -100,17 +108,17 @@
       "published": "2026-06-10T04:00:35+00:00",
       "published_human": "2026-06-10T04:00",
       "source": "https://UniversulTech.ro/"
-    },
-    {
-      "title": "Cum lucrezi mai rapid folosind Galaxy AI?",
-      "link": "https://universultech.ro/cum-lucrezi-mai-rapid-folosind-galaxy-ai/",
-      "summary": "Lucrezi mai rapid folosind Galaxy AI atunci când lași funcțiile inteligente să reducă pașii repetați, să te ajute să găsești&#8230; Articolul Cum lucrezi mai rapid folosind Galaxy AI? apare prima dată în Universul Tech .",
-      "published": "2026-05-29T07:34:00+00:00",
-      "published_human": "2026-05-29T07:34",
-      "source": "https://UniversulTech.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@UniversulTech/117390543547227986",
+      "summary": "💡Un server mcp leaga asistentul AI de datele din catalog, dar comanda de publicare ramane blocata pana cand porresti manual comutatorul si cheia. ✅ https:// universultech.ro/server-mcp-ma rketing-agent-ai/",
+      "published": "2026-10-05T21:59:01+00:00",
+      "published_human": "2026-10-05T21:59",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@UniversulTech/117352818947500849",
@@ -197,14 +205,6 @@
       "summary": "💡În era digitală, unde tehnologia avansează rapid, nu mai este nevoie de echipamente voluminoase pentru a crea momente memorabile. Cu o boxă portabilă modernă, orice loc poate deveni scena perfectă pentru o petrecere spontană. Indiferent dacă este vorba de o adunare în grădină, un picnic în parc sau chiar o întâlnire pe plajă, sunetul puternic… ✅ https:// universultech.ro/experienta-de -party-pe-care-o-poti-lua-oriunde-sunet-portabil-pentru-vibe-uri-de-neuitat/",
       "published": "2026-06-10T04:00:37+00:00",
       "published_human": "2026-06-10T04:00",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@UniversulTech/116656723925180176",
-      "summary": "💡Lucrezi mai rapid folosind Galaxy AI atunci când lași funcțiile inteligente să reducă pașii repetați, să te ajute să găsești informații mai repede și să continui activitățile între telefon, tabletă și căști. În 2026, viteza nu înseamnă doar un dispozitiv performant, ci un flux de lucru mai clar. În ecosistemul Samsung, Galaxy AI, One UI,… ✅ https:// universultech.ro/cum-lucrezi-m ai-rapid-folosind-galaxy-ai/",
-      "published": "2026-05-29T07:39:03+00:00",
-      "published_human": "2026-05-29T07:39",
       "source": "Mastodon"
     }
   ]
