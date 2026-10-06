@@ -5,8 +5,8 @@
     <link>https://release-press-releases-romania.github.io</link>
     <description>Aggregated RSS feed of press releases from over 100 Romanian publishers. Covering PR &amp; Marketing, Health, News &amp; Society, Technology, Business, Construction, Tourism, and more. Curated selection of quality press releases from trusted Romanian sources.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Oct 2026 12:29:53 +0000</lastBuildDate>
-    <pubDate>Tue, 06 Oct 2026 12:29:53 +0000</pubDate>
+    <lastBuildDate>Tue, 06 Oct 2026 22:04:10 +0000</lastBuildDate>
+    <pubDate>Tue, 06 Oct 2026 22:04:10 +0000</pubDate>
     <generator>Release Press Releases in Romania RSS Aggregator v2.0</generator>
     <webMaster>noreply@release-press-releases-romania.github.io (Release Press Releases)</webMaster>
     <managingEditor>noreply@release-press-releases-romania.github.io (Release Press Releases)</managingEditor>
@@ -28,6 +28,34 @@
     <sy:updateFrequency>1</sy:updateFrequency>
     <copyright>Copyright 2026 Release Press Releases in Romania. Content belongs to respective publishers.</copyright>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Agricultura de precizie AFIR: digitalizare fermă</title>
+      <link>https://iafaceri.ro/agricultura-de-precizie-afir-digitalizare-ferma/</link>
+      <description><![CDATA[From iAfaceri: Digitalizarea și agricultura de precizie ocupă un loc tot mai important în proiectele de investiții destinate fermelor din România. GPS, senzori, automatizări, aplicații de management, sisteme de monitorizare, camere și echipamente conectate sunt termeni întâlniți tot mai des în ofertele adresate fermierilor. Dar între a introduce câteva echipamente digitale într-un deviz și a construi un siste...]]></description>
+      <pubDate>Tue, 06 Oct 2026 17:00:39 +0000</pubDate>
+      <author>iAfaceri (https://release-press-releases-romania.github.io/publisher/iafaceri-ro/)</author>
+      <dc:creator>iAfaceri</dc:creator>
+      <dc:date>2026-10-06T17:00:39+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">Business</category>
+      <guid isPermaLink="true">https://iafaceri.ro/agricultura-de-precizie-afir-digitalizare-ferma/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/iafaceri-ro/">iAfaceri</source>
+      <content:encoded><![CDATA[From iAfaceri: Digitalizarea și agricultura de precizie ocupă un loc tot mai important în proiectele de investiții destinate fermelor din România. GPS, senzori, automatizări, aplicații de management, sisteme de monitorizare, camere și echipamente conectate sunt termeni întâlniți tot mai des în ofertele adresate fermierilor. Dar între a introduce câteva echipamente digitale într-un deviz și a construi un siste...]]></content:encoded>
+      <comments>https://iafaceri.ro/agricultura-de-precizie-afir-digitalizare-ferma/#comments</comments>
+    </item>
+    <item>
+      <title>Cum funcționează corecția dioptriilor: explicații pentru pacienți</title>
+      <link>https://medic360.ro/corectia-dioptriilor-metode/</link>
+      <description><![CDATA[From Medic360: Cei mai mulți dintre noi ajungem la un moment dat să purtăm ochelari sau lentile de contact pentru miopie, hipermetropie, astigmatism sau, mai târziu, pentru prezbiopie. Ce știu însă mai puțini este că, în afară de corecția optică obișnuită, există și metode chirurgicale care pot reduce dioptriile. Iată, pe scurt, cum funcționează fiecare opțiune și ce presupune. Corecția optică a dioptriilor C...]]></description>
+      <pubDate>Tue, 06 Oct 2026 13:49:49 +0000</pubDate>
+      <author>Medic360 (https://release-press-releases-romania.github.io/publisher/medic360-ro/)</author>
+      <dc:creator>Medic360</dc:creator>
+      <dc:date>2026-10-06T13:49:49+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">Health</category>
+      <guid isPermaLink="true">https://medic360.ro/corectia-dioptriilor-metode/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/medic360-ro/">Medic360</source>
+      <content:encoded><![CDATA[From Medic360: Cei mai mulți dintre noi ajungem la un moment dat să purtăm ochelari sau lentile de contact pentru miopie, hipermetropie, astigmatism sau, mai târziu, pentru prezbiopie. Ce știu însă mai puțini este că, în afară de corecția optică obișnuită, există și metode chirurgicale care pot reduce dioptriile. Iată, pe scurt, cum funcționează fiecare opțiune și ce presupune. Corecția optică a dioptriilor C...]]></content:encoded>
+      <comments>https://medic360.ro/corectia-dioptriilor-metode/#comments</comments>
+    </item>
     <item>
       <title>Al doilea magazin: dublu profit sau dublu stres? Cum previi coșmarul inventarului cu un soft centralizat</title>
       <link>https://femeie-antreprenor.ro/al-doilea-magazin-dublu-profit-sau-dublu-stres-cum-previi-cosmarul-inventarului-cu-un-soft-centralizat/</link>
@@ -673,20 +701,6 @@
       <comments>https://iantreprenor.ro/schimbul-de-ulei-nu-se-termina-la-service-joja-si-filtrul-arata-daca-lucrarea-a-fost-facuta-corect/#comments</comments>
     </item>
     <item>
-      <title>Cum alegi uleiul hidraulic potrivit – ISO VG, temperatură, presiune și tipul pompei</title>
-      <link>https://iafaceri.ro/cum-alegi-uleiul-hidraulic-potrivit-iso-vg-temperatura-presiune-si-tipul-pompei/</link>
-      <description><![CDATA[From iAfaceri: Într-o instalație industrială, primele semne ale unei alegeri neinspirate apar rareori pe etichetă. Se aud în pompă, se văd în mișcarea mai lentă a cilindrului sau apar într-o creștere de temperatură pe care operatorul o observă abia după câteva ore de lucru. Multe recomandări se opresc la vâscozitate și la intervalul de schimb. Pentru procesele industriale, imaginea este mai largă: temperatura...]]></description>
-      <pubDate>Mon, 28 Sep 2026 07:05:33 +0000</pubDate>
-      <author>iAfaceri (https://release-press-releases-romania.github.io/publisher/iafaceri-ro/)</author>
-      <dc:creator>iAfaceri</dc:creator>
-      <dc:date>2026-09-28T07:05:33+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">Business</category>
-      <guid isPermaLink="true">https://iafaceri.ro/cum-alegi-uleiul-hidraulic-potrivit-iso-vg-temperatura-presiune-si-tipul-pompei/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/iafaceri-ro/">iAfaceri</source>
-      <content:encoded><![CDATA[From iAfaceri: Într-o instalație industrială, primele semne ale unei alegeri neinspirate apar rareori pe etichetă. Se aud în pompă, se văd în mișcarea mai lentă a cilindrului sau apar într-o creștere de temperatură pe care operatorul o observă abia după câteva ore de lucru. Multe recomandări se opresc la vâscozitate și la intervalul de schimb. Pentru procesele industriale, imaginea este mai largă: temperatura...]]></content:encoded>
-      <comments>https://iafaceri.ro/cum-alegi-uleiul-hidraulic-potrivit-iso-vg-temperatura-presiune-si-tipul-pompei/#comments</comments>
-    </item>
-    <item>
       <title>Cupa nu este doza: ce citești pe eticheta creatinei monohidrate înainte de prima porție</title>
       <link>https://ghid-sanatate.ro/cupa-nu-este-doza-ce-citesti-pe-eticheta-creatinei-monohidrate-inainte-de-prima-portie/</link>
       <description><![CDATA[From Ghid Sanatate: O etichetă bună îți spune mai mult decât numele suplimentului. Îți arată ce iei, cât primești într-o porție și cât de simplă este formula. Prima confuzie apare înainte să deschizi recipientul: lingurița din cutie pare măsura firească, dar nu spune mereu câte grame conține. Reclamele și ambalajele pun accent pe puritate, micronizare sau rezultate rapide. Pentru prima doză, însă, lucrurile utile ...]]></description>
@@ -1175,20 +1189,6 @@
       <source url="https://release-press-releases-romania.github.io/publisher/doctor360-ro/">Doctor360</source>
       <content:encoded><![CDATA[From Doctor360: Bagsværd, Danemarca, 14 septembrie 2026 – Novo Nordisk marchează astăzi începutul unei noi etape în evoluția companiei, odată cu lansarea unui nou brand construit în jurul promisiunii „Lasting Health Starts Now” („Sănătatea pe termen lung începe acum”) și al numelui unic „Novo”, precum și cu actualizarea culturii organizaționale prin introducerea „The Novo Way”. Aceste schimbări își propun să s...]]></content:encoded>
       <comments>https://doctor360.ro/novo-nordisk-intra-intr-o-noua-etapa-de-dezvoltare-sustinuta-de-rebrandingul-novo-si-de-actualizarea-culturii-organizationale/#comments</comments>
-    </item>
-    <item>
-      <title>Novo Nordisk intră într-o nouă etapă de dezvoltare, susținută de rebrandingul „Novo” și de actualizarea culturii organizaționale</title>
-      <link>https://medic360.ro/novo-nordisk-intra-intr-o-noua-etapa-de-dezvoltare-sustinuta-de-rebrandingul-novo-si-de-actualizarea-culturii-organizationale/</link>
-      <description><![CDATA[From Medic360: Bagsværd, Danemarca, 14 septembrie 2026 – Novo Nordisk marchează astăzi începutul unei noi etape în evoluția companiei, odată cu lansarea unui nou brand construit în jurul promisiunii „Lasting Health Starts Now” („Sănătatea pe termen lung începe acum”) și al numelui unic „Novo”, precum și cu actualizarea culturii organizaționale prin introducerea „The Novo Way”. Aceste schimbări își propun să s...]]></description>
-      <pubDate>Wed, 16 Sep 2026 10:44:01 +0000</pubDate>
-      <author>Medic360 (https://release-press-releases-romania.github.io/publisher/medic360-ro/)</author>
-      <dc:creator>Medic360</dc:creator>
-      <dc:date>2026-09-16T10:44:01+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">Health</category>
-      <guid isPermaLink="true">https://medic360.ro/novo-nordisk-intra-intr-o-noua-etapa-de-dezvoltare-sustinuta-de-rebrandingul-novo-si-de-actualizarea-culturii-organizationale/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/medic360-ro/">Medic360</source>
-      <content:encoded><![CDATA[From Medic360: Bagsværd, Danemarca, 14 septembrie 2026 – Novo Nordisk marchează astăzi începutul unei noi etape în evoluția companiei, odată cu lansarea unui nou brand construit în jurul promisiunii „Lasting Health Starts Now” („Sănătatea pe termen lung începe acum”) și al numelui unic „Novo”, precum și cu actualizarea culturii organizaționale prin introducerea „The Novo Way”. Aceste schimbări își propun să s...]]></content:encoded>
-      <comments>https://medic360.ro/novo-nordisk-intra-intr-o-noua-etapa-de-dezvoltare-sustinuta-de-rebrandingul-novo-si-de-actualizarea-culturii-organizationale/#comments</comments>
     </item>
     <item>
       <title>Novo Nordisk intră într-o nouă etapă de dezvoltare, susținută de rebrandingul „Novo” și de actualizarea culturii organizaționale</title>
