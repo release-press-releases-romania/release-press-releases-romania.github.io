@@ -7,7 +7,7 @@
     "rss": "https://5th.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-10-06T03:08:08.514261+00:00",
+  "updated_at": "2026-10-06T10:33:09.183797+00:00",
   "status": "ok",
   "items": [
     {
@@ -16,6 +16,14 @@
       "summary": "Atenție: Diagnosticul unei afecțiuni severe reprezintă o încercare grea pentru orice persoană. În astfel de momente, deciziile medicale luate rapid îți pot schimba viața în bine. Interes: Când te confrunți cu o problemă de sănătate dificilă, alegerea medicului este pasul cel mai important. Siguranța ta depinde direct de pregătirea și de îndemânarea specialistului din sala Articolul De ce experiența chirurgului contează în intervențiile complexe apare prima dată în 5th.ro – Social Media Mastodon Instance .",
       "published": "2026-07-31T08:32:01+00:00",
       "published_human": "2026-07-31T08:32",
+      "source": "https://5th.ro/"
+    },
+    {
+      "title": "6 accesorii magnetice esențiale pentru un birou perfect organizat",
+      "link": "https://5th.ro/6-accesorii-magnetice-esentiale-pentru-un-birou-perfect-organizat/",
+      "summary": "Un birou aglomerat consumă timp. Cauți un marker, muți hârtii dintr-o parte în alta, lipești bilețele care cad, rătăcești ecusonul înainte de o întâlnire sau pierzi minute bune până găsești un document printat. Problema nu ține mereu de lipsa spațiului. De multe ori, ține de felul în care sunt păstrate obiectele mici și diverse care Articolul 6 accesorii magnetice esențiale pentru un birou perfect organizat apare prima dată în 5th.ro – Social Media Mastodon Instance .",
+      "published": "2026-07-20T23:21:00+00:00",
+      "published_human": "2026-07-20T23:21",
       "source": "https://5th.ro/"
     },
     {
@@ -80,14 +88,6 @@
       "summary": "5th Social Bot (also known as the Mastodon All-In-One WordPress Plugin) has a new release: version 1.7.1. This update focuses on what matters most when you automate social distribution from WordPress to the Fediverse: flexibility (any Mastodon instance), visibility (clear connection status + analytics improvements), reliability (dynamic instance handling across API calls), and security (stronger Articolul Mastodon All-In-One WordPress Plugin has a new release: version 1.7.1 apare prima dată în 5th.ro – Social Media Mastodon Instance .",
       "published": "2025-12-14T15:45:30+00:00",
       "published_human": "2025-12-14T15:45",
-      "source": "https://5th.ro/"
-    },
-    {
-      "title": "Share on Mastodon – WordPress plugin",
-      "link": "https://5th.ro/share-on-mastodon-wordpress-plugin-en/",
-      "summary": "Share on Mastodon WordPress plugin: how to auto-share your WordPress posts to Mastodon (without copy/paste) If you run a WordPress site, you already know the routine: publish an article, then open your social tabs, write a short teaser, paste the link, add a couple of hashtags… and repeat. It works, but it’s repetitive, easy to Articolul Share on Mastodon &#8211; WordPress plugin apare prima dată în 5th.ro – Social Media Mastodon Instance .",
-      "published": "2025-12-13T10:06:59+00:00",
-      "published_human": "2025-12-13T10:06",
       "source": "https://5th.ro/"
     }
   ],

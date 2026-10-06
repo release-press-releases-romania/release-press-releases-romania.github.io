@@ -4,13 +4,13 @@
     "name": "9z",
     "url": "https://9z.ro/",
     "category": "Miscellaneous",
-    "rss": "https://9z.ro/?feed=rss2"
+    "rss": "https://9z.ro/feed/"
   },
   "mastodon": {
     "url": "https://social.5th.ro/@9z",
     "rss": "https://social.5th.ro/@9z.rss"
   },
-  "updated_at": "2026-10-06T03:08:08.514261+00:00",
+  "updated_at": "2026-10-06T10:33:09.183797+00:00",
   "status": "ok",
   "items": [
     {
@@ -97,6 +97,14 @@
   "social": [
     {
       "title": "Update",
+      "link": "https://social.5th.ro/@9z/117393307284573450",
+      "summary": "Magneții sunt printre cele mai simple materiale cu care poți face experimente acasă. Nu ai nevoie de aparate complicate, de laborator sau de explicații grele. Ai nevoie de câțiva magneți potriviți, agrafe, hârtie, pilitură de fier, monede, apă, carton, câteva obiecte din casă și puțină răbdare.Pentru copii, partea interesantă apare imediat. Un obiect se mișcă… https:// 9z.ro/10-experimente-simple-cu -magneti-de-care-copiii-tai-vor-fi-incantati/",
+      "published": "2026-10-06T09:41:53+00:00",
+      "published_human": "2026-10-06T09:41",
+      "source": "Mastodon"
+    },
+    {
+      "title": "Update",
       "link": "https://social.5th.ro/@9z/117384312415283802",
       "summary": "ATM RO Metal Construction își extinde serviciile de structuri metalice și placări în Europa. https:// comunicatpresa.9z.ro/atm-ro-me tal-construction-structuri-metalice-placari-europa/",
       "published": "2026-10-04T19:34:22+00:00",
@@ -181,14 +189,6 @@
       "summary": "Începând cu 11 septembrie 2026, producătorii de software și hardware comercializate în Europa care intră sub incidența Cyber Resilience Act (CRA) trebuie să raporteze vulnerabilitățile exploatate activ și incidentele severe de securitate, cu o primă notificare în maximum 24 https:// comunicatpresa.9z.ro/de-la-11- septembrie-producatorii-de-software-si-echipamente-conectate-trebuie-sa-raporteze-vulnerabilitatile-exploatate-activ-cyber_folks-fara-monitorizare-continua-termenul-de-24-de-ore-devine-o/",
       "published": "2026-09-28T06:44:28+00:00",
       "published_human": "2026-09-28T06:44",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@9z/117325394586049780",
-      "summary": "Gestionarea separata a tichetelor de masa, vacanta si cadourilor consuma timp in HR. Un cont all in one centralizeaza administrarea si elimina erorile de raportare. https:// 9z.ro/cont-all-in-one-benefici i-hr/",
-      "published": "2026-09-24T09:50:47+00:00",
-      "published_human": "2026-09-24T09:50",
       "source": "Mastodon"
     }
   ]

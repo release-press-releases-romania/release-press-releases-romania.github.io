@@ -4,15 +4,23 @@
     "name": "Pr360",
     "url": "https://pr360.ro/",
     "category": "PR & Marketing",
-    "rss": "https://pr360.ro/?feed=rss2"
+    "rss": "https://pr360.ro/feed/"
   },
   "mastodon": {
     "url": "https://social.5th.ro/@pr360",
     "rss": "https://social.5th.ro/@pr360.rss"
   },
-  "updated_at": "2026-10-06T03:08:08.514261+00:00",
+  "updated_at": "2026-10-06T10:33:09.183797+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Comunicatul de presă al unui ONG sau al unei instituții publice: ce îl face publicabil",
+      "link": "https://pr360.ro/comunicat-de-presa-publicabil/",
+      "summary": "Un comunicat de presa publicabil are un fapt clar, un expeditor verificabil si date concrete. Iata ce trebuie sa contina pentru a fi acceptat. The post Comunicatul de presă al unui ONG sau al unei instituții publice: ce îl face publicabil appeared first on PR 360 .",
+      "published": "2026-10-06T06:47:35+00:00",
+      "published_human": "2026-10-06T06:47",
+      "source": "https://pr360.ro/"
+    },
     {
       "title": "Platforme de anunțuri: cum s-a schimbat rolul lor online",
       "link": "https://pr360.ro/platforme-anunturi-rol-online/",
@@ -99,14 +107,6 @@
       "summary": "În 2026, site-ul tău nu mai este doar un canal de prezentare sau de generare de lead-uri. Este una dintre cele mai valoroase surse de date pe care le are afacerea ta. Problema este că majoritatea firmelor colectează date, dar nu le folosesc. Sau mai rău: nici nu știu ce date au. Afaceri întregi iau [&#8230;] The post Site-ul ca hub de date: cum folosești informația din trafic pentru decizii reale de business appeared first on PR 360 .",
       "published": "2026-02-18T09:11:00+00:00",
       "published_human": "2026-02-18T09:11",
-      "source": "https://pr360.ro/"
-    },
-    {
-      "title": "Halkidiki pentru familii: Top resorturi și plaje sigure pentru cei mici",
-      "link": "https://pr360.ro/halkidiki-pentru-familii-top-resorturi-si-plaje-sigure-pentru-cei-mici/",
-      "summary": "Găsirea destinației ideale pentru concediul cu copiii implică adesea o listă lungă de verificări, de la ad&#226;ncimea apei p&#226;nă la calitatea serviciilor hoteliere. Halkidiki răm&#226;ne una dintre cele mai accesibile și ofertante regiuni din Grecia pentru rom&#226;ni, oferind acel amestec de confort și frumusețe naturală. Brațele Kassandra și Sithonia domină preferințele părinților datorită infrastructurii dezvoltate [&#8230;] The post Halkidiki pentru familii: Top resorturi și plaje sigure pentru cei mici appeared first on PR 360 .",
-      "published": "2026-02-13T10:32:00+00:00",
-      "published_human": "2026-02-13T10:32",
       "source": "https://pr360.ro/"
     }
   ],
