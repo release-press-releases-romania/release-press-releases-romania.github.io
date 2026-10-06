@@ -5,8 +5,8 @@
     <link>https://release-press-releases-romania.github.io</link>
     <description>Aggregated RSS feed of press releases from over 100 Romanian publishers. Covering PR &amp; Marketing, Health, News &amp; Society, Technology, Business, Construction, Tourism, and more. Curated selection of quality press releases from trusted Romanian sources.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Oct 2026 04:00:41 +0000</lastBuildDate>
-    <pubDate>Tue, 06 Oct 2026 04:00:41 +0000</pubDate>
+    <lastBuildDate>Tue, 06 Oct 2026 12:29:53 +0000</lastBuildDate>
+    <pubDate>Tue, 06 Oct 2026 12:29:53 +0000</pubDate>
     <generator>Release Press Releases in Romania RSS Aggregator v2.0</generator>
     <webMaster>noreply@release-press-releases-romania.github.io (Release Press Releases)</webMaster>
     <managingEditor>noreply@release-press-releases-romania.github.io (Release Press Releases)</managingEditor>
@@ -28,6 +28,34 @@
     <sy:updateFrequency>1</sy:updateFrequency>
     <copyright>Copyright 2026 Release Press Releases in Romania. Content belongs to respective publishers.</copyright>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Al doilea magazin: dublu profit sau dublu stres? Cum previi coșmarul inventarului cu un soft centralizat</title>
+      <link>https://femeie-antreprenor.ro/al-doilea-magazin-dublu-profit-sau-dublu-stres-cum-previi-cosmarul-inventarului-cu-un-soft-centralizat/</link>
+      <description><![CDATA[From Femeie Antreprenor: Visul oricărui antreprenor din retail este extinderea. Să deschizi al doilea sau al treilea punct de lucru sună ca o victorie uriașă: mai mulți clienți, vânzări duble, o prezență mult mai puternică pe piață. Însă, odată ce entuziasmul tăierii panglicii trece, realitatea lovește dur: în loc să îți dublezi profitul, ajungi adesea să îți dublezi haosul operațional. Problemele reale și pierderile f...]]></description>
+      <pubDate>Tue, 06 Oct 2026 11:49:16 +0000</pubDate>
+      <author>Femeie Antreprenor (https://release-press-releases-romania.github.io/publisher/femeie-antreprenor-ro/)</author>
+      <dc:creator>Femeie Antreprenor</dc:creator>
+      <dc:date>2026-10-06T11:49:16+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">Business</category>
+      <guid isPermaLink="true">https://femeie-antreprenor.ro/al-doilea-magazin-dublu-profit-sau-dublu-stres-cum-previi-cosmarul-inventarului-cu-un-soft-centralizat/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/femeie-antreprenor-ro/">Femeie Antreprenor</source>
+      <content:encoded><![CDATA[From Femeie Antreprenor: Visul oricărui antreprenor din retail este extinderea. Să deschizi al doilea sau al treilea punct de lucru sună ca o victorie uriașă: mai mulți clienți, vânzări duble, o prezență mult mai puternică pe piață. Însă, odată ce entuziasmul tăierii panglicii trece, realitatea lovește dur: în loc să îți dublezi profitul, ajungi adesea să îți dublezi haosul operațional. Problemele reale și pierderile f...]]></content:encoded>
+      <comments>https://femeie-antreprenor.ro/al-doilea-magazin-dublu-profit-sau-dublu-stres-cum-previi-cosmarul-inventarului-cu-un-soft-centralizat/#comments</comments>
+    </item>
+    <item>
+      <title>Comunicatul de presă al unui ONG sau al unei instituții publice: ce îl face publicabil</title>
+      <link>https://pr360.ro/comunicat-de-presa-publicabil/</link>
+      <description><![CDATA[From Pr360: Material publicitar · Comunicate.eu Un comunicat de presă de interes public pornește dintr-un avantaj: are ceva de spus oamenilor. Fie că vine de la o asociație, de la o școală, de la un spital sau de la o primărie, îl citesc părinți, pacienți, vecini, voluntari. Ce îl face publicabil sunt câteva reguli simple, aceleași după care sunt citite comunicatele trimise prin programul gratuit Comunicat...]]></description>
+      <pubDate>Tue, 06 Oct 2026 06:47:35 +0000</pubDate>
+      <author>Pr360 (https://release-press-releases-romania.github.io/publisher/pr360-ro/)</author>
+      <dc:creator>Pr360</dc:creator>
+      <dc:date>2026-10-06T06:47:35+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">PR &amp; Marketing</category>
+      <guid isPermaLink="true">https://pr360.ro/comunicat-de-presa-publicabil/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/pr360-ro/">Pr360</source>
+      <content:encoded><![CDATA[From Pr360: Material publicitar · Comunicate.eu Un comunicat de presă de interes public pornește dintr-un avantaj: are ceva de spus oamenilor. Fie că vine de la o asociație, de la o școală, de la un spital sau de la o primărie, îl citesc părinți, pacienți, vecini, voluntari. Ce îl face publicabil sunt câteva reguli simple, aceleași după care sunt citite comunicatele trimise prin programul gratuit Comunicat...]]></content:encoded>
+      <comments>https://pr360.ro/comunicat-de-presa-publicabil/#comments</comments>
+    </item>
     <item>
       <title>Server MCP pentru marketing: ce poate face un agent AI și ce nu</title>
       <link>https://universultech.ro/server-mcp-marketing-agent-ai/</link>
@@ -1037,20 +1065,6 @@
       <comments>https://e-nume.ro/magazin-fizic-la-ecommerce/#comments</comments>
     </item>
     <item>
-      <title>Ce deficite de vitamine și minerale merită urmărite odată cu înaintarea în vârstă</title>
-      <link>https://femeie-antreprenor.ro/vitamine-si-minerale/</link>
-      <description><![CDATA[From Femeie Antreprenor: După 50 de ani, corpul poate absorbi mai greu anumiți nutrienți, iar tratamentele urmate constant pot modifica valorile din sânge. Oboseala, crampele, furnicăturile sau scăderea rezistenței la efort merită evaluate medical, fiindcă aceeași manifestare poate avea cauze complet diferite. Descoperă ce vitamine și minerale ajung frecvent pe lista investigațiilor și discută cu medicul înainte să cum...]]></description>
-      <pubDate>Tue, 22 Sep 2026 09:02:18 +0000</pubDate>
-      <author>Femeie Antreprenor (https://release-press-releases-romania.github.io/publisher/femeie-antreprenor-ro/)</author>
-      <dc:creator>Femeie Antreprenor</dc:creator>
-      <dc:date>2026-09-22T09:02:18+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">Business</category>
-      <guid isPermaLink="true">https://femeie-antreprenor.ro/vitamine-si-minerale/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/femeie-antreprenor-ro/">Femeie Antreprenor</source>
-      <content:encoded><![CDATA[From Femeie Antreprenor: După 50 de ani, corpul poate absorbi mai greu anumiți nutrienți, iar tratamentele urmate constant pot modifica valorile din sânge. Oboseala, crampele, furnicăturile sau scăderea rezistenței la efort merită evaluate medical, fiindcă aceeași manifestare poate avea cauze complet diferite. Descoperă ce vitamine și minerale ajung frecvent pe lista investigațiilor și discută cu medicul înainte să cum...]]></content:encoded>
-      <comments>https://femeie-antreprenor.ro/vitamine-si-minerale/#comments</comments>
-    </item>
-    <item>
       <title>Neuropatia diabetică: simptomele care trebuie evaluate și rolul electromiografiei</title>
       <link>https://doctorite.ro/neuropatia-diabetica-simptomele-care-trebuie-evaluate-si-rolul-electromiografiei/</link>
       <description><![CDATA[From Doctorite: Informații despre neurologie Craiova și programări sunt disponibile pe site-ul Centrului Medical de Neurologie Dr. Călugaru. Diabetul poate afecta nervii treptat, uneori înainte ca pacientul să considere simptomele suficient de importante pentru o consultație. O senzație de arsură în tălpi, furnicături, amorțeală sau impresia că există o șosetă groasă pe picior pot fi primele semne ale unei neu...]]></description>
@@ -1905,6 +1919,20 @@
       <comments>https://societatecivila.ro/solutii-pentru-parintii-care-vor-sa-isi-vada-copiii-explorand-in-loc-sa-stea-pe-telefoane/#comments</comments>
     </item>
     <item>
+      <title>6 accesorii magnetice esențiale pentru un birou perfect organizat</title>
+      <link>https://5th.ro/6-accesorii-magnetice-esentiale-pentru-un-birou-perfect-organizat/</link>
+      <description><![CDATA[From 5th: Un birou aglomerat consumă timp. Cauți un marker, muți hârtii dintr-o parte în alta, lipești bilețele care cad, rătăcești ecusonul înainte de o întâlnire sau pierzi minute bune până găsești un document printat. Problema nu ține mereu de lipsa spațiului. De multe ori, ține de felul în care sunt păstrate obiectele mici și diverse care te inundă. Accesoriile magnetice rezolvă simplu o parte dintre...]]></description>
+      <pubDate>Mon, 20 Jul 2026 23:21:00 +0000</pubDate>
+      <author>5th (https://release-press-releases-romania.github.io/publisher/5th-ro/)</author>
+      <dc:creator>5th</dc:creator>
+      <dc:date>2026-07-20T23:21:00+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">PR &amp; Marketing</category>
+      <guid isPermaLink="true">https://5th.ro/6-accesorii-magnetice-esentiale-pentru-un-birou-perfect-organizat/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/5th-ro/">5th</source>
+      <content:encoded><![CDATA[From 5th: Un birou aglomerat consumă timp. Cauți un marker, muți hârtii dintr-o parte în alta, lipești bilețele care cad, rătăcești ecusonul înainte de o întâlnire sau pierzi minute bune până găsești un document printat. Problema nu ține mereu de lipsa spațiului. De multe ori, ține de felul în care sunt păstrate obiectele mici și diverse care te inundă. Accesoriile magnetice rezolvă simplu o parte dintre...]]></content:encoded>
+      <comments>https://5th.ro/6-accesorii-magnetice-esentiale-pentru-un-birou-perfect-organizat/#comments</comments>
+    </item>
+    <item>
       <title>Robinetul de grădină pentru vară: cum alegi unul care rezistă un sezon întreg de folosit intens</title>
       <link>https://gradina24.ro/robinetul-de-gradina-pentru-vara-cum-alegi-unul-care-rezista-un-sezon-intreg-de-folosit-intens/</link>
       <description><![CDATA[From Gradina24: Vara e sezonul în care robinetul exterior lucrează cel mai mult din tot anul: udat grădina în fiecare seară, spălat mașina în weekend, clătit terasa după un grătar, umplut piscina copiilor sau adăpat câinele care stă toată ziua afară. Un robinet montat prost sau ales din grabă rezistă câteva luni fără probleme, apoi începe să picure, se înțepenește sau se sparge la prima brumă de toamnă. Aleger...]]></description>
@@ -1961,20 +1989,6 @@
       <comments>https://5th.ro/unde-mergi-cu-copiii-langa-bucuresti-12-idei-pentru-o-excursie-de-o-zi/#comments</comments>
     </item>
     <item>
-      <title>Verificarea firmelor: Află cum identifici riscurile financiare, juridice și operaționale cu RisCo.ro</title>
-      <link>https://5th.ro/verificarea-firmelor-afla-cum-identifici-riscurile-financiare-juridice-si-operationale-cu-risco-ro/</link>
-      <description><![CDATA[From 5th: Într-un mediu de afaceri dinamic, verificarea firmelor a devenit unul dintre cele mai importante instrumente de protecție pentru antreprenori, manageri și departamente de achiziții. Pe RisCo.ro poți verifica bonitatea firmelor și evalua portofoliul de clienți. Un partener cu probleme financiare nedeclarate, un furnizor cu istoric de litigii sau un client cu incidente de plată îți pot afecta dir...]]></description>
-      <pubDate>Tue, 30 Jun 2026 12:53:31 +0000</pubDate>
-      <author>5th (https://release-press-releases-romania.github.io/publisher/5th-ro/)</author>
-      <dc:creator>5th</dc:creator>
-      <dc:date>2026-06-30T12:53:31+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">PR &amp; Marketing</category>
-      <guid isPermaLink="true">https://5th.ro/verificarea-firmelor-afla-cum-identifici-riscurile-financiare-juridice-si-operationale-cu-risco-ro/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/5th-ro/">5th</source>
-      <content:encoded><![CDATA[From 5th: Într-un mediu de afaceri dinamic, verificarea firmelor a devenit unul dintre cele mai importante instrumente de protecție pentru antreprenori, manageri și departamente de achiziții. Pe RisCo.ro poți verifica bonitatea firmelor și evalua portofoliul de clienți. Un partener cu probleme financiare nedeclarate, un furnizor cu istoric de litigii sau un client cu incidente de plată îți pot afecta dir...]]></content:encoded>
-      <comments>https://5th.ro/verificarea-firmelor-afla-cum-identifici-riscurile-financiare-juridice-si-operationale-cu-risco-ro/#comments</comments>
-    </item>
-    <item>
       <title>Chirurgia de urgență în București: afecțiuni care nu suportă amânare</title>
       <link>https://pensiuni-delta.ro/chirurgia-de-urgenta-in-bucuresti-afectiuni-care-nu-suporta-amanare/</link>
       <description><![CDATA[From Pensiuni Delta: Chirurgia de urgență în București: afecțiuni care nu suportă amânare La Spitalul Medicover Pipera (București, sector 2), medicul chirurg evaluează și tratează chirurgical afecțiuni frecvente precum herniile, apendicita, colecistita, patologiile tiroidiene și tumori digestive, de la consult și investigații până la intervenție și recuperare. Mai jos găsiți pe scurt ce tipuri de probleme pot fi ab...]]></description>
@@ -1987,20 +2001,6 @@
       <source url="https://release-press-releases-romania.github.io/publisher/pensiuni-delta-ro/">Pensiuni Delta</source>
       <content:encoded><![CDATA[From Pensiuni Delta: Chirurgia de urgență în București: afecțiuni care nu suportă amânare La Spitalul Medicover Pipera (București, sector 2), medicul chirurg evaluează și tratează chirurgical afecțiuni frecvente precum herniile, apendicita, colecistita, patologiile tiroidiene și tumori digestive, de la consult și investigații până la intervenție și recuperare. Mai jos găsiți pe scurt ce tipuri de probleme pot fi ab...]]></content:encoded>
       <comments>https://pensiuni-delta.ro/chirurgia-de-urgenta-in-bucuresti-afectiuni-care-nu-suporta-amanare/#comments</comments>
-    </item>
-    <item>
-      <title>Peritonita: de ce este o urgență majoră și cum se tratează</title>
-      <link>https://pr360.ro/peritonita-de-ce-este-o-urgenta-majora-si-cum-se-trateaza/</link>
-      <description><![CDATA[From Pr360: Peritonita: de ce este o urgență majoră și cum se tratează Peritonita reprezintă inflamația membranei peritoneale care căptușește cavitatea abdominală. Această afecțiune gravă poate fi cauzată de diverse factori, inclusiv apendicite perforate, ulcere gastrice sau duodenale complicate, abcese intraabdominale și chiar ruptură ovarianică. În București, la Spitalul Medicover Pipera (sector 2), plan...]]></description>
-      <pubDate>Tue, 23 Jun 2026 08:05:55 +0000</pubDate>
-      <author>Pr360 (https://release-press-releases-romania.github.io/publisher/pr360-ro/)</author>
-      <dc:creator>Pr360</dc:creator>
-      <dc:date>2026-06-23T08:05:55+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">PR &amp; Marketing</category>
-      <guid isPermaLink="true">https://pr360.ro/peritonita-de-ce-este-o-urgenta-majora-si-cum-se-trateaza/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/pr360-ro/">Pr360</source>
-      <content:encoded><![CDATA[From Pr360: Peritonita: de ce este o urgență majoră și cum se tratează Peritonita reprezintă inflamația membranei peritoneale care căptușește cavitatea abdominală. Această afecțiune gravă poate fi cauzată de diverse factori, inclusiv apendicite perforate, ulcere gastrice sau duodenale complicate, abcese intraabdominale și chiar ruptură ovarianică. În București, la Spitalul Medicover Pipera (sector 2), plan...]]></content:encoded>
-      <comments>https://pr360.ro/peritonita-de-ce-este-o-urgenta-majora-si-cum-se-trateaza/#comments</comments>
     </item>
     <item>
       <title>Tumori de intestin subțire: semne posibile și opțiuni de tratament</title>
