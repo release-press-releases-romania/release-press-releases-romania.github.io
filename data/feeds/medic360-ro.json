@@ -7,9 +7,17 @@
     "rss": "https://medic360.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-10-06T10:33:09.183797+00:00",
+  "updated_at": "2026-10-06T17:17:40.606862+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Cum funcționează corecția dioptriilor: explicații pentru pacienți",
+      "link": "https://medic360.ro/corectia-dioptriilor-metode/",
+      "summary": "Descopera optiunile de corectie a vederii, de la ochelari la chirurgie cu laser. Informatii clare despre tehnici si eligibilitate. Articolul Cum funcționează corecția dioptriilor: explicații pentru pacienți apare prima dată în Medic 360 .",
+      "published": "2026-10-06T13:49:49+00:00",
+      "published_human": "2026-10-06T13:49",
+      "source": "https://medic360.ro/"
+    },
     {
       "title": "Sindromul de tunel carpian: când ajunge medicul să recomande EMG?",
       "link": "https://medic360.ro/sindromul-de-tunel-carpian-cand-ajunge-medicul-sa-recomande-emg/",
@@ -72,14 +80,6 @@
       "summary": "Idei de gustari sanatoase la birou Articolul Idei de gustari sanatoase la birou apare prima dată în Medic 360 .",
       "published": "2026-07-29T19:11:13+00:00",
       "published_human": "2026-07-29T19:11",
-      "source": "https://medic360.ro/"
-    },
-    {
-      "title": "Alergiile sezoniere: semne care arată că nu este doar o simplă răceală",
-      "link": "https://medic360.ro/alergiile-sezoniere-semne-care-arata-ca-nu-este-doar-o-simpla-raceala/",
-      "summary": "Te trezești cu nasul înfundat, strănuți de cinci ori la rând și simți că ochii te ustură de parcă ai&#8230; Articolul Alergiile sezoniere: semne care arată că nu este doar o simplă răceală apare prima dată în Medic 360 .",
-      "published": "2026-06-30T04:47:24+00:00",
-      "published_human": "2026-06-30T04:47",
       "source": "https://medic360.ro/"
     }
   ],

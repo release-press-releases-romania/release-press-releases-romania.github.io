@@ -7,9 +7,17 @@
     "rss": "https://iAfaceri.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-10-06T10:33:09.183797+00:00",
+  "updated_at": "2026-10-06T17:17:40.606862+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Agricultura de precizie AFIR: digitalizare fermă",
+      "link": "https://iafaceri.ro/agricultura-de-precizie-afir-digitalizare-ferma/",
+      "summary": "Digitalizarea și agricultura de precizie ocupă un loc tot mai important în proiectele de investiții destinate fermelor din România. GPS, senzori, automatizări, aplicații de management, &#8230; Articolul Agricultura de precizie AFIR: digitalizare fermă apare prima dată în iAfaceri .",
+      "published": "2026-10-06T17:00:39+00:00",
+      "published_human": "2026-10-06T17:00",
+      "source": "https://iAfaceri.ro/"
+    },
     {
       "title": "Cum alegi beneficiile potrivite pentru echipe distribuite în mai multe orașe?",
       "link": "https://iafaceri.ro/beneficii-echipe-multe-orase/",
@@ -80,14 +88,6 @@
       "summary": "Retailul rămâne unul dintre cele mai dinamice domenii din România, ceea ce face să ofere și un număr mare de locuri de muncă. Printre cele &#8230; Articolul De ce retailul continuă să fie unul dintre cei mai mari angajatori din România apare prima dată în iAfaceri .",
       "published": "2026-06-24T08:07:07+00:00",
       "published_human": "2026-06-24T08:07",
-      "source": "https://iAfaceri.ro/"
-    },
-    {
-      "title": "Medic chirurg la Medicover Pipera: ce afecțiuni pot fi evaluate și tratate chirurgical",
-      "link": "https://iafaceri.ro/medic-chirurg-la-medicover-pipera-ce-afectiuni-pot-fi-evaluate-si-tratate-chirurgical/",
-      "summary": "Articol informativ pentru pacienți din București: Medic chirurg la Medicover Pipera: ce afecțiuni pot fi evaluate și tratate chirurgical. Articolul Medic chirurg la Medicover Pipera: ce afecțiuni pot fi evaluate și tratate chirurgical apare prima dată în iAfaceri .",
-      "published": "2026-06-23T08:05:55+00:00",
-      "published_human": "2026-06-23T08:05",
       "source": "https://iAfaceri.ro/"
     }
   ],
