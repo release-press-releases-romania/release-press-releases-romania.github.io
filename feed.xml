@@ -5,8 +5,8 @@
     <link>https://release-press-releases-romania.github.io</link>
     <description>Aggregated RSS feed of press releases from over 100 Romanian publishers. Covering PR &amp; Marketing, Health, News &amp; Society, Technology, Business, Construction, Tourism, and more. Curated selection of quality press releases from trusted Romanian sources.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Oct 2026 03:28:36 +0000</lastBuildDate>
-    <pubDate>Wed, 07 Oct 2026 03:28:36 +0000</pubDate>
+    <lastBuildDate>Wed, 07 Oct 2026 12:23:09 +0000</lastBuildDate>
+    <pubDate>Wed, 07 Oct 2026 12:23:09 +0000</pubDate>
     <generator>Release Press Releases in Romania RSS Aggregator v2.0</generator>
     <webMaster>noreply@release-press-releases-romania.github.io (Release Press Releases)</webMaster>
     <managingEditor>noreply@release-press-releases-romania.github.io (Release Press Releases)</managingEditor>
@@ -28,6 +28,34 @@
     <sy:updateFrequency>1</sy:updateFrequency>
     <copyright>Copyright 2026 Release Press Releases in Romania. Content belongs to respective publishers.</copyright>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Cum alegi un medic gastroenterolog în Bacău: 5 întrebări de pus înainte de programare</title>
+      <link>https://ghid-sanatate.ro/alegi-medici-gastroenterolog-bacau/</link>
+      <description><![CDATA[From Ghid Sanatate: Alegerea unui gastroenterolog devine importantă mai ales după apariția unor simptome persistente, a unui diagnostic deja stabilit sau a unei recomandări pentru investigații precum endoscopia ori colonoscopia. În astfel de situații, programarea nu ține doar de disponibilitatea medicului, ci și de experiența sa, de tipul investigațiilor pe care le efectuează și de modul în care îți explică pașii ...]]></description>
+      <pubDate>Wed, 07 Oct 2026 12:19:34 +0000</pubDate>
+      <author>Ghid Sanatate (https://release-press-releases-romania.github.io/publisher/ghid-sanatate-ro/)</author>
+      <dc:creator>Ghid Sanatate</dc:creator>
+      <dc:date>2026-10-07T12:19:34+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">Health</category>
+      <guid isPermaLink="true">https://ghid-sanatate.ro/alegi-medici-gastroenterolog-bacau/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/ghid-sanatate-ro/">Ghid Sanatate</source>
+      <content:encoded><![CDATA[From Ghid Sanatate: Alegerea unui gastroenterolog devine importantă mai ales după apariția unor simptome persistente, a unui diagnostic deja stabilit sau a unei recomandări pentru investigații precum endoscopia ori colonoscopia. În astfel de situații, programarea nu ține doar de disponibilitatea medicului, ci și de experiența sa, de tipul investigațiilor pe care le efectuează și de modul în care îți explică pașii ...]]></content:encoded>
+      <comments>https://ghid-sanatate.ro/alegi-medici-gastroenterolog-bacau/#comments</comments>
+    </item>
+    <item>
+      <title>Publicare gratuită de anunțuri imobiliare: de ce contează orașul și cartierul</title>
+      <link>https://amenajari360.ro/publicare-gratuita-de-anunturi-imobiliare-de-ce-conteaza-orasul-si-cartierul/</link>
+      <description><![CDATA[From Amenajari360: Localizarea este unul dintre primele lucruri pe care le caută un cumpărător într-un anunț imobiliar. Orașul și cartierul influențează accesul la transport, distanța față de serviciu și rutina zilnică. Pentru proprietarul care vrea să publice un anunț imobiliar gratuit, prezentarea corectă a zonei este esențială. O localizare vagă poate genera solicitări de la persoane pentru care proprietatea n...]]></description>
+      <pubDate>Wed, 07 Oct 2026 08:28:22 +0000</pubDate>
+      <author>Amenajari360 (https://release-press-releases-romania.github.io/publisher/amenajari360-ro/)</author>
+      <dc:creator>Amenajari360</dc:creator>
+      <dc:date>2026-10-07T08:28:22+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">Construction &amp; Home</category>
+      <guid isPermaLink="true">https://amenajari360.ro/publicare-gratuita-de-anunturi-imobiliare-de-ce-conteaza-orasul-si-cartierul/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/amenajari360-ro/">Amenajari360</source>
+      <content:encoded><![CDATA[From Amenajari360: Localizarea este unul dintre primele lucruri pe care le caută un cumpărător într-un anunț imobiliar. Orașul și cartierul influențează accesul la transport, distanța față de serviciu și rutina zilnică. Pentru proprietarul care vrea să publice un anunț imobiliar gratuit, prezentarea corectă a zonei este esențială. O localizare vagă poate genera solicitări de la persoane pentru care proprietatea n...]]></content:encoded>
+      <comments>https://amenajari360.ro/publicare-gratuita-de-anunturi-imobiliare-de-ce-conteaza-orasul-si-cartierul/#comments</comments>
+    </item>
     <item>
       <title>Agricultura de precizie AFIR: digitalizare fermă</title>
       <link>https://iafaceri.ro/agricultura-de-precizie-afir-digitalizare-ferma/</link>
@@ -321,20 +349,6 @@
       <source url="https://release-press-releases-romania.github.io/publisher/doctor360-ro/">Doctor360</source>
       <content:encoded><![CDATA[From Doctor360: Durerea de spate sau de genunchi care nu cedează după câteva săptămâni de repaus a devenit unul dintre motivele frecvente pentru care oamenii ajung în cabinetele de recuperare medicală. Mulți pacienți așteaptă ca disconfortul să dispară de la sine, iar când asta nu se întâmplă, apar întrebările legate de ce ar mai fi de făcut. Medicina de recuperare a avansat destul de mult, iar pe lângă exerci...]]></content:encoded>
       <comments>https://doctor360.ro/durerea-persista-metode-recuperare/#comments</comments>
-    </item>
-    <item>
-      <title>Secretul bucătăriilor mici care par scoase dintr-un apartament de designer</title>
-      <link>https://amenajari360.ro/bucatariilor-mici-amenajare/</link>
-      <description><![CDATA[From Amenajari360: Apartamentele construite în ultimii ani vin, aproape fără excepție, cu bucătării tot mai strâmte, iar amenajarea lor a ajuns o probă serioasă de răbdare pentru proprietari. Șapte sau opt metri pătrați trebuie să găzduiască exact aceleași funcții ca o bucătărie dublă ca suprafață, de la gătit și spălat până la depozitarea proviziilor. Cu toate acestea, există încăperi la fel de mici care arată i...]]></description>
-      <pubDate>Fri, 02 Oct 2026 05:50:48 +0000</pubDate>
-      <author>Amenajari360 (https://release-press-releases-romania.github.io/publisher/amenajari360-ro/)</author>
-      <dc:creator>Amenajari360</dc:creator>
-      <dc:date>2026-10-02T05:50:48+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">Construction &amp; Home</category>
-      <guid isPermaLink="true">https://amenajari360.ro/bucatariilor-mici-amenajare/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/amenajari360-ro/">Amenajari360</source>
-      <content:encoded><![CDATA[From Amenajari360: Apartamentele construite în ultimii ani vin, aproape fără excepție, cu bucătării tot mai strâmte, iar amenajarea lor a ajuns o probă serioasă de răbdare pentru proprietari. Șapte sau opt metri pătrați trebuie să găzduiască exact aceleași funcții ca o bucătărie dublă ca suprafață, de la gătit și spălat până la depozitarea proviziilor. Cu toate acestea, există încăperi la fel de mici care arată i...]]></content:encoded>
-      <comments>https://amenajari360.ro/bucatariilor-mici-amenajare/#comments</comments>
     </item>
     <item>
       <title>De ce merită să te gândești acum la eficiența energetică a bucătăriei</title>
@@ -825,20 +839,6 @@
       <source url="https://release-press-releases-romania.github.io/publisher/inovare-afaceri-ro/">Inovare Afaceri</source>
       <content:encoded><![CDATA[From Inovare Afaceri: Sursa foto: SkyTower Bucharest Descarca foto de aici: https://drive.google.com/drive/folders/1zQgd6JtGM-DWSit1EZ6XCA1IowB-zlJC ALT text: Auditorium in SkyHub Bucharest Merită să alegi un auditorium atunci când agenda pune scena, mesajul și atenția publicului în prim-plan. Acest format oferă vizibilitate bună, sunet clar și un cadru ordonat pentru conferințe, lansări, prezentări sau ceremonii cu...]]></content:encoded>
       <comments>https://inovare-afaceri.ro/cand-merita-sa-alegi-auditorium/#comments</comments>
-    </item>
-    <item>
-      <title>Acidul hialuronic injectabil: ce este, cum acționează și când poate fi utilizat?</title>
-      <link>https://ghid-sanatate.ro/acid-hialuronic-injectabil/</link>
-      <description><![CDATA[From Ghid Sanatate: Acidul hialuronic este un termen întâlnit frecvent atât în produsele cosmetice, cât și în medicina estetică. Cremele și serurile care îl conțin sunt foarte populare, însă acidul hialuronic injectabil are un rol diferit și nu trebuie confundat cu produsele aplicate la suprafața pielii. În medicina estetică, produsele injectabile pe bază de acid hialuronic pot fi utilizate, în funcție de caracter...]]></description>
-      <pubDate>Fri, 25 Sep 2026 08:58:48 +0000</pubDate>
-      <author>Ghid Sanatate (https://release-press-releases-romania.github.io/publisher/ghid-sanatate-ro/)</author>
-      <dc:creator>Ghid Sanatate</dc:creator>
-      <dc:date>2026-09-25T08:58:48+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">Health</category>
-      <guid isPermaLink="true">https://ghid-sanatate.ro/acid-hialuronic-injectabil/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/ghid-sanatate-ro/">Ghid Sanatate</source>
-      <content:encoded><![CDATA[From Ghid Sanatate: Acidul hialuronic este un termen întâlnit frecvent atât în produsele cosmetice, cât și în medicina estetică. Cremele și serurile care îl conțin sunt foarte populare, însă acidul hialuronic injectabil are un rol diferit și nu trebuie confundat cu produsele aplicate la suprafața pielii. În medicina estetică, produsele injectabile pe bază de acid hialuronic pot fi utilizate, în funcție de caracter...]]></content:encoded>
-      <comments>https://ghid-sanatate.ro/acid-hialuronic-injectabil/#comments</comments>
     </item>
     <item>
       <title>Ce rol au cardurile valorice în bugetul lunar al angajaților?</title>
