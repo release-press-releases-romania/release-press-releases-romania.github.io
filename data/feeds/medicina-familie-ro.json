@@ -7,9 +7,17 @@
     "rss": "https://medicina-familie.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-10-08T09:09:53.867901+00:00",
+  "updated_at": "2026-10-08T16:37:55.817995+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Dincolo de kilograme: ce arată noile date despre Wegovy® și grăsimea acumulată în ficat",
+      "link": "https://medicina-familie.ro/dincolo-de-kilograme-ce-arata-noile-date-despre-wegovy-si-grasimea-acumulata-in-ficat/",
+      "summary": "O analiză prezentată la EASD 2026 aduce &#238;n prim-plan sănătatea ficatului la persoanele cu obezitate:... Articolul Dincolo de kilograme: ce arată noile date despre Wegovy® și grăsimea acumulată în ficat apare prima dată în Medicina de Familie .",
+      "published": "2026-10-08T09:02:00+00:00",
+      "published_human": "2026-10-08T09:02",
+      "source": "https://medicina-familie.ro/"
+    },
     {
       "title": "Novo Nordisk intră într-o nouă etapă de dezvoltare, susținută de rebrandingul „Novo” și de actualizarea culturii organizaționale",
       "link": "https://medicina-familie.ro/novo-nordisk-intra-intr-o-noua-etapa-de-dezvoltare-sustinuta-de-rebrandingul-novo-si-de-actualizarea-culturii-organizationale/",
@@ -96,14 +104,6 @@
       "summary": "Acizii grași Omega-3 sunt grăsimi esențiale, necesare pentru funcționarea normală a organismului, care trebuie furnizate... Articolul Omega-3 în alimentația zilnică – rolul acizilor grași esențiali în menținerea funcțiilor normale ale organismului apare prima dată în Medicina de Familie .",
       "published": "2026-02-08T16:01:11+00:00",
       "published_human": "2026-02-08T16:01",
-      "source": "https://medicina-familie.ro/"
-    },
-    {
-      "title": "Știai că frecatul la ochi poate afecta vederea copiilor?",
-      "link": "https://medicina-familie.ro/stiai-ca-frecatul-la-ochi-poate-afecta-vederea-copiilor/",
-      "summary": "Frecarea ochilor este un gest foarte des întâlnit la copii și chiar la bebeluși. De... Articolul Știai că frecatul la ochi poate afecta vederea copiilor? apare prima dată în Medicina de Familie .",
-      "published": "2025-12-23T13:36:44+00:00",
-      "published_human": "2025-12-23T13:36",
       "source": "https://medicina-familie.ro/"
     }
   ],

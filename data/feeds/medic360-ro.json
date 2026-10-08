@@ -7,9 +7,17 @@
     "rss": "https://medic360.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-10-08T09:09:53.867901+00:00",
+  "updated_at": "2026-10-08T16:37:55.817995+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Dincolo de kilograme: ce arată noile date despre Wegovy® și grăsimea acumulată în ficat",
+      "link": "https://medic360.ro/dincolo-de-kilograme-ce-arata-noile-date-despre-wegovy-si-grasimea-acumulata-in-ficat/",
+      "summary": "O analiză prezentată la EASD 2026 aduce &#238;n prim-plan sănătatea ficatului la persoanele cu obezitate: după 72 de săptăm&#226;ni de&#8230; Articolul Dincolo de kilograme: ce arată noile date despre Wegovy® și grăsimea acumulată în ficat apare prima dată în Medic 360 .",
+      "published": "2026-10-08T09:02:00+00:00",
+      "published_human": "2026-10-08T09:02",
+      "source": "https://medic360.ro/"
+    },
     {
       "title": "Cum funcționează corecția dioptriilor: explicații pentru pacienți",
       "link": "https://medic360.ro/corectia-dioptriilor-metode/",
@@ -72,14 +80,6 @@
       "summary": "Ca medic ORL, primesc zilnic in cabinet parinti ingrijorati, care adreseaza intrebari esentiale despre sanatatea respiratorie a celor mici. De&#8230; Articolul Cum recunosti polipii la copii: semnalul de alarma pentru parinti apare prima dată în Medic 360 .",
       "published": "2026-07-31T13:33:23+00:00",
       "published_human": "2026-07-31T13:33",
-      "source": "https://medic360.ro/"
-    },
-    {
-      "title": "Idei de gustari sanatoase la birou",
-      "link": "https://medic360.ro/idei-de-gustari-sanatoase-la-birou/",
-      "summary": "Idei de gustari sanatoase la birou Articolul Idei de gustari sanatoase la birou apare prima dată în Medic 360 .",
-      "published": "2026-07-29T19:11:13+00:00",
-      "published_human": "2026-07-29T19:11",
       "source": "https://medic360.ro/"
     }
   ],

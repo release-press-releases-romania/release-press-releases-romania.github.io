@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@clinic_sanatos",
     "rss": "https://social.5th.ro/@clinic_sanatos.rss"
   },
-  "updated_at": "2026-10-08T09:09:53.867901+00:00",
+  "updated_at": "2026-10-08T16:37:55.817995+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Dincolo de kilograme: ce arată noile date despre Wegovy® și grăsimea acumulată în ficat",
+      "link": "https://clinic-sanatos.ro/dincolo-de-kilograme-ce-arata-noile-date-despre-wegovy-si-grasimea-acumulata-in-ficat/",
+      "summary": "O analiză prezentată la EASD 2026 aduce &#238;n prim-plan sănătatea ficatului la persoanele cu obezitate:... Articolul Dincolo de kilograme: ce arată noile date despre Wegovy® și grăsimea acumulată în ficat apare prima dată în Clinic Sanatos .",
+      "published": "2026-10-08T09:02:00+00:00",
+      "published_human": "2026-10-08T09:02",
+      "source": "https://clinic-sanatos.ro/"
+    },
     {
       "title": "„Sigur am făcut eu ceva greșit”. De ce analizăm obsesiv conversațiile după ce s-au terminat",
       "link": "https://clinic-sanatos.ro/sigur-am-facut-eu-ceva-gresit-de-ce-analizam-obsesiv-conversatiile-dupa-ce-s-au-terminat/",
@@ -100,17 +108,17 @@
       "published": "2026-03-16T10:24:37+00:00",
       "published_human": "2026-03-16T10:24",
       "source": "https://clinic-sanatos.ro/"
-    },
-    {
-      "title": "Strategii pentru fortificarea rezistenței celor mici în fața virozelor",
-      "link": "https://clinic-sanatos.ro/strategii-pentru-fortificarea-rezistentei-celor-mici-in-fata-virozelor/",
-      "summary": "Odată cu scăderea temperaturilor și reîntoarcerea în colectivitate, sistemul defensiv al copilului tău intră într-o... Articolul Strategii pentru fortificarea rezistenței celor mici în fața virozelor apare prima dată în Clinic Sanatos .",
-      "published": "2026-02-17T12:29:20+00:00",
-      "published_human": "2026-02-17T12:29",
-      "source": "https://clinic-sanatos.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@clinic_sanatos/117405208521757733",
+      "summary": "O analiză prezentată la EASD 2026 aduce în prim-plan sănătatea ficatului la persoanele cu obezitate: după 72 de săptămâni de tratament cu Wegovy®, conținutul mediu de grăsime hepatică a scăzut de la 8,8% la 3,1%. Scăderea în greutate este rezultatul cel mai vizibil al unui tratament pentru obezitate. O analiză prezentată de Novo la Congresul… .... https:// clinic-sanatos.ro/dincolo-de-k ilograme-ce-arata-noile-date-despre-wegovy-si-grasimea-acumulata-in-ficat/",
+      "published": "2026-10-08T12:08:31+00:00",
+      "published_human": "2026-10-08T12:08",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@clinic_sanatos/117364573425159166",
@@ -197,14 +205,6 @@
       "summary": "Odată cu scăderea temperaturilor și reîntoarcerea în colectivitate, sistemul defensiv al copilului tău intră într-o fază de testare intensă. Nu este doar o coincidență faptul că episoadele de strănut și febră devin mai frecvente în lunile de iarnă. Organismul celor mici trece printr-un proces complex de adaptare, în care barierele naturale de protecție trebuie să… .... https:// clinic-sanatos.ro/strategii-pe ntru-fortificarea-rezistentei-celor-mici-in-fata-virozelor/",
       "published": "2026-02-17T12:29:23+00:00",
       "published_human": "2026-02-17T12:29",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@clinic_sanatos/116047900883493244",
-      "summary": "Rinita alergica este una dintre cele mai frecvente afectiuni respiratorii, dar si una dintre cele mai subestimate. Multi pacienti o confunda cu o raceala banala sau cu o sensibilitate sezoniera, ignorand impactul real pe care il are asupra calitatii vietii. Congestia nazala persistenta, stranutul repetat, secretiile abundente si senzatia de nas infundat pot deveni probleme… .... https:// clinic-sanatos.ro/rinita-alerg ica-de-ce-este-mai-mult-decat-o-simpla-raceala-si-cand-trebuie-tratata-corect/",
-      "published": "2026-02-10T19:07:20+00:00",
-      "published_human": "2026-02-10T19:07",
       "source": "Mastodon"
     }
   ]
