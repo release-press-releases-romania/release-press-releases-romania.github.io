@@ -10,7 +10,7 @@
     "url": "https://social.5th.ro/@9z",
     "rss": "https://social.5th.ro/@9z.rss"
   },
-  "updated_at": "2026-10-09T09:18:36.510425+00:00",
+  "updated_at": "2026-10-09T16:22:10.271865+00:00",
   "status": "ok",
   "items": [
     {
@@ -97,6 +97,14 @@
   "social": [
     {
       "title": "Update",
+      "link": "https://social.5th.ro/@9z/117410752099011963",
+      "summary": "Ferestrele mari fac orice cameră mai luminoasă și mai plăcută, dar aduc și privirile curioase dinspre stradă sau dinspre blocul vecin, mai ales seara, când aprinzi luminile. Vestea bună? Nu trebuie să alegi între o casă luminoasă și una în care te simți în largul tău. Cu textilele potrivite, câteva storuri, o folie pentru geam… https:// comunicatpresa.9z.ro/lumina-na turala-si-intimitatea-cum-gasesti-echilibrul-in-casa/",
+      "published": "2026-10-09T11:38:19+00:00",
+      "published_human": "2026-10-09T11:38",
+      "source": "Mastodon"
+    },
+    {
+      "title": "Update",
       "link": "https://social.5th.ro/@9z/117393307284573450",
       "summary": "Magneții sunt printre cele mai simple materiale cu care poți face experimente acasă. Nu ai nevoie de aparate complicate, de laborator sau de explicații grele. Ai nevoie de câțiva magneți potriviți, agrafe, hârtie, pilitură de fier, monede, apă, carton, câteva obiecte din casă și puțină răbdare.Pentru copii, partea interesantă apare imediat. Un obiect se mișcă… https:// 9z.ro/10-experimente-simple-cu -magneti-de-care-copiii-tai-vor-fi-incantati/",
       "published": "2026-10-06T09:41:53+00:00",
@@ -181,14 +189,6 @@
       "summary": "Un utilaj care se oprește nu trimite factura doar prin piesa care trebuie înlocuită. Costul real se adună din ore de producție pierdute, intervenții neplanificate, manoperă și consumuri care se repetă fără să rezolve cauza. De aceea, prețul unui lubrifiant este doar o mică parte din ceea ce trebuie urmărit într-un program de mentenanță.Lubrifierea utilajelor… https:// comunicatpresa.9z.ro/factura-n u-incepe-la-raftul-cu-lubrifianti/",
       "published": "2026-09-28T07:04:29+00:00",
       "published_human": "2026-09-28T07:04",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@9z/117347311221662847",
-      "summary": "Începând cu 11 septembrie 2026, producătorii de software și hardware comercializate în Europa care intră sub incidența Cyber Resilience Act (CRA) trebuie să raporteze vulnerabilitățile exploatate activ și incidentele severe de securitate, cu o primă notificare în maximum 24 https:// comunicatpresa.9z.ro/de-la-11- septembrie-producatorii-de-software-si-echipamente-conectate-trebuie-sa-raporteze-vulnerabilitatile-exploatate-activ-cyber_folks-fara-monitorizare-continua-termenul-de-24-de-ore-devine-o/",
-      "published": "2026-09-28T06:44:28+00:00",
-      "published_human": "2026-09-28T06:44",
       "source": "Mastodon"
     }
   ]

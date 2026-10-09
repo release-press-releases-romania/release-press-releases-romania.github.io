@@ -7,9 +7,17 @@
     "rss": "https://vhm.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-10-09T09:18:36.510425+00:00",
+  "updated_at": "2026-10-09T16:22:10.271865+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Început de an universitar: 7 gadgeturi care fac viața de student mai ușoară",
+      "link": "https://vhm.ro/inceput-de-an-universitar-7-gadgeturi-care-fac-viata-de-student-mai-usoara/",
+      "summary": "Primele săptămâni de facultate aduc orare noi, drumuri între cursuri, multe fișiere de păstrat și The post Început de an universitar: 7 gadgeturi care fac viața de student mai ușoară appeared first on Comunicate de presa online .",
+      "published": "2026-10-09T11:38:41+00:00",
+      "published_human": "2026-10-09T11:38",
+      "source": "https://vhm.ro/"
+    },
     {
       "title": "În sala de box, locul sacului se decide înaintea modelului",
       "link": "https://vhm.ro/in-sala-de-box-locul-sacului-se-decide-inaintea-modelului/",
@@ -80,14 +88,6 @@
       "summary": "Utilizarea buteliilor de gaz răm&#226;ne o soluție de bază pentru mii de gospodării din Rom&#226;nia, The post Unde se pot încărca corect și legal buteliile de gaz în România? appeared first on Comunicate de presa online .",
       "published": "2026-06-22T14:02:53+00:00",
       "published_human": "2026-06-22T14:02",
-      "source": "https://vhm.ro/"
-    },
-    {
-      "title": "Ce poți face în Mallorca în afară de plajă",
-      "link": "https://vhm.ro/ce-poti-face-in-mallorca-in-afara-de-plaja/",
-      "summary": "Mallorca este renumită pentru apele sale turcoaz și nisipul fin. Majoritatea turiștilor aleg această destinație The post Ce poți face în Mallorca în afară de plajă appeared first on Comunicate de presa online .",
-      "published": "2026-06-13T11:26:00+00:00",
-      "published_human": "2026-06-13T11:26",
       "source": "https://vhm.ro/"
     }
   ],
