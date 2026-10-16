@@ -7,9 +7,17 @@
     "rss": "https://sfatul-doctorului.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-10-16T12:35:07.435207+00:00",
+  "updated_at": "2026-10-16T17:31:49.423902+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Se poate reface o operație de cristalin? Ce arată practica medicală",
+      "link": "https://sfatul-doctorului.ro/se-poate-reface-o-operatie-de-cristalin-ce-arata-practica-medicala/",
+      "summary": "Cristalinul natural se scoate o singură dată, iar implantul care îi ia locul este gândit să rămână acolo pentru tot restul vieții. Reintervenția apare rar și doar când ceva se schimbă, nu ca etapă obișnuită. În practică, implantul artificial poate fi repoziționat sau schimbat în câteva situații punctuale: o deplasare după un traumatism, o complicație [&#8230;] Articolul Se poate reface o operație de cristalin? Ce arată practica medicală apare prima dată în Sfatul Doctorului .",
+      "published": "2026-10-16T16:05:33+00:00",
+      "published_human": "2026-10-16T16:05",
+      "source": "https://sfatul-doctorului.ro/"
+    },
     {
       "title": "Ficat gras la persoanele cu greutate normală: cum se depistează",
       "link": "https://sfatul-doctorului.ro/depistare-ficat-gras/",
@@ -72,14 +80,6 @@
       "summary": "Articol informativ pentru pacienți din București despre chirurgia sânului și când se recomandă un consult la medicul chirurg. Articolul Chirurgia sânului: când este necesar consultul la medicul chirurg apare prima dată în Sfatul Doctorului .",
       "published": "2026-06-23T08:05:55+00:00",
       "published_human": "2026-06-23T08:05",
-      "source": "https://sfatul-doctorului.ro/"
-    },
-    {
-      "title": "Clinica Prevencia explică: cum ajungi corect la medicul specialist prin CAS",
-      "link": "https://sfatul-doctorului.ro/clinica-prevencia-explica-cum-ajungi-corect-la-medicul-specialist-prin-cas/",
-      "summary": "Pentru mulți pacienți, accesarea serviciilor medicale prin CAS pare mai complicată decât ar trebui. Nu este întotdeauna clar dacă trebuie să mergi mai întâi la medicul de familie, când ai nevoie de bilet de trimitere, ce documente trebuie să ai la tine și de ce unele consultații pot fi decontate, iar altele trebuie plătite. În [&#8230;] Articolul Clinica Prevencia explică: cum ajungi corect la medicul specialist prin CAS apare prima dată în Sfatul Doctorului .",
-      "published": "2026-06-17T07:42:33+00:00",
-      "published_human": "2026-06-17T07:42",
       "source": "https://sfatul-doctorului.ro/"
     }
   ],
