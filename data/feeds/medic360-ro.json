@@ -7,9 +7,17 @@
     "rss": "https://medic360.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-10-16T07:20:21.292431+00:00",
+  "updated_at": "2026-10-16T12:35:07.435207+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "La cât timp după extracție pacientul poate beneficia de implant dentar și unde te programezi în sector 1",
+      "link": "https://medic360.ro/implant-dentar-dupa-extractie-sector-1/",
+      "summary": "Descopera intervalul de timp recomandat intre extractie si implant dentar. Informatii despre riscurile amanaresului si optiunile de tratament. Articolul La cât timp după extracție pacientul poate beneficia de implant dentar și unde te programezi în sector 1 apare prima dată în Medic 360 .",
+      "published": "2026-10-16T11:17:14+00:00",
+      "published_human": "2026-10-16T11:17",
+      "source": "https://medic360.ro/"
+    },
     {
       "title": "GHK-Cu peptida de curpu: ce este peptida de cupru și ce știm despre rolul său în sănătatea pielii?",
       "link": "https://medic360.ro/ghk-cu-peptida-de-curpu-ce-este-peptida-de-cupru-si-ce-stim-despre-rolul-sau-in-sanatatea-pielii/",
@@ -72,14 +80,6 @@
       "summary": "Piața suplimentelor pentru healthy aging a devenit tot mai sofisticată. Etichetele includ ingrediente precum nicotinamide riboside (NR), CoQ10, PQQ, Ca-AKG,&#8230; Articolul Cum evaluezi un longevity stack: doze, transparență și dovezi înainte de marketing apare prima dată în Medic 360 .",
       "published": "2026-08-20T04:54:58+00:00",
       "published_human": "2026-08-20T04:54",
-      "source": "https://medic360.ro/"
-    },
-    {
-      "title": "Ortopedie, reumatologie, recuperare medicală: la ce specialist te adresezi",
-      "link": "https://medic360.ro/ortopedie-reumatologie-recuperare-medicala-la-ce-specialist-te-adresezi/",
-      "summary": "Durerea articulară trimite pacienții către trei specialități diferite, iar alegerea greșită înseamnă timp pierdut și, uneori, o programare irosită. Iată&#8230; Articolul Ortopedie, reumatologie, recuperare medicală: la ce specialist te adresezi apare prima dată în Medic 360 .",
-      "published": "2026-08-18T12:16:15+00:00",
-      "published_human": "2026-08-18T12:16",
       "source": "https://medic360.ro/"
     }
   ],

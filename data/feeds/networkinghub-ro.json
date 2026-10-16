@@ -7,9 +7,17 @@
     "rss": "https://networkinghub.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-10-16T07:20:21.292431+00:00",
+  "updated_at": "2026-10-16T12:35:07.435207+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Așa a fost la Her Space Festival Romania – Tinerețe fără Bătrânețe?",
+      "link": "https://networkinghub.ro/asa-a-fost-la-her-space-festival-romania-tinerete-fara-batranete/",
+      "summary": "Două zile &#238;n căutarea unor răspunsuri reale despre sănătate și vitalitate Pe 10 și 11... Articolul Așa a fost la Her Space Festival Romania &#8211; Tinerețe fără Bătrânețe? apare prima dată în Networking Hub .",
+      "published": "2026-10-16T09:21:23+00:00",
+      "published_human": "2026-10-16T09:21",
+      "source": "https://networkinghub.ro/"
+    },
     {
       "title": "Premieră în România: primul hackathon multidisciplinar dedicat soluțiilor pentru siguranța elevilor",
       "link": "https://networkinghub.ro/premiera-in-romania-primul-hackathon-multidisciplinar-dedicat-solutiilor-pentru-siguranta-elevilor/",
@@ -96,14 +104,6 @@
       "summary": "Vinul dulce ajunge de multe ori pe masă abia când apar prăjiturile, de parcă acesta... Articolul Vinul dulce se servește doar la desert? Asocieri care schimbă complet perspectiva apare prima dată în Networking Hub .",
       "published": "2026-07-20T19:37:48+00:00",
       "published_human": "2026-07-20T19:37",
-      "source": "https://networkinghub.ro/"
-    },
-    {
-      "title": "Polipii colonici și riscul de cancer: când devine necesar consultul chirurgical",
-      "link": "https://networkinghub.ro/polipii-colonici-si-riscul-de-cancer-cand-devine-necesar-consultul-chirurgical/",
-      "summary": "Articol informativ pentru pacienți din București: Polipii colonici și riscul de cancer: când devine necesar consultul chirurgical. Articolul Polipii colonici și riscul de cancer: când devine necesar consultul chirurgical apare prima dată în Networking Hub .",
-      "published": "2026-06-23T08:05:55+00:00",
-      "published_human": "2026-06-23T08:05",
       "source": "https://networkinghub.ro/"
     }
   ],

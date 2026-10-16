@@ -7,9 +7,17 @@
     "rss": "https://gradina24.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-10-16T07:20:21.292431+00:00",
+  "updated_at": "2026-10-16T12:35:07.435207+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Cum să integrezi un design modern în livingul tău?",
+      "link": "https://gradina24.ro/design-modern-in-living/",
+      "summary": "Descopera cum sa echilibrezi culorile, formele si materialele pentru a obtine o amenajare armonioasa si functionala in spatiul tau de relaxare. Articolul Cum să integrezi un design modern în livingul tău? apare prima dată în Gradina 24 .",
+      "published": "2026-10-16T09:48:59+00:00",
+      "published_human": "2026-10-16T09:48",
+      "source": "https://gradina24.ro/"
+    },
     {
       "title": "Cum să alegi dimensiunea corectă pentru lenjerii de pat de o persoană",
       "link": "https://gradina24.ro/cum-sa-alegi-dimensiunea-corecta-pentru-lenjerii-de-pat-de-o-persoana/",
@@ -96,14 +104,6 @@
       "summary": "Ai investit timp, gânduri și interacțiuni valoroase în comunitatea Mastodon. Dar ce se întâmplă dacă serverul tău preferat se închide sau pur și Articolul Cum faci backup la contul Mastodon: export, import, migrare apare prima dată în Gradina 24 .",
       "published": "2025-12-17T16:58:54+00:00",
       "published_human": "2025-12-17T16:58",
-      "source": "https://gradina24.ro/"
-    },
-    {
-      "title": "Advertoriale multilimbă în 2025: cum te promovezi pe piețe externe",
-      "link": "https://gradina24.ro/advertoriale-multilimba-in-2025-cum-te-promovezi-pe-piete-externe/",
-      "summary": "(Atenție) Vă confruntați cu un plafon de creștere pe piața locală? Multe companii ambițioase realizează că viitorul lor depinde de depășirea granițelor. Totuși, Articolul Advertoriale multilimbă în 2025: cum te promovezi pe piețe externe apare prima dată în Gradina 24 .",
-      "published": "2025-12-01T12:07:49+00:00",
-      "published_human": "2025-12-01T12:07",
       "source": "https://gradina24.ro/"
     }
   ],
