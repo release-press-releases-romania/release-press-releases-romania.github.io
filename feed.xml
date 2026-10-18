@@ -5,8 +5,8 @@
     <link>https://release-press-releases-romania.github.io</link>
     <description>Aggregated RSS feed of press releases from over 100 Romanian publishers. Covering PR &amp; Marketing, Health, News &amp; Society, Technology, Business, Construction, Tourism, and more. Curated selection of quality press releases from trusted Romanian sources.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Oct 2026 02:17:13 +0000</lastBuildDate>
-    <pubDate>Sun, 18 Oct 2026 02:17:13 +0000</pubDate>
+    <lastBuildDate>Sun, 18 Oct 2026 10:09:34 +0000</lastBuildDate>
+    <pubDate>Sun, 18 Oct 2026 10:09:34 +0000</pubDate>
     <generator>Release Press Releases in Romania RSS Aggregator v2.0</generator>
     <webMaster>noreply@release-press-releases-romania.github.io (Release Press Releases)</webMaster>
     <managingEditor>noreply@release-press-releases-romania.github.io (Release Press Releases)</managingEditor>
@@ -28,6 +28,20 @@
     <sy:updateFrequency>1</sy:updateFrequency>
     <copyright>Copyright 2026 Release Press Releases in Romania. Content belongs to respective publishers.</copyright>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>De la documente la o prezentare verificabilă cu Orkas</title>
+      <link>https://e-it.ro/de-la-documente-la-o-prezentare-verificabila-cu-orkas/</link>
+      <description><![CDATA[From E It: Un exemplu fictiv arată cum verifici sursele, durata și textul unei prezentări înainte de design, într-un flux propus cu Orkas. Articolul De la documente la o prezentare verificabilă cu Orkas apare prima dată în e-it.ro – Știri inteligente din lumea tehnologiei.]]></description>
+      <pubDate>Sun, 18 Oct 2026 06:59:52 +0000</pubDate>
+      <author>E It (https://release-press-releases-romania.github.io/publisher/e-it-ro/)</author>
+      <dc:creator>E It</dc:creator>
+      <dc:date>2026-10-18T06:59:52+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">Technology &amp; Energy</category>
+      <guid isPermaLink="true">https://e-it.ro/de-la-documente-la-o-prezentare-verificabila-cu-orkas/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/e-it-ro/">E It</source>
+      <content:encoded><![CDATA[From E It: Un exemplu fictiv arată cum verifici sursele, durata și textul unei prezentări înainte de design, într-un flux propus cu Orkas. Articolul De la documente la o prezentare verificabilă cu Orkas apare prima dată în e-it.ro – Știri inteligente din lumea tehnologiei.]]></content:encoded>
+      <comments>https://e-it.ro/de-la-documente-la-o-prezentare-verificabila-cu-orkas/#comments</comments>
+    </item>
     <item>
       <title>Cum combini lenjeria de pat cu restul decorului din dormitor?</title>
       <link>https://case-verzi.ro/cum-combini-lenjeria-de-pat-cu-restul-decorului-din-dormitor/</link>
@@ -1847,20 +1861,6 @@
       <source url="https://release-press-releases-romania.github.io/publisher/cutremurul-ro/">Cutremurul</source>
       <content:encoded><![CDATA[From Cutremurul: { &quot;@context&quot;: &quot;https://schema.org&quot;, &quot;@type&quot;: &quot;FAQPage&quot;, &quot;mainEntity&quot;: [ { &quot;@type&quot;: &quot;Question&quot;, &quot;name&quot;: &quot;Care este rata de supraviețuire în cazul afecțiunilor maligne ale esofagului?&quot;, &quot;acceptedAnswer&quot;: { &quot;@type&quot;: &quot;Answer&quot;, &quot;text&quot;: &quot;Șansele de vindecare depind direct de stadiul în care este diagnosticată boala. În stadiile incipiente, combinarea chirurgiei cu terapiile oncologice moderne oferă r...]]></content:encoded>
       <comments>https://cutremurul.ro/cancerul-esofagian-rolul-chirurgiei-in-tratamentul-multidisciplinar/#comments</comments>
-    </item>
-    <item>
-      <title>Hernia incizională: de ce apare și cum se tratează</title>
-      <link>https://e-it.ro/hernia-incizionala-de-ce-apare-si-cum-se-trateaza/</link>
-      <description><![CDATA[From E It: Ați observat o umflătură neobișnuită în zona unei vechi cicatrici chirurgicale? Această problemă medicală este cunoscută sub numele de hernie incizională sau eventrație. Ea apare adesea după o intervenție de chirurgie abdominală. Disconfortul fizic și modificările estetice pot afecta semnificativ calitatea vieții de zi cu zi. Din fericire, medicina modernă oferă soluții sigure și eficiente... M...]]></description>
-      <pubDate>Fri, 31 Jul 2026 08:32:01 +0000</pubDate>
-      <author>E It (https://release-press-releases-romania.github.io/publisher/e-it-ro/)</author>
-      <dc:creator>E It</dc:creator>
-      <dc:date>2026-07-31T08:32:01+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">Technology &amp; Energy</category>
-      <guid isPermaLink="true">https://e-it.ro/hernia-incizionala-de-ce-apare-si-cum-se-trateaza/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/e-it-ro/">E It</source>
-      <content:encoded><![CDATA[From E It: Ați observat o umflătură neobișnuită în zona unei vechi cicatrici chirurgicale? Această problemă medicală este cunoscută sub numele de hernie incizională sau eventrație. Ea apare adesea după o intervenție de chirurgie abdominală. Disconfortul fizic și modificările estetice pot afecta semnificativ calitatea vieții de zi cu zi. Din fericire, medicina modernă oferă soluții sigure și eficiente... M...]]></content:encoded>
-      <comments>https://e-it.ro/hernia-incizionala-de-ce-apare-si-cum-se-trateaza/#comments</comments>
     </item>
     <item>
       <title>Intervențiile robotice pentru cancerul de rect: beneficii și rezultate</title>
