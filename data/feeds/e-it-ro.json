@@ -7,9 +7,17 @@
     "rss": "https://e-it.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-10-18T06:04:40.046678+00:00",
+  "updated_at": "2026-10-18T11:24:31.050230+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "De la documente la o prezentare verificabilă cu Orkas",
+      "link": "https://e-it.ro/de-la-documente-la-o-prezentare-verificabila-cu-orkas/",
+      "summary": "Un exemplu fictiv arată cum verifici sursele, durata și textul unei prezentări înainte de design, într-un flux propus cu Orkas. Articolul De la documente la o prezentare verificabilă cu Orkas apare prima dată în e-it.ro – Știri inteligente din lumea tehnologiei .",
+      "published": "2026-10-18T06:59:52+00:00",
+      "published_human": "2026-10-18T06:59",
+      "source": "https://e-it.ro/"
+    },
     {
       "title": "Noua platformă Simplio3D pentru configuratoare 3D de produse",
       "link": "https://e-it.ro/simplio3d-configurator-3d/",
@@ -80,14 +88,6 @@
       "summary": "Ești obosit să vezi în feed-ul tău doar conținut ales de un algoritm? Te simți manipulat de recomandările bazate pe metrici de engagement, care par să ignore interesele tale reale? Nu ești singur. Milioane de utilizatori caută o evadare din bulele de filtrare impuse de rețelele sociale centralizate. Platforma Mastodon îți oferă exact libertatea pe... Mai mult &#8220;Cum găsești oameni relevanți pe Mastodon fără algoritm&#8221; &#187; Articolul Cum găsești oameni relevanți pe Mastodon fără algoritm apare prima dată în e-it.ro – Știri inteligente din lumea tehnologiei .",
       "published": "2025-12-17T16:58:54+00:00",
       "published_human": "2025-12-17T16:58",
-      "source": "https://e-it.ro/"
-    },
-    {
-      "title": "Cele mai frecvente greșeli în advertoriale SEO în 2025",
-      "link": "https://e-it.ro/cele-mai-frecvente-greseli-in-advertoriale-seo-in-2025/",
-      "summary": "Introducere: De ce eșuează campaniile plătite și cum evităm Penalizarea Google? Atenție: Ați investit sume semnificative în campanii de conținut plătit, așteptând un ROI rapid și o creștere a autorității. Cu toate acestea, observați că articolele sponsorizate nu se clasează, iar traficul rămâne la niveluri minime. Sunteți pe cale să aflați de ce se întâmplă... Mai mult &#8220;Cele mai frecvente greșeli în advertoriale SEO în 2025&#8221; &#187; Articolul Cele mai frecvente greșeli în advertoriale SEO în 2025 apare prima dată în e-it.ro – Știri inteligente din lumea tehnologiei .",
-      "published": "2025-12-01T12:07:49+00:00",
-      "published_human": "2025-12-01T12:07",
       "source": "https://e-it.ro/"
     }
   ],
