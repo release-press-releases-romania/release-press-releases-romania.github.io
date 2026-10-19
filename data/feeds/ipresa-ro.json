@@ -7,9 +7,17 @@
     "rss": "https://iPresa.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-10-19T04:55:54.092695+00:00",
+  "updated_at": "2026-10-19T10:57:52.307855+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Cum alegi scaunul auto potrivit în funcție de vârsta și greutatea copilului",
+      "link": "https://ipresa.ro/alegi-scaun-auto-copil/",
+      "summary": "Ghid practic pentru selectarea scaunului auto in functie de varsta si dimensiunile copilului. Invele cum verifici compatibilitatea cu masina ta. Articolul Cum alegi scaunul auto potrivit în funcție de vârsta și greutatea copilului apare prima dată în iPresa .",
+      "published": "2026-10-19T07:41:46+00:00",
+      "published_human": "2026-10-19T07:41",
+      "source": "https://iPresa.ro/"
+    },
     {
       "title": "Ce să vezi într-un weekend cultural în Craiova și o ieșire în județul Dolj",
       "link": "https://ipresa.ro/ce-sa-vezi-intr-un-weekend-cultural-in-craiova-si-o-iesire-in-judetul-dolj/",
@@ -80,14 +88,6 @@
       "summary": "Nu orice produs second-hand este automat o afacere bună și nu orice produs nou justifică diferența de preț. Află cum compari starea, durata de viață, garanția, siguranța și costul real înainte să alegi. Articolul Second-hand sau nou? Cum decizi ce merită cumpărat folosit și unde nu e bine să faci compromisuri apare prima dată în iPresa .",
       "published": "2026-09-02T20:53:45+00:00",
       "published_human": "2026-09-02T20:53",
-      "source": "https://iPresa.ro/"
-    },
-    {
-      "title": "Chirurgia oncologică personalizată: cum se stabilește planul de tratament",
-      "link": "https://ipresa.ro/chirurgia-oncologica-personalizata-cum-se-stabileste-planul-de-tratament/",
-      "summary": "Un diagnostic de boală oncologică reprezintă o provocare uriașă pentru orice persoană. Din fericire, medicina modernă a evoluat foarte mult în ultimii ani. Astăzi, intervențiile medicale nu mai urmează o schemă rigidă și universală pentru toți pacienții. Fiecare organism reacționează diferit la boală. De aceea, domeniul denumit chirurgie oncologică prioritizează soluțiile adaptate fiecărui caz în [&#8230;] Articolul Chirurgia oncologică personalizată: cum se stabilește planul de tratament apare prima dată în iPresa .",
-      "published": "2026-07-31T08:32:01+00:00",
-      "published_human": "2026-07-31T08:32",
       "source": "https://iPresa.ro/"
     }
   ],

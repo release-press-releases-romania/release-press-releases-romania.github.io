@@ -7,9 +7,17 @@
     "rss": "https://sfatul-doctorului.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-10-19T04:55:54.092695+00:00",
+  "updated_at": "2026-10-19T10:57:52.307855+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Ce conține mierea afrodisiacă și cum acționează în cuplu",
+      "link": "https://sfatul-doctorului.ro/mierea-afrodisiaca-compozitie/",
+      "summary": "Descopera compozitia si mecanismul de actiune al produsului. Afla cum ingredientele vegetale sustin vitalitatea ambilor parteneri in mod natural. Articolul Ce conține mierea afrodisiacă și cum acționează în cuplu apare prima dată în Sfatul Doctorului .",
+      "published": "2026-10-19T07:07:46+00:00",
+      "published_human": "2026-10-19T07:07",
+      "source": "https://sfatul-doctorului.ro/"
+    },
     {
       "title": "Se poate reface o operație de cristalin? Ce arată practica medicală",
       "link": "https://sfatul-doctorului.ro/se-poate-reface-o-operatie-de-cristalin-ce-arata-practica-medicala/",
@@ -72,14 +80,6 @@
       "summary": "În urmă cu două decenii, un implant dentar era privit ca o intervenție complexă, rezervată unor cazuri speciale. Astăzi, tehnologia a schimbat radical modul în care medicii planifică și realizează aceste tratamente. Radiografiile bidimensionale au fost înlocuite de imagistica 3D, amprentele clasice sunt tot mai des înlocuite de scanarea intraorală, iar planificarea digitală permite simularea [&#8230;] Articolul Implanturile dentare în 2026 apare prima dată în Sfatul Doctorului .",
       "published": "2026-06-26T05:32:30+00:00",
       "published_human": "2026-06-26T05:32",
-      "source": "https://sfatul-doctorului.ro/"
-    },
-    {
-      "title": "Chirurgia sânului: când este necesar consultul la medicul chirurg",
-      "link": "https://sfatul-doctorului.ro/chirurgia-sanului-cand-este-necesar-consultul-la-medicul-chirurg/",
-      "summary": "Articol informativ pentru pacienți din București despre chirurgia sânului și când se recomandă un consult la medicul chirurg. Articolul Chirurgia sânului: când este necesar consultul la medicul chirurg apare prima dată în Sfatul Doctorului .",
-      "published": "2026-06-23T08:05:55+00:00",
-      "published_human": "2026-06-23T08:05",
       "source": "https://sfatul-doctorului.ro/"
     }
   ],
