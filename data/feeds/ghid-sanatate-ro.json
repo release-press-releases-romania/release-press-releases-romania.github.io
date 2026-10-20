@@ -7,9 +7,17 @@
     "rss": "https://ghid-sanatate.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-10-20T18:32:39.510090+00:00",
+  "updated_at": "2026-10-20T22:25:19.850877+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "De ce să alegi un capac WC automat cu senzor pentru toaletele publice",
+      "link": "https://ghid-sanatate.ro/de-ce-sa-alegi-un-capac-wc-automat-cu-senzor-pentru-toaletele-publice-2/",
+      "summary": "&#206;n spațiile publice, menținerea igienei &#238;n grupurile sanitare reprezintă o provocare constantă. Centrele comerciale, hotelurile,... Articolul De ce să alegi un capac WC automat cu senzor pentru toaletele publice apare prima dată în Ghid Sanatate .",
+      "published": "2026-10-20T18:38:00+00:00",
+      "published_human": "2026-10-20T18:38",
+      "source": "https://ghid-sanatate.ro/"
+    },
     {
       "title": "Arome de scorțișoară, fructe crocante și puțină magie de Halloween: descoperă bunătățile de toamnă de la Mixit",
       "link": "https://ghid-sanatate.ro/arome-de-scortisoara-fructe-crocante-si-putina-magie-de-halloween-descopera-bunatatile-de-toamna-de-la-mixit/",
@@ -96,14 +104,6 @@
       "summary": "Finalul lunii august aduce revenirea la rutina de zi cu zi. Concediile se apropie de... Articolul Un început de toamnă mai echilibrat: 3 obiceiuri sănătoase pentru întreaga familie apare prima dată în Ghid Sanatate .",
       "published": "2026-08-17T06:32:06+00:00",
       "published_human": "2026-08-17T06:32",
-      "source": "https://ghid-sanatate.ro/"
-    },
-    {
-      "title": "Intervențiile laparoscopice pentru afecțiunile colonului",
-      "link": "https://ghid-sanatate.ro/interventiile-laparoscopice-pentru-afectiunile-colonului/",
-      "summary": "Problemele digestive netratate pot afecta grav calitatea vieții de zi cu zi. Afecțiunile intestinale provoacă... Articolul Intervențiile laparoscopice pentru afecțiunile colonului apare prima dată în Ghid Sanatate .",
-      "published": "2026-07-31T08:32:01+00:00",
-      "published_human": "2026-07-31T08:32",
       "source": "https://ghid-sanatate.ro/"
     }
   ],
