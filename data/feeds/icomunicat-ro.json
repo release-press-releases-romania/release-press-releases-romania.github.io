@@ -7,9 +7,17 @@
     "rss": "https://iComunicat.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-10-22T07:45:10.120342+00:00",
+  "updated_at": "2026-10-22T13:55:23.884059+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "AdPhoto lansează o secțiune cu sfaturi pentru miri și mirese",
+      "link": "https://icomunicat.ro/2026/10/22/adphoto-lanseaza-sectiune-sfaturi-pentru-miri-si-mirese/",
+      "summary": "AdPhoto dezvoltă pe blog o secțiune dedicată viitorilor miri, cu ghiduri, sfaturi și informații practice despre organizarea nunții, furnizori, fotografie și principalele etape ale pregătirii evenimentului. Articolul AdPhoto lansează o secțiune cu sfaturi pentru miri și mirese apare prima dată în iComunicat .",
+      "published": "2026-10-22T12:25:30+00:00",
+      "published_human": "2026-10-22T12:25",
+      "source": "https://iComunicat.ro/"
+    },
     {
       "title": "Drumuri de toamnă cu copiii: 7 reguli de siguranță pe vreme rea",
       "link": "https://icomunicat.ro/2026/10/19/drum-sigur-toamna-copii/",
@@ -80,14 +88,6 @@
       "summary": "Investiția într-un sistem de panouri fotovoltaice și o pompă de căldură depășește frecvent suma de 10.000 sau 15.000 de euro. Statutul de prosumator aduce facturi mai mici la energie și independență termică, lăsând aceste echipamente sensibile expuse în permanență capriciilor vremii și fluctuațiilor din rețea. Panourile montate pe acoperiș stau direct în calea furtunilor de [&#8230;] Articolul Cum asiguri panourile fotovoltaice și pompa de căldură împotriva grindinei și supratensiunii de rețea? apare prima dată în iComunicat .",
       "published": "2026-09-13T21:33:00+00:00",
       "published_human": "2026-09-13T21:33",
-      "source": "https://iComunicat.ro/"
-    },
-    {
-      "title": "CSV.RO și formula „Cumperi, Schimbi, Vinzi”: o platformă românească pentru anunțuri online",
-      "link": "https://icomunicat.ro/2026/09/12/csv-ro-cumperi-schimbi-vinzi-platforma-romaneasca-anunturi-online/",
-      "summary": "CSV.RO reunește într-o singură platformă anunțuri pentru produse, servicii, auto, imobiliare și locuri de muncă. Formula „Cumperi, Schimbi, Vinzi” descrie simplu rolul brandului: descoperire, contact direct și tranzacții între utilizatori. Articolul CSV.RO și formula „Cumperi, Schimbi, Vinzi”: o platformă românească pentru anunțuri online apare prima dată în iComunicat .",
-      "published": "2026-09-12T11:51:39+00:00",
-      "published_human": "2026-09-12T11:51",
       "source": "https://iComunicat.ro/"
     }
   ],
