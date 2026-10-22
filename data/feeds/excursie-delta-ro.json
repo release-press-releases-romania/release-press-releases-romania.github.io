@@ -7,9 +7,17 @@
     "rss": "https://excursie-delta.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-10-22T01:37:35.228427+00:00",
+  "updated_at": "2026-10-22T07:45:10.120342+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Gusturi românești în cutie: cadoul care spune ceva despre locul de unde vii",
+      "link": "https://excursie-delta.ro/cadou-traditional-spune-ceva-despre/",
+      "summary": "Descopera cum sa alegi si sa trimiti cosuri cu produse traditionale. Sfaturi pentru ambalaj, transport international si combinatii care functioneaza. Articolul Gusturi românești în cutie: cadoul care spune ceva despre locul de unde vii apare prima dată în Delta Dunării | Excursii Delta Dunarii | Cazare Delta Dunării .",
+      "published": "2026-10-22T04:34:46+00:00",
+      "published_human": "2026-10-22T04:34",
+      "source": "https://excursie-delta.ro/"
+    },
     {
       "title": "Cazare din anunțuri online: ce verifici înainte să plătești avansul pentru vacanță",
       "link": "https://excursie-delta.ro/cazare-din-anunturi-online-ce-verifici-inainte-sa-platesti-avansul/",
@@ -80,14 +88,6 @@
       "summary": "Te-ai întrebat vreodată de ce unii par să câștige constant la sloturi, în timp ce alții pierd rapid? Ești în căutarea formulei magice care să garanteze succesul la &#8222;păcănele&#8221;? (Attention) Mulți jucători caută intens cele mai eficiente strategii păcănele. Internetul este plin de sfaturi contradictorii. Ele promit câștiguri rapide. (Interest) Dorința de a înțelege ce [&#8230;] Articolul Strategii populare la păcănele: mituri, realitate și joc responsabil apare prima dată în Delta Dunării | Excursii Delta Dunarii | Cazare Delta Dunării .",
       "published": "2025-11-13T19:31:26+00:00",
       "published_human": "2025-11-13T19:31",
-      "source": "https://excursie-delta.ro/"
-    },
-    {
-      "title": "Ce framework backend alegi: Laravel vs Django vs Spring",
-      "link": "https://excursie-delta.ro/ce-framework-backend-alegi-laravel-vs-django-vs-spring/",
-      "summary": "Construiești un proiect web complex și te întrebi ce framework backend să alegi? Simți presiunea deciziei? Nu te panica! Aici vei găsi informațiile necesare pentru a lua o decizie informată. Alegerea Framework-ului Backend Perfect Selectarea unui framework backend potrivit pentru proiectul tău este crucială pentru succes. De la performanță la scalabilitate, decizia influențează direct viitorul [&#8230;] Articolul Ce framework backend alegi: Laravel vs Django vs Spring apare prima dată în Delta Dunării | Excursii Delta Dunarii | Cazare Delta Dunării .",
-      "published": "2025-09-03T22:17:19+00:00",
-      "published_human": "2025-09-03T22:17",
       "source": "https://excursie-delta.ro/"
     }
   ],
