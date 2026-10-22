@@ -5,8 +5,8 @@
     <link>https://release-press-releases-romania.github.io</link>
     <description>Aggregated RSS feed of press releases from over 100 Romanian publishers. Covering PR &amp; Marketing, Health, News &amp; Society, Technology, Business, Construction, Tourism, and more. Curated selection of quality press releases from trusted Romanian sources.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 10:54:36 +0000</lastBuildDate>
-    <pubDate>Thu, 22 Oct 2026 10:54:36 +0000</pubDate>
+    <lastBuildDate>Thu, 22 Oct 2026 16:21:21 +0000</lastBuildDate>
+    <pubDate>Thu, 22 Oct 2026 16:21:21 +0000</pubDate>
     <generator>Release Press Releases in Romania RSS Aggregator v2.0</generator>
     <webMaster>noreply@release-press-releases-romania.github.io (Release Press Releases)</webMaster>
     <managingEditor>noreply@release-press-releases-romania.github.io (Release Press Releases)</managingEditor>
@@ -28,6 +28,34 @@
     <sy:updateFrequency>1</sy:updateFrequency>
     <copyright>Copyright 2026 Release Press Releases in Romania. Content belongs to respective publishers.</copyright>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>AdPhoto lansează o secțiune cu sfaturi pentru miri și mirese</title>
+      <link>https://icomunicat.ro/2026/10/22/adphoto-lanseaza-sectiune-sfaturi-pentru-miri-si-mirese/</link>
+      <description><![CDATA[From iComunicat: București, 22 octombrie 2026 AdPhoto dezvoltă pe blogul propriu o secțiune dedicată viitorilor miri, care reunește articole, ghiduri practice, sfaturi și informații utile pentru organizarea nunții. Secțiunea adună într-un singur loc informații dezvoltate pornind inclusiv de la experiența acumulată de fotograful Adrian Dumitru în peste 15 ani de activitate în cadrul evenimentelor. Secțiunea „sfa...]]></description>
+      <pubDate>Thu, 22 Oct 2026 12:25:30 +0000</pubDate>
+      <author>iComunicat (https://release-press-releases-romania.github.io/publisher/icomunicat-ro/)</author>
+      <dc:creator>iComunicat</dc:creator>
+      <dc:date>2026-10-22T12:25:30+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">PR &amp; Marketing</category>
+      <guid isPermaLink="true">https://icomunicat.ro/2026/10/22/adphoto-lanseaza-sectiune-sfaturi-pentru-miri-si-mirese/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/icomunicat-ro/">iComunicat</source>
+      <content:encoded><![CDATA[From iComunicat: București, 22 octombrie 2026 AdPhoto dezvoltă pe blogul propriu o secțiune dedicată viitorilor miri, care reunește articole, ghiduri practice, sfaturi și informații utile pentru organizarea nunții. Secțiunea adună într-un singur loc informații dezvoltate pornind inclusiv de la experiența acumulată de fotograful Adrian Dumitru în peste 15 ani de activitate în cadrul evenimentelor. Secțiunea „sfa...]]></content:encoded>
+      <comments>https://icomunicat.ro/2026/10/22/adphoto-lanseaza-sectiune-sfaturi-pentru-miri-si-mirese/#comments</comments>
+    </item>
+    <item>
+      <title>Agricultură, pregătirea culturilor de grâu și rapiță pentru iarnă</title>
+      <link>https://topcomunicate.ro/agricultura-pregatirea-culturilor-de-grau-si-rapita-pentru-iarna/</link>
+      <description><![CDATA[From Topcomunicate: Intrarea în iarnă este unul dintre momentele care decid, în bună măsură, cum va arăta o cultură în primăvară. Grâul și rapița sunt culturi de toamnă, semănate cu câteva luni înainte de venirea gerului, iar felul în care ajung la prima perioadă rece influențează direct rezistența la iernare și potențialul de producție. Pregătirea lor nu se rezumă la semănat, ci include nutriția, gestionarea stre...]]></description>
+      <pubDate>Thu, 22 Oct 2026 12:04:19 +0000</pubDate>
+      <author>Topcomunicate (https://release-press-releases-romania.github.io/publisher/topcomunicate-ro/)</author>
+      <dc:creator>Topcomunicate</dc:creator>
+      <dc:date>2026-10-22T12:04:19+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">PR &amp; Marketing</category>
+      <guid isPermaLink="true">https://topcomunicate.ro/agricultura-pregatirea-culturilor-de-grau-si-rapita-pentru-iarna/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/topcomunicate-ro/">Topcomunicate</source>
+      <content:encoded><![CDATA[From Topcomunicate: Intrarea în iarnă este unul dintre momentele care decid, în bună măsură, cum va arăta o cultură în primăvară. Grâul și rapița sunt culturi de toamnă, semănate cu câteva luni înainte de venirea gerului, iar felul în care ajung la prima perioadă rece influențează direct rezistența la iernare și potențialul de producție. Pregătirea lor nu se rezumă la semănat, ci include nutriția, gestionarea stre...]]></content:encoded>
+      <comments>https://topcomunicate.ro/agricultura-pregatirea-culturilor-de-grau-si-rapita-pentru-iarna/#comments</comments>
+    </item>
     <item>
       <title>Seri de film și muzică acasă: cum amenajezi un colț de relaxare confortabil?</title>
       <link>https://topcomunicate.ro/colt-de-relaxare-acasa/</link>
@@ -589,20 +617,6 @@
       <comments>https://info-santate.ro/ce-afectiuni-pot-fi-identificate-prin-rmn-cerebral-inainte-sa-produca-simptome/#comments</comments>
     </item>
     <item>
-      <title>De ce merită să verifici actele înainte de a oferi sau primi o procură</title>
-      <link>https://topcomunicate.ro/verifica-procura-inainte/</link>
-      <description><![CDATA[From Topcomunicate: Unele formalități administrative par simple până când apare nevoia de a rezolva o situație de la distanță. Fie că este vorba despre ridicarea unor documente, reprezentarea unei persoane sau gestionarea unui demers în numele altcuiva, o procură poate fi utilă atunci când legea permite acest lucru. Pentru ca procedura să decurgă fără întârzieri inutile, este important ca scopul împuternicirii și ...]]></description>
-      <pubDate>Sat, 10 Oct 2026 18:32:10 +0000</pubDate>
-      <author>Topcomunicate (https://release-press-releases-romania.github.io/publisher/topcomunicate-ro/)</author>
-      <dc:creator>Topcomunicate</dc:creator>
-      <dc:date>2026-10-10T18:32:10+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">PR &amp; Marketing</category>
-      <guid isPermaLink="true">https://topcomunicate.ro/verifica-procura-inainte/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/topcomunicate-ro/">Topcomunicate</source>
-      <content:encoded><![CDATA[From Topcomunicate: Unele formalități administrative par simple până când apare nevoia de a rezolva o situație de la distanță. Fie că este vorba despre ridicarea unor documente, reprezentarea unei persoane sau gestionarea unui demers în numele altcuiva, o procură poate fi utilă atunci când legea permite acest lucru. Pentru ca procedura să decurgă fără întârzieri inutile, este important ca scopul împuternicirii și ...]]></content:encoded>
-      <comments>https://topcomunicate.ro/verifica-procura-inainte/#comments</comments>
-    </item>
-    <item>
       <title>Cum alegi o bijuterie premium pentru o aniversare importantă: ce recomandă TEILOR</title>
       <link>https://ifemeie.ro/cum-alegi-o-bijuterie-premium-pentru-o-aniversare-importanta-ce-recomanda-teilor/</link>
       <description><![CDATA[From iFemeie: O aniversare importantă, fie că marchează 20, 30 sau 50 de ani de căsătorie, o zi de naștere rotundă sau o reușită de o viață, cere un cadou care rămâne relevant mult după ce lumânările sau confetti-ul dispar. Spre deosebire de multe alte daruri, o bijuterie premium nu se uzează moral odată cu trecerea timpului, ci capătă, cu fiecare an, un strat în plus de semnificație. Devine, treptat, mai mu...]]></description>
@@ -979,20 +993,6 @@
       <source url="https://release-press-releases-romania.github.io/publisher/pr-1az-ro/">Pr.1az</source>
       <content:encoded><![CDATA[From Pr.1az: The post Joi, mergem la Sibiu! appeared first on PR de la A la Z. De ani de zile citim aceleași lucruri: că suntem 20, că suntem 100, că de fapt nici atât, că suntem niște plătiți, că pe Steaua n-o iubește nimeni. Lucruri care ar măcina pe oricine, într-o lume în care ne pasă mai mult de imagine decât de valori și de lucruri drepte. Iar presa, dacă o citești, îți servește aceeași mizerie: acele...]]></content:encoded>
       <comments>https://pr.1az.ro/joi-mergem-la-sibiu/#comments</comments>
-    </item>
-    <item>
-      <title>Obiective financiare vagi? Cum le transformă întâlnirea de analiză OVB în ținte cu sumă și termen</title>
-      <link>https://icomunicat.ro/2026/10/01/obiective-financiare-vage-analiza-ovb/</link>
-      <description><![CDATA[From iComunicat: „Vreau să economisesc mai mult” sună bine, dar nu îți arată ce sumă pui deoparte luna viitoare sau cât timp ai nevoie pentru a ajunge la rezultat. În schimb, un obiectiv precum „vreau să strâng 12.000 de lei în doi ani pentru o rezervă financiară” îți oferă o direcție clară și un criteriu simplu de verificare. Diferența stă în câteva detalii concrete: scopul banilor, suma urmărită, termenul și ...]]></description>
-      <pubDate>Thu, 01 Oct 2026 13:09:32 +0000</pubDate>
-      <author>iComunicat (https://release-press-releases-romania.github.io/publisher/icomunicat-ro/)</author>
-      <dc:creator>iComunicat</dc:creator>
-      <dc:date>2026-10-01T13:09:32+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">PR &amp; Marketing</category>
-      <guid isPermaLink="true">https://icomunicat.ro/2026/10/01/obiective-financiare-vage-analiza-ovb/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/icomunicat-ro/">iComunicat</source>
-      <content:encoded><![CDATA[From iComunicat: „Vreau să economisesc mai mult” sună bine, dar nu îți arată ce sumă pui deoparte luna viitoare sau cât timp ai nevoie pentru a ajunge la rezultat. În schimb, un obiectiv precum „vreau să strâng 12.000 de lei în doi ani pentru o rezervă financiară” îți oferă o direcție clară și un criteriu simplu de verificare. Diferența stă în câteva detalii concrete: scopul banilor, suma urmărită, termenul și ...]]></content:encoded>
-      <comments>https://icomunicat.ro/2026/10/01/obiective-financiare-vage-analiza-ovb/#comments</comments>
     </item>
     <item>
       <title>Cât spațiu din cameră pierzi la aplicarea unei izolații fonice pentru pereți</title>
