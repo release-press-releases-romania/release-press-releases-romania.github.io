@@ -5,8 +5,8 @@
     <link>https://release-press-releases-romania.github.io</link>
     <description>Aggregated RSS feed of press releases from over 100 Romanian publishers. Covering PR &amp; Marketing, Health, News &amp; Society, Technology, Business, Construction, Tourism, and more. Curated selection of quality press releases from trusted Romanian sources.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 16:21:21 +0000</lastBuildDate>
-    <pubDate>Thu, 22 Oct 2026 16:21:21 +0000</pubDate>
+    <lastBuildDate>Thu, 22 Oct 2026 21:01:34 +0000</lastBuildDate>
+    <pubDate>Thu, 22 Oct 2026 21:01:34 +0000</pubDate>
     <generator>Release Press Releases in Romania RSS Aggregator v2.0</generator>
     <webMaster>noreply@release-press-releases-romania.github.io (Release Press Releases)</webMaster>
     <managingEditor>noreply@release-press-releases-romania.github.io (Release Press Releases)</managingEditor>
@@ -28,6 +28,34 @@
     <sy:updateFrequency>1</sy:updateFrequency>
     <copyright>Copyright 2026 Release Press Releases in Romania. Content belongs to respective publishers.</copyright>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Kinetoterapie Ploiești, pentru recuperare medicală, mobilitate și o viață activă</title>
+      <link>https://ghid-sanatate.ro/kinetoterapie-ploiesti-pentru-recuperare-medicala-mobilitate-si-o-viata-activa/</link>
+      <description><![CDATA[From Ghid Sanatate: Sănătatea aparatului locomotor influențează în mod direct calitatea vieții, capacitatea de a desfășura activitățile zilnice și nivelul general de confort. Durerile de spate, rigiditatea articulațiilor, problemele de postură sau dificultățile de mișcare pot afecta persoane de toate vârstele, indiferent de nivelul de activitate fizică. În astfel de situații, kinetoterapia reprezintă o componentă ...]]></description>
+      <pubDate>Thu, 22 Oct 2026 16:25:00 +0000</pubDate>
+      <author>Ghid Sanatate (https://release-press-releases-romania.github.io/publisher/ghid-sanatate-ro/)</author>
+      <dc:creator>Ghid Sanatate</dc:creator>
+      <dc:date>2026-10-22T16:25:00+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">Health</category>
+      <guid isPermaLink="true">https://ghid-sanatate.ro/kinetoterapie-ploiesti-pentru-recuperare-medicala-mobilitate-si-o-viata-activa/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/ghid-sanatate-ro/">Ghid Sanatate</source>
+      <content:encoded><![CDATA[From Ghid Sanatate: Sănătatea aparatului locomotor influențează în mod direct calitatea vieții, capacitatea de a desfășura activitățile zilnice și nivelul general de confort. Durerile de spate, rigiditatea articulațiilor, problemele de postură sau dificultățile de mișcare pot afecta persoane de toate vârstele, indiferent de nivelul de activitate fizică. În astfel de situații, kinetoterapia reprezintă o componentă ...]]></content:encoded>
+      <comments>https://ghid-sanatate.ro/kinetoterapie-ploiesti-pentru-recuperare-medicala-mobilitate-si-o-viata-activa/#comments</comments>
+    </item>
+    <item>
+      <title>Cum pot face primii pași traderii începători?</title>
+      <link>https://iantreprenor.ro/cum-pot-face-primii-pasi-traderii-incepatori/</link>
+      <description><![CDATA[From iAntreprenor: Ghid practic pentru tranzacționarea online cu Fintriks Tranzacționarea online atrage atenția tot mai multor persoane interesate de piețele financiare. Accesul la informații, dezvoltarea tehnologiei și posibilitatea de a urmări evoluția diferitelor instrumente financiare direct de pe telefon sau calculator au făcut ca acest domeniu să fie mai accesibil decât în trecut. Totuși, primii pași în tra...]]></description>
+      <pubDate>Thu, 22 Oct 2026 13:35:43 +0000</pubDate>
+      <author>iAntreprenor (https://release-press-releases-romania.github.io/publisher/iantreprenor-ro/)</author>
+      <dc:creator>iAntreprenor</dc:creator>
+      <dc:date>2026-10-22T13:35:43+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">Business</category>
+      <guid isPermaLink="true">https://iantreprenor.ro/cum-pot-face-primii-pasi-traderii-incepatori/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/iantreprenor-ro/">iAntreprenor</source>
+      <content:encoded><![CDATA[From iAntreprenor: Ghid practic pentru tranzacționarea online cu Fintriks Tranzacționarea online atrage atenția tot mai multor persoane interesate de piețele financiare. Accesul la informații, dezvoltarea tehnologiei și posibilitatea de a urmări evoluția diferitelor instrumente financiare direct de pe telefon sau calculator au făcut ca acest domeniu să fie mai accesibil decât în trecut. Totuși, primii pași în tra...]]></content:encoded>
+      <comments>https://iantreprenor.ro/cum-pot-face-primii-pasi-traderii-incepatori/#comments</comments>
+    </item>
     <item>
       <title>AdPhoto lansează o secțiune cu sfaturi pentru miri și mirese</title>
       <link>https://icomunicat.ro/2026/10/22/adphoto-lanseaza-sectiune-sfaturi-pentru-miri-si-mirese/</link>
@@ -307,20 +335,6 @@
       <source url="https://release-press-releases-romania.github.io/publisher/case-verzi-ro/">Case Verzi</source>
       <content:encoded><![CDATA[From Case Verzi: Dormitorul este spațiul în care confortul și estetica trebuie să se întâlnească în mod natural. Patul ocupă cea mai mare parte a încăperii, astfel că lenjeria de pat are un rol important în imaginea de ansamblu. O alegere inspirată poate armoniza mobilierul, pereții, draperiile și accesoriile, să fie acel echilibru și stil contemporan, în timp ce un model ales fără să țină cont de decor poate c...]]></content:encoded>
       <comments>https://case-verzi.ro/cum-combini-lenjeria-de-pat-cu-restul-decorului-din-dormitor/#comments</comments>
-    </item>
-    <item>
-      <title>Mese pe fugă: ce poți face pentru o alimentație echilibrată</title>
-      <link>https://ghid-sanatate.ro/alimentatie-echilibrata-pe-fuga/</link>
-      <description><![CDATA[From Ghid Sanatate: Dimineața începe cu o cafea, prânzul se mută spre după-amiază, iar seara ajungi să mănânci ce găsești mai repede. Este un scenariu obișnuit pentru cei care lucrează mult, fac naveta sau își împart timpul între serviciu, familie și alte responsabilități. Problema nu este o zi aglomerată, ci repetarea acestui program până când mesele improvizate devin regulă. Când mâncăm pe fugă, alegem adesea al...]]></description>
-      <pubDate>Fri, 16 Oct 2026 15:20:53 +0000</pubDate>
-      <author>Ghid Sanatate (https://release-press-releases-romania.github.io/publisher/ghid-sanatate-ro/)</author>
-      <dc:creator>Ghid Sanatate</dc:creator>
-      <dc:date>2026-10-16T15:20:53+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">Health</category>
-      <guid isPermaLink="true">https://ghid-sanatate.ro/alimentatie-echilibrata-pe-fuga/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/ghid-sanatate-ro/">Ghid Sanatate</source>
-      <content:encoded><![CDATA[From Ghid Sanatate: Dimineața începe cu o cafea, prânzul se mută spre după-amiază, iar seara ajungi să mănânci ce găsești mai repede. Este un scenariu obișnuit pentru cei care lucrează mult, fac naveta sau își împart timpul între serviciu, familie și alte responsabilități. Problema nu este o zi aglomerată, ci repetarea acestui program până când mesele improvizate devin regulă. Când mâncăm pe fugă, alegem adesea al...]]></content:encoded>
-      <comments>https://ghid-sanatate.ro/alimentatie-echilibrata-pe-fuga/#comments</comments>
     </item>
     <item>
       <title>Curățenie birouri: 7 reguli pentru igienizarea corectă a spațiului de lucru</title>
@@ -1329,20 +1343,6 @@
       <source url="https://release-press-releases-romania.github.io/publisher/casa-sustenabila-ro/">Casa Sustenabila</source>
       <content:encoded><![CDATA[From Casa Sustenabila: Apartamentele ridicate în ultimii ani vin, în multe cazuri, cu livinguri de 16 până la 20 de metri pătrați. În ele trebuie să încapă canapeaua, masa, televizorul și tot ce nu își găsește locul în restul casei. Rezultatul e o cameră care pare plină chiar și atunci când tocmai a fost făcută ordine. Mulți proprietari ajung să se gândească la soluții radicale, de la desființarea unui perete până la...]]></content:encoded>
       <comments>https://casa-sustenabila.ro/spatiu-intr-un-living-mic/#comments</comments>
-    </item>
-    <item>
-      <title>Factoring sau linie de credit: cum compari costurile și condițiile pentru firmă</title>
-      <link>https://iantreprenor.ro/factoring-sau-linie-de-credit/</link>
-      <description><![CDATA[From iAntreprenor: Când clienții plătesc la 30, 60 sau chiar mai multe zile, firma poate ajunge să aibă vânzări bune, dar prea puțini bani disponibili pentru cheltuielile curente. Două variante folosite frecvent sunt factoringul și linia de credit. Alegerea nu se face doar după cost, ci și după viteza cu care primești banii, garanțiile cerute și felul în care fiecare variantă se potrivește cu activitatea firmei. ...]]></description>
-      <pubDate>Tue, 22 Sep 2026 13:29:13 +0000</pubDate>
-      <author>iAntreprenor (https://release-press-releases-romania.github.io/publisher/iantreprenor-ro/)</author>
-      <dc:creator>iAntreprenor</dc:creator>
-      <dc:date>2026-09-22T13:29:13+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">Business</category>
-      <guid isPermaLink="true">https://iantreprenor.ro/factoring-sau-linie-de-credit/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/iantreprenor-ro/">iAntreprenor</source>
-      <content:encoded><![CDATA[From iAntreprenor: Când clienții plătesc la 30, 60 sau chiar mai multe zile, firma poate ajunge să aibă vânzări bune, dar prea puțini bani disponibili pentru cheltuielile curente. Două variante folosite frecvent sunt factoringul și linia de credit. Alegerea nu se face doar după cost, ci și după viteza cu care primești banii, garanțiile cerute și felul în care fiecare variantă se potrivește cu activitatea firmei. ...]]></content:encoded>
-      <comments>https://iantreprenor.ro/factoring-sau-linie-de-credit/#comments</comments>
     </item>
     <item>
       <title>Implant dentar la Dental Chic Cluj-Napoca: cum se desfășoară tratamentul, de la evaluare la final</title>
