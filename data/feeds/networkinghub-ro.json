@@ -7,9 +7,17 @@
     "rss": "https://networkinghub.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-10-23T07:42:47.069438+00:00",
+  "updated_at": "2026-10-23T13:36:38.864419+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Echipamentul necesar pentru un nou an de școală sau facultate",
+      "link": "https://networkinghub.ro/echipamentul-necesar-pentru-un-nou-an-de-scoala-sau-facultate/",
+      "summary": "Fiecare nou an de studiu, fie că vorbim despre gimnaziu, liceu sau facultate, vine cu... Articolul Echipamentul necesar pentru un nou an de școală sau facultate apare prima dată în Networking Hub .",
+      "published": "2026-10-23T11:03:46+00:00",
+      "published_human": "2026-10-23T11:03",
+      "source": "https://networkinghub.ro/"
+    },
     {
       "title": "Așa a fost la Her Space Festival Romania – Tinerețe fără Bătrânețe?",
       "link": "https://networkinghub.ro/asa-a-fost-la-her-space-festival-romania-tinerete-fara-batranete/",
@@ -96,14 +104,6 @@
       "summary": "În multe ateliere și firme care lucrează cu utilaje, momentul în care un hidromotor începe... Articolul Recondiționare sau înlocuire? Când merită reparat un hidromotor și când este o investiție pierdută apare prima dată în Networking Hub .",
       "published": "2026-07-20T19:38:32+00:00",
       "published_human": "2026-07-20T19:38",
-      "source": "https://networkinghub.ro/"
-    },
-    {
-      "title": "Vinul dulce se servește doar la desert? Asocieri care schimbă complet perspectiva",
-      "link": "https://networkinghub.ro/vinul-dulce-se-serveste-doar-la-desert-asocieri-care-schimba-complet-perspectiva/",
-      "summary": "Vinul dulce ajunge de multe ori pe masă abia când apar prăjiturile, de parcă acesta... Articolul Vinul dulce se servește doar la desert? Asocieri care schimbă complet perspectiva apare prima dată în Networking Hub .",
-      "published": "2026-07-20T19:37:48+00:00",
-      "published_human": "2026-07-20T19:37",
       "source": "https://networkinghub.ro/"
     }
   ],
