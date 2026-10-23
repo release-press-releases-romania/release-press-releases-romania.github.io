@@ -7,9 +7,17 @@
     "rss": "https://medic360.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-10-23T01:39:20.471424+00:00",
+  "updated_at": "2026-10-23T07:42:47.069438+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Hairify: fibre de păr pentru zilele în care nu vrei să te mai gândești la scalpul vizibil",
+      "link": "https://medic360.ro/fibre-de-par-hairify/",
+      "summary": "Fibrele de par Hairify ofera o solutie imediata pentru aspectul vizual al parului rar. Afla cum functioneaza si cum se compara cu alte optiuni. Articolul Hairify: fibre de păr pentru zilele în care nu vrei să te mai gândești la scalpul vizibil apare prima dată în Medic 360 .",
+      "published": "2026-10-23T07:36:20+00:00",
+      "published_human": "2026-10-23T07:36",
+      "source": "https://medic360.ro/"
+    },
     {
       "title": "Creme și geluri pentru mărirea penisului: cum funcționează și la ce să fii atent",
       "link": "https://medic360.ro/creme-geluri-marierea-penisului/",
@@ -72,14 +80,6 @@
       "summary": "Sindromul de tunel carpian: când ajunge medicul să recomande EMG? Informații despre neurologie Craiova și programări sunt disponibile pe site-ul&#8230; Articolul Sindromul de tunel carpian: când ajunge medicul să recomande EMG? apare prima dată în Medic 360 .",
       "published": "2026-09-25T10:38:00+00:00",
       "published_human": "2026-09-25T10:38",
-      "source": "https://medic360.ro/"
-    },
-    {
-      "title": "Cauți lentile de contact? Cum le alegi și când sunt o alternativă potrivită la ochelari?",
-      "link": "https://medic360.ro/alegi-lentile-de-contact/",
-      "summary": "Lentilele de contact pot fi o alternativa la ochelari in functie de stilul de viata. Afla ce verifici inainte de a le alege si cum iti protejezi ochii. Articolul Cauți lentile de contact? Cum le alegi și când sunt o alternativă potrivită la ochelari? apare prima dată în Medic 360 .",
-      "published": "2026-09-18T08:43:54+00:00",
-      "published_human": "2026-09-18T08:43",
       "source": "https://medic360.ro/"
     }
   ],
