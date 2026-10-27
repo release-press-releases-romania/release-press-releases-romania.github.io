@@ -7,9 +7,17 @@
     "rss": "https://medic360.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-10-27T06:25:35.897747+00:00",
+  "updated_at": "2026-10-27T13:23:09.754847+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Diareea în timpul tratamentului oncologic: ce poți face acasă și când suni medicul",
+      "link": "https://medic360.ro/diaree-timpul-tratamentului/",
+      "summary": "Descopera masurile de acasa si semnele de alarma pentru diareea in timpul tratamentului oncologic. Informatii clare pentru o recuperare mai rapida. Articolul Diareea în timpul tratamentului oncologic: ce poți face acasă și când suni medicul apare prima dată în Medic 360 .",
+      "published": "2026-10-27T09:11:38+00:00",
+      "published_human": "2026-10-27T09:11",
+      "source": "https://medic360.ro/"
+    },
     {
       "title": "Hairify: fibre de păr pentru zilele în care nu vrei să te mai gândești la scalpul vizibil",
       "link": "https://medic360.ro/fibre-de-par-hairify/",
@@ -72,14 +80,6 @@
       "summary": "Descopera optiunile de corectie a vederii, de la ochelari la chirurgie cu laser. Informatii clare despre tehnici si eligibilitate. Articolul Cum funcționează corecția dioptriilor: explicații pentru pacienți apare prima dată în Medic 360 .",
       "published": "2026-10-06T13:49:49+00:00",
       "published_human": "2026-10-06T13:49",
-      "source": "https://medic360.ro/"
-    },
-    {
-      "title": "Sindromul de tunel carpian: când ajunge medicul să recomande EMG?",
-      "link": "https://medic360.ro/sindromul-de-tunel-carpian-cand-ajunge-medicul-sa-recomande-emg/",
-      "summary": "Sindromul de tunel carpian: când ajunge medicul să recomande EMG? Informații despre neurologie Craiova și programări sunt disponibile pe site-ul&#8230; Articolul Sindromul de tunel carpian: când ajunge medicul să recomande EMG? apare prima dată în Medic 360 .",
-      "published": "2026-09-25T10:38:00+00:00",
-      "published_human": "2026-09-25T10:38",
       "source": "https://medic360.ro/"
     }
   ],

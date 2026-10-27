@@ -7,9 +7,17 @@
     "rss": "https://nutritie-sanatate.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-10-27T06:25:35.897747+00:00",
+  "updated_at": "2026-10-27T13:23:09.754847+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Tehnologie dezvoltată pe baza cercetării",
+      "link": "https://nutritie-sanatate.ro/tehnologie-dezvoltata-pe-baza-cercetarii/",
+      "summary": "Implant dentar Straumann: ce îl diferențiază de alte sisteme de implant Pierderea unui dinte nu... Articolul Tehnologie dezvoltată pe baza cercetării apare prima dată în Nutritie &amp; Sanatate .",
+      "published": "2026-10-27T10:37:13+00:00",
+      "published_human": "2026-10-27T10:37",
+      "source": "https://nutritie-sanatate.ro/"
+    },
     {
       "title": "Wegovy® a redus grăsimea din ficat la valori normale la aproape 9 din 10 participanți cu obezitate și steatoză, într-o analiză prezentată la E",
       "link": "https://nutritie-sanatate.ro/wegovy-a-redus-grasimea-din-ficat-la-valori-normale-la-aproape-9-din-10-participanti-cu-obezitate-si-steatoza-intr-o-analiza-prezentata-la-e/",
@@ -96,14 +104,6 @@
       "summary": "V-ați săturat de algoritmii ascunși care decid ce vedeți și ce nu, sau de instabilitatea... Articolul Mastodon pentru ONG-uri: comunicare transparentă și implicare apare prima dată în Nutritie &amp; Sanatate .",
       "published": "2025-12-17T16:58:54+00:00",
       "published_human": "2025-12-17T16:58",
-      "source": "https://nutritie-sanatate.ro/"
-    },
-    {
-      "title": "Mixit aduce gustări festive pentru petrecerea de Revelion",
-      "link": "https://nutritie-sanatate.ro/mixit-aduce-gustari-festive-pentru-petrecerea-de-revelion/",
-      "summary": "&#160; &#160; Revelionul &#238;nseamnă mese festive, &#238;nt&#226;lniri cu prietenii și seri care se prelungesc mult... Articolul Mixit aduce gustări festive pentru petrecerea de Revelion apare prima dată în Nutritie &amp; Sanatate .",
-      "published": "2025-12-17T07:26:12+00:00",
-      "published_human": "2025-12-17T07:26",
       "source": "https://nutritie-sanatate.ro/"
     }
   ],
