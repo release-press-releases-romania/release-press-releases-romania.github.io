@@ -5,8 +5,8 @@
     <link>https://release-press-releases-romania.github.io</link>
     <description>Aggregated RSS feed of press releases from over 100 Romanian publishers. Covering PR &amp; Marketing, Health, News &amp; Society, Technology, Business, Construction, Tourism, and more. Curated selection of quality press releases from trusted Romanian sources.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 11:19:36 +0000</lastBuildDate>
-    <pubDate>Tue, 27 Oct 2026 11:19:36 +0000</pubDate>
+    <lastBuildDate>Tue, 27 Oct 2026 17:06:18 +0000</lastBuildDate>
+    <pubDate>Tue, 27 Oct 2026 17:06:18 +0000</pubDate>
     <generator>Release Press Releases in Romania RSS Aggregator v2.0</generator>
     <webMaster>noreply@release-press-releases-romania.github.io (Release Press Releases)</webMaster>
     <managingEditor>noreply@release-press-releases-romania.github.io (Release Press Releases)</managingEditor>
@@ -28,6 +28,20 @@
     <sy:updateFrequency>1</sy:updateFrequency>
     <copyright>Copyright 2026 Release Press Releases in Romania. Content belongs to respective publishers.</copyright>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Nodulii musculari pe care nu-i simți până nu apasă cineva pe ei</title>
+      <link>https://doctor360.ro/noduri-musculare-apasa/</link>
+      <description><![CDATA[From Doctor360: Sursa: freepik Mulți pacienți ajung la cabinetele de recuperare medicală cu o acuză care sună aproape identic de fiecare dată, un disconfort surd în zona cefei sau între omoplați. Cât timp stau liniștiți, senzația rămâne suportabilă, iar ea devine ascuțită abia în momentul în care cineva apasă exact în locul potrivit. Zona respectivă doare la atingere, uneori trimite senzația mai departe, iar î...]]></description>
+      <pubDate>Tue, 27 Oct 2026 16:20:46 +0000</pubDate>
+      <author>Doctor360 (https://release-press-releases-romania.github.io/publisher/doctor360-ro/)</author>
+      <dc:creator>Doctor360</dc:creator>
+      <dc:date>2026-10-27T16:20:46+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">Health</category>
+      <guid isPermaLink="true">https://doctor360.ro/noduri-musculare-apasa/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/doctor360-ro/">Doctor360</source>
+      <content:encoded><![CDATA[From Doctor360: Sursa: freepik Mulți pacienți ajung la cabinetele de recuperare medicală cu o acuză care sună aproape identic de fiecare dată, un disconfort surd în zona cefei sau între omoplați. Cât timp stau liniștiți, senzația rămâne suportabilă, iar ea devine ascuțită abia în momentul în care cineva apasă exact în locul potrivit. Zona respectivă doare la atingere, uneori trimite senzația mai departe, iar î...]]></content:encoded>
+      <comments>https://doctor360.ro/noduri-musculare-apasa/#comments</comments>
+    </item>
     <item>
       <title>Clienții vor aspectul aluminiului, dar au buget de PVC pentru ferestre? Descoperă noua soluție HELIOS</title>
       <link>https://casa-sustenabila.ro/clientii-vor-aspectul-aluminiului-dar-au-buget-de-pvc-pentru-ferestre-descopera-noua-solutie-helios/</link>
@@ -1063,20 +1077,6 @@
       <source url="https://release-press-releases-romania.github.io/publisher/partizani-ro/">Partizani</source>
       <content:encoded><![CDATA[From Partizani: Spre seară, picioarele pot deveni grele, gleznele se pot umfla, iar elasticul șosetelor lasă urme vizibile. Când cauți ciorapi de damă cu compresie diferită, tentația este să alegi varianta care strânge cel mai tare. Numai că senzația de presiune nu spune singură dacă ai făcut alegerea potrivită. Problemele întâlnite la ciorapii compresivi pentru damă apar deseori dintr-o combinație de nivel ne...]]></content:encoded>
       <comments>https://partizani.ro/ciorapii-compresivi-pentru-dama-nu-se-aleg-dupa-cat-de-strans-se-simt-diferenta-dintre-15-20-si-20-30-mmhg/#comments</comments>
-    </item>
-    <item>
-      <title>Când durerea persistă, ce metode moderne pot completa recuperarea?</title>
-      <link>https://doctor360.ro/durerea-persista-metode-recuperare/</link>
-      <description><![CDATA[From Doctor360: Durerea de spate sau de genunchi care nu cedează după câteva săptămâni de repaus a devenit unul dintre motivele frecvente pentru care oamenii ajung în cabinetele de recuperare medicală. Mulți pacienți așteaptă ca disconfortul să dispară de la sine, iar când asta nu se întâmplă, apar întrebările legate de ce ar mai fi de făcut. Medicina de recuperare a avansat destul de mult, iar pe lângă exerci...]]></description>
-      <pubDate>Fri, 02 Oct 2026 07:26:54 +0000</pubDate>
-      <author>Doctor360 (https://release-press-releases-romania.github.io/publisher/doctor360-ro/)</author>
-      <dc:creator>Doctor360</dc:creator>
-      <dc:date>2026-10-02T07:26:54+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">Health</category>
-      <guid isPermaLink="true">https://doctor360.ro/durerea-persista-metode-recuperare/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/doctor360-ro/">Doctor360</source>
-      <content:encoded><![CDATA[From Doctor360: Durerea de spate sau de genunchi care nu cedează după câteva săptămâni de repaus a devenit unul dintre motivele frecvente pentru care oamenii ajung în cabinetele de recuperare medicală. Mulți pacienți așteaptă ca disconfortul să dispară de la sine, iar când asta nu se întâmplă, apar întrebările legate de ce ar mai fi de făcut. Medicina de recuperare a avansat destul de mult, iar pe lângă exerci...]]></content:encoded>
-      <comments>https://doctor360.ro/durerea-persista-metode-recuperare/#comments</comments>
     </item>
     <item>
       <title>De ce merită să te gândești acum la eficiența energetică a bucătăriei</title>
