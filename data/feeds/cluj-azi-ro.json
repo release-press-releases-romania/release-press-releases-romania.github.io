@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@cluj",
     "rss": "https://social.5th.ro/@cluj.rss"
   },
-  "updated_at": "2026-10-27T18:50:08.167561+00:00",
+  "updated_at": "2026-10-27T23:00:36.118756+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "O poveste de iarnă cu lumini și colinde: 4 Piețe de Crăciun în inima Europei",
+      "link": "https://cluj-azi.ro/o-poveste-de-iarna-cu-lumini-si-colinde-4-piete-de-craciun-in-inima-europei/",
+      "summary": "Fiecare iarnă aduce cu sine o promisiune de magie, o invitație la căldură sufletească și momente de neuitat. Și ce poate fi mai încântător decât o călătorie prin orașe imperiale, transformate în veritabile tărâmuri de poveste de luminile feerice și aromele îmbietoare ale piețelor de Crăciun? Imaginați-vă străzile istorice din Budapesta, Praga, Karlovy Vary și [&#8230;] Articolul O poveste de iarnă cu lumini și colinde: 4 Piețe de Crăciun în inima Europei apare prima dată în Cluj AZI .",
+      "published": "2026-10-27T20:35:18+00:00",
+      "published_human": "2026-10-27T20:35",
+      "source": "https://cluj-azi.ro/"
+    },
     {
       "title": "Mocasini sau pantofi cu șiret: ce se potrivește stilului tău de toamnă",
       "link": "https://cluj-azi.ro/mocasini-pantofi-cu-siret-toamna/",
@@ -84,17 +92,17 @@
       "published": "2025-11-15T10:03:28+00:00",
       "published_human": "2025-11-15T10:03",
       "source": "https://cluj-azi.ro/"
-    },
-    {
-      "title": "Cum compui un bilet al zilei inspirat din propriile analize, nu doar ponturi",
-      "link": "https://cluj-azi.ro/cum-compui-un-bilet-al-zilei-inspirat-din-propriile-analize-nu-doar-ponturi/",
-      "summary": "Ești gata să schimbi modul în care pariezi? Mulți pariori caută zilnic o scurtătură către câștig, apelând la diverse ponturi pariuri găsite pe internet. Deși aceste surse pot oferi o idee generală, succesul sustenabil și pe termen lung provine dintr-o singură sursă: propria ta cunoaștere. Este esențial să renunți la dependența de sugestii externe și [&#8230;] Articolul Cum compui un bilet al zilei inspirat din propriile analize, nu doar ponturi apare prima dată în Cluj AZI .",
-      "published": "2025-11-14T09:07:58+00:00",
-      "published_human": "2025-11-14T09:07",
-      "source": "https://cluj-azi.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@cluj/117514785181710647",
+      "summary": "Fiecare iarnă aduce cu sine o promisiune de magie, o invitație la căldură sufletească și momente de neuitat. Și ce poate fi mai încântător decât o călătorie prin orașe imperiale, transformate în veritabile tărâmuri de poveste de luminile feerice și aromele îmbietoare ale piețelor de Crăciun? Imaginați-vă străzile istorice din Budapesta, Praga, Karlovy Vary și… https:// cluj-azi.ro/o-poveste-de-iarna -cu-lumini-si-colinde-4-piete-de-craciun-in-inima-europei/",
+      "published": "2026-10-27T20:35:18+00:00",
+      "published_human": "2026-10-27T20:35",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@cluj/117332417621409841",
@@ -181,14 +189,6 @@
       "summary": "Ați investit timp și efort în crearea de conținut valoros pe platforma dumneavoastră wordpress. Următorul pas natural este distribuția automată în Fediverse. Vă folosiți de un mastodon wordpress plugin pentru a simplifica procesul. Dar, adesea, apare o problemă critică: deși postarea ajunge pe Mastodon, atribuirea corectă lipsește. Numele autor-ului care a scris articolul nu este… https:// cluj-azi.ro/cum-afisezi-numele -autorului-in-postarea-mastodon-din-wordpress/",
       "published": "2025-12-17T21:00:35+00:00",
       "published_human": "2025-12-17T21:00",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@cluj/115706257685234444",
-      "summary": "Atenție: Până nu demult, publicarea unor advertoriale bazate pe structuri standard și informații superficiale era suficientă pentru a atrage trafic și vizibilitate. Însă, pe măsură ce internetul s-a umplut de zgomot, publicul a devenit din ce în ce mai pretențios. Oamenii nu mai dau click pe orice. Ne confruntăm cu o saturație masivă de informație,… https:// cluj-azi.ro/2025-advertoriale- de-autor-vs-advertoriale-scrise-generic-ce-functioneaza-mai-bine/",
-      "published": "2025-12-12T11:02:59+00:00",
-      "published_human": "2025-12-12T11:02",
       "source": "Mastodon"
     }
   ]
