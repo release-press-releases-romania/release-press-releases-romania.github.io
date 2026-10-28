@@ -7,9 +7,17 @@
     "rss": "https://stomatologie360.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-10-28T09:51:35.544417+00:00",
+  "updated_at": "2026-10-28T16:43:26.987379+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Cum îți dai seama că a venit vremea să mergi la un control stomatologic serios",
+      "link": "https://stomatologie360.ro/semne-control-stomatologic/",
+      "summary": "Semnele initiale ale unei afectiuni dentare pot fi discrete. Un control stomatologic regulat ajuta la identificarea lor inainte sa devina urgente. Articolul Cum îți dai seama că a venit vremea să mergi la un control stomatologic serios apare prima dată în Stomatologie 360 .",
+      "published": "2026-10-28T13:21:08+00:00",
+      "published_human": "2026-10-28T13:21",
+      "source": "https://stomatologie360.ro/"
+    },
     {
       "title": "Concediul poate fi momentul potrivit pentru tratamentele stomatologice complexe",
       "link": "https://stomatologie360.ro/concediul-poate-fi-momentul-potrivit-pentru-tratamentele-stomatologice-complexe/",
@@ -96,14 +104,6 @@
       "summary": "V-ați simțit vreodată confuz în fața ecranului unui slot, întrebându-vă de ce anumite combinații plătesc... Articolul Ghid rapid de simboluri speciale la păcănele pentru începători apare prima dată în Stomatologie 360 .",
       "published": "2025-11-15T10:03:28+00:00",
       "published_human": "2025-11-15T10:03",
-      "source": "https://stomatologie360.ro/"
-    },
-    {
-      "title": "Biletul zilei: ce este și de ce nu ar trebui să fie singura ta strategie",
-      "link": "https://stomatologie360.ro/biletul-zilei-ce-este-si-de-ce-nu-ar-trebui-sa-fie-singura-ta-strategie/",
-      "summary": "Vă doriți să transformați pariurile sportive dintr-un simplu hobby într-o sursă constantă de emoție și,... Articolul Biletul zilei: ce este și de ce nu ar trebui să fie singura ta strategie apare prima dată în Stomatologie 360 .",
-      "published": "2025-11-14T09:07:58+00:00",
-      "published_human": "2025-11-14T09:07",
       "source": "https://stomatologie360.ro/"
     }
   ],

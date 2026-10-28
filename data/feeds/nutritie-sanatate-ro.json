@@ -7,9 +7,17 @@
     "rss": "https://nutritie-sanatate.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-10-28T09:51:35.544417+00:00",
+  "updated_at": "2026-10-28T16:43:26.987379+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Ce pudră proteică vegană merită cumpărată? 6 lucruri de verificat pe etichetă",
+      "link": "https://nutritie-sanatate.ro/pudra-proteica-vegan-criterii/",
+      "summary": "Descopera 6 criterii esentiale de verificat pe eticheta unei pudre proteice vegane. Afla cum sa alegi o sursa completa de aminoacizi si o formula curata. Articolul Ce pudră proteică vegană merită cumpărată? 6 lucruri de verificat pe etichetă apare prima dată în Nutritie &amp; Sanatate .",
+      "published": "2026-10-28T13:50:55+00:00",
+      "published_human": "2026-10-28T13:50",
+      "source": "https://nutritie-sanatate.ro/"
+    },
     {
       "title": "Tehnologie dezvoltată pe baza cercetării",
       "link": "https://nutritie-sanatate.ro/tehnologie-dezvoltata-pe-baza-cercetarii/",
@@ -96,14 +104,6 @@
       "summary": "Menținerea echilibrului organismului depinde de numeroși factori, iar alimentația joacă un rol esențial în acest... Articolul Rolul vitaminelor și mineralelor în menținerea echilibrului organismului apare prima dată în Nutritie &amp; Sanatate .",
       "published": "2026-03-16T10:13:55+00:00",
       "published_human": "2026-03-16T10:13",
-      "source": "https://nutritie-sanatate.ro/"
-    },
-    {
-      "title": "Mastodon pentru ONG-uri: comunicare transparentă și implicare",
-      "link": "https://nutritie-sanatate.ro/mastodon-pentru-ong-uri-comunicare-transparenta-si-implicare/",
-      "summary": "V-ați săturat de algoritmii ascunși care decid ce vedeți și ce nu, sau de instabilitatea... Articolul Mastodon pentru ONG-uri: comunicare transparentă și implicare apare prima dată în Nutritie &amp; Sanatate .",
-      "published": "2025-12-17T16:58:54+00:00",
-      "published_human": "2025-12-17T16:58",
       "source": "https://nutritie-sanatate.ro/"
     }
   ],
