@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@stiri_sociale",
     "rss": "https://social.5th.ro/@stiri_sociale.rss"
   },
-  "updated_at": "2026-10-29T08:40:01.496262+00:00",
+  "updated_at": "2026-10-29T16:16:17.861652+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Fiecare copil conteaza: educatie incluziva, autonomie si viitor pentru tinerii cu CES",
+      "link": "https://stirisociale.ro/fiecare-copil-conteaza-educatie-incluziva-autonomie-si-viitor-pentru-tinerii-cu-ces/",
+      "summary": "Noul spatiu de autoservire al Asociatiei CONIL transforma teoria in abilitati practice pentru tinerii cu nevoi speciale. Articolul Fiecare copil conteaza: educatie incluziva, autonomie si viitor pentru tinerii cu CES apare prima dată în Stiri sociale .",
+      "published": "2026-10-29T10:26:46+00:00",
+      "published_human": "2026-10-29T10:26",
+      "source": "https://stirisociale.ro/"
+    },
     {
       "title": "De ce merită să alegi lenjerii de pat fabricate în România",
       "link": "https://stirisociale.ro/de-ce-merita-sa-alegi-lenjerii-de-pat-fabricate-in-romania/",
@@ -84,17 +92,17 @@
       "published": "2026-02-18T10:22:00+00:00",
       "published_human": "2026-02-18T10:22",
       "source": "https://stirisociale.ro/"
-    },
-    {
-      "title": "De ce formularele clasice de contact mor în 2026 și ce le ia locul",
-      "link": "https://stirisociale.ro/de-ce-formularele-clasice-de-contact-mor-in-2026-si-ce-le-ia-locul/",
-      "summary": "Formularul clasic de contact a fost, ani la rând, piesa centrală a conversiilor online. „Nume, email, telefon, mesaj” – o structură aproape neschimbată de un deceniu. Problema este că între&#8230; Articolul De ce formularele clasice de contact mor în 2026 și ce le ia locul apare prima dată în Stiri sociale .",
-      "published": "2026-02-15T12:24:00+00:00",
-      "published_human": "2026-02-15T12:24",
-      "source": "https://stirisociale.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@stiri_sociale/117523717202504892",
+      "summary": "Noul spatiu de autoservire al Asociatiei CONIL transforma teoria in abilitati practice pentru tinerii cu nevoi speciale. https:// stirisociale.ro/fiecare-copil- conteaza-educatie-incluziva-autonomie-si-viitor-pentru-tinerii-cu-ces/",
+      "published": "2026-10-29T10:26:50+00:00",
+      "published_human": "2026-10-29T10:26",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@stiri_sociale/117189315673439158",
@@ -181,14 +189,6 @@
       "summary": "Dincolo de sala de clasă: universul de aventură și învățare de la gradinita Mami și TatiCând alegi o grădiniță sau un after school, nu cauți doar un spațiu sigur, ci un partener care să îi ofere copilului tău experiențe de viață. La gradinita Mami și Tati, credem că cele mai prețioase lecții se învață atunci… https:// stirisociale.ro/taberele-de-ia rna-curaj-pe-schiuri-si-magie-in-zapada/",
       "published": "2026-01-12T09:28:43+00:00",
       "published_human": "2026-01-12T09:28",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@stiri_sociale/115736478210706484",
-      "summary": "Te-ai săturat de algoritmii care îți dictează ce vezi și de lipsa de control asupra datelor tale? Ești gata să faci pasul spre un spațiu social descentralizat? Dacă ești nou pe Mastodon, s-ar putea să te simți inițial confuz. Fediverse funcționează după principii diferite față de rețelele tradiționale, iar modul în care interacționezi contează enorm.… https:// stirisociale.ro/ghid-de-etiche ta-pentru-mastodon-romania-ce-functioneaza/",
-      "published": "2025-12-17T19:08:27+00:00",
-      "published_human": "2025-12-17T19:08",
       "source": "Mastodon"
     }
   ]

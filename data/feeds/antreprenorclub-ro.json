@@ -7,9 +7,17 @@
     "rss": "https://antreprenorclub.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-10-29T08:40:01.496262+00:00",
+  "updated_at": "2026-10-29T16:16:17.861652+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Nenos Software: expertiză AWS și servicii cloud pentru aplicațiile și procesele companiilor",
+      "link": "https://antreprenorclub.ro/nenos-software-servicii-cloud-aws/",
+      "summary": "Compania asista in migrarea si administrarea mediilor AWS, combinand infrastructura cu dezvoltarea software si competentele in date. Articolul Nenos Software: expertiză AWS și servicii cloud pentru aplicațiile și procesele companiilor apare prima dată în Antreprenor Club .",
+      "published": "2026-10-29T11:00:03+00:00",
+      "published_human": "2026-10-29T11:00",
+      "source": "https://antreprenorclub.ro/"
+    },
     {
       "title": "Ham pentru motocoasă: e importantă grosimea?",
       "link": "https://antreprenorclub.ro/ham-pentru-motocoasa-e-importanta-grosimea/",
@@ -80,14 +88,6 @@
       "summary": "Pentru o companie mică sau la început de drum, fiecare leu din bugetul de marketing trebuie justificat. Spre deosebire de corporațiile mari, care își pot permite să testeze mai multe direcții simultan, antreprenorii cu resurse limitate nu au luxul de a irosi bani pe soluții cu impact incert. Această realitate face ca alegerea corectă a... Read More &#8220;Materiale promoționale pentru companii mici: ce merită cu adevărat bugetul&#8221; &#187; Articolul Materiale promoționale pentru companii mici: ce merită cu adevărat bugetul apare prima dată în Antreprenor Club .",
       "published": "2026-08-20T04:47:25+00:00",
       "published_human": "2026-08-20T04:47",
-      "source": "https://antreprenorclub.ro/"
-    },
-    {
-      "title": "Cum transformi stocurile și echipamentele nefolosite în capital de lucru: ghid CSV.RO pentru firme",
-      "link": "https://antreprenorclub.ro/cum-transformi-stocurile-echipamentele-nefolosite-capital-de-lucru/",
-      "summary": "Un ghid practic pentru firmele care vor să valorifice stocuri, utilaje, mobilier, echipamente sau bunuri rămase nefolosite, fără descrieri vagi și negocieri inutile. Articolul Cum transformi stocurile și echipamentele nefolosite în capital de lucru: ghid CSV.RO pentru firme apare prima dată în Antreprenor Club .",
-      "published": "2026-08-14T09:39:26+00:00",
-      "published_human": "2026-08-14T09:39",
       "source": "https://antreprenorclub.ro/"
     }
   ],

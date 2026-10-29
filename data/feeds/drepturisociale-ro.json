@@ -7,9 +7,17 @@
     "rss": "https://drepturisociale.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-10-29T08:40:01.496262+00:00",
+  "updated_at": "2026-10-29T16:16:17.861652+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Educatie care elibereaza: cum construim independenta pentru copiii cu CES",
+      "link": "https://drepturisociale.ro/educatie-care-elibereaza-cum-construim-independenta-pentru-copiii-cu-ces/",
+      "summary": "Noul spatiu de autoservire al Asociatiei CONIL transforma teoria in abilitati practice pentru tinerii cu nevoi speciale. Articolul Educatie care elibereaza: cum construim independenta pentru copiii cu CES apare prima dată în Drepturi Sociale .",
+      "published": "2026-10-29T10:26:32+00:00",
+      "published_human": "2026-10-29T10:26",
+      "source": "https://drepturisociale.ro/"
+    },
     {
       "title": "Partenerii care fac posibil HER SPACE FESTIVAL ROMANIA – TINEREȚE FĂRĂ BĂTRÂNEȚE?",
       "link": "https://drepturisociale.ro/partenerii-care-fac-posibil-her-space-festival-romania-tinerete-fara-batranete/",
@@ -80,14 +88,6 @@
       "summary": "Te confrunți cu dureri persistente de picioare sau cu aspectul inestetic al venelor proeminente? Mulți&#8230; Articolul Operație varice București: metode moderne și recuperare apare prima dată în Drepturi Sociale .",
       "published": "2026-05-10T06:30:00+00:00",
       "published_human": "2026-05-10T06:30",
-      "source": "https://drepturisociale.ro/"
-    },
-    {
-      "title": "Sfaturi practice despre economisirea banilor pe care le poți afla din cărți",
-      "link": "https://drepturisociale.ro/sfaturi-practice-despre-economisirea-banilor-pe-care-le-poti-afla-din-carti/",
-      "summary": "Vrei să-ți îmbunătățești finanțele? Poate îți începi călătoria pe drumul economisirii banilor cu o carte.&#8230; Articolul Sfaturi practice despre economisirea banilor pe care le poți afla din cărți apare prima dată în Drepturi Sociale .",
-      "published": "2026-03-16T11:39:54+00:00",
-      "published_human": "2026-03-16T11:39",
       "source": "https://drepturisociale.ro/"
     }
   ],
