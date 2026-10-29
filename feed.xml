@@ -5,8 +5,8 @@
     <link>https://release-press-releases-romania.github.io</link>
     <description>Aggregated RSS feed of press releases from over 100 Romanian publishers. Covering PR &amp; Marketing, Health, News &amp; Society, Technology, Business, Construction, Tourism, and more. Curated selection of quality press releases from trusted Romanian sources.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 12:01:06 +0000</lastBuildDate>
-    <pubDate>Thu, 29 Oct 2026 12:01:06 +0000</pubDate>
+    <lastBuildDate>Thu, 29 Oct 2026 18:12:50 +0000</lastBuildDate>
+    <pubDate>Thu, 29 Oct 2026 18:12:50 +0000</pubDate>
     <generator>Release Press Releases in Romania RSS Aggregator v2.0</generator>
     <webMaster>noreply@release-press-releases-romania.github.io (Release Press Releases)</webMaster>
     <managingEditor>noreply@release-press-releases-romania.github.io (Release Press Releases)</managingEditor>
@@ -28,6 +28,20 @@
     <sy:updateFrequency>1</sy:updateFrequency>
     <copyright>Copyright 2026 Release Press Releases in Romania. Content belongs to respective publishers.</copyright>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Managementul stresului în 2026: Cum pot contribui hobby-urile digitale la sănătatea mintală?</title>
+      <link>https://info-santate.ro/managementul-stresului-hobby-digital/</link>
+      <description><![CDATA[From Info Santate: Deconectarea psihologică: o necesitate în era epuizării profesionale Într-o lume profesională în care granițele dintre birou și casă devin tot mai fluide, riscul de epuizare (burnout) este o realitate tot mai prezentă. Conectivitatea permanentă, deși eficientă pentru productivitate, poate menține creierul într-o stare constantă de alertă, împiedicând recuperarea reală. Aici intervine conceptul ...]]></description>
+      <pubDate>Thu, 29 Oct 2026 14:29:32 +0000</pubDate>
+      <author>Info Santate (https://release-press-releases-romania.github.io/publisher/info-santate-ro/)</author>
+      <dc:creator>Info Santate</dc:creator>
+      <dc:date>2026-10-29T14:29:32+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">Health</category>
+      <guid isPermaLink="true">https://info-santate.ro/managementul-stresului-hobby-digital/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/info-santate-ro/">Info Santate</source>
+      <content:encoded><![CDATA[From Info Santate: Deconectarea psihologică: o necesitate în era epuizării profesionale Într-o lume profesională în care granițele dintre birou și casă devin tot mai fluide, riscul de epuizare (burnout) este o realitate tot mai prezentă. Conectivitatea permanentă, deși eficientă pentru productivitate, poate menține creierul într-o stare constantă de alertă, împiedicând recuperarea reală. Aici intervine conceptul ...]]></content:encoded>
+      <comments>https://info-santate.ro/managementul-stresului-hobby-digital/#comments</comments>
+    </item>
     <item>
       <title>Nenos Software: servicii cloud AWS care conectează arhitectura, performanța și administrarea infrastructurii</title>
       <link>https://topcomunicate.ro/nenos-software-servicii-cloud-aws/</link>
@@ -811,20 +825,6 @@
       <source url="https://release-press-releases-romania.github.io/publisher/doctor360-ro/">Doctor360</source>
       <content:encoded><![CDATA[From Doctor360: Cu o frecvență mai mare decât ne închipuim de-a lungul vieții, având simptome ușor de recunoscut și tratamente eficiente dezvoltate de-a lungul anilor, infecțiile urinare la bărbați și femei rămân unele dintre cele mai diagnosticate probleme ale aparatului urinar. Infecția urinară nu apare oricum și are de obicei cauze comune, diferite însă la bărbați și femei. Cum scapi rapid de ea și ce e de ...]]></content:encoded>
       <comments>https://doctor360.ro/infectia-urinara-de-ce-apare-si-cum-scapi-de-ea-rapid/#comments</comments>
-    </item>
-    <item>
-      <title>Ghid pentru cupluri lesbiene. Cum construiești o intimitate mai profundă prin comunicare și jucării</title>
-      <link>https://info-santate.ro/ghid-pentru-cupluri-lesbiene-cum-construiesti-o-intimitate-mai-profunda-prin-comunicare-si-jucarii/</link>
-      <description><![CDATA[From Info Santate: Când ești într-un cuplu de femei, aproape toate sfaturile despre sex pe care le găsești online sunt scrise pentru altcineva. Rămâi să traduci singură ce ți se potrivește și ajungi să te întrebi dacă faci ceva „greșit” doar pentru că nu semănați cu modelele din filme. Intimitatea în cuplurile lesbiene se construiește din lucruri concrete, și anume, ce vă spuneți una alteia, ce alegeți să încerca...]]></description>
-      <pubDate>Tue, 13 Oct 2026 10:09:35 +0000</pubDate>
-      <author>Info Santate (https://release-press-releases-romania.github.io/publisher/info-santate-ro/)</author>
-      <dc:creator>Info Santate</dc:creator>
-      <dc:date>2026-10-13T10:09:35+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">Health</category>
-      <guid isPermaLink="true">https://info-santate.ro/ghid-pentru-cupluri-lesbiene-cum-construiesti-o-intimitate-mai-profunda-prin-comunicare-si-jucarii/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/info-santate-ro/">Info Santate</source>
-      <content:encoded><![CDATA[From Info Santate: Când ești într-un cuplu de femei, aproape toate sfaturile despre sex pe care le găsești online sunt scrise pentru altcineva. Rămâi să traduci singură ce ți se potrivește și ajungi să te întrebi dacă faci ceva „greșit” doar pentru că nu semănați cu modelele din filme. Intimitatea în cuplurile lesbiene se construiește din lucruri concrete, și anume, ce vă spuneți una alteia, ce alegeți să încerca...]]></content:encoded>
-      <comments>https://info-santate.ro/ghid-pentru-cupluri-lesbiene-cum-construiesti-o-intimitate-mai-profunda-prin-comunicare-si-jucarii/#comments</comments>
     </item>
     <item>
       <title>De la Askona la Sleep Expert: povestea retailerului care mizează pe consultanță și somn de calitate</title>
