@@ -7,9 +7,17 @@
     "rss": "https://iPresa.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-10-31T05:58:00.750236+00:00",
+  "updated_at": "2026-10-31T12:49:37.998908+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Asociațiile fără buget de presă pot publica gratuit până la opt comunicate pe lună",
+      "link": "https://ipresa.ro/asociatiile-fara-buget-de-presa-pot-publica-gratuit-pana-la-opt-comunicate-pe-luna/",
+      "summary": "Programul Comunicate de interes public oferă organizațiilor până la opt publicări gratuite pe lună, cu aprobare făcută de un om. Articolul Asociațiile fără buget de presă pot publica gratuit până la opt comunicate pe lună apare prima dată în iPresa .",
+      "published": "2026-10-31T08:25:36+00:00",
+      "published_human": "2026-10-31T08:25",
+      "source": "https://iPresa.ro/"
+    },
     {
       "title": "Cum alegi scaunul auto potrivit în funcție de vârsta și greutatea copilului",
       "link": "https://ipresa.ro/alegi-scaun-auto-copil/",
@@ -80,14 +88,6 @@
       "summary": "Torni lichiorul direct peste gheață, iei o înghițitură și simți mai ales recele. Gustul vine abia după câteva secunde, dacă mai vine. La fel de ușor poți păstra sticla la temperatura camerei și să descoperi că băutura pare mai dulce, mai densă sau mai puternică decât te așteptai. Recomandările generale despre servirea lichiorului lasă deseori [&#8230;] Articolul Cum se servește lichiorul &#8211; cu gheață sau la temperatura camerei? apare prima dată în iPresa .",
       "published": "2026-09-06T07:54:32+00:00",
       "published_human": "2026-09-06T07:54",
-      "source": "https://iPresa.ro/"
-    },
-    {
-      "title": "Second-hand sau nou? Cum decizi ce merită cumpărat folosit și unde nu e bine să faci compromisuri",
-      "link": "https://ipresa.ro/second-hand-sau-nou-cum-decizi-ce-merita-cumparat-folosit/",
-      "summary": "Nu orice produs second-hand este automat o afacere bună și nu orice produs nou justifică diferența de preț. Află cum compari starea, durata de viață, garanția, siguranța și costul real înainte să alegi. Articolul Second-hand sau nou? Cum decizi ce merită cumpărat folosit și unde nu e bine să faci compromisuri apare prima dată în iPresa .",
-      "published": "2026-09-02T20:53:45+00:00",
-      "published_human": "2026-09-02T20:53",
       "source": "https://iPresa.ro/"
     }
   ],

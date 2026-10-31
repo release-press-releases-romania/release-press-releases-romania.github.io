@@ -7,9 +7,17 @@
     "rss": "https://societatecivila.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-10-31T05:58:00.750236+00:00",
+  "updated_at": "2026-10-31T12:49:37.998908+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "2.972 de oameni au învățat primul ajutor în Iași",
+      "link": "https://societatecivila.ro/2-972-de-oameni-au-invatat-primul-ajutor-in-iasi/",
+      "summary": "Programul derulat în județul Iași a adunat mii de participanți, zeci de voluntari și parteneri instituționali în jurul unui obiectiv comun: pregătirea oamenilor pentru a interveni în primele minute ale unei urgențe. În urma rezultatelor obținute, Serviciul Voluntar de Ambulanță continuă extinderea proiectului în mai multe județe din România. Articolul 2.972 de oameni au învățat primul ajutor în Iași apare prima dată în Societate Civila .",
+      "published": "2026-10-31T12:15:48+00:00",
+      "published_human": "2026-10-31T12:15",
+      "source": "https://societatecivila.ro/"
+    },
     {
       "title": "Autonomia se invata: educatie speciala pentru o viata independenta",
       "link": "https://societatecivila.ro/autonomia-se-invata-educatie-speciala-pentru-o-viata-independenta/",
@@ -96,14 +104,6 @@
       "summary": "Cluj-Napoca este un oraș care te invită la explorare. Fie că ești aici pentru un eveniment cultural, pentru &#238;nt&#226;lniri de afaceri &#238;n zona parcurilor tehnologice sau pentru a pleca spre Munții Apuseni, mobilitatea este factorul care &#238;ți poate influența direct experiența. De multe ori, provocarea nu este doar să găsești o mașină disponibilă, ci să... Articolul Închirieri auto Cluj-Napoca: kilometri incluși și cum alegi pachetul corect pentru drumul tău apare prima dată în Societate Civila .",
       "published": "2026-03-07T18:55:00+00:00",
       "published_human": "2026-03-07T18:55",
-      "source": "https://societatecivila.ro/"
-    },
-    {
-      "title": "Transfăgărășan: Cea mai iconică șosea din Europa din perspectiva unui motociclist",
-      "link": "https://societatecivila.ro/transfagarasan-cea-mai-iconica-sosea-din-europa-din-perspectiva-unui-motociclist/",
-      "summary": "Transfăgărășanul nu este doar un drum. Este o experiență, un test al abilităților și un spectacol natural care îți rămâne în memorie mult timp după ce ai oprit motorul. Pentru mulți motocicliști din Europa, această șosea din inima României reprezintă un adevărat pelerinaj pe două roți. Serpentine strânse, urcări abrupte, diferențe mari de nivel și... Articolul Transfăgărășan: Cea mai iconică șosea din Europa din perspectiva unui motociclist apare prima dată în Societate Civila .",
-      "published": "2026-03-02T15:14:51+00:00",
-      "published_human": "2026-03-02T15:14",
       "source": "https://societatecivila.ro/"
     }
   ],

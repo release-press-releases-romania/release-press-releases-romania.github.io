@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@Iasi",
     "rss": "https://social.5th.ro/@Iasi.rss"
   },
-  "updated_at": "2026-10-31T05:58:00.750236+00:00",
+  "updated_at": "2026-10-31T12:49:37.998908+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "2.972 de oameni au învățat primul ajutor în Iași",
+      "link": "https://iasi-azi.ro/2-972-de-oameni-au-invatat-primul-ajutor-in-iasi/",
+      "summary": "Programul derulat în județul Iași a adunat mii de participanți, zeci de voluntari și parteneri instituționali în jurul unui obiectiv comun: pregătirea oamenilor pentru a interveni în primele minute ale unei urgențe. În urma rezultatelor obținute, Serviciul Voluntar de Ambulanță continuă extinderea proiectului în mai multe județe din România. Articolul 2.972 de oameni au învățat primul ajutor în Iași apare prima dată în Iasi AZI .",
+      "published": "2026-10-31T12:15:43+00:00",
+      "published_human": "2026-10-31T12:15",
+      "source": "https://iasi-azi.ro/"
+    },
     {
       "title": "Tutoro pregătește șapte servicii pentru familiile din Iași",
       "link": "https://iasi-azi.ro/tutoro-pregateste-sapte-servicii-pentru-familiile-din-iasi/",
@@ -84,17 +92,17 @@
       "published": "2026-08-01T07:37:00+00:00",
       "published_human": "2026-08-01T07:37",
       "source": "https://iasi-azi.ro/"
-    },
-    {
-      "title": "Reciclare și colectare separată în Iași: ce reguli contează pentru locuitori",
-      "link": "https://iasi-azi.ro/reciclare-si-colectare-separata-in-iasi-ce-reguli-conteaza-pentru-locuitori/",
-      "summary": "Ghid practic despre reciclarea în Iași: colectare separată acasă, ce merge în fiecare recipient și cum afli programul pe cartier. Articolul Reciclare și colectare separată în Iași: ce reguli contează pentru locuitori apare prima dată în Iasi AZI .",
-      "published": "2026-07-23T13:03:00+00:00",
-      "published_human": "2026-07-23T13:03",
-      "source": "https://iasi-azi.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@Iasi/117535469948881451",
+      "summary": "Programul derulat în județul Iași a adunat mii de participanți, zeci de voluntari și parteneri instituționali în jurul unui obiectiv comun: pregătirea oamenilor pentru a interveni în primele minute ale unei urgențe. În urma rezultatelor obținute, Serviciul Voluntar de Ambulanță continuă extinderea proiectului în mai multe județe din România. https:// iasi-azi.ro/2-972-de-oameni-au -invatat-primul-ajutor-in-iasi/",
+      "published": "2026-10-31T12:15:43+00:00",
+      "published_human": "2026-10-31T12:15",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@Iasi/117387535142237789",
@@ -180,14 +188,6 @@
       "link": "https://social.5th.ro/@Iasi/117104256045661029",
       "summary": "Ghid practic despre reciclarea în Iași: colectare separată acasă, ce merge în fiecare recipient și cum afli programul pe cartier. # Iași # mediu # utilități https:// iasi-azi.ro/reciclare-si-colec tare-separata-in-iasi-ce-reguli-conteaza-pentru-locuitori/",
       "published": "2026-08-16T08:32:21+00:00",
-      "published_human": "2026-08-16T08:32",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@Iasi/117104256024029485",
-      "summary": "Ghid pentru servicii dentare și oftalmologice în Iași: consult inițial, transparență, urgențe și diferența dintre clinică și cabinet individual. # familie # Iași # sănătate https:// iasi-azi.ro/stomatologie-si-of talmologie-in-iasi-cum-alegi-clinica-potrivita/",
-      "published": "2026-08-16T08:32:20+00:00",
       "published_human": "2026-08-16T08:32",
       "source": "Mastodon"
     }
