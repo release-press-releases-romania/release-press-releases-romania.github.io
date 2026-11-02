@@ -7,81 +7,8 @@
     "rss": "https://medic360.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-11-02T06:27:55.358343+00:00",
-  "status": "ok",
-  "items": [
-    {
-      "title": "Diareea în timpul tratamentului oncologic: ce poți face acasă și când suni medicul",
-      "link": "https://medic360.ro/diaree-timpul-tratamentului/",
-      "summary": "Descopera masurile de acasa si semnele de alarma pentru diareea in timpul tratamentului oncologic. Informatii clare pentru o recuperare mai rapida. Articolul Diareea în timpul tratamentului oncologic: ce poți face acasă și când suni medicul apare prima dată în Medic 360 .",
-      "published": "2026-10-27T09:11:38+00:00",
-      "published_human": "2026-10-27T09:11",
-      "source": "https://medic360.ro/"
-    },
-    {
-      "title": "Hairify: fibre de păr pentru zilele în care nu vrei să te mai gândești la scalpul vizibil",
-      "link": "https://medic360.ro/fibre-de-par-hairify/",
-      "summary": "Fibrele de par Hairify ofera o solutie imediata pentru aspectul vizual al parului rar. Afla cum functioneaza si cum se compara cu alte optiuni. Articolul Hairify: fibre de păr pentru zilele în care nu vrei să te mai gândești la scalpul vizibil apare prima dată în Medic 360 .",
-      "published": "2026-10-23T07:36:20+00:00",
-      "published_human": "2026-10-23T07:36",
-      "source": "https://medic360.ro/"
-    },
-    {
-      "title": "Creme și geluri pentru mărirea penisului: cum funcționează și la ce să fii atent",
-      "link": "https://medic360.ro/creme-geluri-marierea-penisului/",
-      "summary": "Inveleste mecanismul de actiune al produselor topice pentru performanta masculina si descopera cum sa le folosesti in siguranta. Articolul Creme și geluri pentru mărirea penisului: cum funcționează și la ce să fii atent apare prima dată în Medic 360 .",
-      "published": "2026-10-19T06:33:44+00:00",
-      "published_human": "2026-10-19T06:33",
-      "source": "https://medic360.ro/"
-    },
-    {
-      "title": "Precizie și recuperare accelerată prin chirurgia robotică asistată",
-      "link": "https://medic360.ro/chirurgia-robotica-precizie-recuperare/",
-      "summary": "Descopera cum chirurgia robotica poate sprijini o recuperare mai rapida si ce criterii iau in considerare medicii la alegerea acestei tehnici. Articolul Precizie și recuperare accelerată prin chirurgia robotică asistată apare prima dată în Medic 360 .",
-      "published": "2026-10-19T06:31:46+00:00",
-      "published_human": "2026-10-19T06:31",
-      "source": "https://medic360.ro/"
-    },
-    {
-      "title": "La cât timp după extracție pacientul poate beneficia de implant dentar și unde te programezi în sector 1",
-      "link": "https://medic360.ro/implant-dentar-dupa-extractie-sector-1/",
-      "summary": "Descopera intervalul de timp recomandat intre extractie si implant dentar. Informatii despre riscurile amanaresului si optiunile de tratament. Articolul La cât timp după extracție pacientul poate beneficia de implant dentar și unde te programezi în sector 1 apare prima dată în Medic 360 .",
-      "published": "2026-10-16T11:17:14+00:00",
-      "published_human": "2026-10-16T11:17",
-      "source": "https://medic360.ro/"
-    },
-    {
-      "title": "GHK-Cu peptida de curpu: ce este peptida de cupru și ce știm despre rolul său în sănătatea pielii?",
-      "link": "https://medic360.ro/ghk-cu-peptida-de-curpu-ce-este-peptida-de-cupru-si-ce-stim-despre-rolul-sau-in-sanatatea-pielii/",
-      "summary": "Îngrijirea pielii și prevenirea semnelor îmbătrânirii au devenit subiecte tot mai importante în cercetarea dermatologică. Pe lângă ingredientele consacrate, precum&#8230; Articolul GHK-Cu peptida de curpu: ce este peptida de cupru și ce știm despre rolul său în sănătatea pielii? apare prima dată în Medic 360 .",
-      "published": "2026-10-13T14:26:13+00:00",
-      "published_human": "2026-10-13T14:26",
-      "source": "https://medic360.ro/"
-    },
-    {
-      "title": "Viața după histerectomie: recuperare, riscuri și schimbări",
-      "link": "https://medic360.ro/viata-dupa-histerectomie-recuperare-riscuri-si-schimbari/",
-      "summary": "O intervenție chirurgicală radicală, dar necesară în multe scenarii clinice complexe, histerectomia vine la pachet cu o mulțime de riscuri&#8230; Articolul Viața după histerectomie: recuperare, riscuri și schimbări apare prima dată în Medic 360 .",
-      "published": "2026-10-13T10:08:52+00:00",
-      "published_human": "2026-10-13T10:08",
-      "source": "https://medic360.ro/"
-    },
-    {
-      "title": "Dincolo de kilograme: ce arată noile date despre Wegovy® și grăsimea acumulată în ficat",
-      "link": "https://medic360.ro/dincolo-de-kilograme-ce-arata-noile-date-despre-wegovy-si-grasimea-acumulata-in-ficat/",
-      "summary": "O analiză prezentată la EASD 2026 aduce &#238;n prim-plan sănătatea ficatului la persoanele cu obezitate: după 72 de săptăm&#226;ni de&#8230; Articolul Dincolo de kilograme: ce arată noile date despre Wegovy® și grăsimea acumulată în ficat apare prima dată în Medic 360 .",
-      "published": "2026-10-08T09:02:00+00:00",
-      "published_human": "2026-10-08T09:02",
-      "source": "https://medic360.ro/"
-    },
-    {
-      "title": "Cum funcționează corecția dioptriilor: explicații pentru pacienți",
-      "link": "https://medic360.ro/corectia-dioptriilor-metode/",
-      "summary": "Descopera optiunile de corectie a vederii, de la ochelari la chirurgie cu laser. Informatii clare despre tehnici si eligibilitate. Articolul Cum funcționează corecția dioptriilor: explicații pentru pacienți apare prima dată în Medic 360 .",
-      "published": "2026-10-06T13:49:49+00:00",
-      "published_human": "2026-10-06T13:49",
-      "source": "https://medic360.ro/"
-    }
-  ],
+  "updated_at": "2026-11-02T17:15:17.293362+00:00",
+  "status": "empty",
+  "items": [],
   "social": []
 }

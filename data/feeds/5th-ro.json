@@ -7,9 +7,17 @@
     "rss": "https://5th.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-11-02T06:27:55.358343+00:00",
+  "updated_at": "2026-11-02T17:15:17.293362+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Protecția ecranului auto și a sistemului de navigație: Cum scapi de reflexiile soarelui și de amprentele de pe bord",
+      "link": "https://5th.ro/protectia-ecranului-auto-si-a-sistemului-de-navigatie-cum-scapi-de-reflexiile-soarelui-si-de-amprentele-de-pe-bord/",
+      "summary": "Dacă ai condus o mașină modernă, cu siguranță ai observat tendința industriei: butoanele fizice au dispărut aproape complet, fiind înlocuite de ecrane tactile imense pe consola centrală și de borduri digitale (instrument cluster). Aceste ecrane sunt spectaculoase când mașina este neatinsă, dar după doar câteva zile de utilizare se umplu de amprente grase, praf și Articolul Protecția ecranului auto și a sistemului de navigație: Cum scapi de reflexiile soarelui și de amprentele de pe bord apare prima dată în 5th.ro – Social Media Mastodon Instance .",
+      "published": "2026-11-02T09:21:24+00:00",
+      "published_human": "2026-11-02T09:21",
+      "source": "https://5th.ro/"
+    },
     {
       "title": "De ce experiența chirurgului contează în intervențiile complexe",
       "link": "https://5th.ro/de-ce-experienta-chirurgului-conteaza-in-interventiile-complexe/",
@@ -80,14 +88,6 @@
       "summary": "Mastodon România • fediverse • comunitate Pe scurt: Mastodon este o rețea socială decentralizată, formată din multe servere (numite “instanțe”) care comunică între ele. Îți faci cont pe o instanță, dar poți urmări oameni din toată rețeaua. Dacă vrei un punct de start simplu pentru România, poți intra pe social.5th.ro. Feed-ul e, de regulă, mai Articolul Mastodon România: ce este, cum funcționează și de unde începi apare prima dată în 5th.ro – Social Media Mastodon Instance .",
       "published": "2025-12-16T14:40:19+00:00",
       "published_human": "2025-12-16T14:40",
-      "source": "https://5th.ro/"
-    },
-    {
-      "title": "Mastodon All-In-One WordPress Plugin has a new release: version 1.7.1",
-      "link": "https://5th.ro/mastodon-all-in-one-wordpress-plugin-has-a-new-release-version-1-7-1/",
-      "summary": "5th Social Bot (also known as the Mastodon All-In-One WordPress Plugin) has a new release: version 1.7.1. This update focuses on what matters most when you automate social distribution from WordPress to the Fediverse: flexibility (any Mastodon instance), visibility (clear connection status + analytics improvements), reliability (dynamic instance handling across API calls), and security (stronger Articolul Mastodon All-In-One WordPress Plugin has a new release: version 1.7.1 apare prima dată în 5th.ro – Social Media Mastodon Instance .",
-      "published": "2025-12-14T15:45:30+00:00",
-      "published_human": "2025-12-14T15:45",
       "source": "https://5th.ro/"
     }
   ],
