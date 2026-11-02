@@ -7,8 +7,89 @@
     "rss": "https://iPresa.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-11-02T17:15:17.293362+00:00",
-  "status": "empty",
-  "items": [],
+  "updated_at": "2026-11-02T23:56:12.941952+00:00",
+  "status": "ok",
+  "items": [
+    {
+      "title": "Asociațiile fără buget de presă pot publica gratuit până la opt comunicate pe lună",
+      "link": "https://ipresa.ro/asociatiile-fara-buget-de-presa-pot-publica-gratuit-pana-la-opt-comunicate-pe-luna/",
+      "summary": "Programul Comunicate de interes public oferă organizațiilor până la opt publicări gratuite pe lună, cu aprobare făcută de un om. Articolul Asociațiile fără buget de presă pot publica gratuit până la opt comunicate pe lună apare prima dată în iPresa .",
+      "published": "2026-10-31T08:25:36+00:00",
+      "published_human": "2026-10-31T08:25",
+      "source": "https://iPresa.ro/"
+    },
+    {
+      "title": "Cum alegi scaunul auto potrivit în funcție de vârsta și greutatea copilului",
+      "link": "https://ipresa.ro/alegi-scaun-auto-copil/",
+      "summary": "Ghid practic pentru selectarea scaunului auto in functie de varsta si dimensiunile copilului. Invele cum verifici compatibilitatea cu masina ta. Articolul Cum alegi scaunul auto potrivit în funcție de vârsta și greutatea copilului apare prima dată în iPresa .",
+      "published": "2026-10-19T07:41:46+00:00",
+      "published_human": "2026-10-19T07:41",
+      "source": "https://iPresa.ro/"
+    },
+    {
+      "title": "Ce să vezi într-un weekend cultural în Craiova și o ieșire în județul Dolj",
+      "link": "https://ipresa.ro/ce-sa-vezi-intr-un-weekend-cultural-in-craiova-si-o-iesire-in-judetul-dolj/",
+      "summary": "Imagine: Nicolae Romanescu Park – Wikimedia Commons Craiova oferă un weekend în care poți combina parcurile, muzeele și plimbările prin centrul orașului. Dacă ai o zi în plus, poți explora și alte locuri din Dolj. Un itinerar simplu, cu câteva opriri alese dinainte, îți lasă timp să te bucuri de oraș și să adaptezi programul [&#8230;] Articolul Ce să vezi într-un weekend cultural în Craiova și o ieșire în județul Dolj apare prima dată în iPresa .",
+      "published": "2026-10-13T14:35:50+00:00",
+      "published_human": "2026-10-13T14:35",
+      "source": "https://iPresa.ro/"
+    },
+    {
+      "title": "Schimbare de job, mostenire, venit dublu: momentele in care un consultant OVB face diferenta, dincolo de marile decizii clasice",
+      "link": "https://ipresa.ro/schimbare-de-job-consultant-ovb/",
+      "summary": "Un nou job sau o mostenire schimba echilibrul bugetului. Un consultant OVB te sprijina sa compari veniturile, cheltuielile si protectiile existente pentru a lua decizii clare. Articolul Schimbare de job, mostenire, venit dublu: momentele in care un consultant OVB face diferenta, dincolo de marile decizii clasice apare prima dată în iPresa .",
+      "published": "2026-10-08T09:51:43+00:00",
+      "published_human": "2026-10-08T09:51",
+      "source": "https://iPresa.ro/"
+    },
+    {
+      "title": "Ce tip de ambalaj alegi pentru produsele fragile, voluminoase sau mici?",
+      "link": "https://ipresa.ro/ambalaj-alegi-pentru-produse/",
+      "summary": "Afla cum sa dimensionezi corect cutiile si sa protejezi produsele de orice tip. Ghid practic pentru a evita erorile frecvente la ambalare. Articolul Ce tip de ambalaj alegi pentru produsele fragile, voluminoase sau mici? apare prima dată în iPresa .",
+      "published": "2026-09-25T15:40:52+00:00",
+      "published_human": "2026-09-25T15:40",
+      "source": "https://iPresa.ro/"
+    },
+    {
+      "title": "Schizofrenia. Subtipuri principale, simptome tipice şi diagnosticare",
+      "link": "https://ipresa.ro/schizofrenia-subtipuri-principale-simptome-tipice-si-diagnosticare/",
+      "summary": "Afectează 1% din populația globală, este o tulburare psihică de care nu scapi odată ce ai primit diagnosticul și este foarte greu de tratat. Schizofrenia – despre ea discutăm astăzi – are nevoie de tratamente prescrise de psihiatru, de monitorizare, de medicație și terapie prin discuții, dar și de un plan de intervenție personalizat de [&#8230;] Articolul Schizofrenia. Subtipuri principale, simptome tipice şi diagnosticare apare prima dată în iPresa .",
+      "published": "2026-09-23T08:10:32+00:00",
+      "published_human": "2026-09-23T08:10",
+      "source": "https://iPresa.ro/"
+    },
+    {
+      "title": "Cât costă încălzirea pe peleți iarna și cum poți optimiza consumul într-o casă de vacanță",
+      "link": "https://ipresa.ro/cost-incalzire-pelleti-casa-de-vacanta/",
+      "summary": "Estimeaza consumul de pelleti in functie de zilele petrecute la cabana si descopera ajustari simple pentru a mentine confortul fara cheltuieli neprevazute. Articolul Cât costă încălzirea pe peleți iarna și cum poți optimiza consumul într-o casă de vacanță apare prima dată în iPresa .",
+      "published": "2026-09-22T13:33:02+00:00",
+      "published_human": "2026-09-22T13:33",
+      "source": "https://iPresa.ro/"
+    },
+    {
+      "title": "Cum te pregătești pentru un credit ipotecar?",
+      "link": "https://ipresa.ro/cum-te-pregatesti-pentru-un-credit-ipotecar/",
+      "summary": "Pregătirea pentru un credit ipotecar începe înainte de alegerea băncii și, ideal, chiar înainte de alegerea locuinței. Cu cât solicitantul își înțelege mai bine bugetul, veniturile, obligațiile existente și costurile unei finanțări, cu atât procesul poate fi mai ușor de gestionat. Pentru cei aflați la prima achiziție imobiliară, tentația este să înceapă direct cu vizionările [&#8230;] Articolul Cum te pregătești pentru un credit ipotecar? apare prima dată în iPresa .",
+      "published": "2026-09-14T15:47:33+00:00",
+      "published_human": "2026-09-14T15:47",
+      "source": "https://iPresa.ro/"
+    },
+    {
+      "title": "Cum alegi pachetul optim de asigurare medicală dacă pleci în concediu cu toată familia?",
+      "link": "https://ipresa.ro/cum-alegi-pachetul-optim-de-asigurare-medicala-daca-pleci-in-concediu-cu-toata-familia/",
+      "summary": "Organizarea unei vacanțe în formulă extinsă, alături de copii, partener și bunici, aduce mult entuziasm, dar și o listă lungă de responsabilități logistice. Când pleci singur sau doar în cuplu, riscurile par mai ușor de gestionat, iar deciziile se iau rapid. Într-un grup cu vârste diferite, nevoile medicale devin mult mai variate și cer atenție [&#8230;] Articolul Cum alegi pachetul optim de asigurare medicală dacă pleci în concediu cu toată familia? apare prima dată în iPresa .",
+      "published": "2026-09-12T08:22:00+00:00",
+      "published_human": "2026-09-12T08:22",
+      "source": "https://iPresa.ro/"
+    },
+    {
+      "title": "Cum se servește lichiorul – cu gheață sau la temperatura camerei?",
+      "link": "https://ipresa.ro/cum-se-serveste-lichiorul-cu-gheata-sau-la-temperatura-camerei/",
+      "summary": "Torni lichiorul direct peste gheață, iei o înghițitură și simți mai ales recele. Gustul vine abia după câteva secunde, dacă mai vine. La fel de ușor poți păstra sticla la temperatura camerei și să descoperi că băutura pare mai dulce, mai densă sau mai puternică decât te așteptai. Recomandările generale despre servirea lichiorului lasă deseori [&#8230;] Articolul Cum se servește lichiorul &#8211; cu gheață sau la temperatura camerei? apare prima dată în iPresa .",
+      "published": "2026-09-06T07:54:32+00:00",
+      "published_human": "2026-09-06T07:54",
+      "source": "https://iPresa.ro/"
+    }
+  ],
   "social": []
 }
