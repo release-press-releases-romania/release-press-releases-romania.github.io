@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@DoctoriteBlog",
     "rss": "https://social.5th.ro/@DoctoriteBlog.rss"
   },
-  "updated_at": "2026-11-03T15:20:41.410868+00:00",
+  "updated_at": "2026-11-03T21:09:12.480632+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Colposcopia – când este recomandată și ce poate descoperi această investigație ginecologică",
+      "link": "https://doctorite.ro/colposcopie-investigatie-ginecologica/",
+      "summary": "Colposcopia permite examinarea detaliata a colului uterin pentru identificarea leziunilor precanceroase. Afla cand este indicata si cum te pregatesti. Articolul Colposcopia – când este recomandată și ce poate descoperi această investigație ginecologică apare prima dată în Doctorite .",
+      "published": "2026-11-03T15:42:44+00:00",
+      "published_human": "2026-11-03T15:42",
+      "source": "https://doctorite.ro/"
+    },
     {
       "title": "Durerea care revine: de ce reabilitarea nu se oprește când trece durerea",
       "link": "https://doctorite.ro/durerea-care-revine-reabilitare-fizioterapie-kinetoterapie/",
@@ -84,17 +92,17 @@
       "published": "2026-08-20T04:53:36+00:00",
       "published_human": "2026-08-20T04:53",
       "source": "https://doctorite.ro/"
-    },
-    {
-      "title": "Pierderea masei musculare la perimenopauză și menopauză: rolul recuperării medicale",
-      "link": "https://doctorite.ro/pierderea-masei-musculare-la-perimenopauza-si-menopauza-rolul-recuperarii-medicale/",
-      "summary": "Consultant științific: Dr.&#160;Mirena Niculae, Medic specialist reabilitare medicală Perimenopauza și menopauza sunt perioade caracterizate de... Articolul Pierderea masei musculare la perimenopauză și menopauză: rolul recuperării medicale apare prima dată în Doctorite .",
-      "published": "2026-08-20T04:45:35+00:00",
-      "published_human": "2026-08-20T04:45",
-      "source": "https://doctorite.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@DoctoriteBlog/117553271231202728",
+      "summary": "Colposcopia permite examinarea detaliata a colului uterin pentru identificarea leziunilor precanceroase. Afla cand este indicata si cum te pregatesti. https:// doctorite.ro/colposcopie-inves tigatie-ginecologica/",
+      "published": "2026-11-03T15:42:49+00:00",
+      "published_human": "2026-11-03T15:42",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@DoctoriteBlog/117496806765479948",
@@ -181,14 +189,6 @@
       "summary": "Dacă lucrezi la birou, conduci mult sau petreci ore întregi pe scaun, durerea lombară poate deveni parte din rutina zilnică înainte să-i acorzi atenție. O jenă discretă dimineața se poate transforma în rigiditate, înțepături sau durere care coboară spre fesă și picior. Când apare amorțeala, slăbiciunea ori durerea se intensifică rapid, merită să acționezi fără… https:// doctorite.ro/durerea-lombara-d upa-o-zi-la-birou-semnele-care-cer-mai-mult-decat-un-antiinflamator/",
       "published": "2026-08-10T12:39:46+00:00",
       "published_human": "2026-08-10T12:39",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@DoctoriteBlog/117014397602810179",
-      "summary": "Disconfortul din zona burticii apare foarte des în viața de zi cu zi. Totuși, atunci când suferința nu dispare, corpul îți trimite un semnal clar de alarmă. Poate fi vorba despre o simplă indigestie sau despre o afecțiune mai complexă. Din păcate, mulți oameni amână vizita la medic și speră că problema se va rezolva… https:// doctorite.ro/cand-trebuie-inve stigate-durerile-abdominale-persistente/",
-      "published": "2026-07-31T11:40:10+00:00",
-      "published_human": "2026-07-31T11:40",
       "source": "Mastodon"
     }
   ]
