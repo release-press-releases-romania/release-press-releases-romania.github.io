@@ -7,9 +7,17 @@
     "rss": "https://stiri-medicale.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-11-04T18:05:29.216805+00:00",
+  "updated_at": "2026-11-04T23:46:55.438448+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Novo România a adus discuția despre sănătate și wellbeing în prim-plan la Mercedes-Benz Bucharest Fashion Week 2026 (copie)",
+      "link": "https://stiri-medicale.ro/novo-la-bucharest-fashion-week/",
+      "summary": "Parteneriatul dintre Novo si Bucharest Fashion Week pune accent pe sanatate si wellbeing. Citeste despre dialogul dintre moda si grija de sine. Articolul Novo România a adus discuția despre sănătate și wellbeing în prim-plan la Mercedes-Benz Bucharest Fashion Week 2026 (copie) apare prima dată în Stiri Medicale .",
+      "published": "2026-11-04T18:28:35+00:00",
+      "published_human": "2026-11-04T18:28",
+      "source": "https://stiri-medicale.ro/"
+    },
     {
       "title": "Cum îți influențează cafeaua, ecranul și programul haotic somnul și ce poți face la noapte",
       "link": "https://stiri-medicale.ro/cum-iti-influenteaza-cafeaua-ecranul-si-programul-haotic-somnul-si-ce-poti-face-la-noapte/",
@@ -96,14 +104,6 @@
       "summary": "Aproape oricine pășește într-un cabinet stomatologic speră în secret că va scăpa de sârme și bracketuri în cel mult un&#8230; Articolul Cât durează tratamentul cu aparat dentar și ce influențează durata acestuia apare prima dată în Stiri Medicale .",
       "published": "2026-07-09T07:47:42+00:00",
       "published_human": "2026-07-09T07:47",
-      "source": "https://stiri-medicale.ro/"
-    },
-    {
-      "title": "Clinica Prevencia explică: simptome pe care pacienții nu ar trebui să le trateze la nesfârșit acasă",
-      "link": "https://stiri-medicale.ro/clinica-prevencia-explica-simptome-pe-care-pacientii-nu-ar-trebui-sa-le-trateze-la-nesfarsit-acasa/",
-      "summary": "Mulți pacienți încearcă să gestioneze simptomele acasă cât mai mult timp. Iau antiinflamatoare pentru dureri, siropuri pentru tuse, suplimente pentru&#8230; Articolul Clinica Prevencia explică: simptome pe care pacienții nu ar trebui să le trateze la nesfârșit acasă apare prima dată în Stiri Medicale .",
-      "published": "2026-06-24T07:47:23+00:00",
-      "published_human": "2026-06-24T07:47",
       "source": "https://stiri-medicale.ro/"
     }
   ],
