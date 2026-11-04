@@ -7,9 +7,17 @@
     "rss": "https://stiri-medicale.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-11-04T09:30:12.359375+00:00",
+  "updated_at": "2026-11-04T18:05:29.216805+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Cum îți influențează cafeaua, ecranul și programul haotic somnul și ce poți face la noapte",
+      "link": "https://stiri-medicale.ro/cum-iti-influenteaza-cafeaua-ecranul-si-programul-haotic-somnul-si-ce-poti-face-la-noapte/",
+      "summary": "Câte cești de cafea ai băut astăzi pentru a rămâne conectat la ritmul alert al zilei? Pentru mulți dintre noi,&#8230; Articolul Cum îți influențează cafeaua, ecranul și programul haotic somnul și ce poți face la noapte apare prima dată în Stiri Medicale .",
+      "published": "2026-11-04T14:02:39+00:00",
+      "published_human": "2026-11-04T14:02",
+      "source": "https://stiri-medicale.ro/"
+    },
     {
       "title": "Tratament cataracta fara operatie sau interventie chirurgicala? Cum decurge operatia de cataracta si cand este recomandata",
       "link": "https://stiri-medicale.ro/operatia-de-cataracta/",
@@ -96,14 +104,6 @@
       "summary": "Mulți pacienți încearcă să gestioneze simptomele acasă cât mai mult timp. Iau antiinflamatoare pentru dureri, siropuri pentru tuse, suplimente pentru&#8230; Articolul Clinica Prevencia explică: simptome pe care pacienții nu ar trebui să le trateze la nesfârșit acasă apare prima dată în Stiri Medicale .",
       "published": "2026-06-24T07:47:23+00:00",
       "published_human": "2026-06-24T07:47",
-      "source": "https://stiri-medicale.ro/"
-    },
-    {
-      "title": "Hemoroizi: simptome, tratament și când este nevoie de consult chirurgical",
-      "link": "https://stiri-medicale.ro/hemoroizi-simptome-tratament-si-cand-este-nevoie-de-consult-chirurgical/",
-      "summary": "Articol informativ pentru pacienți din București: Hemoroizi: simptome, tratament și când este nevoie de consult chirurgical. Articolul Hemoroizi: simptome, tratament și când este nevoie de consult chirurgical apare prima dată în Stiri Medicale .",
-      "published": "2026-06-23T08:05:55+00:00",
-      "published_human": "2026-06-23T08:05",
       "source": "https://stiri-medicale.ro/"
     }
   ],
