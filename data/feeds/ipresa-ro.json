@@ -7,9 +7,17 @@
     "rss": "https://iPresa.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-11-04T23:46:55.438448+00:00",
+  "updated_at": "2026-11-05T07:01:31.240398+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Comunicatele de presă intră în conversația cu AI: Comunicate.eu lansează un server MCP pentru PR",
+      "link": "https://ipresa.ro/server-mcp-comunicate-de-presa-comunicate-eu/",
+      "summary": "Prin serverul MCP Comunicate.eu, un asistent AI scrie ciorne de comunicate, verifica textul si pregateste publicarea, cu acordul firmei. Articolul Comunicatele de presă intră în conversația cu AI: Comunicate.eu lansează un server MCP pentru PR apare prima dată în iPresa .",
+      "published": "2026-11-05T07:00:00+00:00",
+      "published_human": "2026-11-05T07:00",
+      "source": "https://iPresa.ro/"
+    },
     {
       "title": "Asociațiile fără buget de presă pot publica gratuit până la opt comunicate pe lună",
       "link": "https://ipresa.ro/asociatiile-fara-buget-de-presa-pot-publica-gratuit-pana-la-opt-comunicate-pe-luna/",
@@ -80,14 +88,6 @@
       "summary": "Organizarea unei vacanțe în formulă extinsă, alături de copii, partener și bunici, aduce mult entuziasm, dar și o listă lungă de responsabilități logistice. Când pleci singur sau doar în cuplu, riscurile par mai ușor de gestionat, iar deciziile se iau rapid. Într-un grup cu vârste diferite, nevoile medicale devin mult mai variate și cer atenție [&#8230;] Articolul Cum alegi pachetul optim de asigurare medicală dacă pleci în concediu cu toată familia? apare prima dată în iPresa .",
       "published": "2026-09-12T08:22:00+00:00",
       "published_human": "2026-09-12T08:22",
-      "source": "https://iPresa.ro/"
-    },
-    {
-      "title": "Cum se servește lichiorul – cu gheață sau la temperatura camerei?",
-      "link": "https://ipresa.ro/cum-se-serveste-lichiorul-cu-gheata-sau-la-temperatura-camerei/",
-      "summary": "Torni lichiorul direct peste gheață, iei o înghițitură și simți mai ales recele. Gustul vine abia după câteva secunde, dacă mai vine. La fel de ușor poți păstra sticla la temperatura camerei și să descoperi că băutura pare mai dulce, mai densă sau mai puternică decât te așteptai. Recomandările generale despre servirea lichiorului lasă deseori [&#8230;] Articolul Cum se servește lichiorul &#8211; cu gheață sau la temperatura camerei? apare prima dată în iPresa .",
-      "published": "2026-09-06T07:54:32+00:00",
-      "published_human": "2026-09-06T07:54",
       "source": "https://iPresa.ro/"
     }
   ],
