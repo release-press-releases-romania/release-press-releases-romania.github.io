@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@9z",
     "rss": "https://social.5th.ro/@9z.rss"
   },
-  "updated_at": "2026-11-05T07:01:31.240398+00:00",
+  "updated_at": "2026-11-05T15:37:53.714146+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Drept de Autor SRL: sprijin pentru muzicieni și organizatori de evenimente",
+      "link": "https://9z.ro/drept-de-autor-srl-muzicieni/",
+      "summary": "Drept de Autor SRL gestioneaza contractele si facturile pentru muzicieni si organizatori. Sprijin administrativ pentru colaborari artistice. The post Drept de Autor SRL: sprijin pentru muzicieni și organizatori de evenimente appeared first on 9z .",
+      "published": "2026-11-05T10:09:11+00:00",
+      "published_human": "2026-11-05T10:09",
+      "source": "https://9z.ro/"
+    },
     {
       "title": "Instalație interactivă la granița dintre dans, neuroștiință și artă digitală",
       "link": "https://9z.ro/ce-ramane-din-noi-in-absenta-corpului/",
@@ -84,17 +92,17 @@
       "published": "2026-10-12T11:14:10+00:00",
       "published_human": "2026-10-12T11:14",
       "source": "https://9z.ro/"
-    },
-    {
-      "title": "Ce verifici înainte să automatizezi articolele cu AI",
-      "link": "https://9z.ro/automatizare-articole-ai-moon-post/",
-      "summary": "Automatizarea articolelor începe cu subiecte relevante și informații corecte. Descoperă ce trebuie verificat înainte de publicare și unde se încadrează MOON Post. The post Ce verifici înainte să automatizezi articolele cu AI appeared first on 9z .",
-      "published": "2026-10-10T15:29:23+00:00",
-      "published_human": "2026-10-10T15:29",
-      "source": "https://9z.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@9z/117563284237828942",
+      "summary": "Drept de Autor SRL gestioneaza contractele si facturile pentru muzicieni si organizatori. Sprijin administrativ pentru colaborari artistice. https:// 9z.ro/drept-de-autor-srl-muzic ieni/",
+      "published": "2026-11-05T10:09:15+00:00",
+      "published_human": "2026-11-05T10:09",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@9z/117552626230604019",
@@ -181,14 +189,6 @@
       "summary": "Compara avantajele unui marketplace cu cele ale unui magazin online. Afla cum sa alegi platforma potrivita in functie de varietatea produselor si suportul oferit. https:// 9z.ro/marketplace-magazin-onli ne-diferente/",
       "published": "2026-10-15T10:04:56+00:00",
       "published_human": "2026-10-15T10:04",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@9z/117438487023646690",
-      "summary": "Continutul nu este disponibil. Te rugam sa incarci textul pentru a genera un rezumat corect pentru lista de articole. https:// 9z.ro/fotograf-nunta-bucuresti -andrei-lungu/",
-      "published": "2026-10-14T09:11:41+00:00",
-      "published_human": "2026-10-14T09:11",
       "source": "Mastodon"
     }
   ]
