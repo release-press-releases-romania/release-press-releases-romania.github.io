@@ -5,8 +5,8 @@
     <link>https://release-press-releases-romania.github.io</link>
     <description>Aggregated RSS feed of press releases from over 100 Romanian publishers. Covering PR &amp; Marketing, Health, News &amp; Society, Technology, Business, Construction, Tourism, and more. Curated selection of quality press releases from trusted Romanian sources.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Nov 2026 13:30:18 +0000</lastBuildDate>
-    <pubDate>Fri, 06 Nov 2026 13:30:18 +0000</pubDate>
+    <lastBuildDate>Fri, 06 Nov 2026 22:34:19 +0000</lastBuildDate>
+    <pubDate>Fri, 06 Nov 2026 22:34:19 +0000</pubDate>
     <generator>Release Press Releases in Romania RSS Aggregator v2.0</generator>
     <webMaster>noreply@release-press-releases-romania.github.io (Release Press Releases)</webMaster>
     <managingEditor>noreply@release-press-releases-romania.github.io (Release Press Releases)</managingEditor>
@@ -28,6 +28,20 @@
     <sy:updateFrequency>1</sy:updateFrequency>
     <copyright>Copyright 2026 Release Press Releases in Romania. Content belongs to respective publishers.</copyright>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Aproape 700 de elevi din 8 localități din județul Constanța au participat la activități educative despre sănătatea animalelor și prevenirea rabiei</title>
+      <link>https://dobrogea-news.ro/elevi-localitati-din-judetul-constanta/</link>
+      <description><![CDATA[From Dobrogea News: Pe parcursul celor patru zile de activități, echipele campaniei au ajuns în 8 localități din județul Constanța: municipiul Constanța, Dumbrăveni, 23 August, Istria, Medgidia, Techirghiol, Siliștea și Hârșova. În cele 10 școli participante, copiii au luat parte la sesiuni interactive dedicate sănătății animalelor, prevenirii bolilor și relației responsabile dintre oameni și animalele de companie...]]></description>
+      <pubDate>Fri, 06 Nov 2026 17:57:00 +0000</pubDate>
+      <author>Dobrogea News (https://release-press-releases-romania.github.io/publisher/dobrogea-news-ro/)</author>
+      <dc:creator>Dobrogea News</dc:creator>
+      <dc:date>2026-11-06T17:57:00+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">News &amp; Society</category>
+      <guid isPermaLink="true">https://dobrogea-news.ro/elevi-localitati-din-judetul-constanta/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/dobrogea-news-ro/">Dobrogea News</source>
+      <content:encoded><![CDATA[From Dobrogea News: Pe parcursul celor patru zile de activități, echipele campaniei au ajuns în 8 localități din județul Constanța: municipiul Constanța, Dumbrăveni, 23 August, Istria, Medgidia, Techirghiol, Siliștea și Hârșova. În cele 10 școli participante, copiii au luat parte la sesiuni interactive dedicate sănătății animalelor, prevenirii bolilor și relației responsabile dintre oameni și animalele de companie...]]></content:encoded>
+      <comments>https://dobrogea-news.ro/elevi-localitati-din-judetul-constanta/#comments</comments>
+    </item>
     <item>
       <title>Cum folosești carotele diamantate pentru găurire în piatră fără să fisurezi placa?</title>
       <link>https://arta-constructiilor.ro/carotele-diamantate-gaurire-piatra/</link>
@@ -2099,20 +2113,6 @@
       <source url="https://release-press-releases-romania.github.io/publisher/oltenia-news-ro/">Oltenia News</source>
       <content:encoded><![CDATA[From Oltenia News: Te-ai întrebat vreodată care sunt pașii exacți atunci când te confrunți cu o problemă gravă de sănătate? Un diagnostic oncologic aduce multă teamă, dar informația corectă este primul pas spre vindecare. În prezent, medicina a avansat enorm, oferind soluții personalizate și sigure pentru fiecare pacient în parte. Bucureștiul a devenit un centru de excelență în chirurgia oncologică, unde tehnolog...]]></content:encoded>
       <comments>https://oltenia-news.ro/operatie-cancer-colon-bucuresti-pasii-de-la-diagnostic-la-interventie/#comments</comments>
-    </item>
-    <item>
-      <title>Ce înseamnă, de fapt, o curte bine gândită pentru o casă de familie</title>
-      <link>https://dobrogea-news.ro/ce-inseamna-de-fapt-o-curte-bine-gandita-pentru-o-casa-de-familie/</link>
-      <description><![CDATA[From Dobrogea News: Foto: https://davos-europe.com/wp-content/uploads/2025/04/Colectia-Supreme-Magneto-Culoare-Antracit-scaled-1.jpg O curte bine gândită este o extensie firească a locuinței, adaptată nevoilor zilnice ale familiei. Fie că vorbim despre siguranță, confort sau estetică, fiecare element din curte contribuie la crearea unui echilibru între funcționalitate și relaxare. De la împrejmuire până la zonele ...]]></description>
-      <pubDate>Sat, 11 Apr 2026 02:53:21 +0000</pubDate>
-      <author>Dobrogea News (https://release-press-releases-romania.github.io/publisher/dobrogea-news-ro/)</author>
-      <dc:creator>Dobrogea News</dc:creator>
-      <dc:date>2026-04-11T02:53:21+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">News &amp; Society</category>
-      <guid isPermaLink="true">https://dobrogea-news.ro/ce-inseamna-de-fapt-o-curte-bine-gandita-pentru-o-casa-de-familie/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/dobrogea-news-ro/">Dobrogea News</source>
-      <content:encoded><![CDATA[From Dobrogea News: Foto: https://davos-europe.com/wp-content/uploads/2025/04/Colectia-Supreme-Magneto-Culoare-Antracit-scaled-1.jpg O curte bine gândită este o extensie firească a locuinței, adaptată nevoilor zilnice ale familiei. Fie că vorbim despre siguranță, confort sau estetică, fiecare element din curte contribuie la crearea unui echilibru între funcționalitate și relaxare. De la împrejmuire până la zonele ...]]></content:encoded>
-      <comments>https://dobrogea-news.ro/ce-inseamna-de-fapt-o-curte-bine-gandita-pentru-o-casa-de-familie/#comments</comments>
     </item>
     <item>
       <title>2025: greșeli de evitat în comunicatele de presă online</title>
