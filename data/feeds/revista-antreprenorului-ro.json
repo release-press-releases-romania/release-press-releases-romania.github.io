@@ -7,9 +7,17 @@
     "rss": "https://revista-antreprenorului.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-11-06T02:35:05.393212+00:00",
+  "updated_at": "2026-11-06T11:11:28.882226+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Firmele își planifică publicitatea din ChatGPT, prin Comunicate.eu",
+      "link": "https://revista-antreprenorului.ro/publicitate-presa-online-chatgpt-server-mcp/",
+      "summary": "O firma isi poate planifica advertorialele si comunicatele din ChatGPT sau Claude, cu preturi din catalog, prin serverul MCP Comunicate.eu. Articolul Firmele își planifică publicitatea din ChatGPT, prin Comunicate.eu apare prima dată în Revista Antreprenorului .",
+      "published": "2026-11-06T07:00:00+00:00",
+      "published_human": "2026-11-06T07:00",
+      "source": "https://revista-antreprenorului.ro/"
+    },
     {
       "title": "Solar Watts: 17 ani de lumina romaneasca, construita cu rabdare, calitate si curaj",
       "link": "https://revista-antreprenorului.ro/solar-watts/",
@@ -96,14 +104,6 @@
       "summary": "Ai un buget promoțional clar și vrei să-l transformi într-o campanie care să atragă atenția. Întrebarea apare repede: pui cea mai mare parte din bani într-un singur premiu spectaculos sau împarți bugetul în sute ori mii de recompense mai mici? Ambele variante pot funcționa, dar servesc obiective diferite. Un premiu mare poate genera vizibilitate și... Read More &#8220;Un premiu mare sau multe premii mici? Cum aleg companiile mecanica unei campanii&#8221; &#187; Articolul Un premiu mare sau multe premii mici? Cum aleg companiile mecanica unei campanii apare prima dată în Revista Antreprenorului .",
       "published": "2026-08-19T19:35:12+00:00",
       "published_human": "2026-08-19T19:35",
-      "source": "https://revista-antreprenorului.ro/"
-    },
-    {
-      "title": "CleanSpot Oradea: procesul care transformă un serviciu local în încredere",
-      "link": "https://revista-antreprenorului.ro/cleanspot-oradea-procesul-care-transforma-un-serviciu-local-in-incredere/",
-      "summary": "Advertorial de companie realizat cu date operaționale furnizate de CleanSpot Oradea. &#206;n servicii, produsul nu poate fi pus pe raft &#238;nainte de cumpărare. Clientul cumpără o promisiune, iar reputația se construiește c&#226;nd promisiunea devine proces verificabil. Pentru CleanSpot, un serviciu de curățare tapițerie auto Oradea nu &#238;ncepe cu detergentul, ci cu diagnosticarea mașinii și stabilirea... Read More &#8220;CleanSpot Oradea: procesul care transformă un serviciu local în încredere&#8221; &#187; Articolul CleanSpot Oradea: procesul care transformă un serviciu local în încredere apare prima dată în Revista Antreprenorului .",
-      "published": "2026-08-17T03:45:41+00:00",
-      "published_human": "2026-08-17T03:45",
       "source": "https://revista-antreprenorului.ro/"
     }
   ],
