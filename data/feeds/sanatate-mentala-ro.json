@@ -7,9 +7,17 @@
     "rss": "https://sanatate-mentala.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-11-11T15:27:15.665666+00:00",
+  "updated_at": "2026-11-11T22:50:47.903053+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Mai puține obstacole pentru părinți, mai multe șanse pentru copii grav bolnavi",
+      "link": "https://sanatate-mentala.ro/parinti-sprijin-copii-boli-grave/",
+      "summary": "Programul M.A.M.E. ofera parintilor sprijin financiar si logistice, facilitand accesul la terapii gratuite pentru copiii cu afectiuni grave. Articolul Mai puține obstacole pentru părinți, mai multe șanse pentru copii grav bolnavi apare prima dată în Sanatate Mentala .",
+      "published": "2026-11-11T16:47:20+00:00",
+      "published_human": "2026-11-11T16:47",
+      "source": "https://sanatate-mentala.ro/"
+    },
     {
       "title": "Wegovy® a redus grăsimea din ficat la valori normale la aproape 9 din 10 participanți cu obezitate și steatoză, într-o analiză prezentată la E",
       "link": "https://sanatate-mentala.ro/wegovy-a-redus-grasimea-din-ficat-la-valori-normale-la-aproape-9-din-10-participanti-cu-obezitate-si-steatoza-intr-o-analiza-prezentata-la-e/",
@@ -96,14 +104,6 @@
       "summary": "În timpul celor nouă luni de sarcină în corpul femeii se întâmplă numeroase transformări fiziologice... Articolul Kinetoterapia în sarcină: beneficii, indicații și contraindicații apare prima dată în Sanatate Mentala .",
       "published": "2026-05-19T12:33:49+00:00",
       "published_human": "2026-05-19T12:33",
-      "source": "https://sanatate-mentala.ro/"
-    },
-    {
-      "title": "Cum te ajută un smartwatch să îți monitorizezi stresul?",
-      "link": "https://sanatate-mentala.ro/cum-te-ajuta-un-smartwatch-sa-iti-monitorizezi-stresul/",
-      "summary": "Un smartwatch te ajută să îți monitorizezi stresul prin analizarea ritmului cardiac, a variației acestuia... Articolul Cum te ajută un smartwatch să îți monitorizezi stresul? apare prima dată în Sanatate Mentala .",
-      "published": "2026-04-30T06:54:00+00:00",
-      "published_human": "2026-04-30T06:54",
       "source": "https://sanatate-mentala.ro/"
     }
   ],
