@@ -7,9 +7,17 @@
     "rss": "https://actulcivic.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-11-12T12:58:08.013007+00:00",
+  "updated_at": "2026-11-12T20:57:21.181166+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "O rețea națională de sprijin pentru copiii cu boli grave, dezvoltată de Asociația M.A.M.E. cu susținerea CEC Bank",
+      "link": "https://actulcivic.ro/asociatia-m-retea-sprijin-copii-boli/",
+      "summary": "Proiectul ofera sprijin gratuit pentru 150 de copii si 100 de parinti prin o retea de 50 de specialisti. Serviciile includ kinetoterapie, psihoterapie si consiliere. Mai mult Articolul O rețea națională de sprijin pentru copiii cu boli grave, dezvoltată de Asociația M.A.M.E. cu susținerea CEC Bank apare prima dată în Actul Civic .",
+      "published": "2026-11-12T15:58:04+00:00",
+      "published_human": "2026-11-12T15:58",
+      "source": "https://actulcivic.ro/"
+    },
     {
       "title": "Comunicate de presă gratuite pentru ONG-uri, școli, spitale și primării: cum funcționează programul Comunicate.eu",
       "link": "https://actulcivic.ro/comunicate-de-presa-gratuite-ong/",
@@ -80,14 +88,6 @@
       "summary": "COMUNICAT DE PRESĂ Lansarea proiectului &#8222;O nouă șansă independenței&#8221; &#8211; Cod SMIS 354321 ASOCIAȚIA IZVORUL TĂMĂDUIRII MAVROGHENI, &#238;n parteneriat cu CENTRUL ROM&#194;N PENTRU EDUCAȚIE ȘI DEZVOLTARE UMANĂ (CRED) și ASOCIAȚIA &#8222;CENTRUL DE PERFORMANȚĂ BEFORE &#38; AFTER SCHOOL CONIL&#8221;, anunță lansarea proiectului &#8222;O nouă șansă independenței&#8221;, Cod SMIS 354321, cofinanțat de... Mai mult Articolul Lansarea proiectului „O nouă șansă independenței” apare prima dată în Actul Civic .",
       "published": "2026-08-04T13:44:40+00:00",
       "published_human": "2026-08-04T13:44",
-      "source": "https://actulcivic.ro/"
-    },
-    {
-      "title": "Hernia inghinală: când este momentul potrivit pentru operație?",
-      "link": "https://actulcivic.ro/hernia-inghinala-cand-este-momentul-potrivit-pentru-operatie/",
-      "summary": "Simți o jenă neplăcută în zona inghinală când ridici obiecte grele sau tușești? Ai observat o mică umflătură care apare în picioare și dispare când te întinzi în pat? Este foarte posibil să te confrunți cu o hernie inghinală, o afecțiune extrem de frecventă în rândul adulților. Mulți oameni tind... Mai mult Articolul Hernia inghinală: când este momentul potrivit pentru operație? apare prima dată în Actul Civic .",
-      "published": "2026-07-31T08:32:01+00:00",
-      "published_human": "2026-07-31T08:32",
       "source": "https://actulcivic.ro/"
     }
   ],

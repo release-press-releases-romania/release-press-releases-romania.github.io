@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@pentruoameni",
     "rss": "https://social.5th.ro/@pentruoameni.rss"
   },
-  "updated_at": "2026-11-12T12:58:08.013007+00:00",
+  "updated_at": "2026-11-12T20:57:21.181166+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Copiii cu boli grave și familiile lor au nevoie de sprijin dincolo de tratamentul medical. Un program național le oferă acces gratuit la recuperare",
+      "link": "https://pentruoameni.ro/copii-boli-grave-au-nevoie-sprin/",
+      "summary": "Asociatia M.A.M.E. si CEC Bank extind un program national de recuperare gratuita pentru 150 de copii cu afectiuni grave si 100 de parinti, oferind terapii si consiliere. Articolul Copiii cu boli grave și familiile lor au nevoie de sprijin dincolo de tratamentul medical. Un program național le oferă acces gratuit la recuperare apare prima dată în Pentru Oameni .",
+      "published": "2026-11-12T16:00:32+00:00",
+      "published_human": "2026-11-12T16:00",
+      "source": "https://pentruoameni.ro/"
+    },
     {
       "title": "Anvelope Pirelli: ce le face speciale și de ce sunt atât de populare",
       "link": "https://pentruoameni.ro/anvelope-pirelli-ce-le-face-speciale-si-de-ce-sunt-atat-de-populare/",
@@ -100,17 +108,17 @@
       "published": "2026-06-24T09:56:25+00:00",
       "published_human": "2026-06-24T09:56",
       "source": "https://pentruoameni.ro/"
-    },
-    {
-      "title": "Apendicita acută: simptome, diagnostic și tratament chirurgical",
-      "link": "https://pentruoameni.ro/apendicita-acuta-simptome-diagnostic-si-tratament-chirurgical/",
-      "summary": "Articol informativ pentru pacienți din București despre apendicita acută — simptome, diagnostic și tratamente chirurgicale. Ton calm, empatic, accesibil. Articolul Apendicita acută: simptome, diagnostic și tratament chirurgical apare prima dată în Pentru Oameni .",
-      "published": "2026-06-23T08:05:55+00:00",
-      "published_human": "2026-06-23T08:05",
-      "source": "https://pentruoameni.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@pentruoameni/117604301978967770",
+      "summary": "Asociatia M.A.M.E. si CEC Bank extind un program national de recuperare gratuita pentru 150 de copii cu afectiuni grave si 100 de parinti, oferind terapii si consiliere. .... https:// pentruoameni.ro/copii-boli-gra ve-au-nevoie-sprin/",
+      "published": "2026-11-12T16:00:36+00:00",
+      "published_human": "2026-11-12T16:00",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@pentruoameni/117450299885974801",
@@ -197,14 +205,6 @@
       "summary": "O mașină de înșurubat bună îți face proiectele mai rapide, mai curate și îți lasă energie pentru ideile următoare, nu pentru bătăi de cap. De la primul raft montat în apartament până la lucrări serioase în atelier, totul se schimbă când alegerea nu mai este la întâmplare, ci ghidată de aceleași criterii după care judecă… .... https:// pentruoameni.ro/secretele-unui -mester-priceput-5-factori-de-care-sa-tii-cont-ca-sa-alegi-masina-de-insurubat-perfecta/",
       "published": "2026-06-24T09:56:27+00:00",
       "published_human": "2026-06-24T09:56",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@pentruoameni/116799100153631095",
-      "summary": "Articol informativ pentru pacienți din București despre apendicita acută — simptome, diagnostic și tratamente chirurgicale. Ton calm, empatic, accesibil. .... https:// pentruoameni.ro/apendicita-acu ta-simptome-diagnostic-si-tratament-chirurgical/",
-      "published": "2026-06-23T11:07:11+00:00",
-      "published_human": "2026-06-23T11:07",
       "source": "Mastodon"
     }
   ]
