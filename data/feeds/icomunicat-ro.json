@@ -7,9 +7,17 @@
     "rss": "https://iComunicat.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-11-12T03:55:52.271206+00:00",
+  "updated_at": "2026-11-12T12:58:08.013007+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Sanctuarul NIMA, primul sanctuar din România, la 8 ani",
+      "link": "https://icomunicat.ro/2026/11/12/sanctuarul-nima-primul-din-romania-8-ani/",
+      "summary": "Primul sanctuar pentru animale din România, NIMA, a împlinit opt ani. Astăzi, 140 de animăluțe salvate din 11 specii trăiesc în siguranță, cu sprijinul donatorilor. Articolul Sanctuarul NIMA, primul sanctuar din România, la 8 ani apare prima dată în iComunicat .",
+      "published": "2026-11-12T08:02:37+00:00",
+      "published_human": "2026-11-12T08:02",
+      "source": "https://iComunicat.ro/"
+    },
     {
       "title": "Comunicate.eu lansează un program național de publicare gratuită pentru ONG-uri, școli, spitale și primării",
       "link": "https://icomunicat.ro/2026/10/31/comunicate-eu-lanseaza-un-program-national-de-publicare-gratuita-pentru-ong-uri-scoli-spitale-si-primarii/",
@@ -80,14 +88,6 @@
       "summary": "Rezolutia 4K nu garanteaza singura o supraveghere eficienta in exterior. Trebuie analizate si protectia IP, iluminarea nocturna si tipul de conectivitate. Articolul 7 criterii pentru alegerea camerelor de supraveghere de exterior cu rezoluție 4K Ultra-HD apare prima dată în iComunicat .",
       "published": "2026-09-25T16:40:28+00:00",
       "published_human": "2026-09-25T16:40",
-      "source": "https://iComunicat.ro/"
-    },
-    {
-      "title": "Cum trimiți automat AWB-ul și confirmarea comenzii pe WhatsApp dintr-un magazin MerchantPro",
-      "link": "https://icomunicat.ro/2026/09/19/cum-trimiti-automat-awb-ul-si-confirmarea-comenzii-pe-whatsapp-dintr-un-magazin-merchantpro/",
-      "summary": "Întrebarea apare de obicei după primele zeci de comenzi: clientul sună sau scrie să întrebe unde e coletul, deși i s-a trimis un email cu AWB-ul. Emailul nu a fost deschis. WhatsApp, în schimb, e aplicația pe care o are deschisă oricum. Iată ce poate și ce nu poate face un magazin MerchantPro pe acest [&#8230;] Articolul Cum trimiți automat AWB-ul și confirmarea comenzii pe WhatsApp dintr-un magazin MerchantPro apare prima dată în iComunicat .",
-      "published": "2026-09-19T19:09:49+00:00",
-      "published_human": "2026-09-19T19:09",
       "source": "https://iComunicat.ro/"
     }
   ],
