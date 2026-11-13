@@ -7,9 +7,17 @@
     "rss": "https://stiri-medicale.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-11-13T09:45:21.623416+00:00",
+  "updated_at": "2026-11-13T17:53:57.132015+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Înroșirea feței, diaree și bufeuri: intoleranță la histamină sau sindrom carcinoid?",
+      "link": "https://stiri-medicale.ro/inrosirea-fetei-diaree-si-bufeuri-intoleranta-la-histamina-sau-sindrom-carcinoid/",
+      "summary": "Un simptom izolat poate fi ușor trecut cu vederea, dar trei simptome evidente, înroșirea feței, diaree și bufeuri, sunt greu&#8230; Articolul Înroșirea feței, diaree și bufeuri: intoleranță la histamină sau sindrom carcinoid? apare prima dată în Stiri Medicale .",
+      "published": "2026-11-13T10:42:59+00:00",
+      "published_human": "2026-11-13T10:42",
+      "source": "https://stiri-medicale.ro/"
+    },
     {
       "title": "Novo România a adus discuția despre sănătate și wellbeing în prim-plan la Mercedes-Benz Bucharest Fashion Week 2026 (copie)",
       "link": "https://stiri-medicale.ro/novo-la-bucharest-fashion-week/",
@@ -96,14 +104,6 @@
       "summary": "Wegovy, prima pastilă GLP-1 pentru slăbit, primește undă verde de la Comisia Europeană Comisia Europeană a aprobat Wegovy sub formă&#8230; Articolul Wegovy, prima pastilă GLP-1 pentru slăbit, primește undă verde de la Comisia Europeană apare prima dată în Stiri Medicale .",
       "published": "2026-07-17T08:44:14+00:00",
       "published_human": "2026-07-17T08:44",
-      "source": "https://stiri-medicale.ro/"
-    },
-    {
-      "title": "Cât durează tratamentul cu aparat dentar și ce influențează durata acestuia",
-      "link": "https://stiri-medicale.ro/cat-dureaza-tratamentul-cu-aparat-dentar-si-ce-influenteaza-durata-acestuia/",
-      "summary": "Aproape oricine pășește într-un cabinet stomatologic speră în secret că va scăpa de sârme și bracketuri în cel mult un&#8230; Articolul Cât durează tratamentul cu aparat dentar și ce influențează durata acestuia apare prima dată în Stiri Medicale .",
-      "published": "2026-07-09T07:47:42+00:00",
-      "published_human": "2026-07-09T07:47",
       "source": "https://stiri-medicale.ro/"
     }
   ],
