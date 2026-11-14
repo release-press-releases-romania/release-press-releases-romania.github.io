@@ -5,8 +5,8 @@
     <link>https://release-press-releases-romania.github.io</link>
     <description>Aggregated RSS feed of press releases from over 100 Romanian publishers. Covering PR &amp; Marketing, Health, News &amp; Society, Technology, Business, Construction, Tourism, and more. Curated selection of quality press releases from trusted Romanian sources.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Nov 2026 04:13:38 +0000</lastBuildDate>
-    <pubDate>Sat, 14 Nov 2026 04:13:38 +0000</pubDate>
+    <lastBuildDate>Sat, 14 Nov 2026 12:45:52 +0000</lastBuildDate>
+    <pubDate>Sat, 14 Nov 2026 12:45:52 +0000</pubDate>
     <generator>Release Press Releases in Romania RSS Aggregator v2.0</generator>
     <webMaster>noreply@release-press-releases-romania.github.io (Release Press Releases)</webMaster>
     <managingEditor>noreply@release-press-releases-romania.github.io (Release Press Releases)</managingEditor>
@@ -28,6 +28,34 @@
     <sy:updateFrequency>1</sy:updateFrequency>
     <copyright>Copyright 2026 Release Press Releases in Romania. Content belongs to respective publishers.</copyright>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>MCP pentru advertoriale: planul pe buget, în conversație</title>
+      <link>https://icomunicat.ro/2026/11/14/mcp-pentru-advertoriale-plan-buget/</link>
+      <description><![CDATA[From iComunicat: MCP pentru advertoriale: spui asistentului AI bugetul și subiectul, iar el întoarce planul, cu publicațiile care încap, prețul fiecăreia și totalul cu TVA. Până de curând, un plan de advertoriale se făcea în tabel: o listă de site-uri cerută pe email, prețuri copiate de pe mai multe pagini, apoi socoteala făcută de mână. Prin MCP (Model Context Protocol), standardul prin care ChatGPT, Claude sa...]]></description>
+      <pubDate>Sat, 14 Nov 2026 11:34:39 +0000</pubDate>
+      <author>iComunicat (https://release-press-releases-romania.github.io/publisher/icomunicat-ro/)</author>
+      <dc:creator>iComunicat</dc:creator>
+      <dc:date>2026-11-14T11:34:39+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">PR &amp; Marketing</category>
+      <guid isPermaLink="true">https://icomunicat.ro/2026/11/14/mcp-pentru-advertoriale-plan-buget/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/icomunicat-ro/">iComunicat</source>
+      <content:encoded><![CDATA[From iComunicat: MCP pentru advertoriale: spui asistentului AI bugetul și subiectul, iar el întoarce planul, cu publicațiile care încap, prețul fiecăreia și totalul cu TVA. Până de curând, un plan de advertoriale se făcea în tabel: o listă de site-uri cerută pe email, prețuri copiate de pe mai multe pagini, apoi socoteala făcută de mână. Prin MCP (Model Context Protocol), standardul prin care ChatGPT, Claude sa...]]></content:encoded>
+      <comments>https://icomunicat.ro/2026/11/14/mcp-pentru-advertoriale-plan-buget/#comments</comments>
+    </item>
+    <item>
+      <title>Cum conectezi Claude sau ChatGPT la un server MCP de publicare</title>
+      <link>https://contentai.ro/conectare-server-mcp-asistent-ai/</link>
+      <description><![CDATA[From Contentai: Ca să lucrezi din Claude sau ChatGPT cu un server MCP de publicare, îi dai asistentului o adresă. Uneltele, catalogul și planurile pe buget vin prin conexiune. MCP (Model Context Protocol) e standardul deschis prin care un asistent AI folosește uneltele unui serviciu extern. În loc să copiezi date în conversație, asistentul le cere direct. Ghidul de mai jos folosește serverul Comunicate.eu, car...]]></description>
+      <pubDate>Sat, 14 Nov 2026 11:34:38 +0000</pubDate>
+      <author>Contentai (https://release-press-releases-romania.github.io/publisher/contentai-ro/)</author>
+      <dc:creator>Contentai</dc:creator>
+      <dc:date>2026-11-14T11:34:38+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">PR &amp; Marketing</category>
+      <guid isPermaLink="true">https://contentai.ro/conectare-server-mcp-asistent-ai/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/contentai-ro/">Contentai</source>
+      <content:encoded><![CDATA[From Contentai: Ca să lucrezi din Claude sau ChatGPT cu un server MCP de publicare, îi dai asistentului o adresă. Uneltele, catalogul și planurile pe buget vin prin conexiune. MCP (Model Context Protocol) e standardul deschis prin care un asistent AI folosește uneltele unui serviciu extern. În loc să copiezi date în conversație, asistentul le cere direct. Ghidul de mai jos folosește serverul Comunicate.eu, car...]]></content:encoded>
+      <comments>https://contentai.ro/conectare-server-mcp-asistent-ai/#comments</comments>
+    </item>
     <item>
       <title>Ulcer gastric sau cancer gastric? Simptome, diferențe și investigații</title>
       <link>https://info-santate.ro/ulcer-gastric-sau-cancer-gastric-simptome-diferente-si-investigatii/</link>
@@ -727,20 +755,6 @@
       <source url="https://release-press-releases-romania.github.io/publisher/e-faq-ro/">E Faq</source>
       <content:encoded><![CDATA[From E Faq: Asociația CONIL a lansat Linia de autoservire CONIL, un spațiu dedicat practicii profesionale și incluziunii, în compania echipei Arrise Live, companie care a făcut posibilă realizarea acestui proiect esențial. Asociația CONIL marchează o nouă etapă importantă în misiunea sa de a sprijini copiii și tinerii cu cerințe educaționale speciale (CES), lansând oficial, în compania echipei Arrise Live,...]]></content:encoded>
       <comments>https://e-faq.ro/copii-cu-ces-adulti-independenti-rolul-educatiei-in-drumul-spre-autonomie/#comments</comments>
-    </item>
-    <item>
-      <title>Increderea in sine incepe in clasa: educatie si autonomie pentru copiii cu cerinte speciale</title>
-      <link>https://icomunicat.ro/2026/10/29/increderea-in-sine-incepe-in-clasa-educatie-si-autonomie-pentru-copiii-cu-cerinte-speciale/</link>
-      <description><![CDATA[From iComunicat: Asociația CONIL a lansat Linia de autoservire CONIL, un spațiu dedicat practicii profesionale și incluziunii, în compania echipei Arrise Live, companie care a făcut posibilă realizarea acestui proiect esențial. Asociația CONIL marchează o nouă etapă importantă în misiunea sa de a sprijini copiii și tinerii cu cerințe educaționale speciale (CES), lansând oficial, în compania echipei Arrise Live,...]]></description>
-      <pubDate>Thu, 29 Oct 2026 10:25:22 +0000</pubDate>
-      <author>iComunicat (https://release-press-releases-romania.github.io/publisher/icomunicat-ro/)</author>
-      <dc:creator>iComunicat</dc:creator>
-      <dc:date>2026-10-29T10:25:22+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">PR &amp; Marketing</category>
-      <guid isPermaLink="true">https://icomunicat.ro/2026/10/29/increderea-in-sine-incepe-in-clasa-educatie-si-autonomie-pentru-copiii-cu-cerinte-speciale/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/icomunicat-ro/">iComunicat</source>
-      <content:encoded><![CDATA[From iComunicat: Asociația CONIL a lansat Linia de autoservire CONIL, un spațiu dedicat practicii profesionale și incluziunii, în compania echipei Arrise Live, companie care a făcut posibilă realizarea acestui proiect esențial. Asociația CONIL marchează o nouă etapă importantă în misiunea sa de a sprijini copiii și tinerii cu cerințe educaționale speciale (CES), lansând oficial, în compania echipei Arrise Live,...]]></content:encoded>
-      <comments>https://icomunicat.ro/2026/10/29/increderea-in-sine-incepe-in-clasa-educatie-si-autonomie-pentru-copiii-cu-cerinte-speciale/#comments</comments>
     </item>
     <item>
       <title>Rețete cu pui pentru cina de toamnă în familie: 5 idei rapide din colecția de rețete Selgros</title>
@@ -1791,20 +1805,6 @@
       <source url="https://release-press-releases-romania.github.io/publisher/stiri-live-ro/">Stiri Live</source>
       <content:encoded><![CDATA[From Stiri Live: Ajungi la aniversare cu o cutie în mână și te întrebi dacă ai ales bine. Sticla poate arăta foarte bine pe raft, dar asta nu îți spune dacă sărbătoritul preferă un coniac băut simplu, cu gheață sau amestecat într-un cocktail. Pentru un coniac pentru aniversare, cadoul devine mai atent ales când pornești de la felul în care va fi folosit, nu de la eticheta cea mai cunoscută. Multe recomandări me...]]></content:encoded>
       <comments>https://stiri-live.ro/aniversarea-nu-cere-cea-mai-scumpa-sticla-coniacul-bun-se-alege-dupa-felul-in-care-va-fi-baut/#comments</comments>
-    </item>
-    <item>
-      <title>Lenjeria de pat 240×260 – alegerea premium pentru dormitoarele generoase</title>
-      <link>https://contentai.ro/lenjeria-de-pat-240x260-alegerea-premium-pentru-dormitoarele-generoase/</link>
-      <description><![CDATA[From Contentai: Un dormitor spațios oferă libertatea de a crea un ambient elegant și relaxant, iar fiecare detaliu contribuie la această atmosferă. Pe lângă mobilier și decorațiuni, textilele au un rol esențial în confortul de zi cu zi. Pentru paturile king size, alegerea unei lenjerii adaptate dimensiunilor este indispensabilă, atât din punct de vedere estetic, cât și funcțional. Dimensiunea 240×260 cm este d...]]></description>
-      <pubDate>Sat, 29 Aug 2026 08:46:00 +0000</pubDate>
-      <author>Contentai (https://release-press-releases-romania.github.io/publisher/contentai-ro/)</author>
-      <dc:creator>Contentai</dc:creator>
-      <dc:date>2026-08-29T08:46:00+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">PR &amp; Marketing</category>
-      <guid isPermaLink="true">https://contentai.ro/lenjeria-de-pat-240x260-alegerea-premium-pentru-dormitoarele-generoase/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/contentai-ro/">Contentai</source>
-      <content:encoded><![CDATA[From Contentai: Un dormitor spațios oferă libertatea de a crea un ambient elegant și relaxant, iar fiecare detaliu contribuie la această atmosferă. Pe lângă mobilier și decorațiuni, textilele au un rol esențial în confortul de zi cu zi. Pentru paturile king size, alegerea unei lenjerii adaptate dimensiunilor este indispensabilă, atât din punct de vedere estetic, cât și funcțional. Dimensiunea 240×260 cm este d...]]></content:encoded>
-      <comments>https://contentai.ro/lenjeria-de-pat-240x260-alegerea-premium-pentru-dormitoarele-generoase/#comments</comments>
     </item>
     <item>
       <title>7 recomandări Spy Shop pentru alegerea unui sistem de supraveghere video</title>
