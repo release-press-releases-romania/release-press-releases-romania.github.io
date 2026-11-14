@@ -7,9 +7,17 @@
     "rss": "https://iComunicat.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-11-14T06:45:33.010141+00:00",
+  "updated_at": "2026-11-14T14:19:40.416341+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "MCP pentru advertoriale: planul pe buget, în conversație",
+      "link": "https://icomunicat.ro/2026/11/14/mcp-pentru-advertoriale-plan-buget/",
+      "summary": "Cum face un asistent AI conectat prin MCP planul pentru advertoriale, cu un exemplu real de 1.500 de lei pe turism si ce inseamna fiecare pachet. Articolul MCP pentru advertoriale: planul pe buget, în conversație apare prima dată în iComunicat .",
+      "published": "2026-11-14T11:34:39+00:00",
+      "published_human": "2026-11-14T11:34",
+      "source": "https://iComunicat.ro/"
+    },
     {
       "title": "Sanctuarul NIMA, primul sanctuar din România, la 8 ani",
       "link": "https://icomunicat.ro/2026/11/12/sanctuarul-nima-primul-din-romania-8-ani/",
@@ -80,14 +88,6 @@
       "summary": "Descopera etapele prin care trece auditorul energetic pentru a emite certificatul, de la analiza documentelor la calculul consumului si clasei energetice. Articolul Cum se întocmește certificatul energetic, pas cu pas apare prima dată în iComunicat .",
       "published": "2026-09-29T17:31:21+00:00",
       "published_human": "2026-09-29T17:31",
-      "source": "https://iComunicat.ro/"
-    },
-    {
-      "title": "7 criterii pentru alegerea camerelor de supraveghere de exterior cu rezoluție 4K Ultra-HD",
-      "link": "https://icomunicat.ro/2026/09/25/alegere-camerelor-de-supraveghere-4k/",
-      "summary": "Rezolutia 4K nu garanteaza singura o supraveghere eficienta in exterior. Trebuie analizate si protectia IP, iluminarea nocturna si tipul de conectivitate. Articolul 7 criterii pentru alegerea camerelor de supraveghere de exterior cu rezoluție 4K Ultra-HD apare prima dată în iComunicat .",
-      "published": "2026-09-25T16:40:28+00:00",
-      "published_human": "2026-09-25T16:40",
       "source": "https://iComunicat.ro/"
     }
   ],

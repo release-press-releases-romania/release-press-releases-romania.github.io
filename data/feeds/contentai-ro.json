@@ -7,9 +7,17 @@
     "rss": "https://contentai.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-11-14T06:45:33.010141+00:00",
+  "updated_at": "2026-11-14T14:19:40.416341+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Cum conectezi Claude sau ChatGPT la un server MCP de publicare",
+      "link": "https://contentai.ro/conectare-server-mcp-asistent-ai/",
+      "summary": "Ghid pas cu pas: cum adaugi serverul MCP Comunicate.eu in Claude, ChatGPT, Claude Code, Codex sau Cursor si ce poti cere dupa conectare. Articolul Cum conectezi Claude sau ChatGPT la un server MCP de publicare apare prima dată în Content with AI .",
+      "published": "2026-11-14T11:34:38+00:00",
+      "published_human": "2026-11-14T11:34",
+      "source": "https://contentai.ro/"
+    },
     {
       "title": "Ce porți sub haine ca ținuta să arate impecabil: 5 idei practice",
       "link": "https://contentai.ro/ce-porti-sub-haine-ca-tinuta-sa-arate-impecabil-5-idei-practice/",
@@ -80,14 +88,6 @@
       "summary": "Te-ai trezit vreodată în mijlocul nopții cu o junghi insuportabil în zona stomacului care pur și simplu nu te lasă să respiri? Această durere abdominala poate fi extrem de alarmantă și, de cele mai multe ori, corpul tău încearcă să îți transmită un semnal de alarmă critic. Nu ignora aceste semne, deoarece timpul este cel [&#8230;] Articolul Chirurgie urgență București pentru dureri abdominale severe apare prima dată în Content with AI .",
       "published": "2026-05-10T06:30:00+00:00",
       "published_human": "2026-05-10T06:30",
-      "source": "https://contentai.ro/"
-    },
-    {
-      "title": "Cum să transformi WordPress-ul într-un magazin online profitabil",
-      "link": "https://contentai.ro/cum-sa-transformi-wordpress-ul-intr-un-magazin-online-profitabil/",
-      "summary": "Foarte multe magazine online pornesc cu entuziasm și se sting rapid. Nu pentru că produsele sunt slabe sau prețurile greșite, ci pentru că platforma este tratată superficial. WordPress, combinat cu soluțiile potrivite, poate deveni o platformă de eCommerce extrem de profitabilă. Problema este că majoritatea antreprenorilor cred că „un magazin online” înseamnă doar produse, un [&#8230;] Articolul Cum să transformi WordPress-ul într-un magazin online profitabil apare prima dată în Content with AI .",
-      "published": "2026-02-22T10:22:00+00:00",
-      "published_human": "2026-02-22T10:22",
       "source": "https://contentai.ro/"
     }
   ],
