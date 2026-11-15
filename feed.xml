@@ -5,8 +5,8 @@
     <link>https://release-press-releases-romania.github.io</link>
     <description>Aggregated RSS feed of press releases from over 100 Romanian publishers. Covering PR &amp; Marketing, Health, News &amp; Society, Technology, Business, Construction, Tourism, and more. Curated selection of quality press releases from trusted Romanian sources.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Nov 2026 21:51:15 +0000</lastBuildDate>
-    <pubDate>Sat, 14 Nov 2026 21:51:15 +0000</pubDate>
+    <lastBuildDate>Sun, 15 Nov 2026 03:58:19 +0000</lastBuildDate>
+    <pubDate>Sun, 15 Nov 2026 03:58:19 +0000</pubDate>
     <generator>Release Press Releases in Romania RSS Aggregator v2.0</generator>
     <webMaster>noreply@release-press-releases-romania.github.io (Release Press Releases)</webMaster>
     <managingEditor>noreply@release-press-releases-romania.github.io (Release Press Releases)</managingEditor>
@@ -28,6 +28,20 @@
     <sy:updateFrequency>1</sy:updateFrequency>
     <copyright>Copyright 2026 Release Press Releases in Romania. Content belongs to respective publishers.</copyright>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Swaplet.com lansează o platformă bazată pe consimțământ pentru cererile clienților pe care furnizorii nu le pot onora</title>
+      <link>https://energie-sustenabila.ro/swaplet-platforma-consimtamant/</link>
+      <description><![CDATA[From Energie Sustenabila: VANCOUVER, Canada, 14 noiembrie 2026. Swaplet.com a lansat o platformă de schimb bazată pe permisiuni, care îi permite unui client a cărui cerere nu poate fi onorată de un furnizor să aleagă să fie pus în legătură cu un alt furnizor potrivit. Serviciul începe cu imobiliarele rezidențiale, urmând creditele ipotecare și finanțarea. Problema apare în multe domenii. O locuință se vinde înainte ca u...]]></description>
+      <pubDate>Sat, 14 Nov 2026 23:46:16 +0000</pubDate>
+      <author>Energie Sustenabila (https://release-press-releases-romania.github.io/publisher/energie-sustenabila-ro/)</author>
+      <dc:creator>Energie Sustenabila</dc:creator>
+      <dc:date>2026-11-14T23:46:16+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">Technology &amp; Energy</category>
+      <guid isPermaLink="true">https://energie-sustenabila.ro/swaplet-platforma-consimtamant/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/energie-sustenabila-ro/">Energie Sustenabila</source>
+      <content:encoded><![CDATA[From Energie Sustenabila: VANCOUVER, Canada, 14 noiembrie 2026. Swaplet.com a lansat o platformă de schimb bazată pe permisiuni, care îi permite unui client a cărui cerere nu poate fi onorată de un furnizor să aleagă să fie pus în legătură cu un alt furnizor potrivit. Serviciul începe cu imobiliarele rezidențiale, urmând creditele ipotecare și finanțarea. Problema apare în multe domenii. O locuință se vinde înainte ca u...]]></content:encoded>
+      <comments>https://energie-sustenabila.ro/swaplet-platforma-consimtamant/#comments</comments>
+    </item>
     <item>
       <title>Oferte pentru curățenie și reparații: cum le compari</title>
       <link>https://ifemeie.ro/oferte-pentru-curatenie-reparatii/</link>
@@ -1973,20 +1987,6 @@
       <source url="https://release-press-releases-romania.github.io/publisher/cutremurul-ro/">Cutremurul</source>
       <content:encoded><![CDATA[From Cutremurul: { &quot;@context&quot;: &quot;https://schema.org&quot;, &quot;@type&quot;: &quot;FAQPage&quot;, &quot;mainEntity&quot;: [ { &quot;@type&quot;: &quot;Question&quot;, &quot;name&quot;: &quot;Care este rata de supraviețuire în cazul afecțiunilor maligne ale esofagului?&quot;, &quot;acceptedAnswer&quot;: { &quot;@type&quot;: &quot;Answer&quot;, &quot;text&quot;: &quot;Șansele de vindecare depind direct de stadiul în care este diagnosticată boala. În stadiile incipiente, combinarea chirurgiei cu terapiile oncologice moderne oferă r...]]></content:encoded>
       <comments>https://cutremurul.ro/cancerul-esofagian-rolul-chirurgiei-in-tratamentul-multidisciplinar/#comments</comments>
-    </item>
-    <item>
-      <title>Intervențiile robotice pentru cancerul de rect: beneficii și rezultate</title>
-      <link>https://energie-sustenabila.ro/interventiile-robotice-pentru-cancerul-de-rect-beneficii-si-rezultate/</link>
-      <description><![CDATA[From Energie Sustenabila: Diagnosticarea cu **cancer rectal** poate fi un moment extrem de dificil și plin de incertitudini. Cu toate acestea, medicina modernă a evoluat spectaculos în ultimii ani. Astăzi, pacienții au acces la metode de tratament avansate și extrem de precise. Printre cele mai eficiente opțiuni se numără tehnicile minim invazive de ultimă generație. Procedura de **chirurgie robotică rect** reprezintă u...]]></description>
-      <pubDate>Fri, 31 Jul 2026 08:32:01 +0000</pubDate>
-      <author>Energie Sustenabila (https://release-press-releases-romania.github.io/publisher/energie-sustenabila-ro/)</author>
-      <dc:creator>Energie Sustenabila</dc:creator>
-      <dc:date>2026-07-31T08:32:01+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">Technology &amp; Energy</category>
-      <guid isPermaLink="true">https://energie-sustenabila.ro/interventiile-robotice-pentru-cancerul-de-rect-beneficii-si-rezultate/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/energie-sustenabila-ro/">Energie Sustenabila</source>
-      <content:encoded><![CDATA[From Energie Sustenabila: Diagnosticarea cu **cancer rectal** poate fi un moment extrem de dificil și plin de incertitudini. Cu toate acestea, medicina modernă a evoluat spectaculos în ultimii ani. Astăzi, pacienții au acces la metode de tratament avansate și extrem de precise. Printre cele mai eficiente opțiuni se numără tehnicile minim invazive de ultimă generație. Procedura de **chirurgie robotică rect** reprezintă u...]]></content:encoded>
-      <comments>https://energie-sustenabila.ro/interventiile-robotice-pentru-cancerul-de-rect-beneficii-si-rezultate/#comments</comments>
     </item>
     <item>
       <title>Când este necesară a doua opinie în chirurgie oncologică?</title>
