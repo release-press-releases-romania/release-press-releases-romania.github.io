@@ -10,7 +10,7 @@
     "url": "https://social.5th.ro/@cluj",
     "rss": "https://social.5th.ro/@cluj.rss"
   },
-  "updated_at": "2026-11-15T11:15:28.482181+00:00",
+  "updated_at": "2026-11-15T17:51:54.594731+00:00",
   "status": "ok",
   "items": [
     {
@@ -97,6 +97,22 @@
   "social": [
     {
       "title": "Update",
+      "link": "https://social.5th.ro/@cluj/117621669442086380",
+      "summary": "Probă tehnică de integrare, nu un comunicat real. https:// cluj-azi.ro/proba-tehnica-de-i ntegrare/",
+      "published": "2026-11-15T17:37:23+00:00",
+      "published_human": "2026-11-15T17:37",
+      "source": "Mastodon"
+    },
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@cluj/117621139833426278",
+      "summary": "Verificam legatura cu integrarea externa si drumul unui material de test. Confirmam ca publicarea automata si aprobarea distribuitorilor functioneaza corect. https:// cluj-azi.ro/proba-tehnica-comu nicate-eu/",
+      "published": "2026-11-15T15:22:42+00:00",
+      "published_human": "2026-11-15T15:22",
+      "source": "Mastodon"
+    },
+    {
+      "title": "Update",
       "link": "https://social.5th.ro/@cluj/117514785181710647",
       "summary": "Fiecare iarnă aduce cu sine o promisiune de magie, o invitație la căldură sufletească și momente de neuitat. Și ce poate fi mai încântător decât o călătorie prin orașe imperiale, transformate în veritabile tărâmuri de poveste de luminile feerice și aromele îmbietoare ale piețelor de Crăciun? Imaginați-vă străzile istorice din Budapesta, Praga, Karlovy Vary și… https:// cluj-azi.ro/o-poveste-de-iarna -cu-lumini-si-colinde-4-piete-de-craciun-in-inima-europei/",
       "published": "2026-10-27T20:35:18+00:00",
@@ -173,22 +189,6 @@
       "summary": "Te-ai întrebat vreodată de ce unele zone dintr-o expoziție sunt mereu aglomerate, în timp ce altele rămân pustii? Răspunsul nu stă doar în notorietatea brandului, ci în modul în care este construită prezența fizică la fața locului. Participarea la un târg este o oportunitate uriașă pentru orice afacere care vrea să crească rapid. O strategie… https:// cluj-azi.ro/standuri-expozitio nale-si-materiale-pentru-evenimente-cum-pregatesti-o-prezenta-care-se-vede/",
       "published": "2026-04-08T05:57:53+00:00",
       "published_human": "2026-04-08T05:57",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@cluj/116319250715659291",
-      "summary": "Ana avea 22 de ani când a început să se gândească la un job în videochat. Văzuse multe anunțuri online care promiteau câștiguri foarte mari, program flexibil și o viață complet diferită. Imaginile erau mereu aceleași: vacanțe exotice, haine de firmă, mașini scumpe și multă independență financiară. La început, totul părea simplu. Aproape fiecare studio… https:// cluj-azi.ro/modelele-afla-pe-f orumvideochat-ro-adevarul-despre-vivadiva-si-celelalte-studiouri-de-videochat-din-iasi/",
-      "published": "2026-03-30T17:15:10+00:00",
-      "published_human": "2026-03-30T17:15",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@cluj/115736919125895209",
-      "summary": "Ați investit timp și efort în crearea de conținut valoros pe platforma dumneavoastră wordpress. Următorul pas natural este distribuția automată în Fediverse. Vă folosiți de un mastodon wordpress plugin pentru a simplifica procesul. Dar, adesea, apare o problemă critică: deși postarea ajunge pe Mastodon, atribuirea corectă lipsește. Numele autor-ului care a scris articolul nu este… https:// cluj-azi.ro/cum-afisezi-numele -autorului-in-postarea-mastodon-din-wordpress/",
-      "published": "2025-12-17T21:00:35+00:00",
-      "published_human": "2025-12-17T21:00",
       "source": "Mastodon"
     }
   ]
