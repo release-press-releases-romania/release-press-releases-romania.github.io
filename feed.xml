@@ -5,8 +5,8 @@
     <link>https://release-press-releases-romania.github.io</link>
     <description>Aggregated RSS feed of press releases from over 100 Romanian publishers. Covering PR &amp; Marketing, Health, News &amp; Society, Technology, Business, Construction, Tourism, and more. Curated selection of quality press releases from trusted Romanian sources.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Nov 2026 03:58:19 +0000</lastBuildDate>
-    <pubDate>Sun, 15 Nov 2026 03:58:19 +0000</pubDate>
+    <lastBuildDate>Sun, 15 Nov 2026 13:13:39 +0000</lastBuildDate>
+    <pubDate>Sun, 15 Nov 2026 13:13:39 +0000</pubDate>
     <generator>Release Press Releases in Romania RSS Aggregator v2.0</generator>
     <webMaster>noreply@release-press-releases-romania.github.io (Release Press Releases)</webMaster>
     <managingEditor>noreply@release-press-releases-romania.github.io (Release Press Releases)</managingEditor>
@@ -28,6 +28,34 @@
     <sy:updateFrequency>1</sy:updateFrequency>
     <copyright>Copyright 2026 Release Press Releases in Romania. Content belongs to respective publishers.</copyright>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>De ce tot mai multe companii din România renunță la imprimantele proprii și trec pe abonament</title>
+      <link>https://solutii-constructii.ro/de-ce-tot-mai-multe-companii-din-romania-renunta-la-imprimantele-proprii-si-trec-pe-abonament/</link>
+      <description><![CDATA[From Solutii Constructii: Închirierea imprimantelor poate aduce mai multă predictibilitate în bugetul unei firme, reunind echipamentele, consumabilele și mentenanța într-un abonament lunar. Pentru companiile din construcții și proiectare, unde documentația trebuie livrată la termen, alegerea privește atât costurile, cât și continuitatea activității. De ce aleg companiile din România imprimantele pe abonament Cheltuielil...]]></description>
+      <pubDate>Sun, 15 Nov 2026 12:02:41 +0000</pubDate>
+      <author>Solutii Constructii (https://release-press-releases-romania.github.io/publisher/solutii-constructii-ro/)</author>
+      <dc:creator>Solutii Constructii</dc:creator>
+      <dc:date>2026-11-15T12:02:41+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">Construction &amp; Home</category>
+      <guid isPermaLink="true">https://solutii-constructii.ro/de-ce-tot-mai-multe-companii-din-romania-renunta-la-imprimantele-proprii-si-trec-pe-abonament/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/solutii-constructii-ro/">Solutii Constructii</source>
+      <content:encoded><![CDATA[From Solutii Constructii: Închirierea imprimantelor poate aduce mai multă predictibilitate în bugetul unei firme, reunind echipamentele, consumabilele și mentenanța într-un abonament lunar. Pentru companiile din construcții și proiectare, unde documentația trebuie livrată la termen, alegerea privește atât costurile, cât și continuitatea activității. De ce aleg companiile din România imprimantele pe abonament Cheltuielil...]]></content:encoded>
+      <comments>https://solutii-constructii.ro/de-ce-tot-mai-multe-companii-din-romania-renunta-la-imprimantele-proprii-si-trec-pe-abonament/#comments</comments>
+    </item>
+    <item>
+      <title>Legea 169/2026 schimbă regulile urmăririi comportării construcțiilor în România: ce trebuie să știe proprietarii și constructorii</title>
+      <link>https://arta-constructiilor.ro/urmarirea-comportarii-constructiilor/</link>
+      <description><![CDATA[From Arta Constructiilor: Codul amenajării teritoriului, urbanismului și construcțiilor (CATUC), adoptat prin Legea nr. 169/2026 și publicat în Monitorul Oficial, Partea I, nr. 661 din 10 august 2026, este în vigoare din 25 august 2026. Codul abrogă Legea nr. 50/1991, Legea nr. 350/2001 și cea mai mare parte a Legii nr. 10/1995 privind calitatea în construcții. Pentru urmărirea comportării construcțiilor, schimbarea est...]]></description>
+      <pubDate>Sun, 15 Nov 2026 09:31:43 +0000</pubDate>
+      <author>Arta Constructiilor (https://release-press-releases-romania.github.io/publisher/arta-constructiilor-ro/)</author>
+      <dc:creator>Arta Constructiilor</dc:creator>
+      <dc:date>2026-11-15T09:31:43+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">Construction &amp; Home</category>
+      <guid isPermaLink="true">https://arta-constructiilor.ro/urmarirea-comportarii-constructiilor/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/arta-constructiilor-ro/">Arta Constructiilor</source>
+      <content:encoded><![CDATA[From Arta Constructiilor: Codul amenajării teritoriului, urbanismului și construcțiilor (CATUC), adoptat prin Legea nr. 169/2026 și publicat în Monitorul Oficial, Partea I, nr. 661 din 10 august 2026, este în vigoare din 25 august 2026. Codul abrogă Legea nr. 50/1991, Legea nr. 350/2001 și cea mai mare parte a Legii nr. 10/1995 privind calitatea în construcții. Pentru urmărirea comportării construcțiilor, schimbarea est...]]></content:encoded>
+      <comments>https://arta-constructiilor.ro/urmarirea-comportarii-constructiilor/#comments</comments>
+    </item>
     <item>
       <title>Swaplet.com lansează o platformă bazată pe consimțământ pentru cererile clienților pe care furnizorii nu le pot onora</title>
       <link>https://energie-sustenabila.ro/swaplet-platforma-consimtamant/</link>
@@ -939,20 +967,6 @@
       <comments>https://medic360.ro/fibre-de-par-hairify/#comments</comments>
     </item>
     <item>
-      <title>Piatră, beton armat sau gresie: ce disc folosești pentru fiecare material?</title>
-      <link>https://solutii-constructii.ro/discuri-diamantate-beton-armat/</link>
-      <description><![CDATA[From Solutii Constructii: Ai de tăiat gresie porțelanată, apoi treci la beton armat sau piatră naturală, iar discul folosit la prima lucrare începe să taie greu la următoarea? Materialele au durități și structuri diferite, iar accesoriile nepotrivite se pot uza prematur, pot ciobi marginile sau pot solicita excesiv echipamentul. Vezi ce modele se potrivesc fiecărei lucrări și evită să cheltuiești bani pe accesorii care ...]]></description>
-      <pubDate>Fri, 23 Oct 2026 06:49:28 +0000</pubDate>
-      <author>Solutii Constructii (https://release-press-releases-romania.github.io/publisher/solutii-constructii-ro/)</author>
-      <dc:creator>Solutii Constructii</dc:creator>
-      <dc:date>2026-10-23T06:49:28+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">Construction &amp; Home</category>
-      <guid isPermaLink="true">https://solutii-constructii.ro/discuri-diamantate-beton-armat/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/solutii-constructii-ro/">Solutii Constructii</source>
-      <content:encoded><![CDATA[From Solutii Constructii: Ai de tăiat gresie porțelanată, apoi treci la beton armat sau piatră naturală, iar discul folosit la prima lucrare începe să taie greu la următoarea? Materialele au durități și structuri diferite, iar accesoriile nepotrivite se pot uza prematur, pot ciobi marginile sau pot solicita excesiv echipamentul. Vezi ce modele se potrivesc fiecărei lucrări și evită să cheltuiești bani pe accesorii care ...]]></content:encoded>
-      <comments>https://solutii-constructii.ro/discuri-diamantate-beton-armat/#comments</comments>
-    </item>
-    <item>
       <title>Kinetoterapie Ploiești, pentru recuperare medicală, mobilitate și o viață activă</title>
       <link>https://ghid-sanatate.ro/kinetoterapie-ploiesti-pentru-recuperare-medicala-mobilitate-si-o-viata-activa/</link>
       <description><![CDATA[From Ghid Sanatate: Sănătatea aparatului locomotor influențează în mod direct calitatea vieții, capacitatea de a desfășura activitățile zilnice și nivelul general de confort. Durerile de spate, rigiditatea articulațiilor, problemele de postură sau dificultățile de mișcare pot afecta persoane de toate vârstele, indiferent de nivelul de activitate fizică. În astfel de situații, kinetoterapia reprezintă o componentă ...]]></description>
@@ -1077,20 +1091,6 @@
       <source url="https://release-press-releases-romania.github.io/publisher/idezvoltator-ro/">Idezvoltator</source>
       <content:encoded><![CDATA[From Idezvoltator: O curățare profesională a tapițeriei începe cu identificarea materialului și a problemei, nu cu aplicarea automată a unei soluții. Procedura, estimarea și recomandările de uscare trebuie stabilite după evaluarea compatibilității, iar petele sau mirosurile nu pot fi promise ca eliminate în orice situație. Inventarul mobilierului include și starea textilelor La predarea unui apartament mobilat, p...]]></content:encoded>
       <comments>https://idezvoltator.ro/2026/10/19/apartament-mobilat-pentru-predare-sau-inchiriere-cum-verifici-tapiteria-inainte-de-inventar/#comments</comments>
-    </item>
-    <item>
-      <title>Tapițeria după renovarea locuinței: ce trebuie verificat înainte de curățarea canapelei</title>
-      <link>https://arta-constructiilor.ro/tapiteria-dupa-renovarea-locuintei-ce-trebuie-verificat-inainte-de-curatarea-canapelei/</link>
-      <description><![CDATA[From Arta Constructiilor: O curățare profesională a tapițeriei începe cu identificarea materialului și a problemei, nu cu aplicarea automată a unei soluții. Procedura, estimarea și recomandările de uscare trebuie stabilite după evaluarea compatibilității, iar petele sau mirosurile nu pot fi promise ca eliminate în orice situație. Praful de șantier nu se comportă ca murdăria obișnuită După zugrăvire, montarea mobilierulu...]]></description>
-      <pubDate>Mon, 19 Oct 2026 04:32:25 +0000</pubDate>
-      <author>Arta Constructiilor (https://release-press-releases-romania.github.io/publisher/arta-constructiilor-ro/)</author>
-      <dc:creator>Arta Constructiilor</dc:creator>
-      <dc:date>2026-10-19T04:32:25+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">Construction &amp; Home</category>
-      <guid isPermaLink="true">https://arta-constructiilor.ro/tapiteria-dupa-renovarea-locuintei-ce-trebuie-verificat-inainte-de-curatarea-canapelei/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/arta-constructiilor-ro/">Arta Constructiilor</source>
-      <content:encoded><![CDATA[From Arta Constructiilor: O curățare profesională a tapițeriei începe cu identificarea materialului și a problemei, nu cu aplicarea automată a unei soluții. Procedura, estimarea și recomandările de uscare trebuie stabilite după evaluarea compatibilității, iar petele sau mirosurile nu pot fi promise ca eliminate în orice situație. Praful de șantier nu se comportă ca murdăria obișnuită După zugrăvire, montarea mobilierulu...]]></content:encoded>
-      <comments>https://arta-constructiilor.ro/tapiteria-dupa-renovarea-locuintei-ce-trebuie-verificat-inainte-de-curatarea-canapelei/#comments</comments>
     </item>
     <item>
       <title>Cum alegi o firmă de curățare a tapițeriei în Oradea: criterii care contează înainte de ofertă</title>
