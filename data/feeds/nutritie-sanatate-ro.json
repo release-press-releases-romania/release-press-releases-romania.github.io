@@ -7,9 +7,17 @@
     "rss": "https://nutritie-sanatate.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-11-16T02:52:34.968991+00:00",
+  "updated_at": "2026-11-16T11:47:03.226348+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Sindromul de oboseală cronică: Cauze, simptome și ce spun studiile",
+      "link": "https://nutritie-sanatate.ro/sindrom-de-oboseala-cronica/",
+      "summary": "Oboseala persistenta nu este intotdeauna o boala. Inveleste cand merita o evaluare medicala si ce rol joaca efortul in agravarea starii. Articolul Sindromul de oboseală cronică: Cauze, simptome și ce spun studiile apare prima dată în Nutritie &amp; Sanatate .",
+      "published": "2026-11-16T11:39:02+00:00",
+      "published_human": "2026-11-16T11:39",
+      "source": "https://nutritie-sanatate.ro/"
+    },
     {
       "title": "Ce pudră proteică vegană merită cumpărată? 6 lucruri de verificat pe etichetă",
       "link": "https://nutritie-sanatate.ro/pudra-proteica-vegan-criterii/",
@@ -96,14 +104,6 @@
       "summary": "Un smartwatch care te ajută să dormi și să te recuperezi mai bine este cel... Articolul Ce smartwatch te ajută să dormi și să te recuperezi mai bine? apare prima dată în Nutritie &amp; Sanatate .",
       "published": "2026-04-28T07:02:00+00:00",
       "published_human": "2026-04-28T07:02",
-      "source": "https://nutritie-sanatate.ro/"
-    },
-    {
-      "title": "Rolul vitaminelor și mineralelor în menținerea echilibrului organismului",
-      "link": "https://nutritie-sanatate.ro/rolul-vitaminelor-si-mineralelor-in-mentinerea-echilibrului-organismului/",
-      "summary": "Menținerea echilibrului organismului depinde de numeroși factori, iar alimentația joacă un rol esențial în acest... Articolul Rolul vitaminelor și mineralelor în menținerea echilibrului organismului apare prima dată în Nutritie &amp; Sanatate .",
-      "published": "2026-03-16T10:13:55+00:00",
-      "published_human": "2026-03-16T10:13",
       "source": "https://nutritie-sanatate.ro/"
     }
   ],

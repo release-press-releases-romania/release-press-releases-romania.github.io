@@ -10,7 +10,7 @@
     "url": "https://social.5th.ro/@9z",
     "rss": "https://social.5th.ro/@9z.rss"
   },
-  "updated_at": "2026-11-16T02:52:34.968991+00:00",
+  "updated_at": "2026-11-16T11:47:03.226348+00:00",
   "status": "ok",
   "items": [
     {
@@ -97,6 +97,14 @@
   "social": [
     {
       "title": "Update",
+      "link": "https://social.5th.ro/@9z/117625856515169292",
+      "summary": "Proiectul a adus impreuna ONG-uri, companii si scoli pentru a discuta despre implicarea civica. S-a pus accent pe voluntariat si mentorat pentru tineri. https:// comunicatpresa.9z.ro/parteneri at-implicare-civica-educatie/",
+      "published": "2026-11-16T11:22:12+00:00",
+      "published_human": "2026-11-16T11:22",
+      "source": "Mastodon"
+    },
+    {
+      "title": "Update",
       "link": "https://social.5th.ro/@9z/117613810397865099",
       "summary": "Poți avea o manichiură rezistentă, cu aspect îngrijit, fără să folosești o lampă UV sau LED? Tehnica Dip Powder oferă această posibilitate și reprezintă o alternativă la oja semipermanentă și gelurile tradiționale. Totuși, înainte să o încerci, este important să înțelegi atât avantajele, cât și efectele pe care aplicarea și îndepărtarea produselor le pot avea… https:// comunicatpresa.9z.ro/manichiur a-fara-lampa-uv-ce-avantaje-si-riscuri-are-tehnica-dip-powder-pentru-unghiile-naturale/",
       "published": "2026-11-14T08:18:43+00:00",
@@ -180,14 +188,6 @@
       "link": "https://social.5th.ro/@9z/117523712138621098",
       "summary": "Noul spatiu de autoservire al Asociatiei CONIL transforma teoria in abilitati practice pentru tinerii cu nevoi speciale. https:// 9z.ro/sa-le-dam-aripi-educatie -autonomie-si-incredere-pentru-tinerii-cu-cerinte-speciale/",
       "published": "2026-10-29T10:25:33+00:00",
-      "published_human": "2026-10-29T10:25",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@9z/117523710927861523",
-      "summary": "Noul spatiu de autoservire al Asociatiei CONIL transforma teoria in abilitati practice pentru tinerii cu nevoi speciale. https:// comunicatpresa.9z.ro/un-viitor -fara-limite-educatie-autonomie-si-independenta-pentru-copiii-si-tinerii-cu-ces/",
-      "published": "2026-10-29T10:25:14+00:00",
       "published_human": "2026-10-29T10:25",
       "source": "Mastodon"
     }

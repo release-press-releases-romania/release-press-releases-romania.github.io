@@ -7,9 +7,17 @@
     "rss": "https://societatecivila.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-11-16T02:52:34.968991+00:00",
+  "updated_at": "2026-11-16T11:47:03.226348+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "15.10.2026",
+      "link": "https://societatecivila.ro/parteneriat-implicare-civica-educatie/",
+      "summary": "Proiectul a adus impreuna ONG-uri, companii si scoli pentru a discuta despre implicarea civica. S-a pus accent pe voluntariat si mentorat pentru tineri. Articolul 15.10.2026 apare prima dată în Societate Civila .",
+      "published": "2026-11-16T11:22:28+00:00",
+      "published_human": "2026-11-16T11:22",
+      "source": "https://societatecivila.ro/"
+    },
     {
       "title": "Cum sunt ajutate familiile să găsească serviciile potrivite pentru copiii bolnavi?",
       "link": "https://societatecivila.ro/servicii-copii-bolnavi-mame/",
@@ -96,14 +104,6 @@
       "summary": "Peste 20.000 de vizitatori au celebrat dreptul fiecarui copil de a conta In zilele de 23 si 24 mai 2026, Bucurestiul a gazduit cea mai importanta si frumoasa sarbatoare dedicata incluziunii copiilor, CONIL Fest 2026, editia cu tema &#8222;Toti Copiii Conteaza&#8222;. Evenimentul organizat de Asociația CONIL &#238;n parteneriat cu Circul Metropolitan București, s-a bucurat de... Articolul CONI FEST 2026 &#8211; o editie record prin amploare si participare apare prima dată în Societate Civila .",
       "published": "2026-05-29T10:59:27+00:00",
       "published_human": "2026-05-29T10:59",
-      "source": "https://societatecivila.ro/"
-    },
-    {
-      "title": "Strategii de retenție digitală în 2026: cum faci din site-ul tău un instrument care aduce venituri recurente",
-      "link": "https://societatecivila.ro/strategii-de-retentie-digitala-in-2026-cum-faci-din-site-ul-tau-un-instrument-care-aduce-venituri-recurente/",
-      "summary": "Matematica pe care o ignorăm: de ce retenția este mai profitabilă decât achiziția Există un principiu de marketing pe care aproape orice antreprenor îl cunoaște teoretic, dar pe care surprinzător de puțini îl aplică strategic în alocarea bugetului: este mult mai ieftin și mai eficient să păstrezi un client existent decât să câștigi unul nou.... Articolul Strategii de retenție digitală în 2026: cum faci din site-ul tău un instrument care aduce venituri recurente apare prima dată în Societate Civila .",
-      "published": "2026-03-07T22:04:00+00:00",
-      "published_human": "2026-03-07T22:04",
       "source": "https://societatecivila.ro/"
     }
   ],
