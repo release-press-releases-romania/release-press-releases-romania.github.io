@@ -7,9 +7,17 @@
     "rss": "https://recomandari-medicale.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-11-16T11:47:03.226348+00:00",
+  "updated_at": "2026-11-16T22:21:23.556203+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Dezinfecția în blocul operator: cum alegi produsele pentru suprafețe, pardoseli și echipamente",
+      "link": "https://recomandari-medicale.ro/dezinfectia-in-blocul-operator-cum-alegi-produsele-pentru-suprafete-pardoseli-si-echipamente/",
+      "summary": "&#206;n blocul operator, alegerea produsului de dezinfecție pornește de la riscul real al fiecărei zone, de la substanța activă și&#8230; Articolul Dezinfecția în blocul operator: cum alegi produsele pentru suprafețe, pardoseli și echipamente apare prima dată în Recomandari Medicale .",
+      "published": "2026-11-16T14:32:13+00:00",
+      "published_human": "2026-11-16T14:32",
+      "source": "https://recomandari-medicale.ro/"
+    },
     {
       "title": "Măseaua de minte inclusă și laserul – ce trebuie verificat înainte de extracție",
       "link": "https://recomandari-medicale.ro/maseaua-de-minte-inclusa-si-laserul-ce-trebuie-verificat-inainte-de-extractie/",
@@ -96,14 +104,6 @@
       "summary": "Rupturile ligamentare de genunchi nu sunt pur și simplu ghinion. O parte semnificativă dintre ele au factori de risc identificabili&#8230; Articolul Prevenirea leziunilor ligamentare la sportivi: ce funcționează apare prima dată în Recomandari Medicale .",
       "published": "2026-08-26T10:09:22+00:00",
       "published_human": "2026-08-26T10:09",
-      "source": "https://recomandari-medicale.ro/"
-    },
-    {
-      "title": "Healthy aging fără hype: ce arată studiile despre ingredientele cercetate pentru sănătatea celulară",
-      "link": "https://recomandari-medicale.ro/healthy-aging-fara-hype-ce-arata-studiile-despre-ingredientele-cercetate-pentru-sanatatea-celulara/",
-      "summary": "În ultimii ani, interesul pentru healthy aging a crescut rapid. Odată cu el au apărut și numeroase ingrediente promovate pentru&#8230; Articolul Healthy aging fără hype: ce arată studiile despre ingredientele cercetate pentru sănătatea celulară apare prima dată în Recomandari Medicale .",
-      "published": "2026-08-18T01:14:10+00:00",
-      "published_human": "2026-08-18T01:14",
       "source": "https://recomandari-medicale.ro/"
     }
   ],
