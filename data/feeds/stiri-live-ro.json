@@ -7,9 +7,17 @@
     "rss": "https://stiri-live.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-11-17T04:39:58.617844+00:00",
+  "updated_at": "2026-11-17T14:41:32.794268+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Arta – instrument pentru incluziune și dezvoltare emoțională",
+      "link": "https://stiri-live.ro/arta-pentru-incluziune-si-dezvoltare/",
+      "summary": "Asociația Bolnavilor de Von Hippel Lindau desfășoară, cu sprijinul Fundației Orange, proiectul „UBUNTU: Împreună prin artă”, un program de incluziune și dezvoltare socio-emoțională dedicat elevilor și cadrelor didactice din trei comunități școlare ale județului Dâmbovița: Ciocănești, Urziceanca și Vizurești. Articolul Arta &#8211; instrument pentru incluziune și dezvoltare emoțională apare prima dată în Stiri Live .",
+      "published": "2026-11-17T11:14:33+00:00",
+      "published_human": "2026-11-17T11:14",
+      "source": "https://stiri-live.ro/"
+    },
     {
       "title": "Unde găsești produse ALDO în România: magazinele, orașele și varianta online",
       "link": "https://stiri-live.ro/aldo-in-romania-magazine-online/",
@@ -96,14 +104,6 @@
       "summary": "Un gard bine ales protejează proprietatea, oferă intimitate și completează aspectul casei. Din acest motiv, tot mai mulți proprietari. Articolul Gard din șipcă metalică: costuri, montaj, întreținere apare prima dată în Stiri Live .",
       "published": "2026-04-25T16:12:49+00:00",
       "published_human": "2026-04-25T16:12",
-      "source": "https://stiri-live.ro/"
-    },
-    {
-      "title": "Contorul electric monofazat, mic aparat cu rol uriaș în gospodăriile românești",
-      "link": "https://stiri-live.ro/contorul-electric-monofazat-mic-aparat-cu-rol-urias-in-gospodariile-romanesti/",
-      "summary": "Într-o epocă în care factura la energie a devenit subiect de discuție la fiecare masă de familie, un aparat. Articolul Contorul electric monofazat, mic aparat cu rol uriaș în gospodăriile românești apare prima dată în Stiri Live .",
-      "published": "2026-04-09T16:58:13+00:00",
-      "published_human": "2026-04-09T16:58",
       "source": "https://stiri-live.ro/"
     }
   ],

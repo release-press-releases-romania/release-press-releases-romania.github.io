@@ -10,7 +10,7 @@
     "url": "https://social.5th.ro/@9z",
     "rss": "https://social.5th.ro/@9z.rss"
   },
-  "updated_at": "2026-11-17T04:39:58.617844+00:00",
+  "updated_at": "2026-11-17T14:41:32.794268+00:00",
   "status": "ok",
   "items": [
     {
@@ -97,6 +97,14 @@
   "social": [
     {
       "title": "Update",
+      "link": "https://social.5th.ro/@9z/117631637778543312",
+      "summary": "Voluntarii au plantat 870 de puieti de stejar in Padurea Balta Neagra, completand o plantatie din urma cu doi ani. https:// comunicatpresa.9z.ro/oxigen-tr avel-nature-plantare-stejari/",
+      "published": "2026-11-17T11:52:27+00:00",
+      "published_human": "2026-11-17T11:52",
+      "source": "Mastodon"
+    },
+    {
+      "title": "Update",
       "link": "https://social.5th.ro/@9z/117626731246612187",
       "summary": "Brandul Motorola este recunoscut pentru fiabilitate și inovație, oferind o gamă largă de dispozitive, de la modele accesibile din seria G la flagship-uri premium din seria Edge. Indiferent de modelul pe care îl deții, un lucru este cert: ecranul este componenta cea mai vulnerabilă și necesită o protecție serioasă pentru a preveni zgârieturile și spargerea.… https:// 9z.ro/de-ce-telefonul-tau-moto rola-are-nevoie-de-o-folie-din-silicon-taiata-la-comanda/",
       "published": "2026-11-16T15:04:40+00:00",
@@ -181,14 +189,6 @@
       "summary": "Invitație de participare la cel de-al II-lea Simpozion Global al Familiilor Monoparentale – SpaniaExistă momente în care o invitație înseamnă mai mult decât participarea la un eveniment. Înseamnă recunoașterea unei misiuni, deschiderea unui drum și oportunitatea de a duce vocea unor oameni dincolo de granițele țării lor.Asociația Floarea Vieții D&amp;L este invitată în Spania, la… https:// comunicatpresa.9z.ro/romania-p rin-asociatia-floarea-vietii-d-amp-l-la-masa-dialogului/",
       "published": "2026-11-01T21:48:26+00:00",
       "published_human": "2026-11-01T21:48",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@9z/117526074574161495",
-      "summary": "Pe 4 și 5 noiembrie 2026, la Linotip – Centru Independent Coregrafic din București, Asociația Secția de Coregrafie prezintă DANS.ID, o instalație digitală interactivă care îmbină dansul, neuroștiința și arta digitală. Prin intermediul mișcării corpului și al semnalelor EEG, fiecare vizitator contribuie la crearea unei experiențe vizuale, sonore și coregrafice unice. Lansarea marchează și 15 ani de activitate ai Asociației Secția de Coregrafie. https:// 9z.ro/ce-ramane-din-noi-in-abs enta-corpului/",
-      "published": "2026-10-29T20:26:21+00:00",
-      "published_human": "2026-10-29T20:26",
       "source": "Mastodon"
     }
   ]
