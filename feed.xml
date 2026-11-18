@@ -5,8 +5,8 @@
     <link>https://release-press-releases-romania.github.io</link>
     <description>Aggregated RSS feed of press releases from over 100 Romanian publishers. Covering PR &amp; Marketing, Health, News &amp; Society, Technology, Business, Construction, Tourism, and more. Curated selection of quality press releases from trusted Romanian sources.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 15:14:58 +0000</lastBuildDate>
-    <pubDate>Tue, 17 Nov 2026 15:14:58 +0000</pubDate>
+    <lastBuildDate>Wed, 18 Nov 2026 00:16:08 +0000</lastBuildDate>
+    <pubDate>Wed, 18 Nov 2026 00:16:08 +0000</pubDate>
     <generator>Release Press Releases in Romania RSS Aggregator v2.0</generator>
     <webMaster>noreply@release-press-releases-romania.github.io (Release Press Releases)</webMaster>
     <managingEditor>noreply@release-press-releases-romania.github.io (Release Press Releases)</managingEditor>
@@ -28,6 +28,20 @@
     <sy:updateFrequency>1</sy:updateFrequency>
     <copyright>Copyright 2026 Release Press Releases in Romania. Content belongs to respective publishers.</copyright>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Security365 reunește peste 4.800 de profiluri de companii și resurse pentru alegerea serviciilor de securitate</title>
+      <link>https://universultech.ro/security365-profiluri-de-companii/</link>
+      <description><![CDATA[From Universultech: București, 17 noiembrie 2026 — Alegerea unei firme de pază sau a unui instalator de sisteme de securitate începe cu informații verificabile: cine este compania, ce servicii oferă și unde pot fi consultate documentele relevante. Security365.ro reunește într-o singură platformă un director de companii, informații despre distribuitori și producători, știri, ghiduri și resurse legislative pentru in...]]></description>
+      <pubDate>Tue, 17 Nov 2026 19:52:06 +0000</pubDate>
+      <author>Universultech (https://release-press-releases-romania.github.io/publisher/universultech-ro/)</author>
+      <dc:creator>Universultech</dc:creator>
+      <dc:date>2026-11-17T19:52:06+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">Technology &amp; Energy</category>
+      <guid isPermaLink="true">https://universultech.ro/security365-profiluri-de-companii/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/universultech-ro/">Universultech</source>
+      <content:encoded><![CDATA[From Universultech: București, 17 noiembrie 2026 — Alegerea unei firme de pază sau a unui instalator de sisteme de securitate începe cu informații verificabile: cine este compania, ce servicii oferă și unde pot fi consultate documentele relevante. Security365.ro reunește într-o singură platformă un director de companii, informații despre distribuitori și producători, știri, ghiduri și resurse legislative pentru in...]]></content:encoded>
+      <comments>https://universultech.ro/security365-profiluri-de-companii/#comments</comments>
+    </item>
     <item>
       <title>Arta – instrument pentru incluziune și dezvoltare emoțională</title>
       <link>https://stiri-live.ro/arta-pentru-incluziune-si-dezvoltare/</link>
@@ -1497,20 +1511,6 @@
       <source url="https://release-press-releases-romania.github.io/publisher/eratehnologica-ro/">Eratehnologica</source>
       <content:encoded><![CDATA[From Eratehnologica: Un telefon de acum doi sau trei ani poate fi încă suficient pentru fotografii, navigație, aplicații bancare, apeluri video și utilizare zilnică. Diferența de preț față de un model nou poate fi tentantă. Dar între un telefon second hand cumpărat direct de la proprietar și un dispozitiv prezentat drept recondiționat există diferențe pe care merită să le înțelegi înainte să alegi. Nu aspectul exte...]]></content:encoded>
       <comments>https://eratehnologica.ro/telefon-second-hand-sau-reconditionat/#comments</comments>
-    </item>
-    <item>
-      <title>Laptop second hand: 12 verificări înainte să cumperi</title>
-      <link>https://universultech.ro/laptop-second-hand-verificari/</link>
-      <description><![CDATA[From Universultech: Un laptop fotografiat pe o masă, cu ecranul pornit și descrierea „funcționează perfect”, poate părea o achiziție simplă. Pentru cine are nevoie de el la muncă sau la facultate, însă, problemele apar de multe ori după câteva zile: bateria ține prea puțin, ventilatorul pornește constant, un port nu funcționează sau sistemul cere accesul unui fost administrator. Un laptop second hand merită evalua...]]></description>
-      <pubDate>Tue, 29 Sep 2026 06:05:07 +0000</pubDate>
-      <author>Universultech (https://release-press-releases-romania.github.io/publisher/universultech-ro/)</author>
-      <dc:creator>Universultech</dc:creator>
-      <dc:date>2026-09-29T06:05:07+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">Technology &amp; Energy</category>
-      <guid isPermaLink="true">https://universultech.ro/laptop-second-hand-verificari/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/universultech-ro/">Universultech</source>
-      <content:encoded><![CDATA[From Universultech: Un laptop fotografiat pe o masă, cu ecranul pornit și descrierea „funcționează perfect”, poate părea o achiziție simplă. Pentru cine are nevoie de el la muncă sau la facultate, însă, problemele apar de multe ori după câteva zile: bateria ține prea puțin, ventilatorul pornește constant, un port nu funcționează sau sistemul cere accesul unui fost administrator. Un laptop second hand merită evalua...]]></content:encoded>
-      <comments>https://universultech.ro/laptop-second-hand-verificari/#comments</comments>
     </item>
     <item>
       <title>Ofertă de cazare: ce informații trebuie să conțină ca să inspire încredere</title>
