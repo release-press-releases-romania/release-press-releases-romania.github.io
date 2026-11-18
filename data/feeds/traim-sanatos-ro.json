@@ -7,9 +7,17 @@
     "rss": "https://traim-sanatos.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-11-18T04:34:42.231888+00:00",
+  "updated_at": "2026-11-18T14:19:17.122344+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "De ce creierul caută tipare chiar și acolo unde rezultatele sunt aleatorii",
+      "link": "https://traim-sanatos.ro/creierul-tipare-rezultate-aleatorii/",
+      "summary": "Creierul incearca sa gaseasca reguli in evenimente independente, transformand coincidentele in tipare false. Articolul De ce creierul caută tipare chiar și acolo unde rezultatele sunt aleatorii apare prima dată în Traim Sanatos .",
+      "published": "2026-11-18T10:42:28+00:00",
+      "published_human": "2026-11-18T10:42",
+      "source": "https://traim-sanatos.ro/"
+    },
     {
       "title": "Somn agitat și program încărcat: cum îți construiești o rutină de seară mai liniștită",
       "link": "https://traim-sanatos.ro/somn-agitat-si-program-incarcat-cum-iti-construiesti-o-rutina-de-seara-mai-linistita/",
@@ -72,14 +80,6 @@
       "summary": "Tirul cu arcul pare ușor : ai un arc, o săgeată și o țintă pe care trebuie să o nimerești.&#8230; Articolul Tir cu arcul &#8211; 7 lucruri pe care trebuie să le știi despre acest sport apare prima dată în Traim Sanatos .",
       "published": "2026-07-16T13:22:00+00:00",
       "published_human": "2026-07-16T13:22",
-      "source": "https://traim-sanatos.ro/"
-    },
-    {
-      "title": "Wegovy, prima pastilă GLP-1 pentru slăbit, primește undă verde de la Comisia Europeană",
-      "link": "https://traim-sanatos.ro/wegovy-prima-pastila-glp-1-pentru-slabit-primeste-unda-verde-de-la-comisia-europeana/",
-      "summary": "Wegovy, prima pastilă GLP-1 pentru slăbit, primește undă verde de la Comisia Europeană Comisia Europeană a aprobat Wegovy sub formă&#8230; Articolul Wegovy, prima pastilă GLP-1 pentru slăbit, primește undă verde de la Comisia Europeană apare prima dată în Traim Sanatos .",
-      "published": "2026-07-16T11:26:05+00:00",
-      "published_human": "2026-07-16T11:26",
       "source": "https://traim-sanatos.ro/"
     }
   ],
