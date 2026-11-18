@@ -7,9 +7,17 @@
     "rss": "https://medic360.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-11-18T14:19:17.122344+00:00",
+  "updated_at": "2026-11-18T22:09:21.143797+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "ResMed AirSense 10 AutoSet: ce face modul automat de presiune și ce primești în pachet",
+      "link": "https://medic360.ro/resmed-airsense-10-modul-automat/",
+      "summary": "Descopera cum adapteaza presiunea modul automat si ce piese primesti in cutie. Ghid practic pentru utilizarea corecta a aparatului. Articolul ResMed AirSense 10 AutoSet: ce face modul automat de presiune și ce primești în pachet apare prima dată în Medic 360 .",
+      "published": "2026-11-18T14:42:26+00:00",
+      "published_human": "2026-11-18T14:42",
+      "source": "https://medic360.ro/"
+    },
     {
       "title": "Diareea în timpul tratamentului oncologic: ce poți face acasă și când suni medicul",
       "link": "https://medic360.ro/diaree-timpul-tratamentului/",
@@ -72,14 +80,6 @@
       "summary": "O analiză prezentată la EASD 2026 aduce &#238;n prim-plan sănătatea ficatului la persoanele cu obezitate: după 72 de săptăm&#226;ni de&#8230; Articolul Dincolo de kilograme: ce arată noile date despre Wegovy® și grăsimea acumulată în ficat apare prima dată în Medic 360 .",
       "published": "2026-10-08T09:02:00+00:00",
       "published_human": "2026-10-08T09:02",
-      "source": "https://medic360.ro/"
-    },
-    {
-      "title": "Cum funcționează corecția dioptriilor: explicații pentru pacienți",
-      "link": "https://medic360.ro/corectia-dioptriilor-metode/",
-      "summary": "Descopera optiunile de corectie a vederii, de la ochelari la chirurgie cu laser. Informatii clare despre tehnici si eligibilitate. Articolul Cum funcționează corecția dioptriilor: explicații pentru pacienți apare prima dată în Medic 360 .",
-      "published": "2026-10-06T13:49:49+00:00",
-      "published_human": "2026-10-06T13:49",
       "source": "https://medic360.ro/"
     }
   ],

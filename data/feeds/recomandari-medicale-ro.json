@@ -7,9 +7,17 @@
     "rss": "https://recomandari-medicale.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-11-18T14:19:17.122344+00:00",
+  "updated_at": "2026-11-18T22:09:21.143797+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Umidificatorul încălzit la aparatul CPAP: când ajută, cum se reglează și ce apă se folosește",
+      "link": "https://recomandari-medicale.ro/umidificator-incalzit-cpap/",
+      "summary": "Ghid practic pentru reglarea umiditatii, alegerea apei corecte si mentinerea rezervorului curat la aparatul CPAP. Articolul Umidificatorul încălzit la aparatul CPAP: când ajută, cum se reglează și ce apă se folosește apare prima dată în Recomandari Medicale .",
+      "published": "2026-11-18T14:44:30+00:00",
+      "published_human": "2026-11-18T14:44",
+      "source": "https://recomandari-medicale.ro/"
+    },
     {
       "title": "Dezinfecția în blocul operator: cum alegi produsele pentru suprafețe, pardoseli și echipamente",
       "link": "https://recomandari-medicale.ro/dezinfectia-in-blocul-operator-cum-alegi-produsele-pentru-suprafete-pardoseli-si-echipamente/",
@@ -96,14 +104,6 @@
       "summary": "Ați observat probabil și dumneavoastră: căutați un zbor luni dimineața, îl lăsați două zile, iar miercuri costă cu o sută&#8230; Articolul Momentul potrivit pentru a rezerva bilete de avion apare prima dată în Recomandari Medicale .",
       "published": "2026-09-05T09:51:31+00:00",
       "published_human": "2026-09-05T09:51",
-      "source": "https://recomandari-medicale.ro/"
-    },
-    {
-      "title": "Prevenirea leziunilor ligamentare la sportivi: ce funcționează",
-      "link": "https://recomandari-medicale.ro/prevenirea-leziunilor-ligamentare-la-sportivi-ce-functioneaza/",
-      "summary": "Rupturile ligamentare de genunchi nu sunt pur și simplu ghinion. O parte semnificativă dintre ele au factori de risc identificabili&#8230; Articolul Prevenirea leziunilor ligamentare la sportivi: ce funcționează apare prima dată în Recomandari Medicale .",
-      "published": "2026-08-26T10:09:22+00:00",
-      "published_human": "2026-08-26T10:09",
       "source": "https://recomandari-medicale.ro/"
     }
   ],

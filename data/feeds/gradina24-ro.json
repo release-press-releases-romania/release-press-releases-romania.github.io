@@ -4,12 +4,20 @@
     "name": "Gradina24",
     "url": "https://gradina24.ro/",
     "category": "Miscellaneous",
-    "rss": "https://gradina24.ro/?feed=rss2"
+    "rss": "https://gradina24.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-11-18T14:19:17.122344+00:00",
+  "updated_at": "2026-11-18T22:09:21.143797+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Chiuvetă de grădină: dimensiuni, racorduri și ce faci cu scurgerea",
+      "link": "https://gradina24.ro/chiuveta-de-gradina-dimensiuni-racorduri/",
+      "summary": "Verifica cotele cuvei, racordul de alimentare si optiunile de scurgere inainte de a comanda. Ghid pentru instalarea corecta in curte. Articolul Chiuvetă de grădină: dimensiuni, racorduri și ce faci cu scurgerea apare prima dată în Gradina 24 .",
+      "published": "2026-11-18T15:02:21+00:00",
+      "published_human": "2026-11-18T15:02",
+      "source": "https://gradina24.ro/"
+    },
     {
       "title": "Cum să integrezi un design modern în livingul tău?",
       "link": "https://gradina24.ro/design-modern-in-living/",
@@ -96,14 +104,6 @@
       "summary": "Află cum alegi corect folia solară profesională pentru sere și solarii: grosime, Crystal Clear vs. difuză, aditivi, structură multi-strat și montaj corect. Articolul Folia pentru solar profesională : grosime, aditivi, tipuri și montaj corect apare prima dată în Gradina 24 .",
       "published": "2026-04-04T18:20:22+00:00",
       "published_human": "2026-04-04T18:20",
-      "source": "https://gradina24.ro/"
-    },
-    {
-      "title": "Cum faci backup la contul Mastodon: export, import, migrare",
-      "link": "https://gradina24.ro/cum-faci-backup-la-contul-mastodon-export-import-migrare/",
-      "summary": "Ai investit timp, gânduri și interacțiuni valoroase în comunitatea Mastodon. Dar ce se întâmplă dacă serverul tău preferat se închide sau pur și Articolul Cum faci backup la contul Mastodon: export, import, migrare apare prima dată în Gradina 24 .",
-      "published": "2025-12-17T16:58:54+00:00",
-      "published_human": "2025-12-17T16:58",
       "source": "https://gradina24.ro/"
     }
   ],
