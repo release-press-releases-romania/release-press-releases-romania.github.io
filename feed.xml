@@ -5,8 +5,8 @@
     <link>https://release-press-releases-romania.github.io</link>
     <description>Aggregated RSS feed of press releases from over 100 Romanian publishers. Covering PR &amp; Marketing, Health, News &amp; Society, Technology, Business, Construction, Tourism, and more. Curated selection of quality press releases from trusted Romanian sources.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 14:52:18 +0000</lastBuildDate>
-    <pubDate>Wed, 18 Nov 2026 14:52:18 +0000</pubDate>
+    <lastBuildDate>Wed, 18 Nov 2026 23:44:24 +0000</lastBuildDate>
+    <pubDate>Wed, 18 Nov 2026 23:44:24 +0000</pubDate>
     <generator>Release Press Releases in Romania RSS Aggregator v2.0</generator>
     <webMaster>noreply@release-press-releases-romania.github.io (Release Press Releases)</webMaster>
     <managingEditor>noreply@release-press-releases-romania.github.io (Release Press Releases)</managingEditor>
@@ -28,6 +28,34 @@
     <sy:updateFrequency>1</sy:updateFrequency>
     <copyright>Copyright 2026 Release Press Releases in Romania. Content belongs to respective publishers.</copyright>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>AutoEco: de ce același model de mașină poate avea trei piese diferite și cum o comanzi pe cea corectă</title>
+      <link>https://topcomunicate.ro/acelasi-model-piese-diferite/</link>
+      <description><![CDATA[From Topcomunicate: Cea mai frecventă problemă la cumpărarea de piese auto online nu este prețul și nici livrarea. Este piesa care ajunge la timp, arată bine, dar nu se potrivește pe mașină. De cele mai multe ori, clientul a ales corect marca și modelul, iar piesa tot nu este cea bună. Specialiștii AutoEco explică de ce se întâmplă asta și ce informații sunt necesare pentru o comandă corectă din prima. Marca și mo...]]></description>
+      <pubDate>Wed, 18 Nov 2026 15:07:56 +0000</pubDate>
+      <author>Topcomunicate (https://release-press-releases-romania.github.io/publisher/topcomunicate-ro/)</author>
+      <dc:creator>Topcomunicate</dc:creator>
+      <dc:date>2026-11-18T15:07:56+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">PR &amp; Marketing</category>
+      <guid isPermaLink="true">https://topcomunicate.ro/acelasi-model-piese-diferite/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/topcomunicate-ro/">Topcomunicate</source>
+      <content:encoded><![CDATA[From Topcomunicate: Cea mai frecventă problemă la cumpărarea de piese auto online nu este prețul și nici livrarea. Este piesa care ajunge la timp, arată bine, dar nu se potrivește pe mașină. De cele mai multe ori, clientul a ales corect marca și modelul, iar piesa tot nu este cea bună. Specialiștii AutoEco explică de ce se întâmplă asta și ce informații sunt necesare pentru o comandă corectă din prima. Marca și mo...]]></content:encoded>
+      <comments>https://topcomunicate.ro/acelasi-model-piese-diferite/#comments</comments>
+    </item>
+    <item>
+      <title>Chiuvetă de grădină: dimensiuni, racorduri și ce faci cu scurgerea</title>
+      <link>https://gradina24.ro/chiuveta-de-gradina-dimensiuni-racorduri/</link>
+      <description><![CDATA[From Gradina24: Chiuveta de grădină se cumpără aproape întotdeauna pe fugă, pentru că era nevoie de ea ieri: speli roșiile, clătești mistria, umpli stropitoarea. De aici vin și greșelile pe care le vezi cel mai des în curte: cuva e prea mică pentru o găleată, furtunul de alimentare nu se potrivește la filet, iar apa uzată ajunge la doi pași de fundație. Mai jos sunt cifrele și verificările care contează înaint...]]></description>
+      <pubDate>Wed, 18 Nov 2026 15:02:21 +0000</pubDate>
+      <author>Gradina24 (https://release-press-releases-romania.github.io/publisher/gradina24-ro/)</author>
+      <dc:creator>Gradina24</dc:creator>
+      <dc:date>2026-11-18T15:02:21+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">Miscellaneous</category>
+      <guid isPermaLink="true">https://gradina24.ro/chiuveta-de-gradina-dimensiuni-racorduri/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/gradina24-ro/">Gradina24</source>
+      <content:encoded><![CDATA[From Gradina24: Chiuveta de grădină se cumpără aproape întotdeauna pe fugă, pentru că era nevoie de ea ieri: speli roșiile, clătești mistria, umpli stropitoarea. De aici vin și greșelile pe care le vezi cel mai des în curte: cuva e prea mică pentru o găleată, furtunul de alimentare nu se potrivește la filet, iar apa uzată ajunge la doi pași de fundație. Mai jos sunt cifrele și verificările care contează înaint...]]></content:encoded>
+      <comments>https://gradina24.ro/chiuveta-de-gradina-dimensiuni-racorduri/#comments</comments>
+    </item>
     <item>
       <title>Affirm insecticid (emamectin benzoat): ce omizi combate, cum se dozează și cât e timpul de pauză până la recoltă</title>
       <link>https://casa-moderna.ro/insecticid-affirm-pauza-pana-la-recolta/</link>
@@ -867,20 +895,6 @@
       <source url="https://release-press-releases-romania.github.io/publisher/pr-1az-ro/">Pr.1az</source>
       <content:encoded><![CDATA[From Pr.1az: The post Eternul derby: Steaua – Dinamo appeared first on PR de la A la Z. Vineri, 30 octombrie, de la ora 18:00, pe stadionul Steaua, se joacă marele derby al României care adună în același loc cea mai mare parte din istoria fotbalului românesc. Steaua și Dinamo sunt cele două cluburi cu cele mai multe titluri de campioană din țară, iar duelul lor durează din 1948. Clubul Dinamo deține toate p...]]></content:encoded>
       <comments>https://pr.1az.ro/eternul-derby-steaua-dinamo/#comments</comments>
-    </item>
-    <item>
-      <title>Nenos Software: servicii cloud AWS care conectează arhitectura, performanța și administrarea infrastructurii</title>
-      <link>https://topcomunicate.ro/nenos-software-servicii-cloud-aws/</link>
-      <description><![CDATA[From Topcomunicate: Pentru companiile care își dezvoltă aplicațiile și își modernizează sistemele, infrastructura cloud implică un ansamblu de decizii: cum sunt organizate resursele, cum comunică aplicațiile și cine administrează mediul după implementare. Performanța, securitatea, scalabilitatea și costurile trebuie evaluate împreună, în raport cu procesele pe care tehnologia le susține. Nenos Software, start-up r...]]></description>
-      <pubDate>Thu, 29 Oct 2026 10:58:38 +0000</pubDate>
-      <author>Topcomunicate (https://release-press-releases-romania.github.io/publisher/topcomunicate-ro/)</author>
-      <dc:creator>Topcomunicate</dc:creator>
-      <dc:date>2026-10-29T10:58:38+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">PR &amp; Marketing</category>
-      <guid isPermaLink="true">https://topcomunicate.ro/nenos-software-servicii-cloud-aws/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/topcomunicate-ro/">Topcomunicate</source>
-      <content:encoded><![CDATA[From Topcomunicate: Pentru companiile care își dezvoltă aplicațiile și își modernizează sistemele, infrastructura cloud implică un ansamblu de decizii: cum sunt organizate resursele, cum comunică aplicațiile și cine administrează mediul după implementare. Performanța, securitatea, scalabilitatea și costurile trebuie evaluate împreună, în raport cu procesele pe care tehnologia le susține. Nenos Software, start-up r...]]></content:encoded>
-      <comments>https://topcomunicate.ro/nenos-software-servicii-cloud-aws/#comments</comments>
     </item>
     <item>
       <title>Educatie care elibereaza: cum construim independenta pentru copiii cu CES</title>
@@ -2001,20 +2015,6 @@
       <source url="https://release-press-releases-romania.github.io/publisher/e-nume-ro/">E Nume</source>
       <content:encoded><![CDATA[From E Nume: { &quot;@context&quot;: &quot;https://schema.org&quot;, &quot;@type&quot;: &quot;FAQPage&quot;, &quot;mainEntity&quot;: [ { &quot;@type&quot;: &quot;Question&quot;, &quot;name&quot;: &quot;Când este recomandat să soliciți o a doua opinie în chirurgia oncologică?&quot;, &quot;acceptedAnswer&quot;: { &quot;@type&quot;: &quot;Answer&quot;, &quot;text&quot;: &quot;O a doua opinie este recomandată atunci când diagnosticul este incert, intervenția chirurgicală propusă are un risc ridicat sau impact major asupra calității vieții, opț...]]></content:encoded>
       <comments>https://e-nume.ro/cand-este-necesara-a-doua-opinie-in-chirurgie-oncologica/#comments</comments>
-    </item>
-    <item>
-      <title>Ce înseamnă chirurgia oncologică modernă?</title>
-      <link>https://gradina24.ro/ce-inseamna-chirurgia-oncologica-moderna/</link>
-      <description><![CDATA[From Gradina24: Un diagnostic de boală oncologică reprezintă un moment de cumpănă pentru orice persoană. Cu toate acestea, medicina a făcut pași uriași în ultimele decenii, oferind soluții din ce în ce mai eficiente. Astăzi, pacienții au acces la metode avansate de intervenție care cresc considerabil șansele de vindecare și mențin o calitate ridicată a vieții. Tehnologia actuală permite abordări minim invazive...]]></description>
-      <pubDate>Fri, 31 Jul 2026 08:32:01 +0000</pubDate>
-      <author>Gradina24 (https://release-press-releases-romania.github.io/publisher/gradina24-ro/)</author>
-      <dc:creator>Gradina24</dc:creator>
-      <dc:date>2026-07-31T08:32:01+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">Miscellaneous</category>
-      <guid isPermaLink="true">https://gradina24.ro/ce-inseamna-chirurgia-oncologica-moderna/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/gradina24-ro/">Gradina24</source>
-      <content:encoded><![CDATA[From Gradina24: Un diagnostic de boală oncologică reprezintă un moment de cumpănă pentru orice persoană. Cu toate acestea, medicina a făcut pași uriași în ultimele decenii, oferind soluții din ce în ce mai eficiente. Astăzi, pacienții au acces la metode avansate de intervenție care cresc considerabil șansele de vindecare și mențin o calitate ridicată a vieții. Tehnologia actuală permite abordări minim invazive...]]></content:encoded>
-      <comments>https://gradina24.ro/ce-inseamna-chirurgia-oncologica-moderna/#comments</comments>
     </item>
     <item>
       <title>De ce experiența chirurgului contează în intervențiile complexe</title>
