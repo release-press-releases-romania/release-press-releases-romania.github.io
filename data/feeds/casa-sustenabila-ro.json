@@ -7,9 +7,25 @@
     "rss": "https://casa-sustenabila.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-11-19T13:33:45.177839+00:00",
+  "updated_at": "2026-11-19T22:18:04.830209+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Teren cu utilități: ce verifici înainte de cumpărare",
+      "link": "https://casa-sustenabila.ro/teren-cu-utilitati-verifici/",
+      "summary": "„Utilități la poartă” poate însemna lucruri diferite. Află cum ceri confirmări privind rețelele, racordurile, costurile și termenele înainte de cumpărarea unui teren. Articolul Teren cu utilități: ce verifici înainte de cumpărare apare prima dată în Casa Sustenabila .",
+      "published": "2026-11-19T14:34:46+00:00",
+      "published_human": "2026-11-19T14:34",
+      "source": "https://casa-sustenabila.ro/"
+    },
+    {
+      "title": "Sănii pentru copii: plastic, lemn sau pliabilă? Ghidul Infinity înainte de prima zăpadă",
+      "link": "https://casa-sustenabila.ro/sanii-pentru-copii-ghid/",
+      "summary": "Descopera ce tip de sanie se potriveste copilului tau, in functie de varsta si spatiul de depozitare. Sfaturi clare pentru o iarna sigura. Articolul Sănii pentru copii: plastic, lemn sau pliabilă? Ghidul Infinity înainte de prima zăpadă apare prima dată în Casa Sustenabila .",
+      "published": "2026-11-19T14:30:18+00:00",
+      "published_human": "2026-11-19T14:30",
+      "source": "https://casa-sustenabila.ro/"
+    },
     {
       "title": "Se aude totul prin pereții dintre camere? Cum poți îmbunătăți izolarea fonică încă din etapa construcției",
       "link": "https://casa-sustenabila.ro/se-aude-totul-prin-peretii-dintre-camere-cum-poti-imbunatati-izolarea-fonica-inca-din-etapa-constructiei/",
@@ -88,22 +104,6 @@
       "summary": "Material sponsorizat realizat cu informații tehnice CleanSpot Oradea. Consumul responsabil nu &#238;nseamnă păstrarea oricărui obiect cu orice preț. Articolul Curățare saltea Oradea: întreținere înainte de înlocuire apare prima dată în Casa Sustenabila .",
       "published": "2026-08-17T04:06:56+00:00",
       "published_human": "2026-08-17T04:06",
-      "source": "https://casa-sustenabila.ro/"
-    },
-    {
-      "title": "De ce se recondiționează ferestrele termopan și nu se înlocuiesc",
-      "link": "https://casa-sustenabila.ro/de-ce-se-reconditioneaza-ferestrele-termopan-si-nu-se-inlocuiesc/",
-      "summary": "Atunci când ferestrele din PVC încep să creeze probleme &#8211; fie că se simte un curent de aer Articolul De ce se recondiționează ferestrele termopan și nu se înlocuiesc apare prima dată în Casa Sustenabila .",
-      "published": "2026-08-06T09:13:08+00:00",
-      "published_human": "2026-08-06T09:13",
-      "source": "https://casa-sustenabila.ro/"
-    },
-    {
-      "title": "Cancerul pancreatic: când poate fi tratat chirurgical?",
-      "link": "https://casa-sustenabila.ro/cancerul-pancreatic-cand-poate-fi-tratat-chirurgical/",
-      "summary": "Aflarea unui diagnostic precum cel de cancer pancreatic reprezintă o provocare uriașă pentru orice persoană. Cu toate acestea, Articolul Cancerul pancreatic: când poate fi tratat chirurgical? apare prima dată în Casa Sustenabila .",
-      "published": "2026-07-31T08:32:01+00:00",
-      "published_human": "2026-07-31T08:32",
       "source": "https://casa-sustenabila.ro/"
     }
   ],

@@ -10,7 +10,7 @@
     "url": "https://social.5th.ro/@brasov",
     "rss": "https://social.5th.ro/@brasov.rss"
   },
-  "updated_at": "2026-11-19T13:33:45.177839+00:00",
+  "updated_at": "2026-11-19T22:18:04.830209+00:00",
   "status": "ok",
   "items": [
     {
@@ -113,6 +113,14 @@
   "social": [
     {
       "title": "Update",
+      "link": "https://social.5th.ro/@brasov/117645240520502250",
+      "summary": "O bicicletă, o undiță sau un accesoriu de antrenament folosit necesită verificări diferite. Un ghid pentru cumpărători responsabili. https:// brasov-azi.ro/echipamente-spor tive-second-ce-verifici/",
+      "published": "2026-11-19T21:31:49+00:00",
+      "published_human": "2026-11-19T21:31",
+      "source": "Mastodon"
+    },
+    {
+      "title": "Update",
       "link": "https://social.5th.ro/@brasov/117519703634055161",
       "summary": "Descopera cum sa adaptezi planurile pentru onomastica lui Andrei in perioada minivacantei. Ghid simplu pentru cadouri si urari. https:// brasov-azi.ro/onomastica-andre i-minivacanta/",
       "published": "2026-10-28T17:26:08+00:00",
@@ -197,14 +205,6 @@
       "summary": "Un ghid practic despre cum răspunzi mai atent la anunțuri online, ce întrebări trebuie să pui, cum verifici oferta și ce semne ar trebui tratate cu prudență. https:// brasov-azi.ro/cum-eviti-proble mele-cand-raspunzi-la-anunturi-online/",
       "published": "2026-06-17T11:55:16+00:00",
       "published_human": "2026-06-17T11:55",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@brasov/116599656751961414",
-      "summary": "Curelele trapezoidale sunt unele dintre cele mai folosite componente în sistemele de transmisie mecanică. Le întâlnim în utilaje agricole, echipamente de grădinărit, compresoare, ventilatoare, pompe, mașini industriale și multe alte aplicații unde mișcarea trebuie transmisă eficient de la un arbore la altul. Chiar dacă par piese simple, alegerea corectă a unei curele poate https:// brasov-azi.ro/curele-trapezoid ale-tipuri-utilizari-si-cum-alegi-corect-pentru-utilaje-si-aplicatii-industriale/",
-      "published": "2026-05-19T05:46:07+00:00",
-      "published_human": "2026-05-19T05:46",
       "source": "Mastodon"
     }
   ]

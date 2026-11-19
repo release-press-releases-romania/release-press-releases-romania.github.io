@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@ArtaConstructiilor",
     "rss": "https://social.5th.ro/@ArtaConstructiilor.rss"
   },
-  "updated_at": "2026-11-19T13:33:45.177839+00:00",
+  "updated_at": "2026-11-19T22:18:04.830209+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Extras de carte funciară: ce verifici la apartament",
+      "link": "https://arta-constructiilor.ro/extras-carte-funciara-apartament/",
+      "summary": "Un extras de carte funciară oferă informații despre imobil, dar nu arată starea instalațiilor ori costul renovării. Află cum verifici documentele fără presupuneri. Articolul Extras de carte funciară: ce verifici la apartament apare prima dată în Arta Constructiilor .",
+      "published": "2026-11-19T18:38:02+00:00",
+      "published_human": "2026-11-19T18:38",
+      "source": "https://arta-constructiilor.ro/"
+    },
     {
       "title": "Când înlocuiești piesele de schimb la utilaje construcții ca să eviți întârzierile pe șantier?",
       "link": "https://arta-constructiilor.ro/piese-de-schimb-utilaje-constructii/",
@@ -76,17 +84,17 @@
       "published": "2026-10-05T08:55:10+00:00",
       "published_human": "2026-10-05T08:55",
       "source": "https://arta-constructiilor.ro/"
-    },
-    {
-      "title": "Zidărie sau gips-carton? Ce contează cu adevărat pentru izolarea fonică",
-      "link": "https://arta-constructiilor.ro/zidarie-sau-gips-carton-ce-conteaza-cu-adevarat-pentru-izolarea-fonica/",
-      "summary": "Zgomotul vecinului nu intră în cameră doar prin suprafața peretelui. Vocile trec prin rosturi, vibrațiile ocolesc obstacolul prin tavan, iar sunetele joase de la un subwoofer pot ajunge în locuri în care o placă suplimentară pare inutilă. De aici apare și frustrarea: un perete gros din zidărie pare liniștitor, însă camera rămâne zgomotoasă. Compararea izolației [&#8230;] Articolul Zidărie sau gips-carton? Ce contează cu adevărat pentru izolarea fonică apare prima dată în Arta Constructiilor .",
-      "published": "2026-09-30T16:20:05+00:00",
-      "published_human": "2026-09-30T16:20",
-      "source": "https://arta-constructiilor.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@ArtaConstructiilor/117644557217310033",
+      "summary": "Un extras de carte funciară oferă informații despre imobil, dar nu arată starea instalațiilor ori costul renovării. Află cum verifici documentele fără presupuneri. .... 🌐 https:// arta-constructiilor.ro/extras- carte-funciara-apartament/",
+      "published": "2026-11-19T18:38:02+00:00",
+      "published_human": "2026-11-19T18:38",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@ArtaConstructiilor/117642470079281415",
@@ -173,14 +181,6 @@
       "summary": "Zgomotul vecinului nu intră în cameră doar prin suprafața peretelui. Vocile trec prin rosturi, vibrațiile ocolesc obstacolul prin tavan, iar sunetele joase de la un subwoofer pot ajunge în locuri în care o placă suplimentară pare inutilă. De aici apare și frustrarea: un perete gros din zidărie pare liniștitor, însă camera rămâne zgomotoasă.Compararea izolației fonice… .... 🌐 https:// arta-constructiilor.ro/zidarie -sau-gips-carton-ce-conteaza-cu-adevarat-pentru-izolarea-fonica/",
       "published": "2026-09-30T16:20:05+00:00",
       "published_human": "2026-09-30T16:20",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@ArtaConstructiilor/117347400058656252",
-      "summary": "Într-o fabrică, lipsa unui lubrifiant potrivit nu se vede întotdeauna în aceeași zi. Uneori, utilajul continuă să lucreze, iar problema apare abia la următoarea oprire, când lista de remedieri s-a lungit și costurile au crescut.Când consumul este mare, aprovizionarea cu lubrifianți industriali nu mai poate sta într-un tabel cu denumiri și cantități. Contează ce produs… .... 🌐 https:// arta-constructiilor.ro/aproviz ionarea-cu-lubrifianti-industriali-cum-reduci-erorile-si-opririle-neplanificate/",
-      "published": "2026-09-28T07:07:04+00:00",
-      "published_human": "2026-09-28T07:07",
       "source": "Mastodon"
     }
   ]

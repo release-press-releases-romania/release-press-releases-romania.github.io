@@ -7,9 +7,17 @@
     "rss": "https://vhm.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-11-19T13:33:45.177839+00:00",
+  "updated_at": "2026-11-19T22:18:04.830209+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Verificarea kilometrajului la o mașină rulată",
+      "link": "https://vhm.ro/verificarea-kilometrajului-masina-rulata/",
+      "summary": "Kilometrajul afișat este doar punctul de plecare. Un ghid despre cum verifici succesiunea datelor, actele, uzura și întrebările pentru vânzător. The post Verificarea kilometrajului la o mașină rulată appeared first on Comunicate de presa online .",
+      "published": "2026-11-19T18:37:46+00:00",
+      "published_human": "2026-11-19T18:37",
+      "source": "https://vhm.ro/"
+    },
     {
       "title": "5 motive să alegi OMNIA ST cu boiler integrat când spațiul tehnic e mic",
       "link": "https://vhm.ro/omnia-st-boiler-integrat-spatiu-mic/",
@@ -80,14 +88,6 @@
       "summary": "Tăierea lemnelor pare o lucrare simplă până când apar primele întrebări: cât de groase sunt The post Drujba potrivită pentru gospodărie: cum alegi fără să complici lucrurile? appeared first on Comunicate de presa online .",
       "published": "2026-08-25T13:29:56+00:00",
       "published_human": "2026-08-25T13:29",
-      "source": "https://vhm.ro/"
-    },
-    {
-      "title": "Ce verifici înainte să cumperi echipamente de birou second-hand pentru firmă",
-      "link": "https://vhm.ro/ce-verifici-echipamente-birou-second-hand-firma/",
-      "summary": "Un ghid practic pentru firmele care cumpără imprimante, mobilier și alte echipamente de birou folosite. Vezi ce testezi înainte de plată și transport. The post Ce verifici înainte să cumperi echipamente de birou second-hand pentru firmă appeared first on Comunicate de presa online .",
-      "published": "2026-07-31T07:12:53+00:00",
-      "published_human": "2026-07-31T07:12",
       "source": "https://vhm.ro/"
     }
   ],

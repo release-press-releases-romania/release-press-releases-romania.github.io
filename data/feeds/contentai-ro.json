@@ -7,9 +7,17 @@
     "rss": "https://contentai.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-11-19T13:33:45.177839+00:00",
+  "updated_at": "2026-11-19T22:18:04.830209+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Electrocasnice second-hand: verificări la ridicare",
+      "link": "https://contentai.ro/electrocasnice-second-hand-verificari-ridicare/",
+      "summary": "Un frigider ori o mașină de spălat folosită poate părea o ofertă bună. Vezi ce informații să ceri, ce teste sunt rezonabile și cum pregătești ridicarea. Articolul Electrocasnice second-hand: verificări la ridicare apare prima dată în Content with AI .",
+      "published": "2026-11-19T18:38:08+00:00",
+      "published_human": "2026-11-19T18:38",
+      "source": "https://contentai.ro/"
+    },
     {
       "title": "Cum conectezi Claude sau ChatGPT la un server MCP de publicare",
       "link": "https://contentai.ro/conectare-server-mcp-asistent-ai/",
@@ -80,14 +88,6 @@
       "summary": "Un ghid practic despre cum îți faci anunțul online mai vizibil fără formule forțate, cu pași simpli care țin de titlu, fotografie, descriere, categorie, preț și actualizarea ofertei.` Articolul Cum faci un anunț online mai vizibil fără să folosești texte agresive apare prima dată în Content with AI .",
       "published": "2026-06-14T09:57:02+00:00",
       "published_human": "2026-06-14T09:57",
-      "source": "https://contentai.ro/"
-    },
-    {
-      "title": "Chirurgie urgență București pentru dureri abdominale severe",
-      "link": "https://contentai.ro/chirurgie-urgenta-bucuresti-pentru-dureri-abdominale-severe/",
-      "summary": "Te-ai trezit vreodată în mijlocul nopții cu o junghi insuportabil în zona stomacului care pur și simplu nu te lasă să respiri? Această durere abdominala poate fi extrem de alarmantă și, de cele mai multe ori, corpul tău încearcă să îți transmită un semnal de alarmă critic. Nu ignora aceste semne, deoarece timpul este cel [&#8230;] Articolul Chirurgie urgență București pentru dureri abdominale severe apare prima dată în Content with AI .",
-      "published": "2026-05-10T06:30:00+00:00",
-      "published_human": "2026-05-10T06:30",
       "source": "https://contentai.ro/"
     }
   ],

@@ -7,9 +7,17 @@
     "rss": "https://resurse-afaceri.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-11-19T13:33:45.177839+00:00",
+  "updated_at": "2026-11-19T22:18:04.830209+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Garanția lucrării: ce păstrezi după o reparație",
+      "link": "https://resurse-afaceri.ro/garantia-lucrarii-reparatie/",
+      "summary": "Finalizarea unei reparații nu înseamnă că toate detaliile sunt clare. Verifică documentele, operațiunile realizate și condițiile convenite pentru eventuale remedieri. Read More Articolul Garanția lucrării: ce păstrezi după o reparație apare prima dată în Resurse Afaceri .",
+      "published": "2026-11-19T18:38:06+00:00",
+      "published_human": "2026-11-19T18:38",
+      "source": "https://resurse-afaceri.ro/"
+    },
     {
       "title": "Ce-ar fi dacă, pentru o zi, am privi eșecul altfel?",
       "link": "https://resurse-afaceri.ro/ce-ar-fi-daca-pentru-o-zi-am-privi-esecul-altfel/",
@@ -88,14 +96,6 @@
       "summary": "Asociatia CENTRUL DE PERFORMANTA BEFORE &#38; AFTER SCHOOL CONIL anunta cu bucurie si recunostinta apropierea de finalizarea proiectului de investitie “Transformarea digitala a Asociatiei CENTRUL DE PERFORMANTA BEFORE &#38; AFTER SCHOOL CONIL”, un demers care a transformat nu doar modul in care lucram, ci mai ales modul in care putem raspunde nevoilor copiilor care trec Read More Articolul Tehnologie cu suflet: Asociatia CONIL a facut pasul spre digitalizare prin PNRR pentru a fi mai aproape de copiii cu nevoi speciale apare prima dată în Resurse Afaceri .",
       "published": "2026-02-25T10:31:27+00:00",
       "published_human": "2026-02-25T10:31",
-      "source": "https://resurse-afaceri.ro/"
-    },
-    {
-      "title": "Cele mai folosite hashtaguri din Mastodon România",
-      "link": "https://resurse-afaceri.ro/cele-mai-folosite-hashtaguri-din-mastodon-romania/",
-      "summary": "Te-ai săturat de algoritmii care decid ce vezi pe rețelele sociale tradiționale? Milioane de utilizatori caută acum o platformă unde vocea lor să conteze cu adevărat. Această căutare ne aduce direct în Fediverse, iar pentru comunitatea noastră, la Mastodon Romania. Aici, succesul în vizibilitate nu depinde de reclame plătite sau de manipularea algoritmilor. Depinde de Read More Articolul Cele mai folosite hashtaguri din Mastodon România apare prima dată în Resurse Afaceri .",
-      "published": "2025-12-17T16:58:54+00:00",
-      "published_human": "2025-12-17T16:58",
       "source": "https://resurse-afaceri.ro/"
     }
   ],
