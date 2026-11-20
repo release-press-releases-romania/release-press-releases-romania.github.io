@@ -7,9 +7,17 @@
     "rss": "https://ceamai.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-11-20T03:33:49.338876+00:00",
+  "updated_at": "2026-11-20T13:15:03.628219+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Espressor second-hand: verificări înainte să cumperi",
+      "link": "https://ceamai.ro/espressor-second-hand-verificari/",
+      "summary": "Un espressor folosit are nevoie de verificări diferite față de un aparat nou. Ce întrebi despre întreținere, funcționare și piese. Articolul Espressor second-hand: verificări înainte să cumperi apare prima dată în Cea Mai .",
+      "published": "2026-11-20T10:13:30+00:00",
+      "published_human": "2026-11-20T10:13",
+      "source": "https://ceamai.ro/"
+    },
     {
       "title": "Ce faci când o pată reapare pe canapea după uscare? Pași utili înainte de o nouă curățare",
       "link": "https://ceamai.ro/ce-faci-cand-o-pata-reapare-pe-canapea-dupa-uscare-pasi-utili-inainte-de-o-noua-curatare/",
@@ -80,14 +88,6 @@
       "summary": "Când începi ca model în videochat în Iași, poate părea că ai nevoie doar de o cameră, o cameră web și o conexiune la internet. Multe studiouri mici exact asta oferă: un spațiu în care să intri online și să vezi ce iese. Însă modelele care discută pe Forumvideochat.ro îți pot spune clar că adevărata... Articolul Forumvideochat.ro îți arată diferența dintre un studio care investește în tine și unul care doar îți oferă o cameră: Viva Diva vs. Heylux apare prima dată în Cea Mai .",
       "published": "2026-03-31T15:42:21+00:00",
       "published_human": "2026-03-31T15:42",
-      "source": "https://ceamai.ro/"
-    },
-    {
-      "title": "Multisite WordPress și Mastodon: cum gestionezi mai multe site-uri",
-      "link": "https://ceamai.ro/multisite-wordpress-si-mastodon-cum-gestionezi-mai-multe-site-uri/",
-      "summary": "Creați o prezență digitală puternică. Aceasta necesită gestionarea eficientă a conținutului pe multiple platforme. Dacă sunteți un editor, o agenție sau un creator de conținut cu ambiții mari, probabil că vă confruntați cu o problemă comună: sincronizarea. Cum publicați rapid pe mai multe site-uri? Cum vă asigurați că vocea dumneavoastră ajunge și în spațiile descentralizate,... Articolul Multisite WordPress și Mastodon: cum gestionezi mai multe site-uri apare prima dată în Cea Mai .",
-      "published": "2025-12-17T16:58:54+00:00",
-      "published_human": "2025-12-17T16:58",
       "source": "https://ceamai.ro/"
     }
   ],

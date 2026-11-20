@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@cutremur",
     "rss": "https://social.5th.ro/@cutremur.rss"
   },
-  "updated_at": "2026-11-20T03:33:49.338876+00:00",
+  "updated_at": "2026-11-20T13:15:03.628219+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Mobilier înalt second-hand: stabilitate și fixare",
+      "link": "https://cutremurul.ro/mobilier-inalt-second-stabilitate/",
+      "summary": "Dulapurile și bibliotecile înalte folosite necesită verificarea prinderilor, a elementelor lipsă și a condițiilor de instalare. Articolul Mobilier înalt second-hand: stabilitate și fixare apare prima dată în Cutremur .",
+      "published": "2026-11-20T10:13:24+00:00",
+      "published_human": "2026-11-20T10:13",
+      "source": "https://cutremurul.ro/"
+    },
     {
       "title": "5 modele de pompe de căldură Ferroli și pentru cine este potrivit fiecare",
       "link": "https://cutremurul.ro/modele-pompe-de-caldera-ferroli/",
@@ -84,17 +92,17 @@
       "published": "2026-01-09T13:49:14+00:00",
       "published_human": "2026-01-09T13:49",
       "source": "https://cutremurul.ro/"
-    },
-    {
-      "title": "Mastodon pentru începători: cont, instanță, profil și primele postări",
-      "link": "https://cutremurul.ro/mastodon-pentru-incepatori-cont-instanta-profil-si-primele-postari/",
-      "summary": "V-ați simțit vreodată copleșiți de algoritmii rețelelor sociale centralizate? V-ați săturat de fluxurile controlate care decid ce vedeți și ce nu? O nouă eră a socializării digitale: Descoperă Mastodon Atenție: Milioane de utilizatori caută acum o alternativă la platformele tradiționale, un loc unde conversațiile sunt autentice, iar controlul rămâne la utilizator. Rețelele sociale de astăzi [&#8230;] Articolul Mastodon pentru începători: cont, instanță, profil și primele postări apare prima dată în Cutremur .",
-      "published": "2025-12-17T16:58:54+00:00",
-      "published_human": "2025-12-17T16:58",
-      "source": "https://cutremurul.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@cutremur/117648235563240496",
+      "summary": "Dulapurile și bibliotecile înalte folosite necesită verificarea prinderilor, a elementelor lipsă și a condițiilor de instalare. https:// cutremurul.ro/mobilier-inalt-s econd-stabilitate/",
+      "published": "2026-11-20T10:13:30+00:00",
+      "published_human": "2026-11-20T10:13",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@cutremur/117551680450363929",
@@ -181,14 +189,6 @@
       "summary": "Sistemul de tracțiune integrală inteligentă este una dintre caracteristicile definitorii ale modelelor Land Rover compacte, precum Freelander 2, Range Rover Evoque sau Discovery Sport. În centrul acestui sistem se află cuplajul Haldex, un dispozitiv electro-hidraulic sofisticat care gestionează distribuția cuplului între puntea față și cea spate în fracțiuni de secundă.Deși este proiectat să fie robust… https:// cutremurul.ro/importanta-pompe i-haldex-si-service-ul-preventiv/",
       "published": "2025-12-16T08:44:49+00:00",
       "published_human": "2025-12-16T08:44",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@cutremur/115723964597482724",
-      "summary": "Odată cu înaintarea în vârstă, corpul trece printr-o serie de transformări fiziologice care impun o adaptare a rutinei zilnice de îngrijire și protecție. Pielea devine mai subțire, își pierde elasticitatea și funcția de barieră naturală, circulația sanguină periferică încetinește, iar controlul asupra funcțiilor fiziologice poate deveni o provocare.Aceste schimbări nu trebuie privite ca o fatalitate,… https:// cutremurul.ro/ingrijirea-picio arelor-si-igiena-intima-la-seniori/",
-      "published": "2025-12-15T14:06:05+00:00",
-      "published_human": "2025-12-15T14:06",
       "source": "Mastodon"
     }
   ]

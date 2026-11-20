@@ -7,9 +7,17 @@
     "rss": "https://stiri-medicale.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-11-20T03:33:49.338876+00:00",
+  "updated_at": "2026-11-20T13:15:03.628219+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Cât de importantă este alimentația în sezonul virozelor?",
+      "link": "https://stiri-medicale.ro/alimentatia-in-sezonul-virozelor/",
+      "summary": "Nutritionistul Liliana Enache explica de ce proteinele de calitate si vitaminele sunt esentiale pentru sistemul imunitar in sezonul rece. Articolul Cât de importantă este alimentația în sezonul virozelor? apare prima dată în Stiri Medicale .",
+      "published": "2026-11-20T12:52:46+00:00",
+      "published_human": "2026-11-20T12:52",
+      "source": "https://stiri-medicale.ro/"
+    },
     {
       "title": "Înroșirea feței, diaree și bufeuri: intoleranță la histamină sau sindrom carcinoid?",
       "link": "https://stiri-medicale.ro/inrosirea-fetei-diaree-si-bufeuri-intoleranta-la-histamina-sau-sindrom-carcinoid/",
@@ -96,14 +104,6 @@
       "summary": "Tratament Hemoroizi Cluj &#8211; Provivamed Hemoroizii reprezintă o afecțiune extrem de frecventă, afectând un număr semnificativ din populația adultă, cu&#8230; Articolul Tehnica LHP versus Hemoroidectomia Clasică: O Privire de Ansamblu asupra Avantajelor apare prima dată în Stiri Medicale .",
       "published": "2026-07-20T18:21:58+00:00",
       "published_human": "2026-07-20T18:21",
-      "source": "https://stiri-medicale.ro/"
-    },
-    {
-      "title": "Wegovy, prima pastilă GLP-1 pentru slăbit, primește undă verde de la Comisia Europeană",
-      "link": "https://stiri-medicale.ro/wegovy-prima-pastila-glp-1-pentru-slabit-primeste-unda-verde-de-la-comisia-europeana/",
-      "summary": "Wegovy, prima pastilă GLP-1 pentru slăbit, primește undă verde de la Comisia Europeană Comisia Europeană a aprobat Wegovy sub formă&#8230; Articolul Wegovy, prima pastilă GLP-1 pentru slăbit, primește undă verde de la Comisia Europeană apare prima dată în Stiri Medicale .",
-      "published": "2026-07-17T08:44:14+00:00",
-      "published_human": "2026-07-17T08:44",
       "source": "https://stiri-medicale.ro/"
     }
   ],

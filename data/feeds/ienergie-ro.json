@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@ienergie",
     "rss": "https://social.5th.ro/@ienergie.rss"
   },
-  "updated_at": "2026-11-20T03:33:49.338876+00:00",
+  "updated_at": "2026-11-20T13:15:03.628219+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Unelte electrice second-hand: verificări",
+      "link": "https://ienergie.ro/unelte-electrice-second-hand-verificari/",
+      "summary": "La uneltele electrice folosite, acumulatorul și compatibilitatea accesoriilor pot schimba costul unei oferte. O listă de verificare practică. Articolul Unelte electrice second-hand: verificări apare prima dată în iEnergie .",
+      "published": "2026-11-20T06:52:45+00:00",
+      "published_human": "2026-11-20T06:52",
+      "source": "https://iEnergie.ro/"
+    },
     {
       "title": "CONFERINTA Energia in priza",
       "link": "https://ienergie.ro/conferinta-energia-in-priza/",
@@ -100,17 +108,17 @@
       "published": "2026-03-26T18:48:36+00:00",
       "published_human": "2026-03-26T18:48",
       "source": "https://iEnergie.ro/"
-    },
-    {
-      "title": "Tablă perforată vs. materiale clasice: ce alegi când vrei durabilitate și design modern",
-      "link": "https://ienergie.ro/tabla-perforata-vs-materiale-clasice-ce-alegi-cand-vrei-durabilitate-si-design-modern/",
-      "summary": "În ultimii ani, tabla perforată a devenit o soluție tot mai folosită în proiecte industriale, comerciale și rezidențiale. Arhitecții, inginerii și proprietarii de clădiri caută [Mai mult...] Articolul Tablă perforată vs. materiale clasice: ce alegi când vrei durabilitate și design modern apare prima dată în iEnergie .",
-      "published": "2026-03-17T19:04:41+00:00",
-      "published_human": "2026-03-17T19:04",
-      "source": "https://iEnergie.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@ienergie/117647446538586216",
+      "summary": "La uneltele electrice folosite, acumulatorul și compatibilitatea accesoriilor pot schimba costul unei oferte. O listă de verificare practică. https:// ienergie.ro/unelte-electrice-s econd-hand-verificari/",
+      "published": "2026-11-20T06:52:50+00:00",
+      "published_human": "2026-11-20T06:52",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@ienergie/117273926463062712",
@@ -197,14 +205,6 @@
       "summary": "Un subiect tehnic cu miză practică În aparență, discuția despre un separator de sarcină pare strict „pentru electricieni”. Deși denumirea „Separator de sarcina 4P tetrapolar” pare un fragment dintr-o fișă tehnică, întrebarea din spate e foarte practică: cum oprești energia în siguranță? În realitate, subiectul a devenit relevant pentru oricine are un tablou modern: https:// ienergie.ro/separator-de-sarci na-4p-tetrapolar-cum-a-ajuns-un-aparat-de-tablou-sa-conteze-in-siguranta-de-zi-cu-zi/",
       "published": "2026-03-26T18:48:38+00:00",
       "published_human": "2026-03-26T18:48",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@ienergie/116246071489056226",
-      "summary": "În ultimii ani, tabla perforată a devenit o soluție tot mai folosită în proiecte industriale, comerciale și rezidențiale. Arhitecții, inginerii și proprietarii de clădiri caută materiale care să ofere atât rezistență pe termen lung, cât și un aspect actual, ușor de integrat în concepte moderne.În acest context, comparația între tablă perforată și materialele clasice, cum… https:// ienergie.ro/tabla-perforata-vs -materiale-clasice-ce-alegi-cand-vrei-durabilitate-si-design-modern/",
-      "published": "2026-03-17T19:04:44+00:00",
-      "published_human": "2026-03-17T19:04",
       "source": "Mastodon"
     }
   ]

@@ -7,9 +7,17 @@
     "rss": "https://networkinghub.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-11-20T03:33:49.338876+00:00",
+  "updated_at": "2026-11-20T13:15:03.628219+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Anunțurile comercianților online: informații utile",
+      "link": "https://networkinghub.ro/anunturile-comerciantilor-online/",
+      "summary": "Un anunț publicat de o firmă trebuie să ofere informații verificabile despre ofertă și vânzător. Un ghid pentru comunicare responsabilă. Articolul Anunțurile comercianților online: informații utile apare prima dată în Networking Hub .",
+      "published": "2026-11-20T06:52:51+00:00",
+      "published_human": "2026-11-20T06:52",
+      "source": "https://networkinghub.ro/"
+    },
     {
       "title": "Cum reduci pierderile de clienți B2B între momentul generării lead-ului și semnarea contractului final?",
       "link": "https://networkinghub.ro/cum-reduci-pierderile-de-clienti-b2b-intre-momentul-generarii-lead-ului-si-semnarea-contractului-final/",
@@ -96,14 +104,6 @@
       "summary": "COMUNICAT DE PRESĂ Lansarea proiectului &#8222;O nouă șansă independenței&#8221; &#8211; Cod SMIS 354321 ASOCIAȚIA IZVORUL... Articolul Lansarea proiectului „O nouă șansă independenței” apare prima dată în Networking Hub .",
       "published": "2026-08-04T13:44:40+00:00",
       "published_human": "2026-08-04T13:44",
-      "source": "https://networkinghub.ro/"
-    },
-    {
-      "title": "De ce siguranța emoțională a copilului tău depinde de un mediu care îi permite să exploreze liber",
-      "link": "https://networkinghub.ro/de-ce-siguranta-emotionala-a-copilului-tau-depinde-de-un-mediu-care-ii-permite-sa-exploreze-liber/",
-      "summary": "Siguranța emoțională se bazează pe capacitatea copilului de a se simți în control asupra propriilor... Articolul De ce siguranța emoțională a copilului tău depinde de un mediu care îi permite să exploreze liber apare prima dată în Networking Hub .",
-      "published": "2026-07-30T07:01:42+00:00",
-      "published_human": "2026-07-30T07:01",
       "source": "https://networkinghub.ro/"
     }
   ],

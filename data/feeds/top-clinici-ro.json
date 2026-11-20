@@ -7,9 +7,17 @@
     "rss": "https://top-clinici.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-11-20T03:33:49.338876+00:00",
+  "updated_at": "2026-11-20T13:15:03.628219+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Rolul pneumologiei în depistarea precoce a bolilor pulmonare",
+      "link": "https://top-clinici.ro/depistare-boli-pulmonare/",
+      "summary": "Simptome precum tusea persistenta sau lipsa de aer la efort pot semnala probleme respiratorii. Un consult specializat clarifica situatia. Articolul Rolul pneumologiei în depistarea precoce a bolilor pulmonare apare prima dată în Top Clinici .",
+      "published": "2026-11-20T13:00:07+00:00",
+      "published_human": "2026-11-20T13:00",
+      "source": "https://top-clinici.ro/"
+    },
     {
       "title": "Novo România a adus discuția despre sănătate și wellbeing în prim-plan la Mercedes-Benz Bucharest Fashion Week 2026",
       "link": "https://top-clinici.ro/novo-bucharest-fashion-week-2026/",
@@ -80,14 +88,6 @@
       "summary": "Alegerea unei clinici medicale nu ar trebui făcută doar după primul rezultat găsit online sau după distanța până la casă. Pentru pacienții care vor să acceseze servicii medicale prin CAS,&#8230; Articolul Clinica Prevencia explică: cum alegi o clinică medicală în contract CAS fără să pierzi timp și bani apare prima dată în Top Clinici .",
       "published": "2026-06-24T07:49:37+00:00",
       "published_human": "2026-06-24T07:49",
-      "source": "https://top-clinici.ro/"
-    },
-    {
-      "title": "Motion Clinic – clinică de recuperare medicală pentru pacienți care vor să se miște mai bine",
-      "link": "https://top-clinici.ro/motion-clinic-recuperare-medicala-snagov/",
-      "summary": "Durerea de spate, rigiditatea articulară, accidentările sportive sau disconfortul apărut după ore lungi petrecute la birou sunt probleme tot mai întâlnite. Mulți pacienți amână tratamentul până când durerea începe să&#8230; Articolul Motion Clinic – clinică de recuperare medicală pentru pacienți care vor să se miște mai bine apare prima dată în Top Clinici .",
-      "published": "2026-06-08T08:54:08+00:00",
-      "published_human": "2026-06-08T08:54",
       "source": "https://top-clinici.ro/"
     }
   ],
