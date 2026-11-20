@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@clasici",
     "rss": "https://social.5th.ro/@clasici.rss"
   },
-  "updated_at": "2026-11-20T13:15:03.628219+00:00",
+  "updated_at": "2026-11-20T21:19:27.957211+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Ce documente emite corect un PFA cu venituri din mai multe surse",
+      "link": "https://clasici.ro/ce-documente-emite-corect-un-pfa-cu-venituri-din-mai-multe-surse/",
+      "summary": "Un PFA poate obține venituri din servicii prestate firmelor, vânzări online, colaborări cu platforme, cursuri,...",
+      "published": "2026-11-20T10:57:26+00:00",
+      "published_human": "2026-11-20T10:57",
+      "source": "https://clasici.ro/"
+    },
     {
       "title": "Cum alegi piesele de Crăciun potrivite pentru cursul de canto? 7 sfaturi utile",
       "link": "https://clasici.ro/cum-alegi-piesele-de-craciun-potrivite-pentru-cursul-de-canto-7-sfaturi-utile/",
@@ -100,17 +108,17 @@
       "published": "2026-07-31T08:32:01+00:00",
       "published_human": "2026-07-31T08:32",
       "source": "https://clasici.ro/"
-    },
-    {
-      "title": "Ce deserturi tradiționale merită încercate în Roma",
-      "link": "https://clasici.ro/ce-deserturi-traditionale-merita-incercate-in-roma/",
-      "summary": "G&#226;ndul la capitala Italiei te duce instantaneu la Colosseum, la străduțele pietruite din Trastevere și...",
-      "published": "2026-06-12T10:45:00+00:00",
-      "published_human": "2026-06-12T10:45",
-      "source": "https://clasici.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@clasici/117650064158919695",
+      "summary": "⭐Un PFA poate obține venituri din servicii prestate firmelor, vânzări online, colaborări cu platforme, cursuri, activități la sediul clientului sau încasări directe de la persoane fizice. Fiecare situație cere documente potrivite, iar alegerea lor nu depinde doar de suma primită. Contează cine este clientul, ce ai livrat, cum ai încasat banii și dacă activitatea # bonfiscal # Comunicat # facturi # pfa # roefactura ⭐ https:// clasici.ro/ce-documente-emite- corect-un-pfa-cu-venituri-din-mai-multe-surse/",
+      "published": "2026-11-20T17:58:32+00:00",
+      "published_human": "2026-11-20T17:58",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@clasici/117626732203978607",
@@ -197,14 +205,6 @@
       "summary": "⭐Gândul la o intervenție chirurgicală provoacă anxietate oricărui pacient. Inciziile mari, durerile intense și spitalizarea lungă sunt principalele temeri. Din fericire, medicina modernă a evoluat extrem de mult în ultimele decenii. Astăzi, foarte multe afecțiuni pot fi tratate rapid, fără incizii mari și fără suferință inutilă. Tehnologia modernă permite realizarea intervențiilor prin tăieturi minuscule, de… ⭐ https:// clasici.ro/laparoscopia-cand-e ste-recomandata-si-ce-avantaje-ofera/",
       "published": "2026-07-31T11:48:21+00:00",
       "published_human": "2026-07-31T11:48",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@clasici/116793588093054579",
-      "summary": "⭐Gândul la capitala Italiei te duce instantaneu la Colosseum, la străduțele pietruite din Trastevere și la aromele inconfundabile ale bucătăriei romane. Dincolo de pastele carbonara sau pizza al taglio, orașul ascunde o cultură fascinantă a dulciurilor. Cofetăriile istorice și gelateriile artizanale oferă produse care respectă rețete vechi de secole. Gustul autentic provine din ingrediente simple,… ⭐ https:// clasici.ro/ce-deserturi-tradit ionale-merita-incercate-in-roma/",
-      "published": "2026-06-22T11:45:24+00:00",
-      "published_human": "2026-06-22T11:45",
       "source": "Mastodon"
     }
   ]
