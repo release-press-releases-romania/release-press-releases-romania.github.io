@@ -7,9 +7,17 @@
     "rss": "https://stiri-live.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-11-19T22:18:04.830209+00:00",
+  "updated_at": "2026-11-20T03:33:49.338876+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Link de plată suspect: cum îl recunoști",
+      "link": "https://stiri-live.ro/link-de-plata-suspect-cum-il/",
+      "summary": "Un cumpărător sau un curier pretins poate trimite un link care cere date bancare. Cum recunoști semnalele de risc și ce faci înainte să răspunzi. Articolul Link de plată suspect: cum îl recunoști apare prima dată în Stiri Live .",
+      "published": "2026-11-19T22:25:54+00:00",
+      "published_human": "2026-11-19T22:25",
+      "source": "https://stiri-live.ro/"
+    },
     {
       "title": "Arta – instrument pentru incluziune și dezvoltare emoțională",
       "link": "https://stiri-live.ro/arta-pentru-incluziune-si-dezvoltare/",
@@ -96,14 +104,6 @@
       "summary": "Mă numesc Diana și sunt fost model de videochat în Iași. Am trecut prin mai multe studiouri, am văzut. Articolul Experiențe la Viva Diva studio – Am creat Forumvideochat.com ca să vezi realitatea din spatele reclamelor apare prima dată în Stiri Live .",
       "published": "2026-05-05T06:48:05+00:00",
       "published_human": "2026-05-05T06:48",
-      "source": "https://stiri-live.ro/"
-    },
-    {
-      "title": "Gard din șipcă metalică: costuri, montaj, întreținere",
-      "link": "https://stiri-live.ro/gard-din-sipca-metalica-costuri-montaj-intretinere/",
-      "summary": "Un gard bine ales protejează proprietatea, oferă intimitate și completează aspectul casei. Din acest motiv, tot mai mulți proprietari. Articolul Gard din șipcă metalică: costuri, montaj, întreținere apare prima dată în Stiri Live .",
-      "published": "2026-04-25T16:12:49+00:00",
-      "published_human": "2026-04-25T16:12",
       "source": "https://stiri-live.ro/"
     }
   ],
