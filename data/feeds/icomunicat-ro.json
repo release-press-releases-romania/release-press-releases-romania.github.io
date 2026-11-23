@@ -7,9 +7,17 @@
     "rss": "https://iComunicat.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-11-23T03:49:10.668361+00:00",
+  "updated_at": "2026-11-23T14:59:27.993373+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "CraftyWand concurează cu Pacdora și Packify în designul ambalajelor",
+      "link": "https://icomunicat.ro/2026/11/23/craftywand-pacdora-si-packify/",
+      "summary": "Platforma canadiană combină proiectarea structurală a ambalajelor, editarea 3D și instrumentele AI într-un singur spațiu de lucru în browser. Articolul CraftyWand concurează cu Pacdora și Packify în designul ambalajelor apare prima dată în iComunicat .",
+      "published": "2026-11-23T09:19:44+00:00",
+      "published_human": "2026-11-23T09:19",
+      "source": "https://iComunicat.ro/"
+    },
     {
       "title": "MCP pentru advertoriale: planul pe buget, în conversație",
       "link": "https://icomunicat.ro/2026/11/14/mcp-pentru-advertoriale-plan-buget/",
@@ -80,14 +88,6 @@
       "summary": "Descopera cum se interpreteaza clasele energetice si de mediu din document. Inveleste regulile de valabilitate si impactul renovarii majore asupra certificatului. Articolul Clasele energetice și valabilitatea certificatului energetic, explicate simplu apare prima dată în iComunicat .",
       "published": "2026-09-29T17:34:51+00:00",
       "published_human": "2026-09-29T17:34",
-      "source": "https://iComunicat.ro/"
-    },
-    {
-      "title": "Cum se întocmește certificatul energetic, pas cu pas",
-      "link": "https://icomunicat.ro/2026/09/29/cum-se-intocmeste-certificatul-energetic/",
-      "summary": "Descopera etapele prin care trece auditorul energetic pentru a emite certificatul, de la analiza documentelor la calculul consumului si clasei energetice. Articolul Cum se întocmește certificatul energetic, pas cu pas apare prima dată în iComunicat .",
-      "published": "2026-09-29T17:31:21+00:00",
-      "published_human": "2026-09-29T17:31",
       "source": "https://iComunicat.ro/"
     }
   ],
