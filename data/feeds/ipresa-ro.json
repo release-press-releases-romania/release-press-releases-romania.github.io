@@ -7,9 +7,17 @@
     "rss": "https://iPresa.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-11-24T13:58:46.962303+00:00",
+  "updated_at": "2026-11-24T23:31:37.762344+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "YVE MEDIA pune la dispoziția antreprenorilor din România o colecție de ghiduri gratuite despre site-uri, magazine online, SEO și automatizări AI",
+      "link": "https://ipresa.ro/yve-media-ghiduri-gratuite/",
+      "summary": "Agenția digitală YVE MEDIA publică pe yve-media.ro o secțiune de ghiduri practice, gratuite, care răspund întrebărilor frecvente ale firmelor înainte de un proiect digital: costuri, durate, platforme și criterii de alegere. Articolul YVE MEDIA pune la dispoziția antreprenorilor din România o colecție de ghiduri gratuite despre site-uri, magazine online, SEO și automatizări AI apare prima dată în iPresa .",
+      "published": "2026-11-24T19:38:50+00:00",
+      "published_human": "2026-11-24T19:38",
+      "source": "https://iPresa.ro/"
+    },
     {
       "title": "Creare magazin online PrestaShop și verificările care fac diferența la predare",
       "link": "https://ipresa.ro/verificari-magazin-online-prestashop/",
@@ -80,14 +88,6 @@
       "summary": "Afla cum sa dimensionezi corect cutiile si sa protejezi produsele de orice tip. Ghid practic pentru a evita erorile frecvente la ambalare. Articolul Ce tip de ambalaj alegi pentru produsele fragile, voluminoase sau mici? apare prima dată în iPresa .",
       "published": "2026-09-25T15:40:52+00:00",
       "published_human": "2026-09-25T15:40",
-      "source": "https://iPresa.ro/"
-    },
-    {
-      "title": "Schizofrenia. Subtipuri principale, simptome tipice şi diagnosticare",
-      "link": "https://ipresa.ro/schizofrenia-subtipuri-principale-simptome-tipice-si-diagnosticare/",
-      "summary": "Afectează 1% din populația globală, este o tulburare psihică de care nu scapi odată ce ai primit diagnosticul și este foarte greu de tratat. Schizofrenia – despre ea discutăm astăzi – are nevoie de tratamente prescrise de psihiatru, de monitorizare, de medicație și terapie prin discuții, dar și de un plan de intervenție personalizat de [&#8230;] Articolul Schizofrenia. Subtipuri principale, simptome tipice şi diagnosticare apare prima dată în iPresa .",
-      "published": "2026-09-23T08:10:32+00:00",
-      "published_human": "2026-09-23T08:10",
       "source": "https://iPresa.ro/"
     }
   ],
