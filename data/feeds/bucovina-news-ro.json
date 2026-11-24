@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@bucovina",
     "rss": "https://social.5th.ro/@bucovina.rss"
   },
-  "updated_at": "2026-11-24T02:23:14.735039+00:00",
+  "updated_at": "2026-11-24T13:58:46.962303+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Unde publici un advertorial: presă locală, nișă sau național",
+      "link": "https://bucovina-news.ro/unde-publici-un-advertorial/",
+      "summary": "Trei locuri in care poate aparea un advertorial in Romania, ce primesti pe fiecare si cum alegi daca ai o afacere locala. Articolul Unde publici un advertorial: presă locală, nișă sau național apare prima dată în Bucovina News .",
+      "published": "2026-11-24T07:00:00+00:00",
+      "published_human": "2026-11-24T07:00",
+      "source": "https://bucovina-news.ro/"
+    },
     {
       "title": "Tablouri personalizate – Transformă fotografiile tale în tablouri canvas unice | LuxCanva",
       "link": "https://bucovina-news.ro/tablouri-personalizate-transforma-fotografiile-tale-in-tablouri-canvas-unice-luxcanva/",
@@ -84,17 +92,17 @@
       "published": "2025-11-14T07:32:14+00:00",
       "published_human": "2025-11-14T07:32",
       "source": "https://bucovina-news.ro/"
-    },
-    {
-      "title": "Ce este AEO (Answer Engine Optimization) și cum răspunzi mai bine la întrebările utilizatorilor?",
-      "link": "https://bucovina-news.ro/ce-este-aeo-answer-engine-optimization-si-cum-raspunzi-mai-bine-la-intrebarile-utilizatorilor/",
-      "summary": "Navigați adesea pe Google și observați că răspunsul la &#238;ntrebarea dumneavoastră apare direct &#238;n partea de sus a paginii, fără a fi nevoie să dați click pe un link? Acesta&#8230; Articolul Ce este AEO (Answer Engine Optimization) și cum răspunzi mai bine la întrebările utilizatorilor? apare prima dată în Bucovina News .",
-      "published": "2025-11-13T09:24:16+00:00",
-      "published_human": "2025-11-13T09:24",
-      "source": "https://bucovina-news.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@bucovina/117670126934382601",
+      "summary": "Trei locuri in care poate aparea un advertorial in Romania, ce primesti pe fiecare si cum alegi daca ai o afacere locala. # advertoriale # bucovina # presalocala # publicareadvertoriale https:// bucovina-news.ro/unde-publici- un-advertorial/",
+      "published": "2026-11-24T07:00:45+00:00",
+      "published_human": "2026-11-24T07:00",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@bucovina/117087490411560755",

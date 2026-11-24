@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@top",
     "rss": "https://social.5th.ro/@top.rss"
   },
-  "updated_at": "2026-11-24T02:23:14.735039+00:00",
+  "updated_at": "2026-11-24T13:58:46.962303+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Găzduire PrestaShop și diagnosticarea unui magazin online care se încarcă greu",
+      "link": "https://top15.ro/gazduire-prestashop-diagnosticare-magazin",
+      "summary": "Afla cum sa identifici cauza incarcarii lente a magazinului. Verifica gazduire prestashop, cache-ul si backup-ul pentru a asigura un functionament stabil.",
+      "published": "2026-11-24T08:28:34+00:00",
+      "published_human": "2026-11-24T08:28",
+      "source": "https://top15.ro/"
+    },
     {
       "title": "Produs second-hand: stare, fotografii și preț",
       "link": "https://top15.ro/produs-second-hand-stare-pret",
@@ -99,14 +107,6 @@
       "summary": "CIUZO propune un nou mod de a cumpăra online: publici ceea ce cauți, iar vânzătorii vin cu oferte. Mai puțină căutare, mai multe opțiuni și posibilitatea de a compara. Meta description:",
       "published": "2026-09-14T22:31:39+00:00",
       "published_human": "2026-09-14T22:31",
-      "source": "https://top15.ro/"
-    },
-    {
-      "title": "De ce plătesc șoferii sub 30 de ani tarife duble la RCA și cum poți reduce legal acest cost?",
-      "link": "https://top15.ro/de-ce-platesc-soferii-sub-30-de-ani-tarife-duble-la-rca-si-cum-poti-reduce-legal-acest-cost",
-      "summary": "",
-      "published": "2026-09-09T10:06:00+00:00",
-      "published_human": "2026-09-09T10:06",
       "source": "https://top15.ro/"
     }
   ],

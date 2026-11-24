@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@efaq",
     "rss": "https://social.5th.ro/@efaq.rss"
   },
-  "updated_at": "2026-11-24T02:23:14.735039+00:00",
+  "updated_at": "2026-11-24T13:58:46.962303+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Bugetul unui magazin online PrestaShop și costurile care merită clarificate înainte de dezvoltare",
+      "link": "https://e-faq.ro/buget-magazin-online-prestashop/",
+      "summary": "Descopera ce influenteaza pretul unui magazin online PrestaShop. De la importul catalogului la integrari, vezi cum sa eviti surprizele la facturare. Articolul Bugetul unui magazin online PrestaShop și costurile care merită clarificate înainte de dezvoltare apare prima dată în FAQ - Intrebari Frecvente .",
+      "published": "2026-11-24T08:28:47+00:00",
+      "published_human": "2026-11-24T08:28",
+      "source": "https://e-faq.ro/"
+    },
     {
       "title": "Obiecte de colecție: cum documentezi starea și originea",
       "link": "https://e-faq.ro/obiecte-de-colectie-documentezi-starea/",
@@ -76,17 +84,17 @@
       "published": "2026-07-31T08:32:01+00:00",
       "published_human": "2026-07-31T08:32",
       "source": "https://e-faq.ro/"
-    },
-    {
-      "title": "Ce este CSV.RO? Întrebări și răspunsuri despre cumpărare, schimb și vânzare online",
-      "link": "https://e-faq.ro/ce-este-csv-ro-intrebari-raspunsuri-cumparare-schimb-vanzare/",
-      "summary": "CSV.RO este o platformă de anunțuri online pentru cumpărare, schimb și vânzare. Ghidul răspunde la întrebări despre categorii, publicare, contact și siguranță. Articolul Ce este CSV.RO? Întrebări și răspunsuri despre cumpărare, schimb și vânzare online apare prima dată în FAQ - Intrebari Frecvente .",
-      "published": "2026-07-31T07:18:06+00:00",
-      "published_human": "2026-07-31T07:18",
-      "source": "https://e-faq.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@efaq/117670473283654584",
+      "summary": "🚀 &lt;p&gt;Descopera ce influenteaza pretul unui magazin online PrestaShop. De la importul catalogului la integrari, vezi cum sa eviti surprizele la facturare.&lt;/p&gt; 🔗 Citeste tot: https:// e-faq.ro/buget-magazin-online- prestashop/",
+      "published": "2026-11-24T08:28:50+00:00",
+      "published_human": "2026-11-24T08:28",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@efaq/117641794129969165",
@@ -173,14 +181,6 @@
       "summary": "🚀 Tehnologia a intrat în relația dintre pacient și clinică prin pași mici: site-uri mai clare, formulare de contact, programări online, mesaje automate și, mai nou, asistenți AI. Pentru pacient, miza nu este tehnologia în sine, ci simplitatea: să înțeleagă unde trebuie să ajungă, ce informații sunt relevante și cum poate face următorul pas fără timp… 🔗 Citeste tot: https:// e-faq.ro/intrebari-frecvente-d espre-asistentii-ai-in-clinici-ce-pot-face-si-unde-sunt-limitele/",
       "published": "2026-07-12T05:33:06+00:00",
       "published_human": "2026-07-12T05:33",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@efaq/116793542735523075",
-      "summary": "🚀 Imaginează-ți faimoasele alei albe din Oia complet goale, unde singurul zgomot este cel al valurilor care se lovesc de stâncile vulcanice. Santorini în timpul verii înseamnă aglomerație, mii de selfie-uri pe minut și temperaturi sufocante. Schimbarea de peisaj care are loc odată cu venirea toamnei târzii sau a primăverii timpurii transformă complet această insulă din… 🔗 Complet aici: https:// e-faq.ro/cum-arata-o-vacanta-i n-santorini-in-extrasezon/",
-      "published": "2026-06-22T11:33:52+00:00",
-      "published_human": "2026-06-22T11:33",
       "source": "Mastodon"
     }
   ]
