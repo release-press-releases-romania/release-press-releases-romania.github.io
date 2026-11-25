@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@9z",
     "rss": "https://social.5th.ro/@9z.rss"
   },
-  "updated_at": "2026-11-25T08:52:49.966680+00:00",
+  "updated_at": "2026-11-25T19:26:59.951479+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Podcast cultural LitterAM – un nou proiect la Focșani",
+      "link": "https://9z.ro/podcast-cultural-litteram/",
+      "summary": "LitterAM, un nou podcast cultural lansat la Focșani, își propune să promoveze literatura, teatrul și dialogul cultural contemporan. Prima ediție îl are ca invitat pe actorul și regizorul Sorin Francu, în dialog cu scriitorul Adrian Matei. The post Podcast cultural LitterAM – un nou proiect la Focșani appeared first on 9z .",
+      "published": "2026-11-25T12:30:00+00:00",
+      "published_human": "2026-11-25T12:30",
+      "source": "https://9z.ro/"
+    },
     {
       "title": "Integrări PrestaShop pentru stocuri plăți și livrare cu mai puțină muncă manuală",
       "link": "https://9z.ro/integrari-prestashop-stocuri-plati-livrare/",
@@ -84,17 +92,17 @@
       "published": "2026-10-28T17:24:20+00:00",
       "published_human": "2026-10-28T17:24",
       "source": "https://9z.ro/"
-    },
-    {
-      "title": "Începe cu informațiile potrivite, nu cu promisiuni",
-      "link": "https://9z.ro/incepe-cu-informatiile-potrivite-nu-cu-promisiuni/",
-      "summary": "Curățarea canapelei la domiciliu &#238;n Oradea: ce trebuie să știe clientul &#238;nainte de programare OradeaCuAbur Programarea unei curățări de canapea la domiciliu &#238;ncepe &#238;nainte ca echipamentul să ajungă &#238;n locuință. Fotografii bine făcute, dimensiuni aproximative și informații despre pete permit o estimare mai utilă pentru clientul din Oradea și reduc ne&#238;nțelegerile despre ce se va [&#8230;] The post Începe cu informațiile potrivite, nu cu promisiuni appeared first on 9z .",
-      "published": "2026-10-23T05:05:37+00:00",
-      "published_human": "2026-10-23T05:05",
-      "source": "https://9z.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@9z/117678184213727084",
+      "summary": "LitterAM, un nou podcast cultural lansat la Focșani, își propune să promoveze literatura, teatrul și dialogul cultural contemporan. Prima ediție îl are ca invitat pe actorul și regizorul Sorin Francu, în dialog cu scriitorul Adrian Matei. https:// 9z.ro/podcast-cultural-littera m/",
+      "published": "2026-11-25T17:09:50+00:00",
+      "published_human": "2026-11-25T17:09",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@9z/117670537466929375",
@@ -181,14 +189,6 @@
       "summary": "Peste 35 de modele, femei și bărbați cu vârste de peste 35 de ani, au prezentat creațiile a 11 designeri români, într-un spectacol care a îmbinat moda, creativitatea și eleganța atemporală, completat de un show de lumini și o producție scenică spectaculoasă. https:// 9z.ro/eleganta-nu-are-varsta-n ici-pe-drum-nici-pe-podium/",
       "published": "2026-11-12T12:37:17+00:00",
       "published_human": "2026-11-12T12:37",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@9z/117602422271944538",
-      "summary": "Primul sanctuar pentru animale din România, NIMA, a împlinit opt ani. Astăzi, 140 de animăluțe salvate din 11 specii trăiesc în siguranță, cu sprijinul donatorilor. https:// comunicatpresa.9z.ro/sanctuaru l-nima-primul-din-romania-8-ani/",
-      "published": "2026-11-12T08:02:34+00:00",
-      "published_human": "2026-11-12T08:02",
       "source": "Mastodon"
     }
   ]
