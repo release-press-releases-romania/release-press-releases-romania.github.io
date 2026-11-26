@@ -7,9 +7,17 @@
     "rss": "https://sfatul-doctorului.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-11-26T12:53:44.968353+00:00",
+  "updated_at": "2026-11-26T22:26:57.186943+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Principalele tipuri de masaj și beneficiile lor pentru sănătate",
+      "link": "https://sfatul-doctorului.ro/tipuri-de-masaj-si-beneficii/",
+      "summary": "Descoperă principalele tipuri de masaj și beneficiile acestora pentru sănătatea fizică și mentală. De la masajul suedez și Deep Tissue până la masajul terapeutic, sportiv, thailandez și Hawaiian Lomi-Lomi, fiecare tehnică răspunde unor nevoi diferite. Află cum poate contribui masajul la reducerea stresului, ameliorarea tensiunilor musculare, îmbunătățirea mobilității și menținerea stării generale de bine, dar și cum să alegi tehnica potrivită stilului tău de viață. Articolul Principalele tipuri de masaj și beneficiile lor pentru sănătate apare prima dată în Sfatul Doctorului .",
+      "published": "2026-11-26T14:19:56+00:00",
+      "published_human": "2026-11-26T14:19",
+      "source": "https://sfatul-doctorului.ro/"
+    },
     {
       "title": "10 avantaje ale unui centru specializat în terapia durerii",
       "link": "https://sfatul-doctorului.ro/centru-specializat-terapia-durerii/",
@@ -72,14 +80,6 @@
       "summary": "Durerea care pulsează, sensibilitatea puternică la mușcătură sau o umflătură apărută lângă un dinte îi fac pe mulți pacienți să se gândească direct la extracție. În numeroase cazuri, dintele poate fi însă păstrat, inclusiv atunci când problema a ajuns până la rădăcină și a afectat țesuturile din jur, dar metoda depinde de cât de mult [&#8230;] Articolul Cum salvezi un dinte afectat de o infecție profundă? apare prima dată în Sfatul Doctorului .",
       "published": "2026-09-09T09:40:34+00:00",
       "published_human": "2026-09-09T09:40",
-      "source": "https://sfatul-doctorului.ro/"
-    },
-    {
-      "title": "Ortopedie în București: cele mai frecvente afecțiuni tratate și când să ceri ajutor",
-      "link": "https://sfatul-doctorului.ro/ortopedie-in-bucuresti-cele-mai-frecvente-afectiuni-tratate-si-cand-sa-ceri-ajutor/",
-      "summary": "Aparatul locomotor e sistemul pe care îl solicităm cel mai mult și de care ne ocupăm cel mai puțin — până când ceva se strică. Iată patologiile care umplu cabinetele de ortopedie și semnalele care nu ar trebui ignorate. Artroza de șold și de genunchi Uzura cartilajului articular, cu durere care apare inițial la efort [&#8230;] Articolul Ortopedie în București: cele mai frecvente afecțiuni tratate și când să ceri ajutor apare prima dată în Sfatul Doctorului .",
-      "published": "2026-08-21T09:49:14+00:00",
-      "published_human": "2026-08-21T09:49",
       "source": "https://sfatul-doctorului.ro/"
     }
   ],

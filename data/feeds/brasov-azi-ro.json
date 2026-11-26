@@ -10,9 +10,41 @@
     "url": "https://social.5th.ro/@brasov",
     "rss": "https://social.5th.ro/@brasov.rss"
   },
-  "updated_at": "2026-11-26T12:53:44.968353+00:00",
+  "updated_at": "2026-11-26T22:26:57.186943+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Parcarea în Poiana Brașov: tarif, plata prin SMS și ce se schimbă",
+      "link": "https://brasov-azi.ro/parcare-poiana-brasov-tarif-plata-sms",
+      "summary": "Cât costă parcarea în Poiana Brașov, când plătești, cum trimiți SMS-ul pentru zona 0, aplicația TPark și noile tarife propuse de primărie.",
+      "published": "2026-11-26T15:39:10+00:00",
+      "published_human": "2026-11-26T15:39",
+      "source": "https://brasov-azi.ro/"
+    },
+    {
+      "title": "Patinoare în Brașov: unde patinezi iarna, program și bilete",
+      "link": "https://brasov-azi.ro/patinoare-brasov-program-bilete-iarna",
+      "summary": "Patinoarele din Brașov iarna: Patinoarul Olimpic din Parcul Tractorul, prețul pe serie, programul pentru public și ce să știi înainte.",
+      "published": "2026-11-26T15:39:10+00:00",
+      "published_human": "2026-11-26T15:39",
+      "source": "https://brasov-azi.ro/"
+    },
+    {
+      "title": "Paradisul Acvatic Brașov: program, prețuri și reguli pentru copii",
+      "link": "https://brasov-azi.ro/paradisul-acvatic-brasov-program-preturi-reguli",
+      "summary": "Paradisul Acvatic Brașov: programul pe zile, de la cât pornesc prețurile, regulile pentru copii, cum plătești și unde e complexul.",
+      "published": "2026-11-26T15:39:10+00:00",
+      "published_human": "2026-11-26T15:39",
+      "source": "https://brasov-azi.ro/"
+    },
+    {
+      "title": "Dino Parc Râșnov: program, bilete și ce vezi, iarna și vara",
+      "link": "https://brasov-azi.ro/dino-parc-rasnov-program-bilete-iarna-vara",
+      "summary": "Dino Parc Râșnov e deschis tot anul: programul de iarnă și de vară, prețul biletelor, ce e inclus, atracțiile cu plată separată și cum ajungi.",
+      "published": "2026-11-26T15:39:10+00:00",
+      "published_human": "2026-11-26T15:39",
+      "source": "https://brasov-azi.ro/"
+    },
     {
       "title": "Echipamente sportive second-hand: ce verifici",
       "link": "https://brasov-azi.ro/echipamente-sportive-second-ce-verifici",
@@ -75,38 +107,6 @@
       "summary": "",
       "published": "2026-05-16T05:43:06+00:00",
       "published_human": "2026-05-16T05:43",
-      "source": "https://brasov-azi.ro/"
-    },
-    {
-      "title": "Cum alegi corect o firmă de producție publicitară în București pentru un proiect fără întârzieri",
-      "link": "https://brasov-azi.ro/cum-alegi-corect-o-firma-de-productie-publicitara-in-bucuresti-pentru-un-proiect-fara-intarzieri",
-      "summary": "",
-      "published": "2026-04-08T02:49:53+00:00",
-      "published_human": "2026-04-08T02:49",
-      "source": "https://brasov-azi.ro/"
-    },
-    {
-      "title": "Păreri VivaDiva – ce spun modelele pe Forumvideochat.ro despre studiourile mici de videochat din Iași",
-      "link": "https://brasov-azi.ro/pareri-vivadiva-ce-spun-modelele-pe-forumvideochat-ro-despre-studiourile-mici-de-videochat-din-iasi",
-      "summary": "",
-      "published": "2026-03-30T17:09:06+00:00",
-      "published_human": "2026-03-30T17:09",
-      "source": "https://brasov-azi.ro/"
-    },
-    {
-      "title": "Închirieri auto Cluj: cum gestionezi o perioadă incertă și data de retur",
-      "link": "https://brasov-azi.ro/inchirieri-auto-cluj-cum-gestionezi-o-perioada-incerta-si-data-de-retur",
-      "summary": "",
-      "published": "2026-03-06T22:34:00+00:00",
-      "published_human": "2026-03-06T22:34",
-      "source": "https://brasov-azi.ro/"
-    },
-    {
-      "title": "De ce site-urile construite ieftin costă cel mai mult pe termen lung: calculul pe care nu îl face nimeni la început",
-      "link": "https://brasov-azi.ro/de-ce-site-urile-construite-ieftin-costa-cel-mai-mult-pe-termen-lung-calculul-pe-care-nu-il-face-nimeni-la-inceput",
-      "summary": "",
-      "published": "2026-03-05T09:01:00+00:00",
-      "published_human": "2026-03-05T09:01",
       "source": "https://brasov-azi.ro/"
     }
   ],
