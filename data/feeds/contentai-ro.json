@@ -7,87 +7,103 @@
     "rss": "https://contentai.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-11-26T02:55:14.495027+00:00",
+  "updated_at": "2026-11-26T12:53:44.968353+00:00",
   "status": "ok",
   "items": [
     {
+      "title": "Cele mai vorbite limbi din lume",
+      "link": "https://contentai.ro/cele-mai-vorbite-limbi-din-lume",
+      "summary": "Care sunt cele mai vorbite limbi din lume, după totalul vorbitorilor și după vorbitorii nativi, și în ce țări sunt limbi oficiale.",
+      "published": "2026-11-26T12:23:42+00:00",
+      "published_human": "2026-11-26T12:23",
+      "source": "https://contentai.ro/"
+    },
+    {
+      "title": "Țări francofone: unde se vorbește franceza în lume",
+      "link": "https://contentai.ro/tari-francofone",
+      "summary": "Lista țărilor francofone, pe continente: unde franceza e limbă oficială în Europa, America și Africa și unde se folosește larg fără statut oficial.",
+      "published": "2026-11-26T12:23:42+00:00",
+      "published_human": "2026-11-26T12:23",
+      "source": "https://contentai.ro/"
+    },
+    {
+      "title": "Ce limbă se vorbește în Guatemala",
+      "link": "https://contentai.ro/ce-limba-se-vorbeste-in-guatemala",
+      "summary": "În Guatemala, limba oficială este spaniola, iar limbile maya, garifuna și xinka sunt recunoscute ca limbi naționale. Vezi unde se vorbește fiecare limbă.",
+      "published": "2026-11-26T12:23:42+00:00",
+      "published_human": "2026-11-26T12:23",
+      "source": "https://contentai.ro/"
+    },
+    {
+      "title": "Ce limbă se vorbește în Ghana",
+      "link": "https://contentai.ro/ce-limba-se-vorbeste-in-ghana",
+      "summary": "În Ghana, limba oficială este engleza. Se mai vorbesc akan (twi), ewe, ga și dagbani. Vezi unde se vorbește fiecare limbă.",
+      "published": "2026-11-26T12:23:42+00:00",
+      "published_human": "2026-11-26T12:23",
+      "source": "https://contentai.ro/"
+    },
+    {
+      "title": "Ce limbă se vorbește în Senegal",
+      "link": "https://contentai.ro/ce-limba-se-vorbeste-in-senegal",
+      "summary": "În Senegal, limba oficială este franceza, iar wolof, pulaar, serer, diola și alte limbi au statut de limbi naționale; wolof e cea mai folosită în viața de zi cu zi.",
+      "published": "2026-11-26T12:23:42+00:00",
+      "published_human": "2026-11-26T12:23",
+      "source": "https://contentai.ro/"
+    },
+    {
+      "title": "Ce limbă se vorbește în Taiwan",
+      "link": "https://contentai.ro/ce-limba-se-vorbeste-in-taiwan",
+      "summary": "În Taiwan se vorbește mai ales chineza mandarină, limba administrației; hokkienul taiwanez, hakka și limbile formosane sunt recunoscute prin lege ca limbi naționale.",
+      "published": "2026-11-26T12:23:42+00:00",
+      "published_human": "2026-11-26T12:23",
+      "source": "https://contentai.ro/"
+    },
+    {
+      "title": "Ce limbă se vorbește în China",
+      "link": "https://contentai.ro/ce-limba-se-vorbeste-in-china",
+      "summary": "În China, limba oficială este chineza mandarină. Se mai vorbesc cantoneza, tibetana, uigura și mongola. Vezi unde se vorbește fiecare limbă.",
+      "published": "2026-11-26T12:23:42+00:00",
+      "published_human": "2026-11-26T12:23",
+      "source": "https://contentai.ro/"
+    },
+    {
+      "title": "Ce limbă se vorbește în Monaco",
+      "link": "https://contentai.ro/ce-limba-se-vorbeste-in-monaco",
+      "summary": "În Monaco, limba oficială este franceza. Se mai vorbesc monegasca, italiana și engleza. Vezi unde se vorbește fiecare limbă.",
+      "published": "2026-11-26T12:23:42+00:00",
+      "published_human": "2026-11-26T12:23",
+      "source": "https://contentai.ro/"
+    },
+    {
+      "title": "Ce limbă se vorbește în Franța",
+      "link": "https://contentai.ro/ce-limba-se-vorbeste-in-franta",
+      "summary": "În Franța, limba oficială este franceza. Se mai vorbesc occitana, bretona, alsaciana, corsicana și basca. Vezi unde se vorbește fiecare limbă.",
+      "published": "2026-11-26T12:23:42+00:00",
+      "published_human": "2026-11-26T12:23",
+      "source": "https://contentai.ro/"
+    },
+    {
+      "title": "Ce limbă se vorbește în Republica Moldova",
+      "link": "https://contentai.ro/ce-limba-se-vorbeste-in-republica-moldova",
+      "summary": "În Republica Moldova, limba oficială este româna. Se mai vorbesc rusa, găgăuza și ucraineana. Vezi unde se vorbește fiecare limbă.",
+      "published": "2026-11-26T12:23:42+00:00",
+      "published_human": "2026-11-26T12:23",
+      "source": "https://contentai.ro/"
+    },
+    {
       "title": "Electrocasnice second-hand: verificări la ridicare",
-      "link": "https://contentai.ro/electrocasnice-second-hand-verificari-ridicare/",
-      "summary": "Un frigider ori o mașină de spălat folosită poate părea o ofertă bună. Vezi ce informații să ceri, ce teste sunt rezonabile și cum pregătești ridicarea. Articolul Electrocasnice second-hand: verificări la ridicare apare prima dată în Content with AI .",
+      "link": "https://contentai.ro/electrocasnice-second-hand-verificari-ridicare",
+      "summary": "Electrocasnice second-hand: verifică modelul, starea, funcțiile, accesoriile, documentele și transportul înainte de a confirma cumpărarea.",
       "published": "2026-11-19T18:38:08+00:00",
       "published_human": "2026-11-19T18:38",
       "source": "https://contentai.ro/"
     },
     {
       "title": "Cum conectezi Claude sau ChatGPT la un server MCP de publicare",
-      "link": "https://contentai.ro/conectare-server-mcp-asistent-ai/",
-      "summary": "Ghid pas cu pas: cum adaugi serverul MCP Comunicate.eu in Claude, ChatGPT, Claude Code, Codex sau Cursor si ce poti cere dupa conectare. Articolul Cum conectezi Claude sau ChatGPT la un server MCP de publicare apare prima dată în Content with AI .",
+      "link": "https://contentai.ro/conectare-server-mcp-asistent-ai",
+      "summary": "Ca sa lucrezi din Claude sau ChatGPT cu un server MCP de publicare, ii dai asistentului o adresa. Uneltele, catalogul si planurile pe buget vin prin conexiune.",
       "published": "2026-11-14T11:34:38+00:00",
       "published_human": "2026-11-14T11:34",
-      "source": "https://contentai.ro/"
-    },
-    {
-      "title": "Ce porți sub haine ca ținuta să arate impecabil: 5 idei practice",
-      "link": "https://contentai.ro/ce-porti-sub-haine-ca-tinuta-sa-arate-impecabil-5-idei-practice/",
-      "summary": "O ținută poate arăta perfect pe umeraș și complet diferit pe tine, din cauza unor detalii pe care nimeni nu le vede direct. Liniile care se ghicesc prin rochie, bretelele care ies de sub top sau nuanța nepotrivită sub o cămașă albă strică imediat impresia, chiar și la cele mai bune haine din garderobă.Ce porți [&#8230;] Articolul Ce porți sub haine ca ținuta să arate impecabil: 5 idei practice apare prima dată în Content with AI .",
-      "published": "2026-10-28T10:45:56+00:00",
-      "published_human": "2026-10-28T10:45",
-      "source": "https://contentai.ro/"
-    },
-    {
-      "title": "Implant dentar la Dental Chic Cluj-Napoca: cum se desfășoară tratamentul, de la evaluare la final",
-      "link": "https://contentai.ro/implant-dentar-cluj-napoca/",
-      "summary": "Parcursul complet al implantului dentar, de la planificarea digitala la montarea coroanei. Incepe cu o analiza detaliata a osului si a dintilor vecini. Articolul Implant dentar la Dental Chic Cluj-Napoca: cum se desfășoară tratamentul, de la evaluare la final apare prima dată în Content with AI .",
-      "published": "2026-09-22T09:48:25+00:00",
-      "published_human": "2026-09-22T09:48",
-      "source": "https://contentai.ro/"
-    },
-    {
-      "title": "Lenjeria de pat 240×260 – alegerea premium pentru dormitoarele generoase",
-      "link": "https://contentai.ro/lenjeria-de-pat-240x260-alegerea-premium-pentru-dormitoarele-generoase/",
-      "summary": "Un dormitor spațios oferă libertatea de a crea un ambient elegant și relaxant, iar fiecare detaliu contribuie la această atmosferă. Pe l&#226;ngă mobilier și decorațiuni, textilele au un rol esențial &#238;n confortul de zi cu zi. Pentru paturile king size, alegerea unei lenjerii adaptate dimensiunilor este indispensabilă, at&#226;t din punct de vedere estetic, c&#226;t și [&#8230;] Articolul Lenjeria de pat 240&#215;260 – alegerea premium pentru dormitoarele generoase apare prima dată în Content with AI .",
-      "published": "2026-08-29T08:46:00+00:00",
-      "published_human": "2026-08-29T08:46",
-      "source": "https://contentai.ro/"
-    },
-    {
-      "title": "Ce presupune o consultație la medicul chirurg?",
-      "link": "https://contentai.ro/ce-presupune-o-consultatie-la-medicul-chirurg/",
-      "summary": "Simți neliniște atunci când primești o recomandare medicală pentru un specialist în chirurgie? Este o reacție firească. Mulți oameni asociază această vizită direct cu operația. Totuși, o prima consultație chirurgie este, în primul rând, o discuție clară și o evaluare atentă a stării tale de sănătate. Această întâlnire are scopul de a-ți oferi răspunsuri sigure [&#8230;] Articolul Ce presupune o consultație la medicul chirurg? apare prima dată în Content with AI .",
-      "published": "2026-07-31T08:32:01+00:00",
-      "published_human": "2026-07-31T08:32",
-      "source": "https://contentai.ro/"
-    },
-    {
-      "title": "De la conținut generat cu AI la asistenți digitali: cum devin site-urile mai utile",
-      "link": "https://contentai.ro/de-la-continut-generat-cu-ai-la-asistenti-digitali-cum-devin-site-urile-mai-utile/",
-      "summary": "Inteligența artificială a fost asociată, în ultimii ani, mai ales cu generarea de conținut. Texte pentru site-uri, descrieri de produse, articole, postări pentru social media, idei de campanii și răspunsuri automate. Pentru multe companii, acesta a fost primul contact real cu AI-ul. Dar utilizarea AI-ului începe să treacă într-o etapă mai matură. Nu mai este [&#8230;] Articolul De la conținut generat cu AI la asistenți digitali: cum devin site-urile mai utile apare prima dată în Content with AI .",
-      "published": "2026-07-12T05:31:22+00:00",
-      "published_human": "2026-07-12T05:31",
-      "source": "https://contentai.ro/"
-    },
-    {
-      "title": "Popularitatea în creștere a rasei Pomeranian în România",
-      "link": "https://contentai.ro/popularitatea-in-crestere-a-rasei-pomeranian-in-romania/",
-      "summary": "cățeluși Pomeranian de vânzare România &#8211; https://tinytreasuresteacups.com/ro/rase/pomeranian-ro/ Popularitatea în creștere a rasei Pomeranian în România Interesul pentru cățeluși Pomeranian de vânzare România a crescut constant în ultimul deceniu, pe fondul tendinței generale de adoptare a raselor de talie mică, adaptate vieții la apartament. Pomeranianul, cunoscut și sub denumirea de Spitz pitic, este una dintre cele [&#8230;] Articolul Popularitatea în creștere a rasei Pomeranian în România apare prima dată în Content with AI .",
-      "published": "2026-06-17T03:02:33+00:00",
-      "published_human": "2026-06-17T03:02",
-      "source": "https://contentai.ro/"
-    },
-    {
-      "title": "Cum identifici o proprietate premium cu adevărat valoroasă în București",
-      "link": "https://contentai.ro/cum-identifici-o-proprietate-premium-cu-adevarat-valoroasa-in-bucuresti/",
-      "summary": "Piața rezidențială premium din București se află &#238;ntr-o etapă de maturizare, iar cumpărătorii sunt din ce &#238;n ce mai atenți la detaliile care diferențiază o locuință obișnuită de o investiție cu adevărat valoroasă. Dacă &#238;n urmă cu c&#226;țiva ani accentul era pus &#238;n principal pe suprafața apartamentului și pe amplasare, &#238;n prezent criteriile sunt mult [&#8230;] Articolul Cum identifici o proprietate premium cu adevărat valoroasă în București apare prima dată în Content with AI .",
-      "published": "2026-06-15T13:06:00+00:00",
-      "published_human": "2026-06-15T13:06",
-      "source": "https://contentai.ro/"
-    },
-    {
-      "title": "Cum faci un anunț online mai vizibil fără să folosești texte agresive",
-      "link": "https://contentai.ro/cum-faci-anunt-online-mai-vizibil-fara-texte-agresive/",
-      "summary": "Un ghid practic despre cum îți faci anunțul online mai vizibil fără formule forțate, cu pași simpli care țin de titlu, fotografie, descriere, categorie, preț și actualizarea ofertei.` Articolul Cum faci un anunț online mai vizibil fără să folosești texte agresive apare prima dată în Content with AI .",
-      "published": "2026-06-14T09:57:02+00:00",
-      "published_human": "2026-06-14T09:57",
       "source": "https://contentai.ro/"
     }
   ],

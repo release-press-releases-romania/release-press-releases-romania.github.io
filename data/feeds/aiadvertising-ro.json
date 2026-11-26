@@ -10,87 +10,103 @@
     "url": "https://social.5th.ro/@ai_advertising",
     "rss": "https://social.5th.ro/@ai_advertising.rss"
   },
-  "updated_at": "2026-11-26T02:55:14.495027+00:00",
+  "updated_at": "2026-11-26T12:53:44.968353+00:00",
   "status": "ok",
   "items": [
     {
+      "title": "Meta Ads: ce este și cum funcționează reclamele pe Facebook și Instagram",
+      "link": "https://aiadvertising.ro/ce-este-meta-ads",
+      "summary": "Meta Ads este platforma de reclame pentru Facebook, Instagram, Messenger și aplicațiile partenere. Cum e organizată o campanie și cum se plătește.",
+      "published": "2026-11-26T12:27:03+00:00",
+      "published_human": "2026-11-26T12:27",
+      "source": "https://aiadvertising.ro/"
+    },
+    {
+      "title": "LTV (lifetime value): ce este, formula și exemplu",
+      "link": "https://aiadvertising.ro/ce-este-ltv-lifetime-value",
+      "summary": "LTV (lifetime value) arată cât aduce un client pe toată durata relației cu firma. Formula, un exemplu de calcul și legătura cu costul de achiziție.",
+      "published": "2026-11-26T12:27:03+00:00",
+      "published_human": "2026-11-26T12:27",
+      "source": "https://aiadvertising.ro/"
+    },
+    {
+      "title": "Landing page: ce este și ce trebuie să conțină",
+      "link": "https://aiadvertising.ro/ce-este-un-landing-page",
+      "summary": "Landing page-ul este pagina pe care ajunge omul după clicul pe o reclamă și care îi cere o singură acțiune. Ce conține și cum îl măsori.",
+      "published": "2026-11-26T12:27:03+00:00",
+      "published_human": "2026-11-26T12:27",
+      "source": "https://aiadvertising.ro/"
+    },
+    {
+      "title": "SEM (search engine marketing): ce este și cum diferă de SEO",
+      "link": "https://aiadvertising.ro/ce-este-sem-search-engine-marketing",
+      "summary": "SEM înseamnă promovarea în motoarele de căutare, de obicei prin reclame plătite. Cum funcționează, ce îl deosebește de SEO și de PPC și ce urmărești.",
+      "published": "2026-11-26T12:27:03+00:00",
+      "published_human": "2026-11-26T12:27",
+      "source": "https://aiadvertising.ro/"
+    },
+    {
+      "title": "SSP (supply-side platform): ce este și cum funcționează",
+      "link": "https://aiadvertising.ro/ce-este-ssp-supply-side-platform",
+      "summary": "SSP-ul este platforma prin care site-urile și aplicațiile își vând automat spațiul publicitar. Cum funcționează, ce e prețul minim și ce îl deosebește de DSP.",
+      "published": "2026-11-26T12:27:03+00:00",
+      "published_human": "2026-11-26T12:27",
+      "source": "https://aiadvertising.ro/"
+    },
+    {
+      "title": "DSP (demand-side platform): ce este și cum funcționează",
+      "link": "https://aiadvertising.ro/ce-este-dsp-demand-side-platform",
+      "summary": "Un DSP este platforma prin care advertiserii cumpără automat afișări de pe mii de site-uri și aplicații. Cum funcționează, ce îl deosebește de SSP și exemple.",
+      "published": "2026-11-26T12:27:03+00:00",
+      "published_human": "2026-11-26T12:27",
+      "source": "https://aiadvertising.ro/"
+    },
+    {
+      "title": "Advertorial: ce este și cum se recunoaște",
+      "link": "https://aiadvertising.ro/ce-este-un-advertorial",
+      "summary": "Advertorialul este un articol plătit, scris în stilul presei și marcat ca publicitate. Ce îl deosebește de un articol obișnuit și cum se marchează corect.",
+      "published": "2026-11-26T12:27:03+00:00",
+      "published_human": "2026-11-26T12:27",
+      "source": "https://aiadvertising.ro/"
+    },
+    {
+      "title": "ROAS (return on ad spend): ce este, formula și exemplu",
+      "link": "https://aiadvertising.ro/ce-este-roas-return-on-ad-spend",
+      "summary": "ROAS arată câți lei încasezi pentru fiecare leu dat pe reclame. Formula, un exemplu de calcul și pragul de la care o campanie începe să aducă profit.",
+      "published": "2026-11-26T12:27:03+00:00",
+      "published_human": "2026-11-26T12:27",
+      "source": "https://aiadvertising.ro/"
+    },
+    {
       "title": "Stocuri de marfă la lichidare: ce verifici",
-      "link": "https://aiadvertising.ro/stocuri-de-marfa-la-lichidare/",
-      "summary": "O reducere mare la un lot de produse nu dovedește că firma va putea vinde toate articolele. Verifică marfa și condițiile. Articolul Stocuri de marfă la lichidare: ce verifici apare prima dată în Ai advertising .",
+      "link": "https://aiadvertising.ro/stocuri-de-marfa-la-lichidare",
+      "summary": "Stocuri de marfă la lichidare: cum verifici lista de produse, documentele, starea, depozitarea, transportul și costurile pentru firma ta.",
       "published": "2026-11-20T09:36:44+00:00",
       "published_human": "2026-11-20T09:36",
       "source": "https://aiadvertising.ro/"
     },
     {
       "title": "Cât durează, de fapt, realizarea unui magazin online și ce îl întârzie",
-      "link": "https://aiadvertising.ro/cat-dureaza-de-fapt-realizarea-unui-magazin-online-si-ce-il-intarzie/",
-      "summary": "Aproape orice magazin online nou are două date de lansare: cea stabilită la prima discuție... Articolul Cât durează, de fapt, realizarea unui magazin online și ce îl întârzie apare prima dată în Ai advertising .",
+      "link": "https://aiadvertising.ro/cat-dureaza-de-fapt-realizarea-unui-magazin-online-si-ce-il-intarzie",
+      "summary": "",
       "published": "2026-11-15T19:53:30+00:00",
       "published_human": "2026-11-15T19:53",
       "source": "https://aiadvertising.ro/"
     },
     {
       "title": "Top 5 soluții de securitate pentru menținerea supravegherii video în timpul unei pene de curent",
-      "link": "https://aiadvertising.ro/supraveghere-video-pene-de-curent/",
-      "summary": "Descopera optiuni practice pentru a mentine camerele de supraveghere functionale cand nu ai curent, de la UPS la sisteme autonome solare. Articolul Top 5 soluții de securitate pentru menținerea supravegherii video în timpul unei pene de curent apare prima dată în Ai advertising .",
+      "link": "https://aiadvertising.ro/supraveghere-video-pene-de-curent",
+      "summary": "Afla cum sa pastrezi supravegherea video activa in timpul penelor de curent, folosind UPS, camere cu acumulator si solutii 4G.",
       "published": "2026-09-25T16:37:44+00:00",
       "published_human": "2026-09-25T16:37",
       "source": "https://aiadvertising.ro/"
     },
     {
       "title": "De ce să alegi un model hibrid de vânzare: cum combini site-ul propriu cu Infinity Marketplace",
-      "link": "https://aiadvertising.ro/model-hibrid-site-ul-propriu-marketplace-2/",
-      "summary": "Descopera cum sincronizarea stocului si audienta activa a unui marketplace completeaza site ul propriu, oferind o sursa stabila de comenzi. Articolul De ce să alegi un model hibrid de vânzare: cum combini site-ul propriu cu Infinity Marketplace apare prima dată în Ai advertising .",
+      "link": "https://aiadvertising.ro/model-hibrid-site-ul-propriu-marketplace-2",
+      "summary": "Afla cum un model hibrid de vanzare combina site ul propriu cu un marketplace pentru a stabili veniturile si a reduce riscul de trafic.",
       "published": "2026-09-25T15:40:56+00:00",
       "published_human": "2026-09-25T15:40",
-      "source": "https://aiadvertising.ro/"
-    },
-    {
-      "title": "De ce să alegi un model hibrid de vânzare: cum combini site-ul propriu cu Infinity Marketplace",
-      "link": "https://aiadvertising.ro/model-hibrid-site-ul-propriu-marketplace/",
-      "summary": "Descopera cum un model hibrid de vanzare iti ofera controlul asupra brandului si accesul la o audienta activa, fara costuri fixe suplimentare. Articolul De ce să alegi un model hibrid de vânzare: cum combini site-ul propriu cu Infinity Marketplace apare prima dată în Ai advertising .",
-      "published": "2026-09-25T15:40:55+00:00",
-      "published_human": "2026-09-25T15:40",
-      "source": "https://aiadvertising.ro/"
-    },
-    {
-      "title": "De la tradiție la excelență: de ce să alegi bijuterii de aur din România semnate TEILOR",
-      "link": "https://aiadvertising.ro/bijuterii-aur-din-romania-teilor/",
-      "summary": "TEILOR combină tradiția artizanală cu certificări internaționale, oferind bijuterii din aur 18K și diamante GIA într-o rețea extinsă de magazine. Articolul De la tradiție la excelență: de ce să alegi bijuterii de aur din România semnate TEILOR apare prima dată în Ai advertising .",
-      "published": "2026-09-14T16:05:17+00:00",
-      "published_human": "2026-09-14T16:05",
-      "source": "https://aiadvertising.ro/"
-    },
-    {
-      "title": "Asigurare de călătorie – Șapte documente pe care trebuie să le păstrezi după o consultație în străinătate",
-      "link": "https://aiadvertising.ro/asigurare-de-calatorie-sapte-documente-pe-care-trebuie-sa-le-pastrezi-dupa-o-consultatie-in-strainatate/",
-      "summary": "O consultație medicală în vacanță se poate termina în câteva zeci de minute, însă recuperarea... Articolul Asigurare de călătorie &#8211; Șapte documente pe care trebuie să le păstrezi după o consultație în străinătate apare prima dată în Ai advertising .",
-      "published": "2026-09-03T11:56:00+00:00",
-      "published_human": "2026-09-03T11:56",
-      "source": "https://aiadvertising.ro/"
-    },
-    {
-      "title": "La câte puncte de penalizare se suspendă permisul și cum funcționează sistemul în România",
-      "link": "https://aiadvertising.ro/la-cate-puncte-de-penalizare-se-suspenda-permisul-si-cum-functioneaza-sistemul-in-romania/",
-      "summary": "În România, permisul se suspendă la acumularea a 15 puncte de penalizare. La primul astfel... Articolul La câte puncte de penalizare se suspendă permisul și cum funcționează sistemul în România apare prima dată în Ai advertising .",
-      "published": "2026-08-28T21:33:00+00:00",
-      "published_human": "2026-08-28T21:33",
-      "source": "https://aiadvertising.ro/"
-    },
-    {
-      "title": "Cum folosești AI ca să scrii un anunț clar, fără să inventezi detalii: ghid CSV.RO",
-      "link": "https://aiadvertising.ro/cum-folosesti-ai-scrii-anunt-clar-fara-inventezi-detalii/",
-      "summary": "Folosește AI pentru titlu și structură, dar verifică manual starea, specificațiile, prețul și fotografiile înainte să publici un anunț. Articolul Cum folosești AI ca să scrii un anunț clar, fără să inventezi detalii: ghid CSV.RO apare prima dată în Ai advertising .",
-      "published": "2026-08-14T09:43:08+00:00",
-      "published_human": "2026-08-14T09:43",
-      "source": "https://aiadvertising.ro/"
-    },
-    {
-      "title": "Cancerul gastric: diagnostic precoce și tratament chirurgical",
-      "link": "https://aiadvertising.ro/cancerul-gastric-diagnostic-precoce-si-tratament-chirurgical/",
-      "summary": "Sănătatea digestivă este esențială pentru o viață echilibrată și plină de energie. Cu toate acestea,... Articolul Cancerul gastric: diagnostic precoce și tratament chirurgical apare prima dată în Ai advertising .",
-      "published": "2026-07-31T08:32:01+00:00",
-      "published_human": "2026-07-31T08:32",
       "source": "https://aiadvertising.ro/"
     }
   ],

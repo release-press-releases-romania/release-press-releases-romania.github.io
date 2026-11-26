@@ -7,9 +7,17 @@
     "rss": "https://vhm.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-11-26T02:55:14.495027+00:00",
+  "updated_at": "2026-11-26T12:53:44.968353+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Cum devii bucatar: calificare, primii pasi si cum cresti in bucatarie",
+      "link": "https://vhm.ro/cum-devii-bucatar-calificare-primii-pasi-si-cum-cresti-in-bucatarie/",
+      "summary": "Să știi să gătești acasă nu înseamnă automat că știi cum funcționează o bucătărie profesională. The post Cum devii bucatar: calificare, primii pasi si cum cresti in bucatarie appeared first on Comunicate de presa online .",
+      "published": "2026-11-26T12:01:57+00:00",
+      "published_human": "2026-11-26T12:01",
+      "source": "https://vhm.ro/"
+    },
     {
       "title": "Mentenanță PrestaShop cu actualizări testate și un plan pentru incidente",
       "link": "https://vhm.ro/mentenanta-prestashop-plan-incidente/",
@@ -80,14 +88,6 @@
       "summary": "Într-o sală nouă, tentația e să comanzi sacii primii și să vezi după aceea cum The post În sala de box, locul sacului se decide înaintea modelului appeared first on Comunicate de presa online .",
       "published": "2026-10-06T11:54:08+00:00",
       "published_human": "2026-10-06T11:54",
-      "source": "https://vhm.ro/"
-    },
-    {
-      "title": "ATM RO Metal Construction își extinde serviciile de montaj structuri metalice în Europa",
-      "link": "https://vhm.ro/atm-ro-metal-construction-montaj-structuri-metalice-europa/",
-      "summary": "ATM RO Metal Construction își extinde serviciile de montaj structuri metalice, fitting și placări pentru proiecte de construcții din Europa. The post ATM RO Metal Construction își extinde serviciile de montaj structuri metalice în Europa appeared first on Comunicate de presa online .",
-      "published": "2026-10-05T08:55:10+00:00",
-      "published_human": "2026-10-05T08:55",
       "source": "https://vhm.ro/"
     }
   ],

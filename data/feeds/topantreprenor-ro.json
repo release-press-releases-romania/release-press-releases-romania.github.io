@@ -10,7 +10,7 @@
     "url": "https://social.5th.ro/@topantreprenor",
     "rss": "https://social.5th.ro/@topantreprenor.rss"
   },
-  "updated_at": "2026-11-26T02:55:14.495027+00:00",
+  "updated_at": "2026-11-26T12:53:44.968353+00:00",
   "status": "ok",
   "items": [
     {
@@ -19,6 +19,14 @@
       "summary": "",
       "published": "2026-11-23T13:59:45+00:00",
       "published_human": "2026-11-23T13:59",
+      "source": "https://topantreprenor.ro/"
+    },
+    {
+      "title": "Piese auto second-hand: verificarea compatibilității",
+      "link": "https://topantreprenor.ro/verificarea-compatibilitatii-piese-auto",
+      "summary": "O piesă care arată identic poate să nu fie compatibilă cu vehiculul tău. Cum reduci riscul unei achiziții greșite.",
+      "published": "2026-11-20T06:52:44+00:00",
+      "published_human": "2026-11-20T06:52",
       "source": "https://topantreprenor.ro/"
     },
     {
@@ -99,14 +107,6 @@
       "summary": "Descopera trei carti romanesti contemporane: nonfictiune, pamflet si poezie. Afla cum fiecare autor abordeaza memoria, societatea si interioritatea.",
       "published": "2026-10-13T19:42:40+00:00",
       "published_human": "2026-10-13T19:42",
-      "source": "https://topantreprenor.ro/"
-    },
-    {
-      "title": "Dincolo de periaj: obiceiurile mici care pot schimba felul în care ai grijă de dinții tăi",
-      "link": "https://topantreprenor.ro/obiceiuri-care-pot-schimba-igiena-orala",
-      "summary": "Descopera cum obiceiurile zilnice pot schimba igiena orala. Afla ce gesturi simple iti protejeaza dintii pe termen lung si cand sa mergi la dentist.",
-      "published": "2026-10-10T18:33:12+00:00",
-      "published_human": "2026-10-10T18:33",
       "source": "https://topantreprenor.ro/"
     }
   ],
