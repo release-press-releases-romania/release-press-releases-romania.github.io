@@ -5,8 +5,8 @@
     <link>https://release-press-releases-romania.github.io</link>
     <description>Aggregated RSS feed of press releases from over 100 Romanian publishers. Covering PR &amp; Marketing, Health, News &amp; Society, Technology, Business, Construction, Tourism, and more. Curated selection of quality press releases from trusted Romanian sources.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Nov 2026 01:20:14 +0000</lastBuildDate>
-    <pubDate>Fri, 27 Nov 2026 01:20:14 +0000</pubDate>
+    <lastBuildDate>Fri, 27 Nov 2026 15:53:27 +0000</lastBuildDate>
+    <pubDate>Fri, 27 Nov 2026 15:53:27 +0000</pubDate>
     <generator>Release Press Releases in Romania RSS Aggregator v2.0</generator>
     <webMaster>noreply@release-press-releases-romania.github.io (Release Press Releases)</webMaster>
     <managingEditor>noreply@release-press-releases-romania.github.io (Release Press Releases)</managingEditor>
@@ -28,6 +28,87 @@
     <sy:updateFrequency>1</sy:updateFrequency>
     <copyright>Copyright 2026 Release Press Releases in Romania. Content belongs to respective publishers.</copyright>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>De ce supraestimăm uneori controlul pe care îl avem la volan? Psihologia condusului pe timp de iarnă</title>
+      <link>https://societatecivila.ro/de-ce-supraestimam-uneori-controlul-pe-care-il-avem-la-volan-psihologia-condusului-pe-timp-de-iarna/</link>
+      <description><![CDATA[From Societatecivila: Există drumuri pe care le cunoaștem atât de bine, încât aproape că anticipăm fiecare curbă, intersecție sau denivelare. Știm unde se formează coloanele de mașini dimineața, unde trebuie să schimbăm banda și cât durează, în mod obișnuit, deplasarea până la serviciu. Familiaritatea cu traseul ne ajută să conducem mai relaxat, însă percepția asupra unui drum cunoscut se poate schimba odată cu veni...]]></description>
+      <pubDate>Fri, 27 Nov 2026 14:08:31 +0000</pubDate>
+      <author>Societatecivila (https://release-press-releases-romania.github.io/publisher/societatecivila-ro/)</author>
+      <dc:creator>Societatecivila</dc:creator>
+      <dc:date>2026-11-27T14:08:31+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">News &amp; Society</category>
+      <guid isPermaLink="true">https://societatecivila.ro/de-ce-supraestimam-uneori-controlul-pe-care-il-avem-la-volan-psihologia-condusului-pe-timp-de-iarna/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/societatecivila-ro/">Societatecivila</source>
+      <content:encoded><![CDATA[From Societatecivila: Există drumuri pe care le cunoaștem atât de bine, încât aproape că anticipăm fiecare curbă, intersecție sau denivelare. Știm unde se formează coloanele de mașini dimineața, unde trebuie să schimbăm banda și cât durează, în mod obișnuit, deplasarea până la serviciu. Familiaritatea cu traseul ne ajută să conducem mai relaxat, însă percepția asupra unui drum cunoscut se poate schimba odată cu veni...]]></content:encoded>
+      <comments>https://societatecivila.ro/de-ce-supraestimam-uneori-controlul-pe-care-il-avem-la-volan-psihologia-condusului-pe-timp-de-iarna/#comments</comments>
+    </item>
+    <item>
+      <title>Soluții moderne pentru recuperarea mobilității și îmbunătățirea calității vieții</title>
+      <link>https://doctorite.ro/solutii-mobilitatii-si-imbunatatirea-vietii</link>
+      <description><![CDATA[From Doctorite: Afla cum kinetoterapia sprijina mobilitatii si imbunatatirea functiilor corporale prin exercitii adaptate nevoilor tale.]]></description>
+      <pubDate>Fri, 27 Nov 2026 13:32:20 +0000</pubDate>
+      <author>Doctorite (https://release-press-releases-romania.github.io/publisher/doctorite-ro/)</author>
+      <dc:creator>Doctorite</dc:creator>
+      <dc:date>2026-11-27T13:32:20+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">Health</category>
+      <guid isPermaLink="true">https://doctorite.ro/solutii-mobilitatii-si-imbunatatirea-vietii</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/doctorite-ro/">Doctorite</source>
+      <comments>https://doctorite.ro/solutii-mobilitatii-si-imbunatatirea-vietii#comments</comments>
+    </item>
+    <item>
+      <title>Etichete personalizate în rolă – soluția practică pentru branding, identificare și prezentarea profesională a produselor</title>
+      <link>https://topcomunicate.ro/etichete-personalizate-in-rola</link>
+      <description><![CDATA[From Topcomunicate: Afla cum etichetele personalizate in rola te ajuta sa iti diferentiezi produsele, sa eficientizezi ambalarea si sa oferi o imagine profesionala clientilor.]]></description>
+      <pubDate>Fri, 27 Nov 2026 13:23:12 +0000</pubDate>
+      <author>Topcomunicate (https://release-press-releases-romania.github.io/publisher/topcomunicate-ro/)</author>
+      <dc:creator>Topcomunicate</dc:creator>
+      <dc:date>2026-11-27T13:23:12+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">PR &amp; Marketing</category>
+      <guid isPermaLink="true">https://topcomunicate.ro/etichete-personalizate-in-rola</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/topcomunicate-ro/">Topcomunicate</source>
+      <comments>https://topcomunicate.ro/etichete-personalizate-in-rola#comments</comments>
+    </item>
+    <item>
+      <title>Echilibrul dintre confortul casei, îngrijirea personală și sănătatea emoțională</title>
+      <link>https://ghid-sanatate.ro/echilibru-confort-ingrijire-sanatatea-emotionala/</link>
+      <description><![CDATA[From Ghid Sanatate: Calitatea vieții este influențată de numeroși factori, iar o mare parte dintre aceștia țin de alegerile pe care le facem în fiecare zi. Mediul în care locuim, atenția acordată îngrijirii personale și modul în care gestionăm emoțiile contribuie la starea generală de bine. Deși pot părea domenii diferite, amenajarea locuinței, rutina de îngrijire și sănătatea emoțională sunt strâns legate de felu...]]></description>
+      <pubDate>Fri, 27 Nov 2026 12:29:49 +0000</pubDate>
+      <author>Ghid Sanatate (https://release-press-releases-romania.github.io/publisher/ghid-sanatate-ro/)</author>
+      <dc:creator>Ghid Sanatate</dc:creator>
+      <dc:date>2026-11-27T12:29:49+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">Health</category>
+      <guid isPermaLink="true">https://ghid-sanatate.ro/echilibru-confort-ingrijire-sanatatea-emotionala/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/ghid-sanatate-ro/">Ghid Sanatate</source>
+      <content:encoded><![CDATA[From Ghid Sanatate: Calitatea vieții este influențată de numeroși factori, iar o mare parte dintre aceștia țin de alegerile pe care le facem în fiecare zi. Mediul în care locuim, atenția acordată îngrijirii personale și modul în care gestionăm emoțiile contribuie la starea generală de bine. Deși pot părea domenii diferite, amenajarea locuinței, rutina de îngrijire și sănătatea emoțională sunt strâns legate de felu...]]></content:encoded>
+      <comments>https://ghid-sanatate.ro/echilibru-confort-ingrijire-sanatatea-emotionala/#comments</comments>
+    </item>
+    <item>
+      <title>Cum transformi locuința într-un spațiu practic și primitor: mobilierul și accesoriile care fac diferența</title>
+      <link>https://amenajari360.ro/mobilier-si-accesorii-pentru-locuinta/</link>
+      <description><![CDATA[From Amenajari360: Casa este mai mult decât un loc în care ne întoarcem la finalul zilei. Este spațiul în care ne relaxăm, ne petrecem timpul alături de familie, gătim, lucrăm și ne bucurăm de momentele simple ale vieții. Tocmai de aceea, amenajarea locuinței trebuie să țină cont atât de aspectul estetic, cât și de funcționalitatea fiecărei încăperi. Alegerea mobilierului, organizarea spațiilor și utilizarea unor...]]></description>
+      <pubDate>Fri, 27 Nov 2026 12:26:42 +0000</pubDate>
+      <author>Amenajari360 (https://release-press-releases-romania.github.io/publisher/amenajari360-ro/)</author>
+      <dc:creator>Amenajari360</dc:creator>
+      <dc:date>2026-11-27T12:26:42+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">Construction &amp; Home</category>
+      <guid isPermaLink="true">https://amenajari360.ro/mobilier-si-accesorii-pentru-locuinta/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/amenajari360-ro/">Amenajari360</source>
+      <content:encoded><![CDATA[From Amenajari360: Casa este mai mult decât un loc în care ne întoarcem la finalul zilei. Este spațiul în care ne relaxăm, ne petrecem timpul alături de familie, gătim, lucrăm și ne bucurăm de momentele simple ale vieții. Tocmai de aceea, amenajarea locuinței trebuie să țină cont atât de aspectul estetic, cât și de funcționalitatea fiecărei încăperi. Alegerea mobilierului, organizarea spațiilor și utilizarea unor...]]></content:encoded>
+      <comments>https://amenajari360.ro/mobilier-si-accesorii-pentru-locuinta/#comments</comments>
+    </item>
+    <item>
+      <title>Cinci obiceiuri zilnice prin care îți susții imunitatea iarna</title>
+      <link>https://doctorite.ro/cinci-obiceiuri-zilnice-prin-care-iti-sustii-imunitatea-iarna</link>
+      <description><![CDATA[From Doctorite: ]]></description>
+      <pubDate>Fri, 27 Nov 2026 11:02:41 +0000</pubDate>
+      <author>Doctorite (https://release-press-releases-romania.github.io/publisher/doctorite-ro/)</author>
+      <dc:creator>Doctorite</dc:creator>
+      <dc:date>2026-11-27T11:02:41+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">Health</category>
+      <guid isPermaLink="true">https://doctorite.ro/cinci-obiceiuri-zilnice-prin-care-iti-sustii-imunitatea-iarna</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/doctorite-ro/">Doctorite</source>
+      <comments>https://doctorite.ro/cinci-obiceiuri-zilnice-prin-care-iti-sustii-imunitatea-iarna#comments</comments>
+    </item>
     <item>
       <title>Muzeul Regiunii Porților de Fier din Drobeta-Turnu Severin: ce vezi</title>
       <link>https://oltenia-news.ro/muzeul-regiunii-portilor-de-fier-drobeta-turnu-severin-ce-vezi</link>
@@ -379,6 +460,76 @@
       <comments>https://topcomunicate.ro/jante-alpha-anvelopelor-pentru-motociclete#comments</comments>
     </item>
     <item>
+      <title>„Pecetea celor Fara de Frica”</title>
+      <link>https://drepturisociale.ro/lansarea-pecetea-celor/</link>
+      <description><![CDATA[From Drepturisociale: INVITATIE „Pecetea celor Fara de Frica” Istoria decriptata: Povesti secrete ale marilor eroi de Arina Avram Data: 5 decembrie 2026 Locul: Targul de Carte Gaudeamus Radio Romania, Romexpo, Bucuresti Ora:18:00 Standul: 105 Exista momente in care o comunitate simte nevoia sa priveasca inapoi, nu din nostalgie, ci din dorinta de a intelege mai bine cine este si incotro merge. Anul 2026 este un astf...]]></description>
+      <pubDate>Tue, 24 Nov 2026 08:35:00 +0000</pubDate>
+      <author>Drepturisociale (https://release-press-releases-romania.github.io/publisher/drepturisociale-ro/)</author>
+      <dc:creator>Drepturisociale</dc:creator>
+      <dc:date>2026-11-24T08:35:00+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">News &amp; Society</category>
+      <guid isPermaLink="true">https://drepturisociale.ro/lansarea-pecetea-celor/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/drepturisociale-ro/">Drepturisociale</source>
+      <content:encoded><![CDATA[From Drepturisociale: INVITATIE „Pecetea celor Fara de Frica” Istoria decriptata: Povesti secrete ale marilor eroi de Arina Avram Data: 5 decembrie 2026 Locul: Targul de Carte Gaudeamus Radio Romania, Romexpo, Bucuresti Ora:18:00 Standul: 105 Exista momente in care o comunitate simte nevoia sa priveasca inapoi, nu din nostalgie, ci din dorinta de a intelege mai bine cine este si incotro merge. Anul 2026 este un astf...]]></content:encoded>
+      <comments>https://drepturisociale.ro/lansarea-pecetea-celor/#comments</comments>
+    </item>
+    <item>
+      <title>„Pecetea celor Fara de Frica”</title>
+      <link>https://recent-news.ro/lansarea-pecetea-celor/</link>
+      <description><![CDATA[From Recent News: INVITATIE „Pecetea celor Fara de Frica” Istoria decriptata: Povesti secrete ale marilor eroi de Arina Avram Data: 5 decembrie 2026 Locul: Targul de Carte Gaudeamus Radio Romania, Romexpo, Bucuresti Ora:18:00 Standul: 105 Exista momente in care o comunitate simte nevoia sa priveasca inapoi, nu din nostalgie, ci din dorinta de a intelege mai bine cine este si incotro merge. Anul 2026 este un astf...]]></description>
+      <pubDate>Tue, 24 Nov 2026 08:35:00 +0000</pubDate>
+      <author>Recent News (https://release-press-releases-romania.github.io/publisher/recent-news-ro/)</author>
+      <dc:creator>Recent News</dc:creator>
+      <dc:date>2026-11-24T08:35:00+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">News &amp; Society</category>
+      <guid isPermaLink="true">https://recent-news.ro/lansarea-pecetea-celor/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/recent-news-ro/">Recent News</source>
+      <content:encoded><![CDATA[From Recent News: INVITATIE „Pecetea celor Fara de Frica” Istoria decriptata: Povesti secrete ale marilor eroi de Arina Avram Data: 5 decembrie 2026 Locul: Targul de Carte Gaudeamus Radio Romania, Romexpo, Bucuresti Ora:18:00 Standul: 105 Exista momente in care o comunitate simte nevoia sa priveasca inapoi, nu din nostalgie, ci din dorinta de a intelege mai bine cine este si incotro merge. Anul 2026 este un astf...]]></content:encoded>
+      <comments>https://recent-news.ro/lansarea-pecetea-celor/#comments</comments>
+    </item>
+    <item>
+      <title>„Pecetea celor Fara de Frica”</title>
+      <link>https://ifemeie.ro/lansarea-pecetea-celor/</link>
+      <description><![CDATA[From iFemeie: INVITATIE „Pecetea celor Fara de Frica” Istoria decriptata: Povesti secrete ale marilor eroi de Arina Avram Data: 5 decembrie 2026 Locul: Targul de Carte Gaudeamus Radio Romania, Romexpo, Bucuresti Ora:18:00 Standul: 105 Exista momente in care o comunitate simte nevoia sa priveasca inapoi, nu din nostalgie, ci din dorinta de a intelege mai bine cine este si incotro merge. Anul 2026 este un astf...]]></description>
+      <pubDate>Tue, 24 Nov 2026 08:35:00 +0000</pubDate>
+      <author>iFemeie (https://release-press-releases-romania.github.io/publisher/ifemeie-ro/)</author>
+      <dc:creator>iFemeie</dc:creator>
+      <dc:date>2026-11-24T08:35:00+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">Miscellaneous</category>
+      <guid isPermaLink="true">https://ifemeie.ro/lansarea-pecetea-celor/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/ifemeie-ro/">iFemeie</source>
+      <content:encoded><![CDATA[From iFemeie: INVITATIE „Pecetea celor Fara de Frica” Istoria decriptata: Povesti secrete ale marilor eroi de Arina Avram Data: 5 decembrie 2026 Locul: Targul de Carte Gaudeamus Radio Romania, Romexpo, Bucuresti Ora:18:00 Standul: 105 Exista momente in care o comunitate simte nevoia sa priveasca inapoi, nu din nostalgie, ci din dorinta de a intelege mai bine cine este si incotro merge. Anul 2026 este un astf...]]></content:encoded>
+      <comments>https://ifemeie.ro/lansarea-pecetea-celor/#comments</comments>
+    </item>
+    <item>
+      <title>„Pecetea celor Fara de Frica”</title>
+      <link>https://societatecivila.ro/lansarea-pecetea-celor/</link>
+      <description><![CDATA[From Societatecivila: INVITATIE „Pecetea celor Fara de Frica” Istoria decriptata: Povesti secrete ale marilor eroi de Arina Avram Data: 5 decembrie 2026 Locul: Targul de Carte Gaudeamus Radio Romania, Romexpo, Bucuresti Ora:18:00 Standul: 105 Exista momente in care o comunitate simte nevoia sa priveasca inapoi, nu din nostalgie, ci din dorinta de a intelege mai bine cine este si incotro merge. Anul 2026 este un astf...]]></description>
+      <pubDate>Tue, 24 Nov 2026 08:35:00 +0000</pubDate>
+      <author>Societatecivila (https://release-press-releases-romania.github.io/publisher/societatecivila-ro/)</author>
+      <dc:creator>Societatecivila</dc:creator>
+      <dc:date>2026-11-24T08:35:00+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">News &amp; Society</category>
+      <guid isPermaLink="true">https://societatecivila.ro/lansarea-pecetea-celor/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/societatecivila-ro/">Societatecivila</source>
+      <content:encoded><![CDATA[From Societatecivila: INVITATIE „Pecetea celor Fara de Frica” Istoria decriptata: Povesti secrete ale marilor eroi de Arina Avram Data: 5 decembrie 2026 Locul: Targul de Carte Gaudeamus Radio Romania, Romexpo, Bucuresti Ora:18:00 Standul: 105 Exista momente in care o comunitate simte nevoia sa priveasca inapoi, nu din nostalgie, ci din dorinta de a intelege mai bine cine este si incotro merge. Anul 2026 este un astf...]]></content:encoded>
+      <comments>https://societatecivila.ro/lansarea-pecetea-celor/#comments</comments>
+    </item>
+    <item>
+      <title>„Pecetea celor Fara de Frica”</title>
+      <link>https://stiri-live.ro/lansarea-pecetea-celor/</link>
+      <description><![CDATA[From Stiri Live: INVITATIE „Pecetea celor Fara de Frica” Istoria decriptata: Povesti secrete ale marilor eroi de Arina Avram Data: 5 decembrie 2026 Locul: Targul de Carte Gaudeamus Radio Romania, Romexpo, Bucuresti Ora:18:00 Standul: 105 Exista momente in care o comunitate simte nevoia sa priveasca inapoi, nu din nostalgie, ci din dorinta de a intelege mai bine cine este si incotro merge. Anul 2026 este un astf...]]></description>
+      <pubDate>Tue, 24 Nov 2026 08:35:00 +0000</pubDate>
+      <author>Stiri Live (https://release-press-releases-romania.github.io/publisher/stiri-live-ro/)</author>
+      <dc:creator>Stiri Live</dc:creator>
+      <dc:date>2026-11-24T08:35:00+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">News &amp; Society</category>
+      <guid isPermaLink="true">https://stiri-live.ro/lansarea-pecetea-celor/</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/stiri-live-ro/">Stiri Live</source>
+      <content:encoded><![CDATA[From Stiri Live: INVITATIE „Pecetea celor Fara de Frica” Istoria decriptata: Povesti secrete ale marilor eroi de Arina Avram Data: 5 decembrie 2026 Locul: Targul de Carte Gaudeamus Radio Romania, Romexpo, Bucuresti Ora:18:00 Standul: 105 Exista momente in care o comunitate simte nevoia sa priveasca inapoi, nu din nostalgie, ci din dorinta de a intelege mai bine cine este si incotro merge. Anul 2026 este un astf...]]></content:encoded>
+      <comments>https://stiri-live.ro/lansarea-pecetea-celor/#comments</comments>
+    </item>
+    <item>
       <title>Optimizare SEO PrestaShop pornind de la categorii produse și filtre</title>
       <link>https://arta-constructiilor.ro/optimizare-seo-prestashop-categorii/</link>
       <description><![CDATA[From Arta Constructiilor: Un magazin poate avea mii de produse și totuși puține pagini care răspund clar căutărilor clienților. Unele categorii au denumiri prea generale, alte pagini repetă aceleași descrieri, iar filtrele produc multe adrese asemănătoare. Optimizarea SEO PrestaShop începe cu o întrebare practică: ce pagină ar trebui să găsească persoana care caută un anumit produs sau o anumită categorie și ce informaț...]]></description>
@@ -519,20 +670,6 @@
       <comments>https://ghid-sanatate.ro/de-ce-se-trezesc-varstnicii-noaptea/#comments</comments>
     </item>
     <item>
-      <title>Fără tratamente termice agresive: de ce metoda de pasteurizare Artesana nu schimbă calitatea laptelui</title>
-      <link>https://ghid-sanatate.ro/pasteurizare-blanda-lapte-artesana/</link>
-      <description><![CDATA[From Ghid Sanatate: Pasteurizarea este etapa care face laptele sigur pentru consum, dar temperatura la care se desfășoară acest proces influențează gustul. Laptele proaspăt Artesana este pasteurizat la temperatură blândă, la 82°C, o valoare suficientă pentru siguranța produsului și potrivită pentru a-i păstra gustul de lapte proaspăt. Te invităm să descoperi cum decurge pasteurizarea, ce tipuri există și cum este ...]]></description>
-      <pubDate>Mon, 23 Nov 2026 15:53:05 +0000</pubDate>
-      <author>Ghid Sanatate (https://release-press-releases-romania.github.io/publisher/ghid-sanatate-ro/)</author>
-      <dc:creator>Ghid Sanatate</dc:creator>
-      <dc:date>2026-11-23T15:53:05+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">Health</category>
-      <guid isPermaLink="true">https://ghid-sanatate.ro/pasteurizare-blanda-lapte-artesana/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/ghid-sanatate-ro/">Ghid Sanatate</source>
-      <content:encoded><![CDATA[From Ghid Sanatate: Pasteurizarea este etapa care face laptele sigur pentru consum, dar temperatura la care se desfășoară acest proces influențează gustul. Laptele proaspăt Artesana este pasteurizat la temperatură blândă, la 82°C, o valoare suficientă pentru siguranța produsului și potrivită pentru a-i păstra gustul de lapte proaspăt. Te invităm să descoperi cum decurge pasteurizarea, ce tipuri există și cum este ...]]></content:encoded>
-      <comments>https://ghid-sanatate.ro/pasteurizare-blanda-lapte-artesana/#comments</comments>
-    </item>
-    <item>
       <title>Program CRM pentru firme: cum organizezi clienții, activitățile și vânzările într-un singur loc</title>
       <link>https://inovare-afaceri.ro/program-crm-pentru-firme-cum-organizezi-clientii-activitatile-si-vanzarile-intr-un-singur-loc/</link>
       <description><![CDATA[From Inovare Afaceri: Gestionarea relațiilor cu clienții este una dintre provocările importante pentru firmele care vor să își dezvolte activitatea comercială. Solicitările primite, discuțiile cu potențialii clienți, ofertele trimise și întâlnirile programate trebuie urmărite constant. Atunci când informațiile sunt păstrate în agende, fișiere Excel sau aplicații diferite, există riscul ca anumite oportunități să fie...]]></description>
@@ -559,20 +696,6 @@
       <source url="https://release-press-releases-romania.github.io/publisher/femeie-antreprenor-ro/">Femeie Antreprenor</source>
       <content:encoded><![CDATA[From Femeie Antreprenor: Digitalizarea proceselor administrative a devenit o preocupare importantă pentru companiile din România. Facturile, ofertele, documentele comerciale și transmiterea acestora prin sistemul RO e-Factura presupun operațiuni care trebuie gestionate constant. Pentru firmele care vor să reducă timpul petrecut cu activitățile administrative, alegerea unui program de facturare potrivit poate face difer...]]></content:encoded>
       <comments>https://femeie-antreprenor.ro/cum-aleg-firmele-un-program-de-facturare-potrivit/#comments</comments>
-    </item>
-    <item>
-      <title>Folii din silicon tăiate custom la comandă: Protecție milimetrică pentru navigații auto, imprimante și orice alt ecran la doar 29.90 lei</title>
-      <link>https://amenajari360.ro/folii-din-silicon-taiate-custom-la-comanda-protectie-milimetrica-pentru-navigatii-auto-imprimante-si-orice-alt-ecran-la-doar-29-90-lei/</link>
-      <description><![CDATA[From Amenajari360: Când te gândești la o folie de protecție, primul instinct este să o asociezi cu telefonul mobil. Însă în jurul nostru există zeci de alte dispozitive echipate cu ecrane tactile scumpe și extrem de sensibile: sistemele de navigație și infotainment din mașini, panourile tactile ale imprimantelor moderne de birou, terminalele POS, consolele portabile sau chiar ecranele aparatelor electrocasnice in...]]></description>
-      <pubDate>Mon, 23 Nov 2026 12:24:45 +0000</pubDate>
-      <author>Amenajari360 (https://release-press-releases-romania.github.io/publisher/amenajari360-ro/)</author>
-      <dc:creator>Amenajari360</dc:creator>
-      <dc:date>2026-11-23T12:24:45+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">Construction &amp; Home</category>
-      <guid isPermaLink="true">https://amenajari360.ro/folii-din-silicon-taiate-custom-la-comanda-protectie-milimetrica-pentru-navigatii-auto-imprimante-si-orice-alt-ecran-la-doar-29-90-lei/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/amenajari360-ro/">Amenajari360</source>
-      <content:encoded><![CDATA[From Amenajari360: Când te gândești la o folie de protecție, primul instinct este să o asociezi cu telefonul mobil. Însă în jurul nostru există zeci de alte dispozitive echipate cu ecrane tactile scumpe și extrem de sensibile: sistemele de navigație și infotainment din mașini, panourile tactile ale imprimantelor moderne de birou, terminalele POS, consolele portabile sau chiar ecranele aparatelor electrocasnice in...]]></content:encoded>
-      <comments>https://amenajari360.ro/folii-din-silicon-taiate-custom-la-comanda-protectie-milimetrica-pentru-navigatii-auto-imprimante-si-orice-alt-ecran-la-doar-29-90-lei/#comments</comments>
     </item>
     <item>
       <title>Uscătoarele de mâini profesionale: avantaje, eficiență și criterii de alegere pentru spațiile publice</title>
@@ -822,19 +945,6 @@
       <comments>https://gradina24.ro/garsoniera-sau-doua-camere/#comments</comments>
     </item>
     <item>
-      <title>Ofertă de angajare: întrebări înainte să accepți</title>
-      <link>https://topcomunicate.ro/intrebari-inainte-sa-accepti-oferta</link>
-      <description><![CDATA[From Topcomunicate: O ofertă de angajare se compară după atribuții, salariu, program, locul muncii și condițiile contractuale. Întrebări utile înainte de acceptare.]]></description>
-      <pubDate>Thu, 19 Nov 2026 18:38:11 +0000</pubDate>
-      <author>Topcomunicate (https://release-press-releases-romania.github.io/publisher/topcomunicate-ro/)</author>
-      <dc:creator>Topcomunicate</dc:creator>
-      <dc:date>2026-11-19T18:38:11+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">PR &amp; Marketing</category>
-      <guid isPermaLink="true">https://topcomunicate.ro/intrebari-inainte-sa-accepti-oferta</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/topcomunicate-ro/">Topcomunicate</source>
-      <comments>https://topcomunicate.ro/intrebari-inainte-sa-accepti-oferta#comments</comments>
-    </item>
-    <item>
       <title>Extras de carte funciară: ce verifici la apartament</title>
       <link>https://arta-constructiilor.ro/extras-carte-funciara-apartament/</link>
       <description><![CDATA[From Arta Constructiilor: Într-un anunț imobiliar poți găsi fotografii atractive, suprafețe, etaj, preț și promisiunea că locuința este pregătită pentru vânzare. Aceste informații ajută la selecție, dar nu țin loc de documente. Un extras de carte funciară pentru informare oferă o imagine a înscrierilor privind imobilul la momentul emiterii, în limitele și condițiile aplicabile înregistrărilor existente. Problema apare c...]]></description>
@@ -863,17 +973,16 @@
     </item>
     <item>
       <title>Transportul unui obiect voluminos: ofertă completă</title>
-      <link>https://pr.1az.ro/transportul-unui-obiect-voluminos/</link>
-      <description><![CDATA[From Pr.1az: The post Transportul unui obiect voluminos: ofertă completă appeared first on PR de la A la Z. O canapea, un frigider sau un dulap pot părea ușor de mutat până când trebuie coborâte pe scări, protejate la transport și introduse într-o altă locuință. Prețul unei curse nu spune singur dacă include manipularea, ambalarea sau montajul. Când soliciți transportul unui obiect voluminos, descrie întrea...]]></description>
+      <link>https://pr.1az.ro/transportul-unui-obiect-voluminos</link>
+      <description><![CDATA[From Pr.1az: Transportul unui obiect voluminos cere informații despre dimensiuni, acces, manipulare, ambalare, preț și confirmarea predării. Ce ceri în ofertă.]]></description>
       <pubDate>Thu, 19 Nov 2026 14:34:43 +0000</pubDate>
       <author>Pr.1az (https://release-press-releases-romania.github.io/publisher/pr-1az-ro/)</author>
       <dc:creator>Pr.1az</dc:creator>
       <dc:date>2026-11-19T14:34:43+00:00</dc:date>
       <category domain="https://release-press-releases-romania.github.io/category/">PR &amp; Marketing</category>
-      <guid isPermaLink="true">https://pr.1az.ro/transportul-unui-obiect-voluminos/</guid>
+      <guid isPermaLink="true">https://pr.1az.ro/transportul-unui-obiect-voluminos</guid>
       <source url="https://release-press-releases-romania.github.io/publisher/pr-1az-ro/">Pr.1az</source>
-      <content:encoded><![CDATA[From Pr.1az: The post Transportul unui obiect voluminos: ofertă completă appeared first on PR de la A la Z. O canapea, un frigider sau un dulap pot părea ușor de mutat până când trebuie coborâte pe scări, protejate la transport și introduse într-o altă locuință. Prețul unei curse nu spune singur dacă include manipularea, ambalarea sau montajul. Când soliciți transportul unui obiect voluminos, descrie întrea...]]></content:encoded>
-      <comments>https://pr.1az.ro/transportul-unui-obiect-voluminos/#comments</comments>
+      <comments>https://pr.1az.ro/transportul-unui-obiect-voluminos#comments</comments>
     </item>
     <item>
       <title>10 semne că pardoseala ta are probleme din cauza umezelii</title>
@@ -1015,18 +1124,17 @@
       <comments>https://iantreprenor.ro/teren-licitatie-avantaje-si-dezavantaje/#comments</comments>
     </item>
     <item>
-      <title>15.10.2026</title>
-      <link>https://societatecivila.ro/parteneriat-implicare-civica-educatie/</link>
-      <description><![CDATA[From Societatecivila: COMUNICAT DE PRESĂ Educația cere implicare. Împreună creștem accesul la educație și oportunități de dezvoltare pentru copii și tineri Fundația COTE a încheiat proiectul „Parteneriat pentru implicare civică în educație”, derulat în perioada 15 septembrie – 15 noiembrie 2026, cu finanțarea Municipiului Iași. Proiectul a urmărit să apropie actorii comunității în jurul educației și să consolideze c...]]></description>
-      <pubDate>Mon, 16 Nov 2026 11:22:28 +0000</pubDate>
-      <author>Societatecivila (https://release-press-releases-romania.github.io/publisher/societatecivila-ro/)</author>
-      <dc:creator>Societatecivila</dc:creator>
-      <dc:date>2026-11-16T11:22:28+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">News &amp; Society</category>
-      <guid isPermaLink="true">https://societatecivila.ro/parteneriat-implicare-civica-educatie/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/societatecivila-ro/">Societatecivila</source>
-      <content:encoded><![CDATA[From Societatecivila: COMUNICAT DE PRESĂ Educația cere implicare. Împreună creștem accesul la educație și oportunități de dezvoltare pentru copii și tineri Fundația COTE a încheiat proiectul „Parteneriat pentru implicare civică în educație”, derulat în perioada 15 septembrie – 15 noiembrie 2026, cu finanțarea Municipiului Iași. Proiectul a urmărit să apropie actorii comunității în jurul educației și să consolideze c...]]></content:encoded>
-      <comments>https://societatecivila.ro/parteneriat-implicare-civica-educatie/#comments</comments>
+      <title>Cum treci de la o locuință mică la una mai spațioasă fără să plătești două rate în același timp?</title>
+      <link>https://casa-sustenabila.ro/cum-treci-de-la-o-locuinta-mica-la-una-mai-spatioasa-fara-sa-platesti-doua-rate-in-acelasi-timp</link>
+      <description><![CDATA[From Casa Sustenabila: ]]></description>
+      <pubDate>Sun, 15 Nov 2026 15:22:00 +0000</pubDate>
+      <author>Casa Sustenabila (https://release-press-releases-romania.github.io/publisher/casa-sustenabila-ro/)</author>
+      <dc:creator>Casa Sustenabila</dc:creator>
+      <dc:date>2026-11-15T15:22:00+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">Construction &amp; Home</category>
+      <guid isPermaLink="true">https://casa-sustenabila.ro/cum-treci-de-la-o-locuinta-mica-la-una-mai-spatioasa-fara-sa-platesti-doua-rate-in-acelasi-timp</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/casa-sustenabila-ro/">Casa Sustenabila</source>
+      <comments>https://casa-sustenabila.ro/cum-treci-de-la-o-locuinta-mica-la-una-mai-spatioasa-fara-sa-platesti-doua-rate-in-acelasi-timp#comments</comments>
     </item>
     <item>
       <title>De ce tot mai multe companii din România renunță la imprimantele proprii și trec pe abonament</title>
@@ -1113,19 +1221,6 @@
       <comments>https://casa-moderna.ro/fatada-casei-este-expusa-zilnic-la-vant-puternic-proiectarea-termoizolatiei-conteaza-afla-de-ce/#comments</comments>
     </item>
     <item>
-      <title>Se aude totul prin pereții dintre camere? Cum poți îmbunătăți izolarea fonică încă din etapa construcției</title>
-      <link>https://casa-sustenabila.ro/se-aude-totul-prin-peretii-dintre-camere-cum-poti-imbunatati-izolarea-fonica-inca-din-etapa-constructiei</link>
-      <description><![CDATA[From Casa Sustenabila: ]]></description>
-      <pubDate>Thu, 12 Nov 2026 13:28:38 +0000</pubDate>
-      <author>Casa Sustenabila (https://release-press-releases-romania.github.io/publisher/casa-sustenabila-ro/)</author>
-      <dc:creator>Casa Sustenabila</dc:creator>
-      <dc:date>2026-11-12T13:28:38+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">Construction &amp; Home</category>
-      <guid isPermaLink="true">https://casa-sustenabila.ro/se-aude-totul-prin-peretii-dintre-camere-cum-poti-imbunatati-izolarea-fonica-inca-din-etapa-constructiei</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/casa-sustenabila-ro/">Casa Sustenabila</source>
-      <comments>https://casa-sustenabila.ro/se-aude-totul-prin-peretii-dintre-camere-cum-poti-imbunatati-izolarea-fonica-inca-din-etapa-constructiei#comments</comments>
-    </item>
-    <item>
       <title>CEC Bank susține extinderea unei rețele naționale de sprijin pentru copiii cu afecțiuni grave, dezvoltată de Asociația M.A.M.E.</title>
       <link>https://drepturisociale.ro/asociatia-mame-cec-bank-retea-recuperare/</link>
       <description><![CDATA[From Drepturisociale: Accesul la servicii de recuperare pentru copiii diagnosticați cu boli grave reprezintă o provocare pentru numeroase familii din România. Dincolo de tratamentele medicale, acești copii au nevoie adesea de intervenții specializate care să îi ajute să își recapete abilitățile, să își gestioneze dificultățile emoționale și să își îmbunătățească autonomia. Pentru a răspunde acestei nevoi, Asociația ...]]></description>
@@ -1138,20 +1233,6 @@
       <source url="https://release-press-releases-romania.github.io/publisher/drepturisociale-ro/">Drepturisociale</source>
       <content:encoded><![CDATA[From Drepturisociale: Accesul la servicii de recuperare pentru copiii diagnosticați cu boli grave reprezintă o provocare pentru numeroase familii din România. Dincolo de tratamentele medicale, acești copii au nevoie adesea de intervenții specializate care să îi ajute să își recapete abilitățile, să își gestioneze dificultățile emoționale și să își îmbunătățească autonomia. Pentru a răspunde acestei nevoi, Asociația ...]]></content:encoded>
       <comments>https://drepturisociale.ro/asociatia-mame-cec-bank-retea-recuperare/#comments</comments>
-    </item>
-    <item>
-      <title>Cum sunt ajutate familiile să găsească serviciile potrivite pentru copiii bolnavi?</title>
-      <link>https://societatecivila.ro/servicii-copii-bolnavi-mame/</link>
-      <description><![CDATA[From Societatecivila: După diagnosticarea cu o boală gravă, părinții unui copil se confruntă cu numeroase întrebări: unde pot găsi un specialist potrivit, ce terapii sunt necesare, cum pot obține acces la servicii de recuperare și unde pot solicita ajutor pentru costurile pe care nu le pot acoperi? De multe ori, răspunsurile sunt greu de găsit, iar părinții ajung să gestioneze singuri un proces complicat, care presu...]]></description>
-      <pubDate>Wed, 11 Nov 2026 16:43:35 +0000</pubDate>
-      <author>Societatecivila (https://release-press-releases-romania.github.io/publisher/societatecivila-ro/)</author>
-      <dc:creator>Societatecivila</dc:creator>
-      <dc:date>2026-11-11T16:43:35+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">News &amp; Society</category>
-      <guid isPermaLink="true">https://societatecivila.ro/servicii-copii-bolnavi-mame/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/societatecivila-ro/">Societatecivila</source>
-      <content:encoded><![CDATA[From Societatecivila: După diagnosticarea cu o boală gravă, părinții unui copil se confruntă cu numeroase întrebări: unde pot găsi un specialist potrivit, ce terapii sunt necesare, cum pot obține acces la servicii de recuperare și unde pot solicita ajutor pentru costurile pe care nu le pot acoperi? De multe ori, răspunsurile sunt greu de găsit, iar părinții ajung să gestioneze singuri un proces complicat, care presu...]]></content:encoded>
-      <comments>https://societatecivila.ro/servicii-copii-bolnavi-mame/#comments</comments>
     </item>
     <item>
       <title>Linkjob AI Adds Unlimited Dual-Device Mode to Every Paid Plan</title>
@@ -1196,17 +1277,16 @@
     </item>
     <item>
       <title>Prețuri pentru publicarea comunicatelor de presă în 2026</title>
-      <link>https://pr.1az.ro/preturi-publicare-comunicate-de-presa/</link>
-      <description><![CDATA[From Pr.1az: The post Prețuri pentru publicarea comunicatelor de presă în 2026 appeared first on PR de la A la Z. Pe scurt: în toamna lui 2026, publicarea unui comunicat de presă pe un site românesc ales dintr-un catalog costă, la mediană, 195 de lei fără TVA. Prin agenție, aceeași publicare iese de obicei 150–600 de lei. Pe o publicație națională mare ajunge la 1.500–8.000 de lei. Trimis pe email redacțiil...]]></description>
+      <link>https://pr.1az.ro/preturi-publicare-comunicate-de-presa</link>
+      <description><![CDATA[From Pr.1az: Ce platesti pentru redactarea, publicarea si distributia unui comunicat de presa in 2026, cu preturile observate in piata si variantele fara plata.]]></description>
       <pubDate>Tue, 10 Nov 2026 07:00:00 +0000</pubDate>
       <author>Pr.1az (https://release-press-releases-romania.github.io/publisher/pr-1az-ro/)</author>
       <dc:creator>Pr.1az</dc:creator>
       <dc:date>2026-11-10T07:00:00+00:00</dc:date>
       <category domain="https://release-press-releases-romania.github.io/category/">PR &amp; Marketing</category>
-      <guid isPermaLink="true">https://pr.1az.ro/preturi-publicare-comunicate-de-presa/</guid>
+      <guid isPermaLink="true">https://pr.1az.ro/preturi-publicare-comunicate-de-presa</guid>
       <source url="https://release-press-releases-romania.github.io/publisher/pr-1az-ro/">Pr.1az</source>
-      <content:encoded><![CDATA[From Pr.1az: The post Prețuri pentru publicarea comunicatelor de presă în 2026 appeared first on PR de la A la Z. Pe scurt: în toamna lui 2026, publicarea unui comunicat de presă pe un site românesc ales dintr-un catalog costă, la mediană, 195 de lei fără TVA. Prin agenție, aceeași publicare iese de obicei 150–600 de lei. Pe o publicație națională mare ajunge la 1.500–8.000 de lei. Trimis pe email redacțiil...]]></content:encoded>
-      <comments>https://pr.1az.ro/preturi-publicare-comunicate-de-presa/#comments</comments>
+      <comments>https://pr.1az.ro/preturi-publicare-comunicate-de-presa#comments</comments>
     </item>
     <item>
       <title>Ce înseamnă o baie premium și cum o amenajezi: exemple și soluții de la DoarBai.ro</title>
@@ -1249,19 +1329,6 @@
       <comments>https://iafaceri.ro/mixit-anunta-campania-extinsa-de-black-friday-si-aduce-magia-craciunului-mai-aproape-cu-patru-calendare-de-advent-pline-de-surprize/#comments</comments>
     </item>
     <item>
-      <title>Colposcopia – când este recomandată și ce poate descoperi această investigație ginecologică</title>
-      <link>https://doctorite.ro/colposcopie-investigatie-ginecologica</link>
-      <description><![CDATA[From Doctorite: Colposcopia permite examinarea detaliata a colului uterin pentru identificarea leziunilor precanceroase. Afla cand este indicata si cum te pregatesti.]]></description>
-      <pubDate>Tue, 03 Nov 2026 15:42:44 +0000</pubDate>
-      <author>Doctorite (https://release-press-releases-romania.github.io/publisher/doctorite-ro/)</author>
-      <dc:creator>Doctorite</dc:creator>
-      <dc:date>2026-11-03T15:42:44+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">Health</category>
-      <guid isPermaLink="true">https://doctorite.ro/colposcopie-investigatie-ginecologica</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/doctorite-ro/">Doctorite</source>
-      <comments>https://doctorite.ro/colposcopie-investigatie-ginecologica#comments</comments>
-    </item>
-    <item>
       <title>Cadouri din aur pentru un partener de afaceri: idei corporate elegante</title>
       <link>https://femeie-antreprenor.ro/cadouri-corporate-aur-parteneri/</link>
       <description><![CDATA[From Femeie Antreprenor: Sursa foto: aursiargintaec.ro În mediul de business, un cadou oferit unui partener poate spune multe despre felul în care este privită relația profesională. Alegerea potrivită transmite respect, atenție și dorința de a marca o colaborare importantă printr-un obiect care păstrează valoare și semnificație în timp. Aurul se potrivește foarte bine în această zonă, pentru că reunește eleganța cu ide...]]></description>
@@ -1291,17 +1358,16 @@
     </item>
     <item>
       <title>Joacă Steaua zici că-i…</title>
-      <link>https://pr.1az.ro/joaca-steaua-zici-ca-i/</link>
-      <description><![CDATA[From Pr.1az: The post Joacă Steaua zici că-i… appeared first on PR de la A la Z. Steaua a făcut egal cu Dinamo și a rămas la 11 puncte, jumătate din cât i-ar trebui ca să intre în playoff, cu doar 9 meciuri de jucat până la sfârșitul campionatului. Destul de greu să mai prindem playoff-ul, se pare, nu? Cine ar putea fi vinovat? Păi, dacă ne uităm la cei care au crezut că pot face o economie din bugetul echi...]]></description>
+      <link>https://pr.1az.ro/joaca-steaua-zici-ca-i</link>
+      <description><![CDATA[From Pr.1az: ]]></description>
       <pubDate>Mon, 02 Nov 2026 12:05:15 +0000</pubDate>
       <author>Pr.1az (https://release-press-releases-romania.github.io/publisher/pr-1az-ro/)</author>
       <dc:creator>Pr.1az</dc:creator>
       <dc:date>2026-11-02T12:05:15+00:00</dc:date>
       <category domain="https://release-press-releases-romania.github.io/category/">PR &amp; Marketing</category>
-      <guid isPermaLink="true">https://pr.1az.ro/joaca-steaua-zici-ca-i/</guid>
+      <guid isPermaLink="true">https://pr.1az.ro/joaca-steaua-zici-ca-i</guid>
       <source url="https://release-press-releases-romania.github.io/publisher/pr-1az-ro/">Pr.1az</source>
-      <content:encoded><![CDATA[From Pr.1az: The post Joacă Steaua zici că-i… appeared first on PR de la A la Z. Steaua a făcut egal cu Dinamo și a rămas la 11 puncte, jumătate din cât i-ar trebui ca să intre în playoff, cu doar 9 meciuri de jucat până la sfârșitul campionatului. Destul de greu să mai prindem playoff-ul, se pare, nu? Cine ar putea fi vinovat? Păi, dacă ne uităm la cei care au crezut că pot face o economie din bugetul echi...]]></content:encoded>
-      <comments>https://pr.1az.ro/joaca-steaua-zici-ca-i/#comments</comments>
+      <comments>https://pr.1az.ro/joaca-steaua-zici-ca-i#comments</comments>
     </item>
     <item>
       <title>Protecția ecranului auto și a sistemului de navigație: Cum scapi de reflexiile soarelui și de amprentele de pe bord</title>
@@ -1329,20 +1395,6 @@
       <guid isPermaLink="true">https://case-verzi.ro/pregatire-handmade-de-craciun</guid>
       <source url="https://release-press-releases-romania.github.io/publisher/case-verzi-ro/">Case Verzi</source>
       <comments>https://case-verzi.ro/pregatire-handmade-de-craciun#comments</comments>
-    </item>
-    <item>
-      <title>Educatie care elibereaza: cum construim independenta pentru copiii cu CES</title>
-      <link>https://drepturisociale.ro/educatie-care-elibereaza-cum-construim-independenta-pentru-copiii-cu-ces/</link>
-      <description><![CDATA[From Drepturisociale: Asociația CONIL a lansat Linia de autoservire CONIL, un spațiu dedicat practicii profesionale și incluziunii, în compania echipei Arrise Live, companie care a făcut posibilă realizarea acestui proiect esențial. Asociația CONIL marchează o nouă etapă importantă în misiunea sa de a sprijini copiii și tinerii cu cerințe educaționale speciale (CES), lansând oficial, în compania echipei Arrise Live,...]]></description>
-      <pubDate>Thu, 29 Oct 2026 10:26:32 +0000</pubDate>
-      <author>Drepturisociale (https://release-press-releases-romania.github.io/publisher/drepturisociale-ro/)</author>
-      <dc:creator>Drepturisociale</dc:creator>
-      <dc:date>2026-10-29T10:26:32+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">News &amp; Society</category>
-      <guid isPermaLink="true">https://drepturisociale.ro/educatie-care-elibereaza-cum-construim-independenta-pentru-copiii-cu-ces/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/drepturisociale-ro/">Drepturisociale</source>
-      <content:encoded><![CDATA[From Drepturisociale: Asociația CONIL a lansat Linia de autoservire CONIL, un spațiu dedicat practicii profesionale și incluziunii, în compania echipei Arrise Live, companie care a făcut posibilă realizarea acestui proiect esențial. Asociația CONIL marchează o nouă etapă importantă în misiunea sa de a sprijini copiii și tinerii cu cerințe educaționale speciale (CES), lansând oficial, în compania echipei Arrise Live,...]]></content:encoded>
-      <comments>https://drepturisociale.ro/educatie-care-elibereaza-cum-construim-independenta-pentru-copiii-cu-ces/#comments</comments>
     </item>
     <item>
       <title>Copii cu CES, adulti independenti: rolul educatiei in drumul spre autonomie</title>
@@ -1441,19 +1493,6 @@
       <source url="https://release-press-releases-romania.github.io/publisher/mama-antreprenor-ro/">Mama Antreprenor</source>
       <content:encoded><![CDATA[From Mama Antreprenor: Ajungi acasă după tura de noapte și, deși ai fost treaz toată noaptea, somnul nu vine la comandă. În schimb, foamea apare la ore neobișnuite, iar mesele ajung să depindă de pauze și de ce găsești la îndemână. Când programul se rotește, corpul primește semnale diferite despre când să doarmă, să mănânce și să fie activ. Ritmul circadian nu se schimbă odată cu tura, așa că oboseala și apetitul pot...]]></content:encoded>
       <comments>https://mama-antreprenor.ro/lucrezi-in-ture-cum-iti-adaptezi-somnul-si-mesele-la-un-program-care-se-schimba/#comments</comments>
-    </item>
-    <item>
-      <title>Durerea care revine: de ce reabilitarea nu se oprește când trece durerea</title>
-      <link>https://doctorite.ro/durerea-care-revine-reabilitare-fizioterapie-kinetoterapie</link>
-      <description><![CDATA[From Doctorite: Durerea de spate, umăr sau genunchi revine la aceleași mișcări? De ce reabilitarea nu se oprește când trece durerea și ce rol au fizioterapia și kinetoterapia.]]></description>
-      <pubDate>Sat, 24 Oct 2026 16:23:01 +0000</pubDate>
-      <author>Doctorite (https://release-press-releases-romania.github.io/publisher/doctorite-ro/)</author>
-      <dc:creator>Doctorite</dc:creator>
-      <dc:date>2026-10-24T16:23:01+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">Health</category>
-      <guid isPermaLink="true">https://doctorite.ro/durerea-care-revine-reabilitare-fizioterapie-kinetoterapie</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/doctorite-ro/">Doctorite</source>
-      <comments>https://doctorite.ro/durerea-care-revine-reabilitare-fizioterapie-kinetoterapie#comments</comments>
     </item>
     <item>
       <title>Hairify: fibre de păr pentru zilele în care nu vrei să te mai gândești la scalpul vizibil</title>
@@ -1565,20 +1604,6 @@
       <guid isPermaLink="true">https://afaceritop.ro/asa-a-fost-la-her-space-festival-romania-tinerete-fara-batranete</guid>
       <source url="https://release-press-releases-romania.github.io/publisher/afaceritop-ro/">Afaceritop</source>
       <comments>https://afaceritop.ro/asa-a-fost-la-her-space-festival-romania-tinerete-fara-batranete#comments</comments>
-    </item>
-    <item>
-      <title>De ce multe femei simt că nu ajung suficient de ușor la orgasm</title>
-      <link>https://ifemeie.ro/multe-femei-orgasm-dificil/</link>
-      <description><![CDATA[From iFemeie: License: e10fa4eda8eeafaee1285aca10d34aaffcAlt: cuplu indispus deoarece partenera nu ajunge usor la orgasm Dacă simți că orgasmul vine greu sau deloc, nu ești singură și, cu siguranță, nu este nimic în neregulă cu tine. Multe femei trec prin această situație, iar motivele sunt mai simple și mai comune decât ai crede. Vestea bună este că, odată ce înțelegi ce influențează plăcerea, poți face sch...]]></description>
-      <pubDate>Tue, 13 Oct 2026 17:44:23 +0000</pubDate>
-      <author>iFemeie (https://release-press-releases-romania.github.io/publisher/ifemeie-ro/)</author>
-      <dc:creator>iFemeie</dc:creator>
-      <dc:date>2026-10-13T17:44:23+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">Miscellaneous</category>
-      <guid isPermaLink="true">https://ifemeie.ro/multe-femei-orgasm-dificil/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/ifemeie-ro/">iFemeie</source>
-      <content:encoded><![CDATA[From iFemeie: License: e10fa4eda8eeafaee1285aca10d34aaffcAlt: cuplu indispus deoarece partenera nu ajunge usor la orgasm Dacă simți că orgasmul vine greu sau deloc, nu ești singură și, cu siguranță, nu este nimic în neregulă cu tine. Multe femei trec prin această situație, iar motivele sunt mai simple și mai comune decât ai crede. Vestea bună este că, odată ce înțelegi ce influențează plăcerea, poți face sch...]]></content:encoded>
-      <comments>https://ifemeie.ro/multe-femei-orgasm-dificil/#comments</comments>
     </item>
     <item>
       <title>Cum obișnuiești pisica să folosească o litieră automată?</title>
@@ -1762,20 +1787,6 @@
       <comments>https://recent-news.ro/plata-in-rate-la-incaltaminte/#comments</comments>
     </item>
     <item>
-      <title>Unde găsești produse ALDO în România: magazinele, orașele și varianta online</title>
-      <link>https://stiri-live.ro/aldo-in-romania-magazine-online/</link>
-      <description><![CDATA[From Stiri Live: Când vrei să cumperi produse ALDO în România, ai la dispoziție atât magazine fizice, cât și varianta online, astfel încât poți alege între o sesiune de shopping în persoană și comanda de acasă. În prezent, brandul are magazine în București, Cluj-Napoca și Constanța, iar colecțiile de încălțăminte, genți și accesorii pot fi consultate și pe magazinul online oficial. În plus, serviciul Click &amp; Co...]]></description>
-      <pubDate>Fri, 25 Sep 2026 15:38:52 +0000</pubDate>
-      <author>Stiri Live (https://release-press-releases-romania.github.io/publisher/stiri-live-ro/)</author>
-      <dc:creator>Stiri Live</dc:creator>
-      <dc:date>2026-09-25T15:38:52+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">News &amp; Society</category>
-      <guid isPermaLink="true">https://stiri-live.ro/aldo-in-romania-magazine-online/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/stiri-live-ro/">Stiri Live</source>
-      <content:encoded><![CDATA[From Stiri Live: Când vrei să cumperi produse ALDO în România, ai la dispoziție atât magazine fizice, cât și varianta online, astfel încât poți alege între o sesiune de shopping în persoană și comanda de acasă. În prezent, brandul are magazine în București, Cluj-Napoca și Constanța, iar colecțiile de încălțăminte, genți și accesorii pot fi consultate și pe magazinul online oficial. În plus, serviciul Click &amp; Co...]]></content:encoded>
-      <comments>https://stiri-live.ro/aldo-in-romania-magazine-online/#comments</comments>
-    </item>
-    <item>
       <title>Ce-ar fi dacă, pentru o zi, am privi eșecul altfel?</title>
       <link>https://afaceritop.ro/ce-ar-fi-daca-pentru-o-zi-am-privi-esecul-altfel</link>
       <description><![CDATA[From Afaceritop: ]]></description>
@@ -1815,20 +1826,6 @@
       <source url="https://release-press-releases-romania.github.io/publisher/mama-antreprenor-ro/">Mama Antreprenor</source>
       <content:encoded><![CDATA[From Mama Antreprenor: Niciun semn din primele zile nu confirmă o sarcină, pentru că fiecare dintre semnele despre care se vorbește apare și în lunile în care nu ești însărcinată. Ce îți dă un răspuns pe care te poți baza e un test de sarcină făcut în intervalul indicat pe cutia lui, adică după ziua în care aștepți menstruația, nu cu o săptămână înainte. Mai jos e ce se simte de obicei în zilele acelea, de ce fiecare...]]></content:encoded>
       <comments>https://mama-antreprenor.ro/semne-de-sarcina-inainte-de-test/#comments</comments>
-    </item>
-    <item>
-      <title>Scule profesionale pentru service auto: ce merită să ai în atelier</title>
-      <link>https://recent-news.ro/scule-profesionale-pentru-service-auto-ce-merita-sa-ai-in-atelier/</link>
-      <description><![CDATA[From Recent News: Într-un service auto, sculele sunt folosite zilnic, adesea de mai mulți mecanici și pentru lucrări foarte diferite. De aceea, alegerea lor trebuie făcută după tipul intervențiilor, frecvența utilizării și accesul la componentele mașinii. O trusă cu multe piese nu ajută prea mult dacă îi lipsesc dimensiunile folosite frecvent sau dacă uneltele se uzează repede. Pentru un atelier care face revizi...]]></description>
-      <pubDate>Wed, 23 Sep 2026 08:09:51 +0000</pubDate>
-      <author>Recent News (https://release-press-releases-romania.github.io/publisher/recent-news-ro/)</author>
-      <dc:creator>Recent News</dc:creator>
-      <dc:date>2026-09-23T08:09:51+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">News &amp; Society</category>
-      <guid isPermaLink="true">https://recent-news.ro/scule-profesionale-pentru-service-auto-ce-merita-sa-ai-in-atelier/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/recent-news-ro/">Recent News</source>
-      <content:encoded><![CDATA[From Recent News: Într-un service auto, sculele sunt folosite zilnic, adesea de mai mulți mecanici și pentru lucrări foarte diferite. De aceea, alegerea lor trebuie făcută după tipul intervențiilor, frecvența utilizării și accesul la componentele mașinii. O trusă cu multe piese nu ajută prea mult dacă îi lipsesc dimensiunile folosite frecvent sau dacă uneltele se uzează repede. Pentru un atelier care face revizi...]]></content:encoded>
-      <comments>https://recent-news.ro/scule-profesionale-pentru-service-auto-ce-merita-sa-ai-in-atelier/#comments</comments>
     </item>
     <item>
       <title>De la magazin fizic la e-commerce: cum simplifică Infinity Marketplace extinderea afacerii tale</title>
