@@ -5,8 +5,8 @@
     <link>https://release-press-releases-romania.github.io</link>
     <description>Aggregated RSS feed of press releases from over 100 Romanian publishers. Covering PR &amp; Marketing, Health, News &amp; Society, Technology, Business, Construction, Tourism, and more. Curated selection of quality press releases from trusted Romanian sources.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Nov 2026 16:04:53 +0000</lastBuildDate>
-    <pubDate>Thu, 26 Nov 2026 16:04:53 +0000</pubDate>
+    <lastBuildDate>Fri, 27 Nov 2026 01:20:14 +0000</lastBuildDate>
+    <pubDate>Fri, 27 Nov 2026 01:20:14 +0000</pubDate>
     <generator>Release Press Releases in Romania RSS Aggregator v2.0</generator>
     <webMaster>noreply@release-press-releases-romania.github.io (Release Press Releases)</webMaster>
     <managingEditor>noreply@release-press-releases-romania.github.io (Release Press Releases)</managingEditor>
@@ -28,6 +28,45 @@
     <sy:updateFrequency>1</sy:updateFrequency>
     <copyright>Copyright 2026 Release Press Releases in Romania. Content belongs to respective publishers.</copyright>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Muzeul Regiunii Porților de Fier din Drobeta-Turnu Severin: ce vezi</title>
+      <link>https://oltenia-news.ro/muzeul-regiunii-portilor-de-fier-drobeta-turnu-severin-ce-vezi</link>
+      <description><![CDATA[From Oltenia News: Muzeul Regiunii Porților de Fier, pe strada Independenței 2 din Drobeta-Turnu Severin: acvariul cu pești din Dunăre, istorie, arheologie, etnografie și castrul Drobeta.]]></description>
+      <pubDate>Thu, 26 Nov 2026 15:53:49 +0000</pubDate>
+      <author>Oltenia News (https://release-press-releases-romania.github.io/publisher/oltenia-news-ro/)</author>
+      <dc:creator>Oltenia News</dc:creator>
+      <dc:date>2026-11-26T15:53:49+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">News &amp; Society</category>
+      <guid isPermaLink="true">https://oltenia-news.ro/muzeul-regiunii-portilor-de-fier-drobeta-turnu-severin-ce-vezi</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/oltenia-news-ro/">Oltenia News</source>
+      <comments>https://oltenia-news.ro/muzeul-regiunii-portilor-de-fier-drobeta-turnu-severin-ce-vezi#comments</comments>
+    </item>
+    <item>
+      <title>Muzeul de Artă Craiova: Palatul Jean Mihail, program și ce vezi</title>
+      <link>https://oltenia-news.ro/muzeul-de-arta-craiova-palatul-jean-mihail-program-si-ce-vezi</link>
+      <description><![CDATA[From Oltenia News: Muzeul de Artă Craiova, în Palatul Jean Mihail (Calea Unirii 15): program de marți până duminică, 10:00–17:00, intrare liberă în prima miercuri din lună și lucrările lui Brâncuși.]]></description>
+      <pubDate>Thu, 26 Nov 2026 15:53:49 +0000</pubDate>
+      <author>Oltenia News (https://release-press-releases-romania.github.io/publisher/oltenia-news-ro/)</author>
+      <dc:creator>Oltenia News</dc:creator>
+      <dc:date>2026-11-26T15:53:49+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">News &amp; Society</category>
+      <guid isPermaLink="true">https://oltenia-news.ro/muzeul-de-arta-craiova-palatul-jean-mihail-program-si-ce-vezi</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/oltenia-news-ro/">Oltenia News</source>
+      <comments>https://oltenia-news.ro/muzeul-de-arta-craiova-palatul-jean-mihail-program-si-ce-vezi#comments</comments>
+    </item>
+    <item>
+      <title>Târgul de Crăciun Craiova 2026: program, zone și atracții</title>
+      <link>https://oltenia-news.ro/targul-de-craciun-craiova-2026-program-zone-si-atractii</link>
+      <description><![CDATA[From Oltenia News: Târgul de Crăciun din Craiova e deschis între 13 noiembrie 2026 și 3 ianuarie 2027. Programul căsuțelor, zonele din centru, sania lui Moș Crăciun și ce costă.]]></description>
+      <pubDate>Thu, 26 Nov 2026 15:53:49 +0000</pubDate>
+      <author>Oltenia News (https://release-press-releases-romania.github.io/publisher/oltenia-news-ro/)</author>
+      <dc:creator>Oltenia News</dc:creator>
+      <dc:date>2026-11-26T15:53:49+00:00</dc:date>
+      <category domain="https://release-press-releases-romania.github.io/category/">News &amp; Society</category>
+      <guid isPermaLink="true">https://oltenia-news.ro/targul-de-craciun-craiova-2026-program-zone-si-atractii</guid>
+      <source url="https://release-press-releases-romania.github.io/publisher/oltenia-news-ro/">Oltenia News</source>
+      <comments>https://oltenia-news.ro/targul-de-craciun-craiova-2026-program-zone-si-atractii#comments</comments>
+    </item>
     <item>
       <title>Epava de la Costinești: povestea navei Evanghelia și ce vezi azi</title>
       <link>https://dobrogea-news.ro/epava-de-la-costinesti-povestea-navei-evanghelia</link>
@@ -811,17 +850,16 @@
     </item>
     <item>
       <title>Teren cu utilități: ce verifici înainte de cumpărare</title>
-      <link>https://casa-sustenabila.ro/teren-cu-utilitati-verifici/</link>
-      <description><![CDATA[From Casa Sustenabila: Expresia „utilități la poartă” apare frecvent în anunțurile imobiliare, dar nu explică automat dacă o viitoare casă poate fi conectată la apă, electricitate sau canalizare. Un teren cu utilități în apropiere poate avea nevoie de lucrări, aprobări și costuri pe care descrierea ofertei nu le precizează. De aceea, cumpărătorul trebuie să despartă ceea ce vede în teren de ceea ce poate confirma ope...]]></description>
+      <link>https://casa-sustenabila.ro/teren-cu-utilitati-verifici</link>
+      <description><![CDATA[From Casa Sustenabila: Cauți teren cu utilități în apropiere? Verifică distanța până la rețele, capacitatea, avizele, lucrările necesare și costurile înainte să cumperi.]]></description>
       <pubDate>Thu, 19 Nov 2026 14:34:46 +0000</pubDate>
       <author>Casa Sustenabila (https://release-press-releases-romania.github.io/publisher/casa-sustenabila-ro/)</author>
       <dc:creator>Casa Sustenabila</dc:creator>
       <dc:date>2026-11-19T14:34:46+00:00</dc:date>
       <category domain="https://release-press-releases-romania.github.io/category/">Construction &amp; Home</category>
-      <guid isPermaLink="true">https://casa-sustenabila.ro/teren-cu-utilitati-verifici/</guid>
+      <guid isPermaLink="true">https://casa-sustenabila.ro/teren-cu-utilitati-verifici</guid>
       <source url="https://release-press-releases-romania.github.io/publisher/casa-sustenabila-ro/">Casa Sustenabila</source>
-      <content:encoded><![CDATA[From Casa Sustenabila: Expresia „utilități la poartă” apare frecvent în anunțurile imobiliare, dar nu explică automat dacă o viitoare casă poate fi conectată la apă, electricitate sau canalizare. Un teren cu utilități în apropiere poate avea nevoie de lucrări, aprobări și costuri pe care descrierea ofertei nu le precizează. De aceea, cumpărătorul trebuie să despartă ceea ce vede în teren de ceea ce poate confirma ope...]]></content:encoded>
-      <comments>https://casa-sustenabila.ro/teren-cu-utilitati-verifici/#comments</comments>
+      <comments>https://casa-sustenabila.ro/teren-cu-utilitati-verifici#comments</comments>
     </item>
     <item>
       <title>Transportul unui obiect voluminos: ofertă completă</title>
@@ -853,17 +891,16 @@
     </item>
     <item>
       <title>Sănii pentru copii: plastic, lemn sau pliabilă? Ghidul Infinity înainte de prima zăpadă</title>
-      <link>https://casa-sustenabila.ro/sanii-pentru-copii-ghid/</link>
-      <description><![CDATA[From Casa Sustenabila: Pentru copiii mici, cea mai simplă alegere este o sanie din plastic, ușoară, cu spătar sau cu centură de siguranță. Sania din lemn și cea pliabilă se potrivesc dacă vrei un model mai robust sau mai ușor de depozitat. Pe Infinity, marketplace-ul 100% românesc cu peste 1 milion de produse în 13 departamente, găsești toate aceste tipuri. Mai jos ai un ghid pe tipuri de sănii, cu vârste, reguli de ...]]></description>
+      <link>https://casa-sustenabila.ro/sanii-pentru-copii-ghid</link>
+      <description><![CDATA[From Casa Sustenabila: Afla cum alegi sanii pentru copii in functie de varsta si material. Ghid practic cu sfaturi de siguranta si depozitare pentru sezonul de iarna.]]></description>
       <pubDate>Thu, 19 Nov 2026 14:30:18 +0000</pubDate>
       <author>Casa Sustenabila (https://release-press-releases-romania.github.io/publisher/casa-sustenabila-ro/)</author>
       <dc:creator>Casa Sustenabila</dc:creator>
       <dc:date>2026-11-19T14:30:18+00:00</dc:date>
       <category domain="https://release-press-releases-romania.github.io/category/">Construction &amp; Home</category>
-      <guid isPermaLink="true">https://casa-sustenabila.ro/sanii-pentru-copii-ghid/</guid>
+      <guid isPermaLink="true">https://casa-sustenabila.ro/sanii-pentru-copii-ghid</guid>
       <source url="https://release-press-releases-romania.github.io/publisher/casa-sustenabila-ro/">Casa Sustenabila</source>
-      <content:encoded><![CDATA[From Casa Sustenabila: Pentru copiii mici, cea mai simplă alegere este o sanie din plastic, ușoară, cu spătar sau cu centură de siguranță. Sania din lemn și cea pliabilă se potrivesc dacă vrei un model mai robust sau mai ușor de depozitat. Pe Infinity, marketplace-ul 100% românesc cu peste 1 milion de produse în 13 departamente, găsești toate aceste tipuri. Mai jos ai un ghid pe tipuri de sănii, cu vârste, reguli de ...]]></content:encoded>
-      <comments>https://casa-sustenabila.ro/sanii-pentru-copii-ghid/#comments</comments>
+      <comments>https://casa-sustenabila.ro/sanii-pentru-copii-ghid#comments</comments>
     </item>
     <item>
       <title>Consultanță financiară pentru cupluri: metoda OVB de aliniere a obiectivelor când bugetul e comun</title>
@@ -1077,17 +1114,16 @@
     </item>
     <item>
       <title>Se aude totul prin pereții dintre camere? Cum poți îmbunătăți izolarea fonică încă din etapa construcției</title>
-      <link>https://casa-sustenabila.ro/se-aude-totul-prin-peretii-dintre-camere-cum-poti-imbunatati-izolarea-fonica-inca-din-etapa-constructiei/</link>
-      <description><![CDATA[From Casa Sustenabila: Televizorul din living se aude în dormitor, conversațiile trec prin pereții despărțitori, iar zgomotele din camera copiilor ajung în toate colțurile casei. Nu sunt doar idei enervante, ci sunt situații frecvente în locuințele moderne. Lucrurile acestea apar mai ales acolo unde compartimentările interioare au fost realizate fără destulă atenție la izolarea fonică. Vestea bună de azi? Confortul a...]]></description>
+      <link>https://casa-sustenabila.ro/se-aude-totul-prin-peretii-dintre-camere-cum-poti-imbunatati-izolarea-fonica-inca-din-etapa-constructiei</link>
+      <description><![CDATA[From Casa Sustenabila: ]]></description>
       <pubDate>Thu, 12 Nov 2026 13:28:38 +0000</pubDate>
       <author>Casa Sustenabila (https://release-press-releases-romania.github.io/publisher/casa-sustenabila-ro/)</author>
       <dc:creator>Casa Sustenabila</dc:creator>
       <dc:date>2026-11-12T13:28:38+00:00</dc:date>
       <category domain="https://release-press-releases-romania.github.io/category/">Construction &amp; Home</category>
-      <guid isPermaLink="true">https://casa-sustenabila.ro/se-aude-totul-prin-peretii-dintre-camere-cum-poti-imbunatati-izolarea-fonica-inca-din-etapa-constructiei/</guid>
+      <guid isPermaLink="true">https://casa-sustenabila.ro/se-aude-totul-prin-peretii-dintre-camere-cum-poti-imbunatati-izolarea-fonica-inca-din-etapa-constructiei</guid>
       <source url="https://release-press-releases-romania.github.io/publisher/casa-sustenabila-ro/">Casa Sustenabila</source>
-      <content:encoded><![CDATA[From Casa Sustenabila: Televizorul din living se aude în dormitor, conversațiile trec prin pereții despărțitori, iar zgomotele din camera copiilor ajung în toate colțurile casei. Nu sunt doar idei enervante, ci sunt situații frecvente în locuințele moderne. Lucrurile acestea apar mai ales acolo unde compartimentările interioare au fost realizate fără destulă atenție la izolarea fonică. Vestea bună de azi? Confortul a...]]></content:encoded>
-      <comments>https://casa-sustenabila.ro/se-aude-totul-prin-peretii-dintre-camere-cum-poti-imbunatati-izolarea-fonica-inca-din-etapa-constructiei/#comments</comments>
+      <comments>https://casa-sustenabila.ro/se-aude-totul-prin-peretii-dintre-camere-cum-poti-imbunatati-izolarea-fonica-inca-din-etapa-constructiei#comments</comments>
     </item>
     <item>
       <title>CEC Bank susține extinderea unei rețele naționale de sprijin pentru copiii cu afecțiuni grave, dezvoltată de Asociația M.A.M.E.</title>
@@ -1147,17 +1183,16 @@
     </item>
     <item>
       <title>Cadouri de Crăciun la reducere de Black Friday: idei pentru toată familia de pe Infinity</title>
-      <link>https://case-verzi.ro/cadouri-craciun-black-friday-infinity/</link>
-      <description><![CDATA[From Case Verzi: Cadourile de Crăciun le poți cumpăra la reducere de Black Friday, iar la Infinity campania ține 18 zile, între 13 și 30 noiembrie 2026, cu reduceri de până la 70%, în funcție de produsele participante. Pe Infinity Marketplace, un marketplace 100% românesc, găsești peste 1 milion de produse în 13 departamente, deci poți rezolva lista pentru toată familia într-un singur loc. Noiembrie e luna potr...]]></description>
+      <link>https://case-verzi.ro/cadouri-craciun-black-friday-infinity</link>
+      <description><![CDATA[From Case Verzi: Alege cadouri de Craciun pentru toata familia la Black Friday pe Infinity. Reduceri de pana la 70% intre 13 si 30 noiembrie 2026.]]></description>
       <pubDate>Tue, 10 Nov 2026 10:57:57 +0000</pubDate>
       <author>Case Verzi (https://release-press-releases-romania.github.io/publisher/case-verzi-ro/)</author>
       <dc:creator>Case Verzi</dc:creator>
       <dc:date>2026-11-10T10:57:57+00:00</dc:date>
       <category domain="https://release-press-releases-romania.github.io/category/">Construction &amp; Home</category>
-      <guid isPermaLink="true">https://case-verzi.ro/cadouri-craciun-black-friday-infinity/</guid>
+      <guid isPermaLink="true">https://case-verzi.ro/cadouri-craciun-black-friday-infinity</guid>
       <source url="https://release-press-releases-romania.github.io/publisher/case-verzi-ro/">Case Verzi</source>
-      <content:encoded><![CDATA[From Case Verzi: Cadourile de Crăciun le poți cumpăra la reducere de Black Friday, iar la Infinity campania ține 18 zile, între 13 și 30 noiembrie 2026, cu reduceri de până la 70%, în funcție de produsele participante. Pe Infinity Marketplace, un marketplace 100% românesc, găsești peste 1 milion de produse în 13 departamente, deci poți rezolva lista pentru toată familia într-un singur loc. Noiembrie e luna potr...]]></content:encoded>
-      <comments>https://case-verzi.ro/cadouri-craciun-black-friday-infinity/#comments</comments>
+      <comments>https://case-verzi.ro/cadouri-craciun-black-friday-infinity#comments</comments>
     </item>
     <item>
       <title>Prețuri pentru publicarea comunicatelor de presă în 2026</title>
@@ -1175,31 +1210,29 @@
     </item>
     <item>
       <title>Ce înseamnă o baie premium și cum o amenajezi: exemple și soluții de la DoarBai.ro</title>
-      <link>https://case-verzi.ro/amenajare-baie-premium-pas-cu-pas/</link>
-      <description><![CDATA[From Case Verzi: Termenul „baie premium” este asociat adesea cu luxul ostentativ. În realitate, o baie premium se definește mai degrabă prin materiale durabile, execuție atentă și un design care nu trebuie refăcut peste câțiva ani. Iar o baie care nu se renovează des înseamnă mai puține deșeuri de construcție, mai puține resurse consumate și mai puțin stres pentru cei care locuiesc în casă. Pornind de la gama m...]]></description>
+      <link>https://case-verzi.ro/amenajare-baie-premium-pas-cu-pas</link>
+      <description><![CDATA[From Case Verzi: Afla cum se defineste o baie premium prin materiale durabile si design coerent. Descopera pasii de amenajare si exemple concrete de la DoarBai.ro.]]></description>
       <pubDate>Sun, 08 Nov 2026 18:38:50 +0000</pubDate>
       <author>Case Verzi (https://release-press-releases-romania.github.io/publisher/case-verzi-ro/)</author>
       <dc:creator>Case Verzi</dc:creator>
       <dc:date>2026-11-08T18:38:50+00:00</dc:date>
       <category domain="https://release-press-releases-romania.github.io/category/">Construction &amp; Home</category>
-      <guid isPermaLink="true">https://case-verzi.ro/amenajare-baie-premium-pas-cu-pas/</guid>
+      <guid isPermaLink="true">https://case-verzi.ro/amenajare-baie-premium-pas-cu-pas</guid>
       <source url="https://release-press-releases-romania.github.io/publisher/case-verzi-ro/">Case Verzi</source>
-      <content:encoded><![CDATA[From Case Verzi: Termenul „baie premium” este asociat adesea cu luxul ostentativ. În realitate, o baie premium se definește mai degrabă prin materiale durabile, execuție atentă și un design care nu trebuie refăcut peste câțiva ani. Iar o baie care nu se renovează des înseamnă mai puține deșeuri de construcție, mai puține resurse consumate și mai puțin stres pentru cei care locuiesc în casă. Pornind de la gama m...]]></content:encoded>
-      <comments>https://case-verzi.ro/amenajare-baie-premium-pas-cu-pas/#comments</comments>
+      <comments>https://case-verzi.ro/amenajare-baie-premium-pas-cu-pas#comments</comments>
     </item>
     <item>
       <title>Echipamente anti-spionaj pentru birou: 4 tipuri de detectoare Spy Shop și când ai nevoie de ele</title>
-      <link>https://pr360.ro/detectoare-anti-spionaj-spy-shop/</link>
-      <description><![CDATA[From Pr360: O sală de ședințe poate găzdui discuții despre contracte, bugete, proiecte tehnice sau date despre clienți. Dacă accesul în spațiu îl au parteneri, echipe de mentenanță ori angajați noi, o verificare discretă ajută compania să păstreze controlul asupra informațiilor sensibile. Descoperă patru categorii de echipamente și situațiile în care fiecare are utilitate practică. Detectoare RF, pentru di...]]></description>
+      <link>https://pr360.ro/detectoare-anti-spionaj-spy-shop</link>
+      <description><![CDATA[From Pr360: Afla cum functioneaza detectoarele RF, de lentile si de camp magnetic. Descopera cand ai nevoie de fiecare tip de echipament anti-spionaj de la spy shop.]]></description>
       <pubDate>Sun, 08 Nov 2026 18:36:54 +0000</pubDate>
       <author>Pr360 (https://release-press-releases-romania.github.io/publisher/pr360-ro/)</author>
       <dc:creator>Pr360</dc:creator>
       <dc:date>2026-11-08T18:36:54+00:00</dc:date>
       <category domain="https://release-press-releases-romania.github.io/category/">PR &amp; Marketing</category>
-      <guid isPermaLink="true">https://pr360.ro/detectoare-anti-spionaj-spy-shop/</guid>
+      <guid isPermaLink="true">https://pr360.ro/detectoare-anti-spionaj-spy-shop</guid>
       <source url="https://release-press-releases-romania.github.io/publisher/pr360-ro/">Pr360</source>
-      <content:encoded><![CDATA[From Pr360: O sală de ședințe poate găzdui discuții despre contracte, bugete, proiecte tehnice sau date despre clienți. Dacă accesul în spațiu îl au parteneri, echipe de mentenanță ori angajați noi, o verificare discretă ajută compania să păstreze controlul asupra informațiilor sensibile. Descoperă patru categorii de echipamente și situațiile în care fiecare are utilitate practică. Detectoare RF, pentru di...]]></content:encoded>
-      <comments>https://pr360.ro/detectoare-anti-spionaj-spy-shop/#comments</comments>
+      <comments>https://pr360.ro/detectoare-anti-spionaj-spy-shop#comments</comments>
     </item>
     <item>
       <title>Mixit anunță campania extinsă de Black Friday și aduce magia Crăciunului mai aproape cu patru calendare de Advent pline de surprize</title>
@@ -1271,20 +1304,6 @@
       <comments>https://pr.1az.ro/joaca-steaua-zici-ca-i/#comments</comments>
     </item>
     <item>
-      <title>ATIC lansează Academia CyberSecurity Essentials 2026</title>
-      <link>https://oltenia-news.ro/academia-cybersecurity-essentials-2026/</link>
-      <description><![CDATA[From Oltenia News: ATIC lansează Academia CyberSecurity Essentials 2026 – 26 de episoade dedicate securității cibernetice 26 de episoade, 6 direcții tematice, o misiune comună: o societate mai bine pregătită pentru riscurile digitale. Asociația pentru Tehnologia Informației și Comunicații din România (ATIC) anunță lansarea Academiei CyberSecurity Essentials 2026, un proiect educațional și de comunicare publică, r...]]></description>
-      <pubDate>Mon, 02 Nov 2026 10:09:29 +0000</pubDate>
-      <author>Oltenia News (https://release-press-releases-romania.github.io/publisher/oltenia-news-ro/)</author>
-      <dc:creator>Oltenia News</dc:creator>
-      <dc:date>2026-11-02T10:09:29+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">News &amp; Society</category>
-      <guid isPermaLink="true">https://oltenia-news.ro/academia-cybersecurity-essentials-2026/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/oltenia-news-ro/">Oltenia News</source>
-      <content:encoded><![CDATA[From Oltenia News: ATIC lansează Academia CyberSecurity Essentials 2026 – 26 de episoade dedicate securității cibernetice 26 de episoade, 6 direcții tematice, o misiune comună: o societate mai bine pregătită pentru riscurile digitale. Asociația pentru Tehnologia Informației și Comunicații din România (ATIC) anunță lansarea Academiei CyberSecurity Essentials 2026, un proiect educațional și de comunicare publică, r...]]></content:encoded>
-      <comments>https://oltenia-news.ro/academia-cybersecurity-essentials-2026/#comments</comments>
-    </item>
-    <item>
       <title>Protecția ecranului auto și a sistemului de navigație: Cum scapi de reflexiile soarelui și de amprentele de pe bord</title>
       <link>https://5th.ro/protectia-ecranului-auto-si-a-sistemului-de-navigatie-cum-scapi-de-reflexiile-soarelui-si-de-amprentele-de-pe-bord/</link>
       <description><![CDATA[From 5th: Dacă ai condus o mașină modernă, cu siguranță ai observat tendința industriei: butoanele fizice au dispărut aproape complet, fiind înlocuite de ecrane tactile imense pe consola centrală și de borduri digitale (instrument cluster). Aceste ecrane sunt spectaculoase când mașina este neatinsă, dar după doar câteva zile de utilizare se umplu de amprente grase, praf și urme inestetice. Mai grav este ...]]></description>
@@ -1300,17 +1319,16 @@
     </item>
     <item>
       <title>6 lucruri pe care să le pregătești din luna octombrie dacă vinzi produse handmade de Crăciun</title>
-      <link>https://case-verzi.ro/pregatire-handmade-de-craciun/</link>
-      <description><![CDATA[From Case Verzi: Pentru creatorii handmade, lunile octombrie, noiembrie și decembrie aduc mai multe comenzi, dar și mai multe detalii de gestionat. Dacă pregătești din timp produsele, materialele, ambalajele și comunicarea, lucrezi într-un ritm mai previzibil și le oferi clienților informații clare, indiferent dacă vinzi online, la târguri sau prin comenzi directe. 1. Alege o colecție de sezon ușor de produs Nu...]]></description>
+      <link>https://case-verzi.ro/pregatire-handmade-de-craciun</link>
+      <description><![CDATA[From Case Verzi: Afla cum sa pregatesti produsele handmade de craciun din octombrie: alege colectia, calculeaza materialele si organizeaza ambalajul pentru un sezon fluid.]]></description>
       <pubDate>Mon, 02 Nov 2026 09:02:23 +0000</pubDate>
       <author>Case Verzi (https://release-press-releases-romania.github.io/publisher/case-verzi-ro/)</author>
       <dc:creator>Case Verzi</dc:creator>
       <dc:date>2026-11-02T09:02:23+00:00</dc:date>
       <category domain="https://release-press-releases-romania.github.io/category/">Construction &amp; Home</category>
-      <guid isPermaLink="true">https://case-verzi.ro/pregatire-handmade-de-craciun/</guid>
+      <guid isPermaLink="true">https://case-verzi.ro/pregatire-handmade-de-craciun</guid>
       <source url="https://release-press-releases-romania.github.io/publisher/case-verzi-ro/">Case Verzi</source>
-      <content:encoded><![CDATA[From Case Verzi: Pentru creatorii handmade, lunile octombrie, noiembrie și decembrie aduc mai multe comenzi, dar și mai multe detalii de gestionat. Dacă pregătești din timp produsele, materialele, ambalajele și comunicarea, lucrezi într-un ritm mai previzibil și le oferi clienților informații clare, indiferent dacă vinzi online, la târguri sau prin comenzi directe. 1. Alege o colecție de sezon ușor de produs Nu...]]></content:encoded>
-      <comments>https://case-verzi.ro/pregatire-handmade-de-craciun/#comments</comments>
+      <comments>https://case-verzi.ro/pregatire-handmade-de-craciun#comments</comments>
     </item>
     <item>
       <title>Educatie care elibereaza: cum construim independenta pentru copiii cu CES</title>
@@ -1634,17 +1652,16 @@
     </item>
     <item>
       <title>Comunicatul de presă al unui ONG sau al unei instituții publice: ce îl face publicabil</title>
-      <link>https://pr360.ro/comunicat-de-presa-publicabil/</link>
-      <description><![CDATA[From Pr360: Material publicitar · Comunicate.eu Un comunicat de presă de interes public pornește dintr-un avantaj: are ceva de spus oamenilor. Fie că vine de la o asociație, de la o școală, de la un spital sau de la o primărie, îl citesc părinți, pacienți, vecini, voluntari. Ce îl face publicabil sunt câteva reguli simple, aceleași după care sunt citite comunicatele trimise prin programul gratuit Comunicat...]]></description>
+      <link>https://pr360.ro/comunicat-de-presa-publicabil</link>
+      <description><![CDATA[From Pr360: Afla cum sa scrii un comunicat de presa clar si verificabil. Descopera regulile de publicare gratuita pentru ONG-uri si institutii publice.]]></description>
       <pubDate>Tue, 06 Oct 2026 06:47:35 +0000</pubDate>
       <author>Pr360 (https://release-press-releases-romania.github.io/publisher/pr360-ro/)</author>
       <dc:creator>Pr360</dc:creator>
       <dc:date>2026-10-06T06:47:35+00:00</dc:date>
       <category domain="https://release-press-releases-romania.github.io/category/">PR &amp; Marketing</category>
-      <guid isPermaLink="true">https://pr360.ro/comunicat-de-presa-publicabil/</guid>
+      <guid isPermaLink="true">https://pr360.ro/comunicat-de-presa-publicabil</guid>
       <source url="https://release-press-releases-romania.github.io/publisher/pr360-ro/">Pr360</source>
-      <content:encoded><![CDATA[From Pr360: Material publicitar · Comunicate.eu Un comunicat de presă de interes public pornește dintr-un avantaj: are ceva de spus oamenilor. Fie că vine de la o asociație, de la o școală, de la un spital sau de la o primărie, îl citesc părinți, pacienți, vecini, voluntari. Ce îl face publicabil sunt câteva reguli simple, aceleași după care sunt citite comunicatele trimise prin programul gratuit Comunicat...]]></content:encoded>
-      <comments>https://pr360.ro/comunicat-de-presa-publicabil/#comments</comments>
+      <comments>https://pr360.ro/comunicat-de-presa-publicabil#comments</comments>
     </item>
     <item>
       <title>Cum pregătești un apartament pentru vânzare: ce observă cumpărătorii în primele zece minute</title>
@@ -1899,17 +1916,16 @@
     </item>
     <item>
       <title>Platforme de anunțuri: cum s-a schimbat rolul lor online</title>
-      <link>https://pr360.ro/platforme-anunturi-rol-online/</link>
-      <description><![CDATA[From Pr360: Cu câțiva ani în urmă, ideea de platformă de anunțuri era asociată aproape automat cu un obiect pe care cineva nu îl mai folosea: un telefon, o bicicletă, o piesă de mobilier sau o mașină. Astăzi, platformele de anunțuri au devenit mai largi. În același loc pot apărea produse, servicii, proprietăți, locuri de muncă, vehicule sau oferte pentru firme. Schimbarea nu ține doar de numărul de categor...]]></description>
+      <link>https://pr360.ro/platforme-anunturi-rol-online</link>
+      <description><![CDATA[From Pr360: Platforme de anunțuri: cum au evoluat de la vânzarea produselor la servicii, joburi, auto și imobiliare și ce rol are CSV.RO în acest ecosistem.]]></description>
       <pubDate>Mon, 14 Sep 2026 22:25:55 +0000</pubDate>
       <author>Pr360 (https://release-press-releases-romania.github.io/publisher/pr360-ro/)</author>
       <dc:creator>Pr360</dc:creator>
       <dc:date>2026-09-14T22:25:55+00:00</dc:date>
       <category domain="https://release-press-releases-romania.github.io/category/">PR &amp; Marketing</category>
-      <guid isPermaLink="true">https://pr360.ro/platforme-anunturi-rol-online/</guid>
+      <guid isPermaLink="true">https://pr360.ro/platforme-anunturi-rol-online</guid>
       <source url="https://release-press-releases-romania.github.io/publisher/pr360-ro/">Pr360</source>
-      <content:encoded><![CDATA[From Pr360: Cu câțiva ani în urmă, ideea de platformă de anunțuri era asociată aproape automat cu un obiect pe care cineva nu îl mai folosea: un telefon, o bicicletă, o piesă de mobilier sau o mașină. Astăzi, platformele de anunțuri au devenit mai largi. În același loc pot apărea produse, servicii, proprietăți, locuri de muncă, vehicule sau oferte pentru firme. Schimbarea nu ține doar de numărul de categor...]]></content:encoded>
-      <comments>https://pr360.ro/platforme-anunturi-rol-online/#comments</comments>
+      <comments>https://pr360.ro/platforme-anunturi-rol-online#comments</comments>
     </item>
     <item>
       <title>Cazare din anunțuri online: ce verifici înainte să plătești avansul pentru vacanță</title>
@@ -2052,20 +2068,6 @@
       <comments>https://5th.ro/6-accesorii-magnetice-esentiale-pentru-un-birou-perfect-organizat/#comments</comments>
     </item>
     <item>
-      <title>De la certificat la propria afacere: cum poți deveni propriul tău angajator în mediul rural</title>
-      <link>https://oltenia-news.ro/de-la-certificat-la-propria-afacere-cum-poti-deveni-propriul-tau-angajator-in-mediul-rural/</link>
-      <description><![CDATA[From Oltenia News: Pentru mulți locuitori din mediul rural, ideea de a avea o afacere proprie pare un vis rezervat altora — celor cu bani, cu studii sau cu relații. În realitate, drumul către o activitate independentă începe de cele mai multe ori cu un lucru accesibil tuturor: o calificare recunoscută într-un domeniu pe care îl stăpânești. De aici, pasul către a deveni propriul tău angajator devine mult mai concr...]]></description>
-      <pubDate>Tue, 14 Jul 2026 11:59:33 +0000</pubDate>
-      <author>Oltenia News (https://release-press-releases-romania.github.io/publisher/oltenia-news-ro/)</author>
-      <dc:creator>Oltenia News</dc:creator>
-      <dc:date>2026-07-14T11:59:33+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">News &amp; Society</category>
-      <guid isPermaLink="true">https://oltenia-news.ro/de-la-certificat-la-propria-afacere-cum-poti-deveni-propriul-tau-angajator-in-mediul-rural/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/oltenia-news-ro/">Oltenia News</source>
-      <content:encoded><![CDATA[From Oltenia News: Pentru mulți locuitori din mediul rural, ideea de a avea o afacere proprie pare un vis rezervat altora — celor cu bani, cu studii sau cu relații. În realitate, drumul către o activitate independentă începe de cele mai multe ori cu un lucru accesibil tuturor: o calificare recunoscută într-un domeniu pe care îl stăpânești. De aici, pasul către a deveni propriul tău angajator devine mult mai concr...]]></content:encoded>
-      <comments>https://oltenia-news.ro/de-la-certificat-la-propria-afacere-cum-poti-deveni-propriul-tau-angajator-in-mediul-rural/#comments</comments>
-    </item>
-    <item>
       <title>Chirurgia de urgență în București: afecțiuni care nu suportă amânare</title>
       <link>https://pensiuni-delta.ro/chirurgia-de-urgenta-in-bucuresti-afectiuni-care-nu-suporta-amanare/</link>
       <description><![CDATA[From Pensiuni Delta: Chirurgia de urgență în București: afecțiuni care nu suportă amânare La Spitalul Medicover Pipera (București, sector 2), medicul chirurg evaluează și tratează chirurgical afecțiuni frecvente precum herniile, apendicita, colecistita, patologiile tiroidiene și tumori digestive, de la consult și investigații până la intervenție și recuperare. Mai jos găsiți pe scurt ce tipuri de probleme pot fi ab...]]></description>
@@ -2078,20 +2080,6 @@
       <source url="https://release-press-releases-romania.github.io/publisher/pensiuni-delta-ro/">Pensiuni Delta</source>
       <content:encoded><![CDATA[From Pensiuni Delta: Chirurgia de urgență în București: afecțiuni care nu suportă amânare La Spitalul Medicover Pipera (București, sector 2), medicul chirurg evaluează și tratează chirurgical afecțiuni frecvente precum herniile, apendicita, colecistita, patologiile tiroidiene și tumori digestive, de la consult și investigații până la intervenție și recuperare. Mai jos găsiți pe scurt ce tipuri de probleme pot fi ab...]]></content:encoded>
       <comments>https://pensiuni-delta.ro/chirurgia-de-urgenta-in-bucuresti-afectiuni-care-nu-suporta-amanare/#comments</comments>
-    </item>
-    <item>
-      <title>Operație cancer colon București: pașii de la diagnostic la intervenție</title>
-      <link>https://oltenia-news.ro/operatie-cancer-colon-bucuresti-pasii-de-la-diagnostic-la-interventie/</link>
-      <description><![CDATA[From Oltenia News: Te-ai întrebat vreodată care sunt pașii exacți atunci când te confrunți cu o problemă gravă de sănătate? Un diagnostic oncologic aduce multă teamă, dar informația corectă este primul pas spre vindecare. În prezent, medicina a avansat enorm, oferind soluții personalizate și sigure pentru fiecare pacient în parte. Bucureștiul a devenit un centru de excelență în chirurgia oncologică, unde tehnolog...]]></description>
-      <pubDate>Sun, 10 May 2026 06:30:00 +0000</pubDate>
-      <author>Oltenia News (https://release-press-releases-romania.github.io/publisher/oltenia-news-ro/)</author>
-      <dc:creator>Oltenia News</dc:creator>
-      <dc:date>2026-05-10T06:30:00+00:00</dc:date>
-      <category domain="https://release-press-releases-romania.github.io/category/">News &amp; Society</category>
-      <guid isPermaLink="true">https://oltenia-news.ro/operatie-cancer-colon-bucuresti-pasii-de-la-diagnostic-la-interventie/</guid>
-      <source url="https://release-press-releases-romania.github.io/publisher/oltenia-news-ro/">Oltenia News</source>
-      <content:encoded><![CDATA[From Oltenia News: Te-ai întrebat vreodată care sunt pașii exacți atunci când te confrunți cu o problemă gravă de sănătate? Un diagnostic oncologic aduce multă teamă, dar informația corectă este primul pas spre vindecare. În prezent, medicina a avansat enorm, oferind soluții personalizate și sigure pentru fiecare pacient în parte. Bucureștiul a devenit un centru de excelență în chirurgia oncologică, unde tehnolog...]]></content:encoded>
-      <comments>https://oltenia-news.ro/operatie-cancer-colon-bucuresti-pasii-de-la-diagnostic-la-interventie/#comments</comments>
     </item>
     <item>
       <title>2025: greșeli de evitat în comunicatele de presă online</title>
