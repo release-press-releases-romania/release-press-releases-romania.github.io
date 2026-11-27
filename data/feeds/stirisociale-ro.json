@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@stiri_sociale",
     "rss": "https://social.5th.ro/@stiri_sociale.rss"
   },
-  "updated_at": "2026-11-27T05:10:22.907518+00:00",
+  "updated_at": "2026-11-27T15:20:26.399422+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "„Pecetea celor Fara de Frica”",
+      "link": "https://stirisociale.ro/lansarea-pecetea-celor/",
+      "summary": "Lansarea cartii „Pecetea celor Fara de Frica” are loc pe 5 decembrie la Gaudeamus. Autoarea Arina Avram dezvaluie povesti secrete ale marilor eroi romani. Articolul „Pecetea celor Fara de Frica” apare prima dată în Stiri sociale .",
+      "published": "2026-11-24T08:35:00+00:00",
+      "published_human": "2026-11-24T08:35",
+      "source": "https://stirisociale.ro/"
+    },
     {
       "title": "ROMÂNIA, PRIN ASOCIAȚIA FLOAREA VIEȚII D&L, LA MASA DIALOGULUI INTERNAȚIONAL DESPRE FAMILIILE MONOPARENTALE",
       "link": "https://stirisociale.ro/romania-prin-asociatia-floarea-vietii-d-amp-l-la-masa-dialogului/",
@@ -84,17 +92,17 @@
       "published": "2026-04-07T08:08:48+00:00",
       "published_human": "2026-04-07T08:08",
       "source": "https://stirisociale.ro/"
-    },
-    {
-      "title": "Pantaloni moto pentru femei: protecție și feminitate",
-      "link": "https://stirisociale.ro/pantaloni-moto-pentru-femei-protectie-si-feminitate/",
-      "summary": "Echipamentul moto pentru femei a evoluat semnificativ în ultimii ani. Nu mai este vorba doar despre o necesitate de siguranță, ci despre o parte firească a stilului și a încrederii&#8230; Articolul Pantaloni moto pentru femei: protecție și feminitate apare prima dată în Stiri sociale .",
-      "published": "2026-03-02T15:09:37+00:00",
-      "published_human": "2026-03-02T15:09",
-      "source": "https://stirisociale.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@stiri_sociale/117687492562655347",
+      "summary": "Lansarea cartii „Pecetea celor Fara de Frica” are loc pe 5 decembrie la Gaudeamus. Autoarea Arina Avram dezvaluie povesti secrete ale marilor eroi romani. https:// stirisociale.ro/lansarea-pecet ea-celor/",
+      "published": "2026-11-27T08:37:04+00:00",
+      "published_human": "2026-11-27T08:37",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@stiri_sociale/117543385094826898",
@@ -181,14 +189,6 @@
       "summary": "Clujul este punctul de plecare, nu destinația finalăPentru mulți vizitatori, Cluj-Napoca nu este doar un oraș de explorat, ci baza din care pornesc spre alte destinații. Cheile Turzii, Salina Turda, zona Mărișel, Lacul Tarnița, Apuseni sau chiar orașe precum Oradea și Alba Iulia sunt la distanțe accesibile.Problema apare când planul inițial, gândit pentru deplasări https:// stirisociale.ro/inchiriere-aut o-pentru-vacanta-in-cluj-napoca-cum-alegi-corect-cand-planul-include-mai-mult-decat-orasul/",
       "published": "2026-02-25T07:32:07+00:00",
       "published_human": "2026-02-25T07:32",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@stiri_sociale/116130005026573254",
-      "summary": "Formularul clasic de contact a fost, ani la rând, piesa centrală a conversiilor online. „Nume, email, telefon, mesaj” – o structură aproape neschimbată de un deceniu. Problema este că între timp comportamentul utilizatorilor s-a schimbat radical, iar formularul a rămas în urmă.În 2026, formularul clasic nu mai este doar ineficient. În multe cazuri, este un… https:// stirisociale.ro/de-ce-formular ele-clasice-de-contact-mor-in-2026-si-ce-le-ia-locul/",
-      "published": "2026-02-25T07:07:30+00:00",
-      "published_human": "2026-02-25T07:07",
       "source": "Mastodon"
     }
   ]

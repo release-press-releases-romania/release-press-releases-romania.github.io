@@ -7,9 +7,17 @@
     "rss": "https://drepturisociale.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-11-27T05:10:22.907518+00:00",
+  "updated_at": "2026-11-27T15:20:26.399422+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "„Pecetea celor Fara de Frica”",
+      "link": "https://drepturisociale.ro/lansarea-pecetea-celor/",
+      "summary": "Lansarea cartii „Pecetea celor Fara de Frica” are loc pe 5 decembrie la Gaudeamus. Autoarea Arina Avram dezvaluie povesti secrete ale marilor eroi romani. Articolul „Pecetea celor Fara de Frica” apare prima dată în Drepturi Sociale .",
+      "published": "2026-11-24T08:35:00+00:00",
+      "published_human": "2026-11-24T08:35",
+      "source": "https://drepturisociale.ro/"
+    },
     {
       "title": "870 de stejari plantați în Pădurea Balta Neagră, Snagov",
       "link": "https://drepturisociale.ro/870-de-stejari-plantati-in-padurea-balta-neagra-snagov-in-cadrul-unei/",
@@ -80,14 +88,6 @@
       "summary": "Disconfortul abdominal persistent este o problemă pe care mulți oameni o ignoră. Deși cele mai&#8230; Articolul Cancerul de intestin subțire: diagnostic și tratament chirurgical apare prima dată în Drepturi Sociale .",
       "published": "2026-07-31T08:32:01+00:00",
       "published_human": "2026-07-31T08:32",
-      "source": "https://drepturisociale.ro/"
-    },
-    {
-      "title": "CONIL FEST 2026: acolo unde diferenta devine forta",
-      "link": "https://drepturisociale.ro/conil-fest-2026-acolo-unde-diferenta-devine-forta/",
-      "summary": "&#8222;Peste 20.000 de vizitatori au celebrat dreptul fiecarui copil de a conta In zilele de&#8230; Articolul CONIL FEST 2026: acolo unde diferenta devine forta apare prima dată în Drepturi Sociale .",
-      "published": "2026-05-29T10:45:36+00:00",
-      "published_human": "2026-05-29T10:45",
       "source": "https://drepturisociale.ro/"
     }
   ],

@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@cetatean_model",
     "rss": "https://social.5th.ro/@cetatean_model.rss"
   },
-  "updated_at": "2026-11-27T05:10:22.907518+00:00",
+  "updated_at": "2026-11-27T15:20:26.399422+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "„Pecetea celor Fara de Frica”",
+      "link": "https://cetateanmodel.ro/lansarea-pecetea-celor/",
+      "summary": "Lansarea cartii „Pecetea celor Fara de Frica” are loc pe 5 decembrie la Gaudeamus. Autoarea Arina Avram dezvaluie povesti secrete ale marilor eroi romani. Articolul „Pecetea celor Fara de Frica” apare prima dată în Cetatean model .",
+      "published": "2026-11-24T08:35:00+00:00",
+      "published_human": "2026-11-24T08:35",
+      "source": "https://cetateanmodel.ro/"
+    },
     {
       "title": "Asociația M.A.M.E. dezvoltă o rețea națională de sprijin pentru copiii cu boli grave și familiile acestora",
       "link": "https://cetateanmodel.ro/asociatia-mame-retea-sustinere-copii/",
@@ -100,17 +108,17 @@
       "published": "2026-05-10T06:30:00+00:00",
       "published_human": "2026-05-10T06:30",
       "source": "https://cetateanmodel.ro/"
-    },
-    {
-      "title": "Monitorizare GPS auto: Ce verifici înainte să alegi un furnizor",
-      "link": "https://cetateanmodel.ro/monitorizare-gps-auto-ce-verifici-inainte-sa-alegi-un-furnizor/",
-      "summary": "Când cauți monitorizare GPS auto, cea mai mare greșeală este să compari doar prețul și să presupui că „toate fac același lucru”. Un sistem eficient de monitorizare GPS auto îți oferă rapoarte pe care le folosești cu adevărat, alerte fără exces și suport real, care intervine concret când ai nevoie. Monitorizare GPS auto: checklist înainte [&#8230;] Articolul Monitorizare GPS auto: Ce verifici înainte să alegi un furnizor apare prima dată în Cetatean model .",
-      "published": "2026-03-02T15:09:05+00:00",
-      "published_human": "2026-03-02T15:09",
-      "source": "https://cetateanmodel.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@cetatean_model/117687490498728842",
+      "summary": "Lansarea cartii „Pecetea celor Fara de Frica” are loc pe 5 decembrie la Gaudeamus. Autoarea Arina Avram dezvaluie povesti secrete ale marilor eroi romani. https:// cetateanmodel.ro/lansarea-pece tea-celor/",
+      "published": "2026-11-27T08:36:32+00:00",
+      "published_human": "2026-11-27T08:36",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@cetatean_model/117598779929884159",
@@ -197,14 +205,6 @@
       "summary": "Te-ai simțit vreodată copleșit de un diagnostic medical neașteptat? Diagnosticul de cancer colorectal poate părea un obstacol insurmontabil la prima vedere, însă medicina actuală a evoluat enorm. Mulți pacienți se întreabă care sunt pașii următori și cum pot recâștiga controlul asupra sănătății lor. O soluție eficientă și adesea salvatoare este intervenția chirurgicală realizată la timp… https:// cetateanmodel.ro/cand-este-ind icata-operatia-in-cancerul-de-colon/",
       "published": "2026-05-10T09:56:15+00:00",
       "published_human": "2026-05-10T09:56",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@cetatean_model/116160210486033921",
-      "summary": "Când cauți monitorizare GPS auto, cea mai mare greșeală este să compari doar prețul și să presupui că „toate fac același lucru”. Un sistem eficient de monitorizare GPS auto îți oferă rapoarte pe care le folosești cu adevărat, alerte fără exces și suport real, care intervine concret când ai nevoie. Monitorizare GPS auto: checklist înainte… https:// cetateanmodel.ro/monitorizare- gps-auto-ce-verifici-inainte-sa-alegi-un-furnizor/",
-      "published": "2026-03-02T15:09:09+00:00",
-      "published_human": "2026-03-02T15:09",
       "source": "Mastodon"
     }
   ]

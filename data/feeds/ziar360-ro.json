@@ -10,9 +10,25 @@
     "url": "https://social.5th.ro/@ziar360",
     "rss": "https://social.5th.ro/@ziar360.rss"
   },
-  "updated_at": "2026-11-27T05:10:22.907518+00:00",
+  "updated_at": "2026-11-27T15:20:26.399422+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Ce se întâmplă în spatele unei livrări în 24 de ore și cum își pot organiza firmele comenzile",
+      "link": "https://ziar360.ro/ce-se-intampla-in-spatele-unei-livrari-in-24-de-ore-si-cum-isi-pot-organiza-firmele-comenzile",
+      "summary": "",
+      "published": "2026-11-27T13:53:50+00:00",
+      "published_human": "2026-11-27T13:53",
+      "source": "https://ziar360.ro/"
+    },
+    {
+      "title": "„Pecetea celor Fara de Frica”",
+      "link": "https://ziar360.ro/lansarea-pecetea-celor",
+      "summary": "Afla cum Arina Avram reinterpreteaza istoria lui Mihai Viteazul in noul volum, o carte care aduce eroii aproape de cititor prin povesti secrete.",
+      "published": "2026-11-24T08:35:00+00:00",
+      "published_human": "2026-11-24T08:35",
+      "source": "https://ziar360.ro/"
+    },
     {
       "title": "Ce documente emite corect un PFA cu venituri din mai multe surse",
       "link": "https://ziar360.ro/ce-documente-emite-corect-un-pfa-cu-venituri-din-mai-multe-surse",
@@ -35,6 +51,14 @@
       "summary": "",
       "published": "2026-11-12T08:50:26+00:00",
       "published_human": "2026-11-12T08:50",
+      "source": "https://ziar360.ro/"
+    },
+    {
+      "title": "De ce chiriașii tineri preferă studiourile cu zonă de dormit separată în locul garsonierelor clasice?",
+      "link": "https://ziar360.ro/de-ce-chiriasii-tineri-prefera-studiourile-cu-zona-de-dormit-separata-in-locul-garsonierelor-clasice",
+      "summary": "",
+      "published": "2026-11-11T11:22:00+00:00",
+      "published_human": "2026-11-11T11:22",
       "source": "https://ziar360.ro/"
     },
     {
@@ -83,30 +107,6 @@
       "summary": "",
       "published": "2026-10-19T10:41:09+00:00",
       "published_human": "2026-10-19T10:41",
-      "source": "https://ziar360.ro/"
-    },
-    {
-      "title": "Drumul contează, nu doar rezultatul: cum a devenit divertismentul mai interactiv",
-      "link": "https://ziar360.ro/divertisment-interactiv-rezultat",
-      "summary": "Tehnologia a adaugat statistici live si optiuni de participare. Afla cum interactiunea modifica perceptia asupra rezultatului in divertisment.",
-      "published": "2026-10-16T11:13:04+00:00",
-      "published_human": "2026-10-16T11:13",
-      "source": "https://ziar360.ro/"
-    },
-    {
-      "title": "Explorat, platforma fondată în Suceava care oferă peste 400.000 de experiențe turistice",
-      "link": "https://ziar360.ro/explorat-platforma-fondata-in-suceava-care-ofera-peste-400000-de-experiente-turistice",
-      "summary": "Explorat - O platformă de rezervări fondată în Suceava de antreprenori români aduce la un loc experiențe turistice din întreaga lume.",
-      "published": "2026-10-16T11:11:52+00:00",
-      "published_human": "2026-10-16T11:11",
-      "source": "https://ziar360.ro/"
-    },
-    {
-      "title": "Canal endodontic greu de localizat - ce poate clarifica microscopul",
-      "link": "https://ziar360.ro/canal-endodontic-greu-de-localizat-ce-poate-clarifica-microscopul",
-      "summary": "",
-      "published": "2026-10-16T07:38:53+00:00",
-      "published_human": "2026-10-16T07:38",
       "source": "https://ziar360.ro/"
     }
   ],

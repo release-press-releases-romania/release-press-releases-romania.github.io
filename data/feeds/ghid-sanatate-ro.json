@@ -7,9 +7,17 @@
     "rss": "https://ghid-sanatate.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-11-27T05:10:22.907518+00:00",
+  "updated_at": "2026-11-27T15:20:26.399422+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "Echilibrul dintre confortul casei, îngrijirea personală și sănătatea emoțională",
+      "link": "https://ghid-sanatate.ro/echilibru-confort-ingrijire-sanatatea-emotionala/",
+      "summary": "Descopera cum decorul casei, obiceiurile de ingrijire personala si sprijinul psihologic contribuie la un stil de viata echilibrat si la o stare de bine mai buna. Articolul Echilibrul dintre confortul casei, îngrijirea personală și sănătatea emoțională apare prima dată în Ghid Sanatate .",
+      "published": "2026-11-27T12:29:49+00:00",
+      "published_human": "2026-11-27T12:29",
+      "source": "https://ghid-sanatate.ro/"
+    },
     {
       "title": "Cât rezistă o coroană dentară și când trebuie înlocuită?",
       "link": "https://ghid-sanatate.ro/durata-de-viata-coroana-dentara/",
@@ -96,14 +104,6 @@
       "summary": "Descopera cinci intrebari practice care te ajuta sa alegi un specialist in gastroenterologie si sa intelegi traseul medical. Articolul Cum alegi un medic gastroenterolog în Bacău: 5 întrebări de pus înainte de programare apare prima dată în Ghid Sanatate .",
       "published": "2026-10-07T12:19:34+00:00",
       "published_human": "2026-10-07T12:19",
-      "source": "https://ghid-sanatate.ro/"
-    },
-    {
-      "title": "Cupa nu este doza: ce citești pe eticheta creatinei monohidrate înainte de prima porție",
-      "link": "https://ghid-sanatate.ro/cupa-nu-este-doza-ce-citesti-pe-eticheta-creatinei-monohidrate-inainte-de-prima-portie/",
-      "summary": "O etichetă bună îți spune mai mult decât numele suplimentului. Îți arată ce iei, cât... Articolul Cupa nu este doza: ce citești pe eticheta creatinei monohidrate înainte de prima porție apare prima dată în Ghid Sanatate .",
-      "published": "2026-09-28T06:43:41+00:00",
-      "published_human": "2026-09-28T06:43",
       "source": "https://ghid-sanatate.ro/"
     }
   ],

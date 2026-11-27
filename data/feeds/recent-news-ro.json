@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@recent_news",
     "rss": "https://social.5th.ro/@recent_news.rss"
   },
-  "updated_at": "2026-11-27T05:10:22.907518+00:00",
+  "updated_at": "2026-11-27T15:20:26.399422+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "„Pecetea celor Fara de Frica”",
+      "link": "https://recent-news.ro/lansarea-pecetea-celor/",
+      "summary": "Lansarea cartii „Pecetea celor Fara de Frica” are loc pe 5 decembrie la Gaudeamus. Autoarea Arina Avram dezvaluie povesti secrete ale marilor eroi romani. Articolul „Pecetea celor Fara de Frica” apare prima dată în Recent News .",
+      "published": "2026-11-24T08:35:00+00:00",
+      "published_human": "2026-11-24T08:35",
+      "source": "https://recent-news.ro/"
+    },
     {
       "title": "Plata în rate la încălțăminte: când are sens și ce verifici înainte să alegi opțiunea",
       "link": "https://recent-news.ro/plata-in-rate-la-incaltaminte/",
@@ -84,17 +92,17 @@
       "published": "2026-06-24T08:49:35+00:00",
       "published_human": "2026-06-24T08:49",
       "source": "https://recent-news.ro/"
-    },
-    {
-      "title": "Diverticulita complicată: când poate fi nevoie de tratament chirurgical",
-      "link": "https://recent-news.ro/diverticulita-complicata-cand-poate-fi-nevoie-de-tratament-chirurgical/",
-      "summary": "Articol informativ pentru pacienți din București despre diverticulita complicată și momentele în care este necesară consultarea unui specialist. Articolul Diverticulita complicată: când poate fi nevoie de tratament chirurgical apare prima dată în Recent News .",
-      "published": "2026-06-23T08:05:55+00:00",
-      "published_human": "2026-06-23T08:05",
-      "source": "https://recent-news.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@recent_news/117687491307041673",
+      "summary": "Lansarea cartii „Pecetea celor Fara de Frica” are loc pe 5 decembrie la Gaudeamus. Autoarea Arina Avram dezvaluie povesti secrete ale marilor eroi romani. https:// recent-news.ro/lansarea-pecete a-celor/",
+      "published": "2026-11-27T08:36:45+00:00",
+      "published_human": "2026-11-27T08:36",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@recent_news/117360609830913261",
@@ -181,14 +189,6 @@
       "summary": "Livingul reprezintă inima oricărei locuințe moderne. Aici îți petreci cel mai mult timp liber, te relaxezi alături de familie și primești musafiri. Odată cu evoluția standardelor de construcție, conceptul de spațiu închis s-a modificat radical. Astăzi, tendința clară merge spre deschiderea completă a casei către grădină sau terasă. Pereții tradiționali sunt înlocuiți cu suprafețe vitrate… https:// recent-news.ro/de-ce-sunt-usil e-culisante-din-aluminiu-o-optiune-excelenta-pentru-living/",
       "published": "2026-06-22T15:43:42+00:00",
       "published_human": "2026-06-22T15:43",
-      "source": "Mastodon"
-    },
-    {
-      "title": "Update",
-      "link": "https://social.5th.ro/@recent_news/116793517476299598",
-      "summary": "Planurile pentru concediu încep adesea cu o listă lungă de dorințe. Vrei o plajă curată, cazare confortabilă, mâncare bună și un drum care să nu te lase fără energie înainte de a ajunge la destinație. Bulgaria bifează toate aceste cerințe de ani de zile. Turiștii români revin aici în fiecare sezon estival, dar și în… https:// recent-news.ro/de-ce-bulgaria- ramane-una-dintre-cele-mai-populare-destinatii-pentru-romani/",
-      "published": "2026-06-22T11:27:27+00:00",
-      "published_human": "2026-06-22T11:27",
       "source": "Mastodon"
     }
   ]

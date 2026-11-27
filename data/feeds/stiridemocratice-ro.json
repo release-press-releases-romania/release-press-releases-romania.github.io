@@ -10,9 +10,17 @@
     "url": "https://social.5th.ro/@stiri_democratice",
     "rss": "https://social.5th.ro/@stiri_democratice.rss"
   },
-  "updated_at": "2026-11-27T05:10:22.907518+00:00",
+  "updated_at": "2026-11-27T15:20:26.399422+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "„Pecetea celor Fara de Frica”",
+      "link": "https://stiridemocratice.ro/lansarea-pecetea-celor/",
+      "summary": "Lansarea cartii „Pecetea celor Fara de Frica” are loc pe 5 decembrie la Gaudeamus. Autoarea Arina Avram dezvaluie povesti secrete ale marilor eroi romani. Articolul „Pecetea celor Fara de Frica” apare prima dată în Stiri democratice .",
+      "published": "2026-11-24T08:35:00+00:00",
+      "published_human": "2026-11-24T08:35",
+      "source": "https://stiridemocratice.ro/"
+    },
     {
       "title": "Dincolo de limite: drumul spre autonomie al copiilor cu cerinte educationale speciale",
       "link": "https://stiridemocratice.ro/dincolo-de-limite-drumul-spre-autonomie-al-copiilor-cu-cerinte-educationale-speciale/",
@@ -92,17 +100,17 @@
       "published": "2025-11-15T10:03:28+00:00",
       "published_human": "2025-11-15T10:03",
       "source": "https://stiridemocratice.ro/"
-    },
-    {
-      "title": "Jurnalul pariorului: cum îți notezi și analizezi biletele jucate",
-      "link": "https://stiridemocratice.ro/jurnalul-pariorului-cum-iti-notezi-si-analizezi-biletele-jucate/",
-      "summary": "A (Atenție): Ești sătul să depui constant bani la casele de pariuri, fără să înțelegi exact unde greșești? Majoritatea pariorilor se bazează pe memorie sau pe emoție. Ei se concentrează doar pe rezultatul imediat, ratând imaginea de ansamblu esențială pentru succes. I (Interes): Vrei să transformi pariurile dintr-un hobby costisitor într-o activitate strategică, bazată pe [&#8230;] Articolul Jurnalul pariorului: cum îți notezi și analizezi biletele jucate apare prima dată în Stiri democratice .",
-      "published": "2025-11-14T09:07:58+00:00",
-      "published_human": "2025-11-14T09:07",
-      "source": "https://stiridemocratice.ro/"
     }
   ],
   "social": [
+    {
+      "title": "Update",
+      "link": "https://social.5th.ro/@stiri_democratice/117687489951131065",
+      "summary": "Lansarea cartii „Pecetea celor Fara de Frica” are loc pe 5 decembrie la Gaudeamus. Autoarea Arina Avram dezvaluie povesti secrete ale marilor eroi romani. https:// stiridemocratice.ro/lansarea-p ecetea-celor/",
+      "published": "2026-11-27T08:36:24+00:00",
+      "published_human": "2026-11-27T08:36",
+      "source": "Mastodon"
+    },
     {
       "title": "Update",
       "link": "https://social.5th.ro/@stiri_democratice/117523717768666442",

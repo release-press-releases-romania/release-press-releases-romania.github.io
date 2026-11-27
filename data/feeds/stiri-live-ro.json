@@ -7,9 +7,17 @@
     "rss": "https://stiri-live.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-11-27T05:10:22.907518+00:00",
+  "updated_at": "2026-11-27T15:20:26.399422+00:00",
   "status": "ok",
   "items": [
+    {
+      "title": "„Pecetea celor Fara de Frica”",
+      "link": "https://stiri-live.ro/lansarea-pecetea-celor/",
+      "summary": "Lansarea cartii „Pecetea celor Fara de Frica” are loc pe 5 decembrie la Gaudeamus. Autoarea Arina Avram dezvaluie povesti secrete ale marilor eroi romani. Articolul „Pecetea celor Fara de Frica” apare prima dată în Stiri Live .",
+      "published": "2026-11-24T08:35:00+00:00",
+      "published_human": "2026-11-24T08:35",
+      "source": "https://stiri-live.ro/"
+    },
     {
       "title": "Link de plată suspect: cum îl recunoști",
       "link": "https://stiri-live.ro/link-de-plata-suspect-cum-il/",
@@ -96,14 +104,6 @@
       "summary": "Cum folosești AI pentru conținut social media? Folosești AI pentru conținut social media atunci când vrei să creezi, editezi,. Articolul Cum folosești AI pentru conținut social media? apare prima dată în Stiri Live .",
       "published": "2026-05-29T04:21:01+00:00",
       "published_human": "2026-05-29T04:21",
-      "source": "https://stiri-live.ro/"
-    },
-    {
-      "title": "Experiențe la Viva Diva studio – Am creat Forumvideochat.com ca să vezi realitatea din spatele reclamelor",
-      "link": "https://stiri-live.ro/experiente-la-viva-diva-studio-am-creat-forumvideochat-com-ca-sa-vezi-realitatea-din-spatele-reclamelor/",
-      "summary": "Mă numesc Diana și sunt fost model de videochat în Iași. Am trecut prin mai multe studiouri, am văzut. Articolul Experiențe la Viva Diva studio – Am creat Forumvideochat.com ca să vezi realitatea din spatele reclamelor apare prima dată în Stiri Live .",
-      "published": "2026-05-05T06:48:05+00:00",
-      "published_human": "2026-05-05T06:48",
       "source": "https://stiri-live.ro/"
     }
   ],

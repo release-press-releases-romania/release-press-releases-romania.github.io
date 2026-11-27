@@ -7,7 +7,7 @@
     "rss": "https://casa-sustenabila.ro/feed/"
   },
   "mastodon": null,
-  "updated_at": "2026-11-27T05:10:22.907518+00:00",
+  "updated_at": "2026-11-27T15:20:26.399422+00:00",
   "status": "ok",
   "items": [
     {
@@ -24,6 +24,14 @@
       "summary": "Afla cum alegi sanii pentru copii in functie de varsta si material. Ghid practic cu sfaturi de siguranta si depozitare pentru sezonul de iarna.",
       "published": "2026-11-19T14:30:18+00:00",
       "published_human": "2026-11-19T14:30",
+      "source": "https://casa-sustenabila.ro/"
+    },
+    {
+      "title": "Cum treci de la o locuință mică la una mai spațioasă fără să plătești două rate în același timp?",
+      "link": "https://casa-sustenabila.ro/cum-treci-de-la-o-locuinta-mica-la-una-mai-spatioasa-fara-sa-platesti-doua-rate-in-acelasi-timp",
+      "summary": "",
+      "published": "2026-11-15T15:22:00+00:00",
+      "published_human": "2026-11-15T15:22",
       "source": "https://casa-sustenabila.ro/"
     },
     {
@@ -96,14 +104,6 @@
       "summary": "Prețul de cumpărare nu spune cât va costa locuința după mutare. Verifică izolația, acoperișul, instalațiile, încălzirea și lucrările necesare.",
       "published": "2026-08-25T09:51:13+00:00",
       "published_human": "2026-08-25T09:51",
-      "source": "https://casa-sustenabila.ro/"
-    },
-    {
-      "title": "Curățare saltea Oradea: întreținere înainte de înlocuire",
-      "link": "https://casa-sustenabila.ro/curatare-saltea-oradea-intretinere-inainte-de-inlocuire",
-      "summary": "",
-      "published": "2026-08-17T04:06:56+00:00",
-      "published_human": "2026-08-17T04:06",
       "source": "https://casa-sustenabila.ro/"
     }
   ],
